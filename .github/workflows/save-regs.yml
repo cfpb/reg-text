@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  PARTS: "1002,1003"
+  PARTS: "1002,1003,1004,1005,1006,1007,1008,1010,1011,1012,1013,1016,1022,1024,1026,1030,1041"
 
 jobs:
   save-regs:
@@ -40,4 +40,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5.0.0
         with:
           commit_message: Nightly update
-
