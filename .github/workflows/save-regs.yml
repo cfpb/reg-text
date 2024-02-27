@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  PARTS: (1003)
+  PARTS: "1002,1003"
 
 jobs:
   save-regs:
@@ -26,12 +26,14 @@ jobs:
         id: date
         uses: sergeysova/jq-action@a3f0d4ff59cc1dddf023fc0b325dd75b10deec58
         with:
-          cmd: "curl -sSL https://www.ecfr.gov/api/versioner/v1/titles.json | jq '.titles[] | select(.number == 12) | .up_to_date_as_of'"
+          cmd: "curl -sSL https://www.ecfr.gov/api/versioner/v1/titles.json | jq '.titles[] | select(.number == 12) | .up_to_date_as_of' | tr -d '\"'"
 
       - name: Fetch and extract parts from eCFR
         run: |
-          for PART in "${PARTS[@]}"; do
-            curl -sSL "https://www.ecfr.gov/api/renderer/v1/content/enhanced/${DATE}/title-12?chapter=X&part=${PART}" | htmlq -t '.part' | sed '/^$/d' > "./parts/${{ steps.date.outputs.value }}.txt"
+          IFS="," read -a BASH_PARTS <<< "$PARTS"
+          for PART in "${BASH_PARTS[@]}"; do
+            echo "$PART"
+            curl -sSL "https://www.ecfr.gov/api/renderer/v1/content/enhanced/${{ steps.date.outputs.value }}/title-12?chapter=X&part=${PART}" | htmlq -t '.part' | sed '/^$/d' > "./parts/${PART}.txt"
           done
 
       - name: Test output
