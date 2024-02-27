@@ -36,8 +36,8 @@ jobs:
             curl -sSL "https://www.ecfr.gov/api/renderer/v1/content/enhanced/${{ steps.date.outputs.value }}/title-12?chapter=X&part=${PART}" | htmlq -t '.part' | sed '/^$/d' > "./parts/${PART}.txt"
           done
 
-      - name: Test output
-        run: ls -l parts
+      - name: Commit text
+        uses: stefanzweifel/git-auto-commit-action@v5.0.0
+        with:
+          commit_message: Nightly update
 
-      - name: Show output
-        run: cat ./parts/1003.txt
