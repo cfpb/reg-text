@@ -18,9 +18,9 @@ jobs:
 
       - name: Installs htmlq
         uses: baptiste0928/cargo-install@v3.0.0
-          with:
-            crate: htmlq
-            version: "0.4.0"
+        with:
+          crate: htmlq
+          version: "0.4.0"
 
       - name: Find latest date
         id: date
