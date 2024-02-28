@@ -35,6 +35,7 @@ jobs:
             for CHUNK in "${CHUNKS[@]}"; do
               echo "$CHUNK"
             done
+            echo "${CHUNKS[*]}"
             curl -sSL "${CHUNKS[*]}" |
               htmlq -r '.regulation-meta, .inline-interpretation, .block__sub' |
               htmlq -t '.u-layout-grid_main' |
