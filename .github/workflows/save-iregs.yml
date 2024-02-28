@@ -32,6 +32,9 @@ jobs:
             CHUNKS=($(curl -sSL "https://www.consumerfinance.gov/rules-policy/regulations/${PART}/" |
               htmlq -t '.o-secondary-nav_link' -a href -b 'https://www.consumerfinance.gov'
             ))
+            for CHUNK in "${CHUNKS[@]}"; do
+              echo "$CHUNK"
+            done
             curl -sSL "${CHUNKS[*]}" |
               htmlq -r '.regulation-meta, .inline-interpretation, .block__sub' |
               htmlq -t '.u-layout-grid_main' |
