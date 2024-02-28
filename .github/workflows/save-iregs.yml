@@ -1,4 +1,4 @@
-name: Save ecfr as text
+name: Save iregs as text
 
 on:
   workflow_dispatch:
