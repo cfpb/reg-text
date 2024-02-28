@@ -39,11 +39,7 @@ jobs:
               awk '{$1=$1};1' > "./iregs/${PART}.txt"
           done
 
-      - name:  Test
-        run: |
-          ls -l iregs
-          cat iregs/1004.txt
-          #- name: Commit text
-          #uses: stefanzweifel/git-auto-commit-action@v5.0.0
-          #with:
-          #commit_message: Nightly update
+      - name: Commit text
+        uses: stefanzweifel/git-auto-commit-action@v5.0.0
+        with:
+          commit_message: Nightly update
