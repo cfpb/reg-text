@@ -37,7 +37,7 @@ jobs:
               htmlq -t '.u-layout-grid_main' |
               sed '/^ *$/d' |
               awk '{$1=$1};1' > "./iregs/${PART}.txt"
-              sleep 1
+              sleep 2
           done
 
       - name: Commit text
