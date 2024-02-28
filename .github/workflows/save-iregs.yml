@@ -29,7 +29,9 @@ jobs:
           IFS="," read -a BASH_PARTS <<< "$PARTS"
           for PART in "${BASH_PARTS[@]}"; do
             echo "$PART"
-            CHUNKS=($(curl -sSL https://www.consumerfinance.gov/rules-policy/regulations/${PART}/" | htmlq -t | htmlq -t '.o-secondary-nav_link' -a href -b https://www.consumerfinance.gov))
+            CHUNKS=($(curl -sSL "https://www.consumerfinance.gov/rules-policy/regulations/${PART}/" |
+              htmlq -t '.o-secondary-nav_link' -a href -b 'https://www.consumerfinance.gov'
+            ))
             echo $CHUNKS
           done
           #  curl -sSL "$CHUNKS" | htmlq -r '.regulation-meta, .inline-interpretation, .block__sub' | htmlq -t '.u-layout-grid_main' | sed '/^ *$/d' | awk '{$1=$1};1' > "./iregs/${PART}.txt"
