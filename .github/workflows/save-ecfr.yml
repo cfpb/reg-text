@@ -35,7 +35,10 @@ jobs:
           IFS="," read -a BASH_PARTS <<< "$PARTS"
           for PART in "${BASH_PARTS[@]}"; do
             echo "$PART"
-            curl -sSL "https://www.ecfr.gov/api/renderer/v1/content/enhanced/${{ steps.date.outputs.value }}/title-12?chapter=X&part=${PART}" | htmlq -t '.part' | sed '/^$/d' > "./ecfr/${PART}.txt"
+            curl -sSL "https://www.ecfr.gov/api/renderer/v1/content/enhanced/${{ steps.date.outputs.value }}/title-12?chapter=X&part=${PART}" |
+            htmlq -t '.part' |
+            sed '/^ *$/d' |
+            awk '{$1=$1};1' > "./ecfr/${PART}.txt"
           done
 
       - name: Commit text
