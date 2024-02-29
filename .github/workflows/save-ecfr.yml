@@ -36,6 +36,7 @@ jobs:
           for PART in "${BASH_PARTS[@]}"; do
             echo "$PART"
             curl -sSL "https://www.ecfr.gov/api/renderer/v1/content/enhanced/${{ steps.date.outputs.value }}/title-12?chapter=X&part=${PART}" |
+            htmlq -r 'h1, .source, .authority' |
             htmlq -t '.part' |
             sed '/^ *$/d' |
             awk '{$1=$1};1' > "./ecfr/${PART}.txt"
