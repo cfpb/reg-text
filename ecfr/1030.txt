@@ -2,227 +2,227 @@ PART 1030—TRUTH IN SAVINGS (REGULATION DD)
 Authority:12 U.S.C. 4302–4304, 4308, 5512, 5581.
 Source:76 FR 79278, Dec. 21, 2011, unless otherwise noted.
 § 1030.1 Authority, purpose, coverage, and effect on state laws.
-(a) Authority.  This part, known as Regulation DD, is issued by the Bureau of Consumer Financial Protection to implement the Truth in Savings Act of 1991 (the act), contained in the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 3201 et seq., Public Law 102–242, 105 Stat. 2236), as amended by title X, section 1100B of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111–203, 124 Stat. 1376). Information-collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170–0004. 
-(b) Purpose.  The purpose of this part is to enable consumers to make informed decisions about accounts at depository institutions. This part requires depository institutions to provide disclosures so that consumers can make meaningful comparisons among depository institutions. 
-(c) Coverage.  This part applies to depository institutions except for credit unions. In addition, the advertising rules in § 1030.8 of this part apply to any person who advertises an account offered by a depository institution, including deposit brokers. 
-(d) Effect on state laws.  State law requirements that are inconsistent with the requirements of the act and this part are preempted to the extent of the inconsistency. Additional information on inconsistent state laws and the procedures for requesting a preemption determination from the Bureau are set forth in appendix C of this part. 
-(e) Relationship to Regulation CC.  The Director of the Bureau and the Board of Governors of the Federal Reserve System jointly issue regulations under sections 603(d)(1), 604, 605, and 609(a) of the Expedited Funds Availability Act (12 U.S.C. 4002(d)(1), 4003, 4004, 4008(a)) that are codified within Regulation CC (12 CFR part 229). 
+(a) Authority. This part, known as Regulation DD, is issued by the Bureau of Consumer Financial Protection to implement the Truth in Savings Act of 1991 (the act), contained in the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 3201 et seq., Public Law 102–242, 105 Stat. 2236), as amended by title X, section 1100B of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111–203, 124 Stat. 1376). Information-collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170–0004.
+(b) Purpose. The purpose of this part is to enable consumers to make informed decisions about accounts at depository institutions. This part requires depository institutions to provide disclosures so that consumers can make meaningful comparisons among depository institutions.
+(c) Coverage. This part applies to depository institutions except for credit unions. In addition, the advertising rules in § 1030.8 of this part apply to any person who advertises an account offered by a depository institution, including deposit brokers.
+(d) Effect on state laws. State law requirements that are inconsistent with the requirements of the act and this part are preempted to the extent of the inconsistency. Additional information on inconsistent state laws and the procedures for requesting a preemption determination from the Bureau are set forth in appendix C of this part.
+(e) Relationship to Regulation CC. The Director of the Bureau and the Board of Governors of the Federal Reserve System jointly issue regulations under sections 603(d)(1), 604, 605, and 609(a) of the Expedited Funds Availability Act (12 U.S.C. 4002(d)(1), 4003, 4004, 4008(a)) that are codified within Regulation CC (12 CFR part 229).
 [76 FR 79278, Dec. 21, 2011, as amended at 84 FR 31698, July 3, 2019]
 § 1030.2 Definitions.
-For purposes of this part, the following definitions apply: 
-(a) Account  means a deposit account at a depository institution that is held by or offered to a consumer. It includes time, demand, savings, and negotiable order of withdrawal accounts. For purposes of the advertising requirements in § 1030.8 of this part, the term also includes an account at a depository institution that is held by or on behalf of a deposit broker, if any interest in the account is held by or offered to a consumer. 
-(b) Advertisement  means a commercial message, appearing in any medium, that promotes directly or indirectly: 
-(1) The availability or terms of, or a deposit in, a new account; and 
-(2) For purposes of §§ 1030.8(a) and 1030.11 of this part, the terms of, or a deposit in, a new or existing account. 
-(c) Annual percentage yield  means a percentage rate reflecting the total amount of interest paid on an account, based on the interest rate and the frequency of compounding for a 365-day period and calculated according to the rules in appendix A of this part. 
-(d) Average daily balance method  means the application of a periodic rate to the average daily balance in the account for the period. The average daily balance is determined by adding the full amount of principal in the account for each day of the period and dividing that figure by the number of days in the period. 
-(e) Bureau  means the Bureau of Consumer Financial Protection. 
-(f) Bonus  means a premium, gift, award, or other consideration worth more than $10 (whether in the form of cash, credit, merchandise, or any equivalent) given or offered to a consumer during a year in exchange for opening, maintaining, renewing, or increasing an account balance. The term does not include interest, other consideration worth $10 or less given during a year, the waiver or reduction of a fee, or the absorption of expenses. 
-(g) Business day  means a calendar day other than a Saturday, a Sunday, or any of the legal public holidays specified in 5 U.S.C. 6103(a). 
-(h) Consumer  means a natural person who holds an account primarily for personal, family, or household purposes, or to whom such an account is offered. The term does not include a natural person who holds an account for another in a professional capacity. 
-(i) Daily balance method  means the application of a daily periodic rate to the full amount of principal in the account each day. 
-(j) Depository institution  and institution mean an institution defined in section 19(b)(1)(A)(i) through (vi) of the Federal Reserve Act (12 U.S.C. 461), except credit unions defined in section 19(b)(1)(A)(iv). 
-(k) Deposit broker  means any person who is a deposit broker as defined in section 29(g) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(g)). 
-(l) Fixed-rate account  means an account for which the institution contracts to give at least 30 calendar days advance written notice of decreases in the interest rate. 
-(m) Grace period  means a period following the maturity of an automatically renewing time account during which the consumer may withdraw funds without being assessed a penalty. 
-(n) Interest  means any payment to a consumer or to an account for the use of funds in an account, calculated by application of a periodic rate to the balance. The term does not include the payment of a bonus or other consideration worth $10 or less given during a year, the waiver or reduction of a fee, or the absorption of expenses. 
-(o) Interest rate  means the annual rate of interest paid on an account which does not reflect compounding. For the purposes of the account disclosures in § 1030.4(b)(1)(i) of this part, the interest rate may, but need not, be referred to as the “annual percentage rate” in addition to being referred to as the “interest rate.” 
-(p) Passbook savings account  means a savings account in which the consumer retains a book or other document in which the institution records transactions on the account. 
-(q) Periodic statement  means a statement setting forth information about an account (other than a time account or passbook savings account) that is provided to a consumer on a regular basis four or more times a year. 
-(r) State  means a state, the District of Columbia, the commonwealth of Puerto Rico, and any territory or possession of the United States. 
-(s) Stepped-rate account  means an account that has two or more interest rates that take effect in succeeding periods and are known when the account is opened. 
-(t) Tiered-rate account  means an account that has two or more interest rates that are applicable to specified balance levels. 
-(u) Time account  means an account with a maturity of at least seven days in which the consumer generally does not have a right to make withdrawals for six days after the account is opened, unless the deposit is subject to an early withdrawal penalty of at least seven days' interest on amounts withdrawn. 
-(v) Variable-rate account  means an account in which the interest rate may change after the account is opened, unless the institution contracts to give at least 30 calendar days advance written notice of rate decreases. 
+For purposes of this part, the following definitions apply:
+(a) Account means a deposit account at a depository institution that is held by or offered to a consumer. It includes time, demand, savings, and negotiable order of withdrawal accounts. For purposes of the advertising requirements in § 1030.8 of this part, the term also includes an account at a depository institution that is held by or on behalf of a deposit broker, if any interest in the account is held by or offered to a consumer.
+(b) Advertisement means a commercial message, appearing in any medium, that promotes directly or indirectly:
+(1) The availability or terms of, or a deposit in, a new account; and
+(2) For purposes of §§ 1030.8(a) and 1030.11 of this part, the terms of, or a deposit in, a new or existing account.
+(c) Annual percentage yield means a percentage rate reflecting the total amount of interest paid on an account, based on the interest rate and the frequency of compounding for a 365-day period and calculated according to the rules in appendix A of this part.
+(d) Average daily balance method means the application of a periodic rate to the average daily balance in the account for the period. The average daily balance is determined by adding the full amount of principal in the account for each day of the period and dividing that figure by the number of days in the period.
+(e) Bureau means the Bureau of Consumer Financial Protection.
+(f) Bonus means a premium, gift, award, or other consideration worth more than $10 (whether in the form of cash, credit, merchandise, or any equivalent) given or offered to a consumer during a year in exchange for opening, maintaining, renewing, or increasing an account balance. The term does not include interest, other consideration worth $10 or less given during a year, the waiver or reduction of a fee, or the absorption of expenses.
+(g) Business day means a calendar day other than a Saturday, a Sunday, or any of the legal public holidays specified in 5 U.S.C. 6103(a).
+(h) Consumer means a natural person who holds an account primarily for personal, family, or household purposes, or to whom such an account is offered. The term does not include a natural person who holds an account for another in a professional capacity.
+(i) Daily balance method means the application of a daily periodic rate to the full amount of principal in the account each day.
+(j) Depository institution and institution mean an institution defined in section 19(b)(1)(A)(i) through (vi) of the Federal Reserve Act (12 U.S.C. 461), except credit unions defined in section 19(b)(1)(A)(iv).
+(k) Deposit broker means any person who is a deposit broker as defined in section 29(g) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(g)).
+(l) Fixed-rate account means an account for which the institution contracts to give at least 30 calendar days advance written notice of decreases in the interest rate.
+(m) Grace period means a period following the maturity of an automatically renewing time account during which the consumer may withdraw funds without being assessed a penalty.
+(n) Interest means any payment to a consumer or to an account for the use of funds in an account, calculated by application of a periodic rate to the balance. The term does not include the payment of a bonus or other consideration worth $10 or less given during a year, the waiver or reduction of a fee, or the absorption of expenses.
+(o) Interest rate means the annual rate of interest paid on an account which does not reflect compounding. For the purposes of the account disclosures in § 1030.4(b)(1)(i) of this part, the interest rate may, but need not, be referred to as the “annual percentage rate” in addition to being referred to as the “interest rate.”
+(p) Passbook savings account means a savings account in which the consumer retains a book or other document in which the institution records transactions on the account.
+(q) Periodic statement means a statement setting forth information about an account (other than a time account or passbook savings account) that is provided to a consumer on a regular basis four or more times a year.
+(r) State means a state, the District of Columbia, the commonwealth of Puerto Rico, and any territory or possession of the United States.
+(s) Stepped-rate account means an account that has two or more interest rates that take effect in succeeding periods and are known when the account is opened.
+(t) Tiered-rate account means an account that has two or more interest rates that are applicable to specified balance levels.
+(u) Time account means an account with a maturity of at least seven days in which the consumer generally does not have a right to make withdrawals for six days after the account is opened, unless the deposit is subject to an early withdrawal penalty of at least seven days' interest on amounts withdrawn.
+(v) Variable-rate account means an account in which the interest rate may change after the account is opened, unless the institution contracts to give at least 30 calendar days advance written notice of rate decreases.
 § 1030.3 General disclosure requirements.
-(a) Form.  Depository institutions shall make the disclosures required by §§ 1030.4 through 1030.6 of this part, as applicable, clearly and conspicuously, in writing, and in a form the consumer may keep. The disclosures required by this part may be provided to the consumer in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq.). The disclosures required by §§ 1030.4(a)(2) and 1030.8 may be provided to the consumer in electronic form without regard to the consumer consent or other provisions of the E–Sign Act in the circumstances set forth in those sections. Disclosures for each account offered by an institution may be presented separately or combined with disclosures for the institution's other accounts, as long as it is clear which disclosures are applicable to the consumer's account. 
-(b) General.  The disclosures shall reflect the terms of the legal obligation of the account agreement between the consumer and the depository institution. Disclosures may be made in languages other than English, provided the disclosures are available in English upon request. 
-(c) Relation to Regulation E (12 CFR Part 1005).  Disclosures required by and provided in accordance with the Electronic Fund Transfer Act (15 U.S.C. 1693 et seq.) and its implementing Regulation E (12 CFR Part 1005) that are also required by this part may be substituted for the disclosures required by this part. 
-(d) Multiple consumers.  If an account is held by more than one consumer, disclosures may be made to any one of the consumers. 
-(e) Oral response to inquiries.  In an oral response to a consumer's inquiry about interest rates payable on its accounts, the depository institution shall state the annual percentage yield. The interest rate may be stated in addition to the annual percentage yield. No other rate may be stated. 
+(a) Form. Depository institutions shall make the disclosures required by §§ 1030.4 through 1030.6 of this part, as applicable, clearly and conspicuously, in writing, and in a form the consumer may keep. The disclosures required by this part may be provided to the consumer in electronic form, subject to compliance with the consumer consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq.). The disclosures required by §§ 1030.4(a)(2) and 1030.8 may be provided to the consumer in electronic form without regard to the consumer consent or other provisions of the E–Sign Act in the circumstances set forth in those sections. Disclosures for each account offered by an institution may be presented separately or combined with disclosures for the institution's other accounts, as long as it is clear which disclosures are applicable to the consumer's account.
+(b) General. The disclosures shall reflect the terms of the legal obligation of the account agreement between the consumer and the depository institution. Disclosures may be made in languages other than English, provided the disclosures are available in English upon request.
+(c) Relation to Regulation E (12 CFR Part 1005). Disclosures required by and provided in accordance with the Electronic Fund Transfer Act (15 U.S.C. 1693 et seq.) and its implementing Regulation E (12 CFR Part 1005) that are also required by this part may be substituted for the disclosures required by this part.
+(d) Multiple consumers. If an account is held by more than one consumer, disclosures may be made to any one of the consumers.
+(e) Oral response to inquiries. In an oral response to a consumer's inquiry about interest rates payable on its accounts, the depository institution shall state the annual percentage yield. The interest rate may be stated in addition to the annual percentage yield. No other rate may be stated.
 (f) Rounding and accuracy rules for rates and yields —
-(1) Rounding.  The annual percentage yield, the annual percentage yield earned, and the interest rate shall be rounded to the nearest one-hundredth of one percentage point (.01%) and expressed to two decimal places. For account disclosures, the interest rate may be expressed to more than two decimal places. 
-(2) Accuracy.  The annual percentage yield (and the annual percentage yield earned) will be considered accurate if not more than one-twentieth of one percentage point (.05%) above or below the annual percentage yield (and the annual percentage yield earned) determined in accordance with the rules in appendix A of this part. 
+(1) Rounding. The annual percentage yield, the annual percentage yield earned, and the interest rate shall be rounded to the nearest one-hundredth of one percentage point (.01%) and expressed to two decimal places. For account disclosures, the interest rate may be expressed to more than two decimal places.
+(2) Accuracy. The annual percentage yield (and the annual percentage yield earned) will be considered accurate if not more than one-twentieth of one percentage point (.05%) above or below the annual percentage yield (and the annual percentage yield earned) determined in accordance with the rules in appendix A of this part.
 § 1030.4 Account disclosures.
 (a) Delivery of account disclosures —
 (1) Account opening —
-(i) General.  A depository institution shall provide account disclosures to a consumer before an account is opened or a service is provided, whichever is earlier. An institution is deemed to have provided a service when a fee required to be disclosed is assessed. Except as provided in paragraph (a)(1)(ii) of this section, if the consumer is not present at the institution when the account is opened or the service is provided and has not already received the disclosures, the institution shall mail or deliver the disclosures no later than 10 business days after the account is opened or the service is provided, whichever is earlier. 
-(ii) Timing of electronic disclosures.  If a consumer who is not present at the institution uses electronic means (for example, an Internet Web site) to open an account or request a service, the disclosures required under paragraph (a)(1) of this section must be provided before the account is opened or the service is provided. 
-(2) Requests. 
-(i) A depository institution shall provide account disclosures to a consumer upon request. If a consumer who is not present at the institution makes a request, the institution shall mail or deliver the disclosures within a reasonable time after it receives the request and may provide the disclosures in paper form, or electronically if the consumer agrees. 
-(ii) In providing disclosures upon request, the institution may: 
-(A) Specify an interest rate and annual percentage yield that were offered within the most recent seven calendar days; state that the rate and yield are accurate as of an identified date; and provide a telephone number consumers may call to obtain current rate information. 
-(B) State the maturity of a time account as a term rather than a date. 
-(b) Content of account disclosures.  Account disclosures shall include the following, as applicable: 
+(i) General. A depository institution shall provide account disclosures to a consumer before an account is opened or a service is provided, whichever is earlier. An institution is deemed to have provided a service when a fee required to be disclosed is assessed. Except as provided in paragraph (a)(1)(ii) of this section, if the consumer is not present at the institution when the account is opened or the service is provided and has not already received the disclosures, the institution shall mail or deliver the disclosures no later than 10 business days after the account is opened or the service is provided, whichever is earlier.
+(ii) Timing of electronic disclosures. If a consumer who is not present at the institution uses electronic means (for example, an Internet Web site) to open an account or request a service, the disclosures required under paragraph (a)(1) of this section must be provided before the account is opened or the service is provided.
+(2) Requests.
+(i) A depository institution shall provide account disclosures to a consumer upon request. If a consumer who is not present at the institution makes a request, the institution shall mail or deliver the disclosures within a reasonable time after it receives the request and may provide the disclosures in paper form, or electronically if the consumer agrees.
+(ii) In providing disclosures upon request, the institution may:
+(A) Specify an interest rate and annual percentage yield that were offered within the most recent seven calendar days; state that the rate and yield are accurate as of an identified date; and provide a telephone number consumers may call to obtain current rate information.
+(B) State the maturity of a time account as a term rather than a date.
+(b) Content of account disclosures. Account disclosures shall include the following, as applicable:
 (1) Rate information —
-(i) Annual percentage yield and interest rate.  The “annual percentage yield” and the “interest rate,” using those terms, and for fixed-rate accounts the period of time the interest rate will be in effect. 
-(ii) Variable rates.  For variable-rate accounts: 
-(A) The fact that the interest rate and annual percentage yield may change; 
-(B) How the interest rate is determined; 
-(C) The frequency with which the interest rate may change; and 
-(D) Any limitation on the amount the interest rate may change. 
+(i) Annual percentage yield and interest rate. The “annual percentage yield” and the “interest rate,” using those terms, and for fixed-rate accounts the period of time the interest rate will be in effect.
+(ii) Variable rates. For variable-rate accounts:
+(A) The fact that the interest rate and annual percentage yield may change;
+(B) How the interest rate is determined;
+(C) The frequency with which the interest rate may change; and
+(D) Any limitation on the amount the interest rate may change.
 (2) Compounding and crediting —
-(i) Frequency.  The frequency with which interest is compounded and credited. 
-(ii) Effect of closing an account.  If consumers will forfeit interest if they close the account before accrued interest is credited, a statement that interest will not be paid in such cases. 
+(i) Frequency. The frequency with which interest is compounded and credited.
+(ii) Effect of closing an account. If consumers will forfeit interest if they close the account before accrued interest is credited, a statement that interest will not be paid in such cases.
 (3) Balance information —
-(i) Minimum balance requirements. 
-(A) Any minimum balance required to: 
-(1) Open the account; 
-(2) Avoid the imposition of a fee; or 
-(3) Obtain the annual percentage yield disclosed. 
-(B) Except for the balance to open the account, the disclosure shall state how the balance is determined for these purposes. 
-(ii) Balance computation method.  An explanation of the balance computation method specified in § 1030.7 of this part used to calculate interest on the account. 
-(iii) When interest begins to accrue.  A statement of when interest begins to accrue on noncash deposits. 
-(4) Fees.  The amount of any fee that may be imposed in connection with the account (or an explanation of how the fee will be determined) and the conditions under which the fee may be imposed. 
-(5) Transaction limitations.  Any limitations on the number or dollar amount of withdrawals or deposits. 
-(6) Features of time accounts.  For time accounts: 
-(i) Time requirements.  The maturity date. 
-(ii) Early withdrawal penalties.  A statement that a penalty will or may be imposed for early withdrawal, how it is calculated, and the conditions for its assessment. 
-(iii) Withdrawal of interest prior to maturity.  If compounding occurs during the term and interest may be withdrawn prior to maturity, a statement that the annual percentage yield assumes interest remains on deposit until maturity and that a withdrawal will reduce earnings. For accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, that require interest payouts at least annually, and that disclose an APY determined in accordance with section E of appendix A of this part, a statement that interest cannot remain on deposit and that payout of interest is mandatory. 
-(iv) Renewal policies.  A statement of whether or not the account will renew automatically at maturity. If it will, a statement of whether or not a grace period will be provided and, if so, the length of that period must be stated. If the account will not renew automatically, a statement of whether interest will be paid after maturity if the consumer does not renew the account must be stated. 
-(7) Bonuses.  The amount or type of any bonus, when the bonus will be provided, and any minimum balance and time requirements to obtain the bonus. 
+(i) Minimum balance requirements.
+(A) Any minimum balance required to:
+(1) Open the account;
+(2) Avoid the imposition of a fee; or
+(3) Obtain the annual percentage yield disclosed.
+(B) Except for the balance to open the account, the disclosure shall state how the balance is determined for these purposes.
+(ii) Balance computation method. An explanation of the balance computation method specified in § 1030.7 of this part used to calculate interest on the account.
+(iii) When interest begins to accrue. A statement of when interest begins to accrue on noncash deposits.
+(4) Fees. The amount of any fee that may be imposed in connection with the account (or an explanation of how the fee will be determined) and the conditions under which the fee may be imposed.
+(5) Transaction limitations. Any limitations on the number or dollar amount of withdrawals or deposits.
+(6) Features of time accounts. For time accounts:
+(i) Time requirements. The maturity date.
+(ii) Early withdrawal penalties. A statement that a penalty will or may be imposed for early withdrawal, how it is calculated, and the conditions for its assessment.
+(iii) Withdrawal of interest prior to maturity. If compounding occurs during the term and interest may be withdrawn prior to maturity, a statement that the annual percentage yield assumes interest remains on deposit until maturity and that a withdrawal will reduce earnings. For accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, that require interest payouts at least annually, and that disclose an APY determined in accordance with section E of appendix A of this part, a statement that interest cannot remain on deposit and that payout of interest is mandatory.
+(iv) Renewal policies. A statement of whether or not the account will renew automatically at maturity. If it will, a statement of whether or not a grace period will be provided and, if so, the length of that period must be stated. If the account will not renew automatically, a statement of whether interest will be paid after maturity if the consumer does not renew the account must be stated.
+(7) Bonuses. The amount or type of any bonus, when the bonus will be provided, and any minimum balance and time requirements to obtain the bonus.
 (c) Notice to existing account holders —
-(1) Notice of availability of disclosures.  Depository institutions shall provide a notice to consumers who receive periodic statements and who hold existing accounts of the type offered by the institution on June 21, 1993. The notice shall be included on or with the first periodic statement sent on or after June 21, 1993 (or on or with the first periodic statement for a statement cycle beginning on or after that date). The notice shall state that consumers may request account disclosures containing terms, fees, and rate information for their account. In responding to such a request, institutions shall provide disclosures in accordance with paragraph (a)(2) of this section. 
-(2) Alternative to notice.  As an alternative to the notice described in paragraph (c)(1) of this section, institutions may provide account disclosures to consumers. The disclosures may be provided either with a periodic statement or separately, but must be sent no later than when the periodic statement described in paragraph (c)(1) is sent. 
+(1) Notice of availability of disclosures. Depository institutions shall provide a notice to consumers who receive periodic statements and who hold existing accounts of the type offered by the institution on June 21, 1993. The notice shall be included on or with the first periodic statement sent on or after June 21, 1993 (or on or with the first periodic statement for a statement cycle beginning on or after that date). The notice shall state that consumers may request account disclosures containing terms, fees, and rate information for their account. In responding to such a request, institutions shall provide disclosures in accordance with paragraph (a)(2) of this section.
+(2) Alternative to notice. As an alternative to the notice described in paragraph (c)(1) of this section, institutions may provide account disclosures to consumers. The disclosures may be provided either with a periodic statement or separately, but must be sent no later than when the periodic statement described in paragraph (c)(1) is sent.
 § 1030.5 Subsequent disclosures.
 (a) Change in terms —
-(1) Advance notice required.  A depository institution shall give advance notice to affected consumers of any change in a term required to be disclosed under § 1030.4(b) of this part if the change may reduce the annual percentage yield or adversely affect the consumer. The notice shall include the effective date of the change. The notice shall be mailed or delivered at least 30 calendar days before the effective date of the change. 
-(2) No notice required.  No notice under this section is required for: 
-(i) Variable-rate changes.  Changes in the interest rate and corresponding changes in the annual percentage yield in variable-rate accounts. 
-(ii) Check printing fees.  Changes in fees assessed for check printing. 
-(iii) Short-term time accounts.  Changes in any term for time accounts with maturities of one month or less. 
-(b) Notice before maturity for time accounts longer than one month that renew automatically.  For time accounts with a maturity longer than one month that renew automatically at maturity, institutions shall provide the disclosures described below before maturity. The disclosures shall be mailed or delivered at least 30 calendar days before maturity of the existing account. Alternatively, the disclosures may be mailed or delivered at least 20 calendar days before the end of the grace period on the existing account, provided a grace period of at least five calendar days is allowed. 
-(1) Maturities of longer than one year.  If the maturity is longer than one year, the institution shall provide account disclosures set forth in § 1030.4(b) of this part for the new account, along with the date the existing account matures. If the interest rate and annual percentage yield that will be paid for the new account are unknown when disclosures are provided, the institution shall state that those rates have not yet been determined, the date when they will be determined, and a telephone number consumers may call to obtain the interest rate and the annual percentage yield that will be paid for the new account. 
-(2) Maturities of one year or less but longer than one month.  If the maturity is one year or less but longer than one month, the institution shall either: 
-(i) Provide disclosures as set forth in paragraph (b)(1) of this section; or 
-(ii) Disclose to the consumer: 
-(A) The date the existing account matures and the new maturity date if the account is renewed; 
-(B) The interest rate and the annual percentage yield for the new account if they are known (or that those rates have not yet been determined, the date when they will be determined, and a telephone number the consumer may call to obtain the interest rate and the annual percentage yield that will be paid for the new account); and 
-(C) Any difference in the terms of the new account as compared to the terms required to be disclosed under § 1030.4(b) of this part for the existing account. 
-(c) Notice before maturity for time accounts longer than one year that do not renew automatically.  For time accounts with a maturity longer than one year that do not renew automatically at maturity, institutions shall disclose to consumers the maturity date and whether interest will be paid after maturity. The disclosures shall be mailed or delivered at least 10 calendar days before maturity of the existing account. 
+(1) Advance notice required. A depository institution shall give advance notice to affected consumers of any change in a term required to be disclosed under § 1030.4(b) of this part if the change may reduce the annual percentage yield or adversely affect the consumer. The notice shall include the effective date of the change. The notice shall be mailed or delivered at least 30 calendar days before the effective date of the change.
+(2) No notice required. No notice under this section is required for:
+(i) Variable-rate changes. Changes in the interest rate and corresponding changes in the annual percentage yield in variable-rate accounts.
+(ii) Check printing fees. Changes in fees assessed for check printing.
+(iii) Short-term time accounts. Changes in any term for time accounts with maturities of one month or less.
+(b) Notice before maturity for time accounts longer than one month that renew automatically. For time accounts with a maturity longer than one month that renew automatically at maturity, institutions shall provide the disclosures described below before maturity. The disclosures shall be mailed or delivered at least 30 calendar days before maturity of the existing account. Alternatively, the disclosures may be mailed or delivered at least 20 calendar days before the end of the grace period on the existing account, provided a grace period of at least five calendar days is allowed.
+(1) Maturities of longer than one year. If the maturity is longer than one year, the institution shall provide account disclosures set forth in § 1030.4(b) of this part for the new account, along with the date the existing account matures. If the interest rate and annual percentage yield that will be paid for the new account are unknown when disclosures are provided, the institution shall state that those rates have not yet been determined, the date when they will be determined, and a telephone number consumers may call to obtain the interest rate and the annual percentage yield that will be paid for the new account.
+(2) Maturities of one year or less but longer than one month. If the maturity is one year or less but longer than one month, the institution shall either:
+(i) Provide disclosures as set forth in paragraph (b)(1) of this section; or
+(ii) Disclose to the consumer:
+(A) The date the existing account matures and the new maturity date if the account is renewed;
+(B) The interest rate and the annual percentage yield for the new account if they are known (or that those rates have not yet been determined, the date when they will be determined, and a telephone number the consumer may call to obtain the interest rate and the annual percentage yield that will be paid for the new account); and
+(C) Any difference in the terms of the new account as compared to the terms required to be disclosed under § 1030.4(b) of this part for the existing account.
+(c) Notice before maturity for time accounts longer than one year that do not renew automatically. For time accounts with a maturity longer than one year that do not renew automatically at maturity, institutions shall disclose to consumers the maturity date and whether interest will be paid after maturity. The disclosures shall be mailed or delivered at least 10 calendar days before maturity of the existing account.
 § 1030.6 Periodic statement disclosures.
-(a) General rule.  If a depository institution mails or delivers a periodic statement, the statement shall include the following disclosures: 
-(1) Annual percentage yield earned.  The “annual percentage yield earned” during the statement period, using that term, calculated according to the rules in appendix A of this part. 
-(2) Amount of interest.  The dollar amount of interest earned during the statement period. 
-(3) Fees imposed.  Fees required to be disclosed under § 1030.4(b)(4) of this part that were debited to the account during the statement period. The fees shall be itemized by type and dollar amounts. Except as provided in § 1030.11(a)(1) of this part, when fees of the same type are imposed more than once in a statement period, a depository institution may itemize each fee separately or group the fees together and disclose a total dollar amount for all fees of that type. 
-(4) Length of period.  The total number of days in the statement period, or the beginning and ending dates of the period. 
-(5) Aggregate fee disclosure.  If applicable, the total overdraft and returned item fees required to be disclosed by § 1030.11(a). 
-(b) Special rule for average daily balance method.  In making the disclosures described in paragraph (a) of this section, institutions that use the average daily balance method and that calculate interest for a period other than the statement period shall calculate and disclose the annual percentage yield earned and amount of interest earned based on that period rather than the statement period. The information in paragraph (a)(4) of this section shall be stated for that period as well as for the statement period. 
+(a) General rule. If a depository institution mails or delivers a periodic statement, the statement shall include the following disclosures:
+(1) Annual percentage yield earned. The “annual percentage yield earned” during the statement period, using that term, calculated according to the rules in appendix A of this part.
+(2) Amount of interest. The dollar amount of interest earned during the statement period.
+(3) Fees imposed. Fees required to be disclosed under § 1030.4(b)(4) of this part that were debited to the account during the statement period. The fees shall be itemized by type and dollar amounts. Except as provided in § 1030.11(a)(1) of this part, when fees of the same type are imposed more than once in a statement period, a depository institution may itemize each fee separately or group the fees together and disclose a total dollar amount for all fees of that type.
+(4) Length of period. The total number of days in the statement period, or the beginning and ending dates of the period.
+(5) Aggregate fee disclosure. If applicable, the total overdraft and returned item fees required to be disclosed by § 1030.11(a).
+(b) Special rule for average daily balance method. In making the disclosures described in paragraph (a) of this section, institutions that use the average daily balance method and that calculate interest for a period other than the statement period shall calculate and disclose the annual percentage yield earned and amount of interest earned based on that period rather than the statement period. The information in paragraph (a)(4) of this section shall be stated for that period as well as for the statement period.
 § 1030.7 Payment of interest.
 (a) Permissible methods —
-(1) Balance on which interest is calculated.  Institutions shall calculate interest on the full amount of principal in an account for each day by use of either the daily balance method or the average daily balance method. Institutions shall calculate interest by use of a daily rate of at least 1⁄365 of the interest rate. In a leap year a daily rate of 1⁄366 of the interest rate may be used. 
-(2) Determination of minimum balance to earn interest.  An institution shall use the same method to determine any minimum balance required to earn interest as it uses to determine the balance on which interest is calculated. An institution may use an additional method that is unequivocally beneficial to the consumer. 
-(b) Compounding and crediting policies.  This section does not require institutions to compound or credit interest at any particular frequency. 
-(c) Date interest begins to accrue.  Interest shall begin to accrue not later than the business day specified for interest-bearing accounts in section 606 of the Expedited Funds Availability Act (12 U.S.C. 4005) and in § 229.14 of that act's implementing Regulation CC (12 CFR part 229). Interest shall accrue until the day funds are withdrawn. 
+(1) Balance on which interest is calculated. Institutions shall calculate interest on the full amount of principal in an account for each day by use of either the daily balance method or the average daily balance method. Institutions shall calculate interest by use of a daily rate of at least 1⁄365 of the interest rate. In a leap year a daily rate of 1⁄366 of the interest rate may be used.
+(2) Determination of minimum balance to earn interest. An institution shall use the same method to determine any minimum balance required to earn interest as it uses to determine the balance on which interest is calculated. An institution may use an additional method that is unequivocally beneficial to the consumer.
+(b) Compounding and crediting policies. This section does not require institutions to compound or credit interest at any particular frequency.
+(c) Date interest begins to accrue. Interest shall begin to accrue not later than the business day specified for interest-bearing accounts in section 606 of the Expedited Funds Availability Act (12 U.S.C. 4005) and in § 229.14 of that act's implementing Regulation CC (12 CFR part 229). Interest shall accrue until the day funds are withdrawn.
 [76 FR 79278, Dec. 21, 2011, as amended at 84 FR 31698, July 3, 2019]
 § 1030.8 Advertising.
-(a) Misleading or inaccurate advertisements.  An advertisement shall not: 
-(1) Be misleading or inaccurate or misrepresent a depository institution's deposit contract; or 
-(2) Refer to or describe an account as “free” or “no cost” (or contain a similar term) if any maintenance or activity fee may be imposed on the account. The word “profit” shall not be used in referring to interest paid on an account. 
-(b) Permissible rates.  If an advertisement states a rate of return, it shall state the rate as an “annual percentage yield” using that term. (The abbreviation “APY” may be used provided the term “annual percentage yield” is stated at least once in the advertisement.) The advertisement shall not state any other rate, except that the “interest rate,” using that term, may be stated in conjunction with, but not more conspicuously than, the annual percentage yield to which it relates. 
-(c) When additional disclosures are required.  Except as provided in paragraph (e) of this section, if the annual percentage yield is stated in an advertisement, the advertisement shall state the following information, to the extent applicable, clearly and conspicuously: 
-(1) Variable rates.  For variable-rate accounts, a statement that the rate may change after the account is opened. 
-(2) Time annual percentage yield is offered.  The period of time the annual percentage yield will be offered, or a statement that the annual percentage yield is accurate as of a specified date. 
-(3) Minimum balance.  The minimum balance required to obtain the advertised annual percentage yield. For tiered-rate accounts, the minimum balance required for each tier shall be stated in close proximity and with equal prominence to the applicable annual percentage yield. 
-(4) Minimum opening deposit.  The minimum deposit required to open the account, if it is greater than the minimum balance necessary to obtain the advertised annual percentage yield. 
-(5) Effect of fees.  A statement that fees could reduce the earnings on the account. 
-(6) Features of time accounts.  For time accounts: 
-(i) Time requirements.  The term of the account. 
-(ii) Early withdrawal penalties:  A statement that a penalty will or may be imposed for early withdrawal. 
-(iii) Required interest payouts.  For noncompounding time accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, that require interest payouts at least annually, and that disclose an APY determined in accordance with section E of appendix A of this part, a statement that interest cannot remain on deposit and that payout of interest is mandatory. 
-(d) Bonuses.  Except as provided in paragraph (e) of this section, if a bonus is stated in an advertisement, the advertisement shall state the following information, to the extent applicable, clearly and conspicuously: 
-(1) The “annual percentage yield,” using that term; 
-(2) The time requirement to obtain the bonus; 
-(3) The minimum balance required to obtain the bonus; 
-(4) The minimum balance required to open the account, if it is greater than the minimum balance necessary to obtain the bonus; and 
-(5) When the bonus will be provided. 
+(a) Misleading or inaccurate advertisements. An advertisement shall not:
+(1) Be misleading or inaccurate or misrepresent a depository institution's deposit contract; or
+(2) Refer to or describe an account as “free” or “no cost” (or contain a similar term) if any maintenance or activity fee may be imposed on the account. The word “profit” shall not be used in referring to interest paid on an account.
+(b) Permissible rates. If an advertisement states a rate of return, it shall state the rate as an “annual percentage yield” using that term. (The abbreviation “APY” may be used provided the term “annual percentage yield” is stated at least once in the advertisement.) The advertisement shall not state any other rate, except that the “interest rate,” using that term, may be stated in conjunction with, but not more conspicuously than, the annual percentage yield to which it relates.
+(c) When additional disclosures are required. Except as provided in paragraph (e) of this section, if the annual percentage yield is stated in an advertisement, the advertisement shall state the following information, to the extent applicable, clearly and conspicuously:
+(1) Variable rates. For variable-rate accounts, a statement that the rate may change after the account is opened.
+(2) Time annual percentage yield is offered. The period of time the annual percentage yield will be offered, or a statement that the annual percentage yield is accurate as of a specified date.
+(3) Minimum balance. The minimum balance required to obtain the advertised annual percentage yield. For tiered-rate accounts, the minimum balance required for each tier shall be stated in close proximity and with equal prominence to the applicable annual percentage yield.
+(4) Minimum opening deposit. The minimum deposit required to open the account, if it is greater than the minimum balance necessary to obtain the advertised annual percentage yield.
+(5) Effect of fees. A statement that fees could reduce the earnings on the account.
+(6) Features of time accounts. For time accounts:
+(i) Time requirements. The term of the account.
+(ii) Early withdrawal penalties: A statement that a penalty will or may be imposed for early withdrawal.
+(iii) Required interest payouts. For noncompounding time accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, that require interest payouts at least annually, and that disclose an APY determined in accordance with section E of appendix A of this part, a statement that interest cannot remain on deposit and that payout of interest is mandatory.
+(d) Bonuses. Except as provided in paragraph (e) of this section, if a bonus is stated in an advertisement, the advertisement shall state the following information, to the extent applicable, clearly and conspicuously:
+(1) The “annual percentage yield,” using that term;
+(2) The time requirement to obtain the bonus;
+(3) The minimum balance required to obtain the bonus;
+(4) The minimum balance required to open the account, if it is greater than the minimum balance necessary to obtain the bonus; and
+(5) When the bonus will be provided.
 (e) Exemption for certain advertisements —
-(1) Certain media.  If an advertisement is made through one of the following media, it need not contain the information in paragraphs (c)(1), (c)(2), (c)(4), (c)(5), (c)(6)(ii), (d)(4), and (d)(5) of this section: 
-(i) Broadcast or electronic media, such as television or radio; 
-(ii) Outdoor media, such as billboards; or 
-(iii) Telephone response machines. 
-(2) Indoor signs. 
-(i) Signs inside the premises of a depository institution (or the premises of a deposit broker) are not subject to paragraphs (b), (c), (d) or (e)(1) of this section. 
-(ii) If a sign exempt by paragraph (e)(2) of this section states a rate of return, it shall: 
-(A) State the rate as an “annual percentage yield,” using that term or the term “APY.” The sign shall not state any other rate, except that the interest rate may be stated in conjunction with the annual percentage yield to which it relates. 
-(B) Contain a statement advising consumers to contact an employee for further information about applicable fees and terms. 
-(f) Additional disclosures in connection with the payment of overdrafts.  Institutions that promote the payment of overdrafts in an advertisement shall include in the advertisement the disclosures required by § 1030.11(b) of this part. 
+(1) Certain media. If an advertisement is made through one of the following media, it need not contain the information in paragraphs (c)(1), (c)(2), (c)(4), (c)(5), (c)(6)(ii), (d)(4), and (d)(5) of this section:
+(i) Broadcast or electronic media, such as television or radio;
+(ii) Outdoor media, such as billboards; or
+(iii) Telephone response machines.
+(2) Indoor signs.
+(i) Signs inside the premises of a depository institution (or the premises of a deposit broker) are not subject to paragraphs (b), (c), (d) or (e)(1) of this section.
+(ii) If a sign exempt by paragraph (e)(2) of this section states a rate of return, it shall:
+(A) State the rate as an “annual percentage yield,” using that term or the term “APY.” The sign shall not state any other rate, except that the interest rate may be stated in conjunction with the annual percentage yield to which it relates.
+(B) Contain a statement advising consumers to contact an employee for further information about applicable fees and terms.
+(f) Additional disclosures in connection with the payment of overdrafts. Institutions that promote the payment of overdrafts in an advertisement shall include in the advertisement the disclosures required by § 1030.11(b) of this part.
 § 1030.9 Enforcement and record retention.
-(a) Administrative enforcement.  Section 270 of the act (12 U.S.C. 4309) contains the provisions relating to administrative sanctions for failure to comply with the requirements of the act and this part. Compliance is enforced by the agencies listed in that section. 
-(b) [Reserved] 
-(c) Record retention.  A depository institution shall retain evidence of compliance with this part for a minimum of two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing this part may require depository institutions under their jurisdiction to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 270 of the act. 
+(a) Administrative enforcement. Section 270 of the act (12 U.S.C. 4309) contains the provisions relating to administrative sanctions for failure to comply with the requirements of the act and this part. Compliance is enforced by the agencies listed in that section.
+(b) [Reserved]
+(c) Record retention. A depository institution shall retain evidence of compliance with this part for a minimum of two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing this part may require depository institutions under their jurisdiction to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 270 of the act.
 § 1030.10 [Reserved]
 § 1030.11 Additional disclosure requirements for overdraft services.
 (a) Disclosure of total fees on periodic statements —
-(1) General.  A depository institution must separately disclose on each periodic statement, as applicable: 
-(i) The total dollar amount for all fees or charges imposed on the account for paying checks or other items when there are insufficient or unavailable funds and the account becomes overdrawn, using the term “Total Overdraft Fees;” and 
-(ii) The total dollar amount for all fees or charges imposed on the account for returning items unpaid. 
-(2) Totals required.  The disclosures required by paragraph (a)(1) of this section must be provided for the statement period and for the calendar year-to-date; 
-(3) Format requirements.  The aggregate fee disclosures required by paragraph (a) of this section must be disclosed in close proximity to fees identified under § 1030.6(a)(3), using a format substantially similar to Sample Form B–10 in appendix B to this part. 
+(1) General. A depository institution must separately disclose on each periodic statement, as applicable:
+(i) The total dollar amount for all fees or charges imposed on the account for paying checks or other items when there are insufficient or unavailable funds and the account becomes overdrawn, using the term “Total Overdraft Fees;” and
+(ii) The total dollar amount for all fees or charges imposed on the account for returning items unpaid.
+(2) Totals required. The disclosures required by paragraph (a)(1) of this section must be provided for the statement period and for the calendar year-to-date;
+(3) Format requirements. The aggregate fee disclosures required by paragraph (a) of this section must be disclosed in close proximity to fees identified under § 1030.6(a)(3), using a format substantially similar to Sample Form B–10 in appendix B to this part.
 (b) Advertising disclosures for overdraft services —
-(1) Disclosures.  Except as provided in paragraphs (b)(2) through (4) of this section, any advertisement promoting the payment of overdrafts shall disclose in a clear and conspicuous manner: 
-(i) The fee or fees for the payment of each overdraft; 
-(ii) The categories of transactions for which a fee for paying an overdraft may be imposed; 
-(iii) The time period by which the consumer must repay or cover any overdraft; and 
-(iv) The circumstances under which the institution will not pay an overdraft. 
-(2) Communications about the payment of overdrafts not subject to additional advertising disclosures.  Paragraph (b)(1) of this section does not apply to: 
-(i) An advertisement promoting a service where the institution's payment of overdrafts will be agreed upon in writing and subject to Regulation Z (12 CFR part 1026); 
-(ii) A communication by an institution about the payment of overdrafts in response to a consumer-initiated inquiry about deposit accounts or overdrafts. Providing information about the payment of overdrafts in response to a balance inquiry made through an automated system, such as a telephone response machine, ATM, or an institution's Internet site, is not a response to a consumer-initiated inquiry for purposes of this paragraph; 
-(iii) An advertisement made through broadcast or electronic media, such as television or radio; 
-(iv) An advertisement made on outdoor media, such as billboards; 
-(v) An ATM receipt; 
-(vi) An in-person discussion with a consumer; 
-(vii) Disclosures required by federal or other applicable law; 
-(viii) Information included on a periodic statement or a notice informing a consumer about a specific overdrawn item or the amount the account is overdrawn; 
-(ix) A term in a deposit account agreement discussing the institution's right to pay overdrafts; 
-(x) A notice provided to a consumer, such as at an ATM, that completing a requested transaction may trigger a fee for overdrawing an account, or a general notice that items overdrawing an account may trigger a fee; 
-(xi) Informational or educational materials concerning the payment of overdrafts if the materials do not specifically describe the institution's overdraft service; or 
-(xii) An opt-out or opt-in notice regarding the institution's payment of overdrafts or provision of discretionary overdraft services. 
-(3) Exception for ATM screens and telephone response machines.  The disclosures described in paragraphs (b)(1)(ii) and (iv) of this section are not required in connection with any advertisement made on an ATM screen or using a telephone response machine. 
-(4) Exception for indoor signs.  Paragraph (b)(1) of this section does not apply to advertisements for the payment of overdrafts on indoor signs as described by § 1030.8(e)(2) of this part, provided that the sign contains a clear and conspicuous statement that fees may apply and that consumers should contact an employee for further information about applicable fees and terms. For purposes of this paragraph (b)(4), an indoor sign does not include an ATM screen. 
-(c) Disclosure of account balances.  If an institution discloses balance information to a consumer through an automated system, the balance may not include additional amounts that the institution may provide to cover an item when there are insufficient or unavailable funds in the consumer's account, whether under a service provided in its discretion, a service subject to Regulation Z (12 CFR part 1026), or a service to transfer funds from another account of the consumer. The institution may, at its option, disclose additional account balances that include such additional amounts, if the institution prominently state s that any such balance includes such additional amounts and, if applicable, that additional amounts are not available for all transactions. 
+(1) Disclosures. Except as provided in paragraphs (b)(2) through (4) of this section, any advertisement promoting the payment of overdrafts shall disclose in a clear and conspicuous manner:
+(i) The fee or fees for the payment of each overdraft;
+(ii) The categories of transactions for which a fee for paying an overdraft may be imposed;
+(iii) The time period by which the consumer must repay or cover any overdraft; and
+(iv) The circumstances under which the institution will not pay an overdraft.
+(2) Communications about the payment of overdrafts not subject to additional advertising disclosures. Paragraph (b)(1) of this section does not apply to:
+(i) An advertisement promoting a service where the institution's payment of overdrafts will be agreed upon in writing and subject to Regulation Z (12 CFR part 1026);
+(ii) A communication by an institution about the payment of overdrafts in response to a consumer-initiated inquiry about deposit accounts or overdrafts. Providing information about the payment of overdrafts in response to a balance inquiry made through an automated system, such as a telephone response machine, ATM, or an institution's Internet site, is not a response to a consumer-initiated inquiry for purposes of this paragraph;
+(iii) An advertisement made through broadcast or electronic media, such as television or radio;
+(iv) An advertisement made on outdoor media, such as billboards;
+(v) An ATM receipt;
+(vi) An in-person discussion with a consumer;
+(vii) Disclosures required by federal or other applicable law;
+(viii) Information included on a periodic statement or a notice informing a consumer about a specific overdrawn item or the amount the account is overdrawn;
+(ix) A term in a deposit account agreement discussing the institution's right to pay overdrafts;
+(x) A notice provided to a consumer, such as at an ATM, that completing a requested transaction may trigger a fee for overdrawing an account, or a general notice that items overdrawing an account may trigger a fee;
+(xi) Informational or educational materials concerning the payment of overdrafts if the materials do not specifically describe the institution's overdraft service; or
+(xii) An opt-out or opt-in notice regarding the institution's payment of overdrafts or provision of discretionary overdraft services.
+(3) Exception for ATM screens and telephone response machines. The disclosures described in paragraphs (b)(1)(ii) and (iv) of this section are not required in connection with any advertisement made on an ATM screen or using a telephone response machine.
+(4) Exception for indoor signs. Paragraph (b)(1) of this section does not apply to advertisements for the payment of overdrafts on indoor signs as described by § 1030.8(e)(2) of this part, provided that the sign contains a clear and conspicuous statement that fees may apply and that consumers should contact an employee for further information about applicable fees and terms. For purposes of this paragraph (b)(4), an indoor sign does not include an ATM screen.
+(c) Disclosure of account balances. If an institution discloses balance information to a consumer through an automated system, the balance may not include additional amounts that the institution may provide to cover an item when there are insufficient or unavailable funds in the consumer's account, whether under a service provided in its discretion, a service subject to Regulation Z (12 CFR part 1026), or a service to transfer funds from another account of the consumer. The institution may, at its option, disclose additional account balances that include such additional amounts, if the institution prominently state s that any such balance includes such additional amounts and, if applicable, that additional amounts are not available for all transactions.
 Appendix A to Part 1030—Annual Percentage Yield Calculation
-The annual percentage yield measures the total amount of interest paid on an account based on the interest rate and the frequency of compounding. The annual percentage yield reflects only interest and does not include the value of any bonus (or other consideration worth $10 or less) that may be provided to the consumer to open, maintain, increase or renew an account. Interest or other earnings are not to be included in the annual percentage yield if such amounts are determined by circumstances that may or may not occur in the future. The annual percentage yield is expressed as an annualized rate, based on a 365-day year. Institutions may calculate the annual percentage yield based on a 365-day or a 366-day year in a leap year. Part I of this appendix discusses the annual percentage yield calculations for account disclosures and advertisements, while part II discusses annual percentage yield earned calculations for periodic statements. 
-Part I. Annual Percentage Yield for Account Disclosures and Advertising Purposes 
-In general, the annual percentage yield for account disclosures under §§ 1030.4 and 1030.5 and for advertising under § 1030.8 is an annualized rate that reflects the relationship between the amount of interest that would be earned by the consumer for the term of the account and the amount of principal used to calculate that interest. Special rules apply to accounts with tiered and stepped interest rates, and to certain time accounts with a stated maturity greater than one year. 
-A. General Rules 
-Except as provided in part I.E. of this appendix, the annual percentage yield shall be calculated by the formula shown below. Institutions shall calculate the annual percentage yield based on the actual number of days in the term of the account. For accounts without a stated maturity date (such as a typical savings or transaction account), the calculation shall be based on an assumed term of 365 days. In determining the total interest figure to be used in the formula, institutions shall assume that all principal and interest remain on deposit for the entire term and that no other transactions (deposits or withdrawals) occur during the term. This assumption shall not be used if an institution requires, as a condition of the account, that consumers withdraw interest during the term. In such a case, the interest (and annual percentage yield calculation) shall reflect that requirement. For time accounts that are offered in multiples of months, institutions may base the number of days on either the actual number of days during the applicable period, or the number of days that would occur for any actual sequence of that many calendar months. If institutions choose to use the latter rule, they must use the same number of days to calculate the dollar amount of interest earned on the account that is used in the annual percentage yield formula (where “Interest” is divided by “Principal”). 
-The annual percentage yield is calculated by use of the following general formula (“APY” is used for convenience in the formulas): 
-APY=100 [(1+Interest/Principal)(365/Days in term)−1] 
-“Principal”   is the amount of funds assumed to have been deposited at the beginning of the account. 
-“Interest”   is the total dollar amount of interest earned on the Principal for the term of the account. 
-“Days in term”   is the actual number of days in the term of the account. When the “days in term” is 365 (that is, where the stated maturity is 365 days or where the account does not have a stated maturity), the annual percentage yield can be calculated by use of the following simple formula: 
-APY=100 (Interest/Principal) 
-Examples:  
-(1) If an institution pays $61.68 in interest for a 365-day year on $1,000 deposited into a NOW account, using the general formula above, the annual percentage yield is 6.17%: 
-APY=100[(1+61.68/1,000)(365/365)−1] 
-APY=6.17% 
-Or, using the simple formula above (since, as an account without a stated term, the term is deemed to be 365 days): 
-APY=100(61.68/1,000) 
-APY=6.17% 
-(2) If an institution pays $30.37 in interest on a $1,000 six-month certificate of deposit (where the six-month period used by the institution contains 182 days), using the general formula above, the annual percentage yield is 6.18%: 
-APY=100[(1+30.37/1,000)(365/182)−1] 
-APY=6.18% 
-B. Stepped-Rate Accounts (Different Rates Apply in Succeeding Periods) 
-For accounts with two or more interest rates applied in succeeding periods (where the rates are known at the time the account is opened), an institution shall assume each interest rate is in effect for the length of time provided for in the deposit contract. 
-Examples: 
-(1) If an institution offers a $1,000 6-month certificate of deposit on which it pays a 5% interest rate, compounded daily, for the first three months (which contain 91 days), and a 5.5% interest rate, compounded daily, for the next three months (which contain 92 days), the total interest for six months is $26.68 and, using the general formula above, the annual percentage yield is 5.39%: 
-APY=100[(1+26.68/1,000)(365/183)−1] 
-APY=5.39% 
-(2) If an institution offers a $1,000 two-year certificate of deposit on which it pays a 6% interest rate, compounded daily, for the first year, and a 6.5% interest rate, compounded daily, for the next year, the total interest for two years is $133.13, and, using the general formula above, the annual percentage yield is 6.45%: 
-APY=100[(1+133.13/1,000)(365/730)−1] 
-APY=6.45% 
-C. Variable-Rate Accounts 
-For variable-rate accounts without an introductory premium or discounted rate, an institution must base the calculation only on the initial interest rate in effect when the account is opened (or advertised), and assume that this rate will not change during the year. 
-Variable-rate accounts with an introductory premium (or discount) rate must be calculated like a stepped-rate account. Thus, an institution shall assume that: 
-(1) The introductory interest rate is in effect for the length of time provided for in the deposit contract; and 
-(2) The variable interest rate that would have been in effect when the account is opened or advertised (but for the introductory rate) is in effect for the remainder of the year. If the variable rate is tied to an index, the index-based rate in effect at the time of disclosure must be used for the remainder of the year. If the rate is not tied to an index, the rate in effect for existing consumers holding the same account (who are not receiving the introductory interest rate) must be used for the remainder of the year. 
-For example, if an institution offers an account on which it pays a 7% interest rate, compounded daily, for the first three months (which, for example, contain 91 days), while the variable interest rate that would have been in effect when the account was opened was 5%, the total interest for a 365-day year for a $1,000 deposit is $56.52 (based on 91 days at 7% followed by 274 days at 5%). Using the simple formula, the annual percentage yield is 5.65%: 
-APY=100(56.52/1,000) 
-APY=5.65% 
-D. Tiered-Rate Accounts (Different Rates Apply to Specified Balance Levels) 
-For accounts in which two or more interest rates paid on the account are applicable to specified balance levels, the institution must calculate the annual percentage yield in accordance with the method described below that it uses to calculate interest. In all cases, an annual percentage yield (or a range of annual percentage yields, if appropriate) must be disclosed for each balance tier. 
-For purposes of the examples discussed below, assume the following: 
+The annual percentage yield measures the total amount of interest paid on an account based on the interest rate and the frequency of compounding. The annual percentage yield reflects only interest and does not include the value of any bonus (or other consideration worth $10 or less) that may be provided to the consumer to open, maintain, increase or renew an account. Interest or other earnings are not to be included in the annual percentage yield if such amounts are determined by circumstances that may or may not occur in the future. The annual percentage yield is expressed as an annualized rate, based on a 365-day year. Institutions may calculate the annual percentage yield based on a 365-day or a 366-day year in a leap year. Part I of this appendix discusses the annual percentage yield calculations for account disclosures and advertisements, while part II discusses annual percentage yield earned calculations for periodic statements.
+Part I. Annual Percentage Yield for Account Disclosures and Advertising Purposes
+In general, the annual percentage yield for account disclosures under §§ 1030.4 and 1030.5 and for advertising under § 1030.8 is an annualized rate that reflects the relationship between the amount of interest that would be earned by the consumer for the term of the account and the amount of principal used to calculate that interest. Special rules apply to accounts with tiered and stepped interest rates, and to certain time accounts with a stated maturity greater than one year.
+A. General Rules
+Except as provided in part I.E. of this appendix, the annual percentage yield shall be calculated by the formula shown below. Institutions shall calculate the annual percentage yield based on the actual number of days in the term of the account. For accounts without a stated maturity date (such as a typical savings or transaction account), the calculation shall be based on an assumed term of 365 days. In determining the total interest figure to be used in the formula, institutions shall assume that all principal and interest remain on deposit for the entire term and that no other transactions (deposits or withdrawals) occur during the term. This assumption shall not be used if an institution requires, as a condition of the account, that consumers withdraw interest during the term. In such a case, the interest (and annual percentage yield calculation) shall reflect that requirement. For time accounts that are offered in multiples of months, institutions may base the number of days on either the actual number of days during the applicable period, or the number of days that would occur for any actual sequence of that many calendar months. If institutions choose to use the latter rule, they must use the same number of days to calculate the dollar amount of interest earned on the account that is used in the annual percentage yield formula (where “Interest” is divided by “Principal”).
+The annual percentage yield is calculated by use of the following general formula (“APY” is used for convenience in the formulas):
+APY=100 [(1+Interest/Principal)(365/Days in term)−1]
+“Principal” is the amount of funds assumed to have been deposited at the beginning of the account.
+“Interest” is the total dollar amount of interest earned on the Principal for the term of the account.
+“Days in term” is the actual number of days in the term of the account. When the “days in term” is 365 (that is, where the stated maturity is 365 days or where the account does not have a stated maturity), the annual percentage yield can be calculated by use of the following simple formula:
+APY=100 (Interest/Principal)
+Examples:
+(1) If an institution pays $61.68 in interest for a 365-day year on $1,000 deposited into a NOW account, using the general formula above, the annual percentage yield is 6.17%:
+APY=100[(1+61.68/1,000)(365/365)−1]
+APY=6.17%
+Or, using the simple formula above (since, as an account without a stated term, the term is deemed to be 365 days):
+APY=100(61.68/1,000)
+APY=6.17%
+(2) If an institution pays $30.37 in interest on a $1,000 six-month certificate of deposit (where the six-month period used by the institution contains 182 days), using the general formula above, the annual percentage yield is 6.18%:
+APY=100[(1+30.37/1,000)(365/182)−1]
+APY=6.18%
+B. Stepped-Rate Accounts (Different Rates Apply in Succeeding Periods)
+For accounts with two or more interest rates applied in succeeding periods (where the rates are known at the time the account is opened), an institution shall assume each interest rate is in effect for the length of time provided for in the deposit contract.
+Examples:
+(1) If an institution offers a $1,000 6-month certificate of deposit on which it pays a 5% interest rate, compounded daily, for the first three months (which contain 91 days), and a 5.5% interest rate, compounded daily, for the next three months (which contain 92 days), the total interest for six months is $26.68 and, using the general formula above, the annual percentage yield is 5.39%:
+APY=100[(1+26.68/1,000)(365/183)−1]
+APY=5.39%
+(2) If an institution offers a $1,000 two-year certificate of deposit on which it pays a 6% interest rate, compounded daily, for the first year, and a 6.5% interest rate, compounded daily, for the next year, the total interest for two years is $133.13, and, using the general formula above, the annual percentage yield is 6.45%:
+APY=100[(1+133.13/1,000)(365/730)−1]
+APY=6.45%
+C. Variable-Rate Accounts
+For variable-rate accounts without an introductory premium or discounted rate, an institution must base the calculation only on the initial interest rate in effect when the account is opened (or advertised), and assume that this rate will not change during the year.
+Variable-rate accounts with an introductory premium (or discount) rate must be calculated like a stepped-rate account. Thus, an institution shall assume that:
+(1) The introductory interest rate is in effect for the length of time provided for in the deposit contract; and
+(2) The variable interest rate that would have been in effect when the account is opened or advertised (but for the introductory rate) is in effect for the remainder of the year. If the variable rate is tied to an index, the index-based rate in effect at the time of disclosure must be used for the remainder of the year. If the rate is not tied to an index, the rate in effect for existing consumers holding the same account (who are not receiving the introductory interest rate) must be used for the remainder of the year.
+For example, if an institution offers an account on which it pays a 7% interest rate, compounded daily, for the first three months (which, for example, contain 91 days), while the variable interest rate that would have been in effect when the account was opened was 5%, the total interest for a 365-day year for a $1,000 deposit is $56.52 (based on 91 days at 7% followed by 274 days at 5%). Using the simple formula, the annual percentage yield is 5.65%:
+APY=100(56.52/1,000)
+APY=5.65%
+D. Tiered-Rate Accounts (Different Rates Apply to Specified Balance Levels)
+For accounts in which two or more interest rates paid on the account are applicable to specified balance levels, the institution must calculate the annual percentage yield in accordance with the method described below that it uses to calculate interest. In all cases, an annual percentage yield (or a range of annual percentage yields, if appropriate) must be disclosed for each balance tier.
+For purposes of the examples discussed below, assume the following:
 Interest rate
 (percent)
 Deposit balance required to earn rate
@@ -232,201 +232,201 @@ Up to but not exceeding $2,500.
 Above $2,500 but not exceeding $15,000.
 5.75
 Above $15,000.
-Tiering Method A.  (1) Under this method, an institution pays on the full balance in the account the stated interest rate that corresponds to the applicable deposit tier. For example, if a consumer deposits $8,000, the institution pays the 5.50% interest rate on the entire $8,000. 
-When this method is used to determine interest, only one annual percentage yield will apply to each tier. Within each tier, the annual percentage yield will not vary with the amount of principal assumed to have been deposited. 
-For the interest rates and deposit balances assumed above, the institution will state three annual percentage yields—one corresponding to each balance tier. Calculation of each annual percentage yield is similar for this type of account as for accounts with a single interest rate. Thus, the calculation is based on the total amount of interest that would be received by the consumer for each tier of the account for a year and the principal assumed to have been deposited to earn that amount of interest. 
-First tier.   Assuming daily compounding, the institution will pay $53.90 in interest on a $1,000 deposit. Using the general formula, for the first tier, the annual percentage yield is 5.39%: 
-APY=100[(1+53.90/1,000)(365/365)−1] 
-APY=5.39% 
-Using the simple formula: 
-APY=100(53.90/1,000) 
-APY=5.39% 
-Second tier.   The institution will pay $452.29 in interest on an $8,000 deposit. Thus, using the simple formula, the annual percentage yield for the second tier is 5.65%: 
-APY=100(452.29/8,000) 
-APY=5.65% 
-Third tier.   The institution will pay $1,183.61 in interest on a $20,000 deposit. Thus, using the simple formula, the annual percentage yield for the third tier is 5.92%: 
-APY=100(1,183.61/20,000) 
-APY=5.92% 
-Tiering Method B.   Under this method, an institution pays the stated interest rate only on that portion of the balance within the specified tier. For example, if a consumer deposits $8,000, the institution pays 5.25% on $2,500 and 5.50% on $5,500 (the difference between $8,000 and the first tier cut-off of $2,500). 
-The institution that computes interest in this manner must provide a range that shows the lowest and the highest annual percentage yields for each tier (other than for the first tier, which, like the tiers in Method A, has the same annual percentage yield throughout). The low figure for an annual percentage yield range is calculated based on the total amount of interest earned for a year assuming the minimum principal required to earn the interest rate for that tier. The high figure for an annual percentage yield range is based on the amount of interest the institution would pay on the highest principal that could be deposited to earn that same interest rate. If the account does not have a limit on the maximum amount that can be deposited, the institution may assume any amount. 
-For the tiering structure assumed above, the institution would state a total of five annual percentage yields—one figure for the first tier and two figures stated as a range for the other two tiers. 
-First tier.   Assuming daily compounding, the institution would pay $53.90 in interest on a $1,000 deposit. For this first tier, using the simple formula, the annual percentage yield is 5.39%: 
-APY=100(53.90/1,000) 
-APY=5.39% 
-Second tier.   For the second tier, the institution would pay between $134.75 and $841.45 in interest, based on assumed balances of $2,500.01 and $15,000, respectively. For $2,500.01, interest would be figured on $2,500 at 5.25% interest rate plus interest on $.01 at 5.50%. For the low end of the second tier, therefore, the annual percentage yield is 5.39%, using the simple formula: 
-APY=100(134.75/2,500) 
-APY=5.39% 
-For $15,000, interest is figured on $2,500 at 5.25% interest rate plus interest on $12,500 at 5.50% interest rate. For the high end of the second tier, the annual percentage yield, using the simple formula, is 5.61%: 
-APY=100(841.45/15,000) 
-APY=5.61% 
-Thus, the annual percentage yield range for the second tier is 5.39% to 5.61%. 
-Third tier.   For the third tier, the institution would pay $841.45 in interest on the low end of the third tier (a balance of $15,000.01). For $15,000.01, interest would be figured on $2,500 at 5.25% interest rate, plus interest on $12,500 at 5.50% interest rate, plus interest on $.01 at 5.75% interest rate. For the low end of the third tier, therefore, the annual percentage yield (using the simple formula) is 5.61%: 
-APY=100 (841.45/15,000) 
-APY=5.61% 
-Since the institution does not limit the account balance, it may assume any maximum amount for the purposes of computing the annual percentage yield for the high end of the third tier. For an assumed maximum balance amount of $100,000, interest would be figured on $2,500 at 5.25% interest rate, plus interest on $12,500 at 5.50% interest rate, plus interest on $85,000 at 5.75% interest rate. For the high end of the third tier, therefore, the annual percentage yield, using the simple formula, is 5.87%. 
-APY=100 (5,871.79/100,000) 
-APY=5.87% 
-Thus, the annual percentage yield range that would be stated for the third tier is 5.61% to 5.87%. 
-If the assumed maximum balance amount is $1,000,000 instead of $100,000, the institution would use $985,000 rather than $85,000 in the last calculation. In that case, for the high end of the third tier the annual percentage yield, using the simple formula, is 5.91%: 
-APY=100 (59134.22/1,000,000) 
-APY=5.91% 
-Thus, the annual percentage yield range that would be stated for the third tier is 5.61% to 5.91%. 
-E. Time Accounts With a Stated Maturity Greater Than One Year That Pay Interest at Least Annually 
-1. For time accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, and that require the consumer to withdraw interest at least annually, the annual percentage yield may be disclosed as equal to the interest rate. 
-Example 
-(1) If an institution offers a $1,000 two-year certificate of deposit that does not compound and that pays out interest semi-annually by check or transfer at a 6.00% interest rate, the annual percentage yield may be disclosed as 6.00%. 
-(2) For time accounts covered by this paragraph that are also stepped-rate accounts, the annual percentage yield may be disclosed as equal to the composite interest rate. 
-Example 
-(1) If an institution offers a $1,000 three-year certificate of deposit that does not compound and that pays out interest annually by check or transfer at a 5.00% interest rate for the first year, 6.00% interest rate for the second year, and 7.00% interest rate for the third year, the institution may compute the composite interest rate and APY as follows: 
-(a) Multiply each interest rate by the number of days it will be in effect; 
-(b) Add these figures together; and 
-(c) Divide by the total number of days in the term. 
-(2) Applied to the example, the products of the interest rates and days the rates are in effect are (5.00%×365 days) 1825, (6.00%×365 days) 2190, and (7.00%×365 days) 2555, respectively. The sum of these products, 6570, is divided by 1095, the total number of days in the term. The composite interest rate and APY are both 6.00%. 
-Part II. Annual Percentage Yield Earned for Periodic Statements 
-The annual percentage yield earned for periodic statements under § 1030.6(a) is an annualized rate that reflects the relationship between the amount of interest actually earned on the consumer's account during the statement period and the average daily balance in the account for the statement period. Pursuant to § 1030.6(b), however, if an institution uses the average daily balance method and calculates interest for a period other than the statement period, the annual percentage yield earned shall reflect the relationship between the amount of interest earned and the average daily balance in the account for that other period. 
-The annual percentage yield earned shall be calculated by using the following formulas (“APY Earned” is used for convenience in the formulas): 
-A. General Formula 
-APY Earned=100 [(1+Interest earned/Balance)(365/Days in period)−1] 
-“Balance”   is the average daily balance in the account for the period. 
-“Interest earned”   is the actual amount of interest earned on the account for the period. 
-“Days in period”   is the actual number of days for the period. 
-Examples 
-(1) Assume an institution calculates interest for the statement period (and uses either the daily balance or the average daily balance method), and the account has a balance of $1,500 for 15 days and a balance of $500 for the remaining 15 days of a 30-day statement period. The average daily balance for the period is $1,000. The interest earned (under either balance computation method) is $5.25 during the period. The annual percentage yield earned (using the formula above) is 6.58%: 
-APY Earned=100 [(1+5.25/1,000)(365/30)−1] 
-APY Earned=6.58% 
-(2) Assume an institution calculates interest on the average daily balance for the calendar month and provides periodic statements that cover the period from the 16th of one month to the 15th of the next month. The account has a balance of $2,000 September 1 through September 15 and a balance of $1,000 for the remaining 15 days of September. The average daily balance for the month of September is $1,500, which results in $6.50 in interest earned for the month. The annual percentage yield earned for the month of September would be shown on the periodic statement covering September 16 through October 15. The annual percentage yield earned (using the formula above) is 5.40%: 
-APY Earned=100 [(6.50/1,500)(365/30)−1] 
-APY Earned=5.40% 
-(3) Assume an institution calculates interest on the average daily balance for a quarter (for example, the calendar months of September through November), and provides monthly periodic statements covering calendar months. The account has a balance of $1,000 throughout the 30 days of September, a balance of $2,000 throughout the 31 days of October, and a balance of $3,000 throughout the 30 days of November. The average daily balance for the quarter is $2,000, which results in $21 in interest earned for the quarter. The annual percentage yield earned would be shown on the periodic statement for November. The annual percentage yield earned (using the formula above) is 4.28%: 
-APY Earned=100 [(1+21/2,000)(365/91)−1] 
-APY Earned=4.28% 
-B. Special Formula for Use Where Periodic Statement Is Sent More Often Than the Period for Which Interest Is Compounded 
-Institutions that use the daily balance method to accrue interest and that issue periodic statements more often than the period for which interest is compounded shall use the following special formula: 
-The following definition applies for use in this formula (all other terms are defined under part II): 
-“Compounding”   is the number of days in each compounding period. 
-Assume an institution calculates interest for the statement period using the daily balance method, pays a 5.00% interest rate, compounded annually, and provides periodic statements for each monthly cycle. The account has a daily balance of $1,000 for a 30-day statement period. The interest earned is $4.11 for the period, and the annual percentage yield earned (using the special formula above) is 5.00%: 
-APY Earned=5.00% 
-[84 FR 31698, July 3, 2019] 
+Tiering Method A. (1) Under this method, an institution pays on the full balance in the account the stated interest rate that corresponds to the applicable deposit tier. For example, if a consumer deposits $8,000, the institution pays the 5.50% interest rate on the entire $8,000.
+When this method is used to determine interest, only one annual percentage yield will apply to each tier. Within each tier, the annual percentage yield will not vary with the amount of principal assumed to have been deposited.
+For the interest rates and deposit balances assumed above, the institution will state three annual percentage yields—one corresponding to each balance tier. Calculation of each annual percentage yield is similar for this type of account as for accounts with a single interest rate. Thus, the calculation is based on the total amount of interest that would be received by the consumer for each tier of the account for a year and the principal assumed to have been deposited to earn that amount of interest.
+First tier. Assuming daily compounding, the institution will pay $53.90 in interest on a $1,000 deposit. Using the general formula, for the first tier, the annual percentage yield is 5.39%:
+APY=100[(1+53.90/1,000)(365/365)−1]
+APY=5.39%
+Using the simple formula:
+APY=100(53.90/1,000)
+APY=5.39%
+Second tier. The institution will pay $452.29 in interest on an $8,000 deposit. Thus, using the simple formula, the annual percentage yield for the second tier is 5.65%:
+APY=100(452.29/8,000)
+APY=5.65%
+Third tier. The institution will pay $1,183.61 in interest on a $20,000 deposit. Thus, using the simple formula, the annual percentage yield for the third tier is 5.92%:
+APY=100(1,183.61/20,000)
+APY=5.92%
+Tiering Method B. Under this method, an institution pays the stated interest rate only on that portion of the balance within the specified tier. For example, if a consumer deposits $8,000, the institution pays 5.25% on $2,500 and 5.50% on $5,500 (the difference between $8,000 and the first tier cut-off of $2,500).
+The institution that computes interest in this manner must provide a range that shows the lowest and the highest annual percentage yields for each tier (other than for the first tier, which, like the tiers in Method A, has the same annual percentage yield throughout). The low figure for an annual percentage yield range is calculated based on the total amount of interest earned for a year assuming the minimum principal required to earn the interest rate for that tier. The high figure for an annual percentage yield range is based on the amount of interest the institution would pay on the highest principal that could be deposited to earn that same interest rate. If the account does not have a limit on the maximum amount that can be deposited, the institution may assume any amount.
+For the tiering structure assumed above, the institution would state a total of five annual percentage yields—one figure for the first tier and two figures stated as a range for the other two tiers.
+First tier. Assuming daily compounding, the institution would pay $53.90 in interest on a $1,000 deposit. For this first tier, using the simple formula, the annual percentage yield is 5.39%:
+APY=100(53.90/1,000)
+APY=5.39%
+Second tier. For the second tier, the institution would pay between $134.75 and $841.45 in interest, based on assumed balances of $2,500.01 and $15,000, respectively. For $2,500.01, interest would be figured on $2,500 at 5.25% interest rate plus interest on $.01 at 5.50%. For the low end of the second tier, therefore, the annual percentage yield is 5.39%, using the simple formula:
+APY=100(134.75/2,500)
+APY=5.39%
+For $15,000, interest is figured on $2,500 at 5.25% interest rate plus interest on $12,500 at 5.50% interest rate. For the high end of the second tier, the annual percentage yield, using the simple formula, is 5.61%:
+APY=100(841.45/15,000)
+APY=5.61%
+Thus, the annual percentage yield range for the second tier is 5.39% to 5.61%.
+Third tier. For the third tier, the institution would pay $841.45 in interest on the low end of the third tier (a balance of $15,000.01). For $15,000.01, interest would be figured on $2,500 at 5.25% interest rate, plus interest on $12,500 at 5.50% interest rate, plus interest on $.01 at 5.75% interest rate. For the low end of the third tier, therefore, the annual percentage yield (using the simple formula) is 5.61%:
+APY=100 (841.45/15,000)
+APY=5.61%
+Since the institution does not limit the account balance, it may assume any maximum amount for the purposes of computing the annual percentage yield for the high end of the third tier. For an assumed maximum balance amount of $100,000, interest would be figured on $2,500 at 5.25% interest rate, plus interest on $12,500 at 5.50% interest rate, plus interest on $85,000 at 5.75% interest rate. For the high end of the third tier, therefore, the annual percentage yield, using the simple formula, is 5.87%.
+APY=100 (5,871.79/100,000)
+APY=5.87%
+Thus, the annual percentage yield range that would be stated for the third tier is 5.61% to 5.87%.
+If the assumed maximum balance amount is $1,000,000 instead of $100,000, the institution would use $985,000 rather than $85,000 in the last calculation. In that case, for the high end of the third tier the annual percentage yield, using the simple formula, is 5.91%:
+APY=100 (59134.22/1,000,000)
+APY=5.91%
+Thus, the annual percentage yield range that would be stated for the third tier is 5.61% to 5.91%.
+E. Time Accounts With a Stated Maturity Greater Than One Year That Pay Interest at Least Annually
+1. For time accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, and that require the consumer to withdraw interest at least annually, the annual percentage yield may be disclosed as equal to the interest rate.
+Example
+(1) If an institution offers a $1,000 two-year certificate of deposit that does not compound and that pays out interest semi-annually by check or transfer at a 6.00% interest rate, the annual percentage yield may be disclosed as 6.00%.
+(2) For time accounts covered by this paragraph that are also stepped-rate accounts, the annual percentage yield may be disclosed as equal to the composite interest rate.
+Example
+(1) If an institution offers a $1,000 three-year certificate of deposit that does not compound and that pays out interest annually by check or transfer at a 5.00% interest rate for the first year, 6.00% interest rate for the second year, and 7.00% interest rate for the third year, the institution may compute the composite interest rate and APY as follows:
+(a) Multiply each interest rate by the number of days it will be in effect;
+(b) Add these figures together; and
+(c) Divide by the total number of days in the term.
+(2) Applied to the example, the products of the interest rates and days the rates are in effect are (5.00%×365 days) 1825, (6.00%×365 days) 2190, and (7.00%×365 days) 2555, respectively. The sum of these products, 6570, is divided by 1095, the total number of days in the term. The composite interest rate and APY are both 6.00%.
+Part II. Annual Percentage Yield Earned for Periodic Statements
+The annual percentage yield earned for periodic statements under § 1030.6(a) is an annualized rate that reflects the relationship between the amount of interest actually earned on the consumer's account during the statement period and the average daily balance in the account for the statement period. Pursuant to § 1030.6(b), however, if an institution uses the average daily balance method and calculates interest for a period other than the statement period, the annual percentage yield earned shall reflect the relationship between the amount of interest earned and the average daily balance in the account for that other period.
+The annual percentage yield earned shall be calculated by using the following formulas (“APY Earned” is used for convenience in the formulas):
+A. General Formula
+APY Earned=100 [(1+Interest earned/Balance)(365/Days in period)−1]
+“Balance” is the average daily balance in the account for the period.
+“Interest earned” is the actual amount of interest earned on the account for the period.
+“Days in period” is the actual number of days for the period.
+Examples
+(1) Assume an institution calculates interest for the statement period (and uses either the daily balance or the average daily balance method), and the account has a balance of $1,500 for 15 days and a balance of $500 for the remaining 15 days of a 30-day statement period. The average daily balance for the period is $1,000. The interest earned (under either balance computation method) is $5.25 during the period. The annual percentage yield earned (using the formula above) is 6.58%:
+APY Earned=100 [(1+5.25/1,000)(365/30)−1]
+APY Earned=6.58%
+(2) Assume an institution calculates interest on the average daily balance for the calendar month and provides periodic statements that cover the period from the 16th of one month to the 15th of the next month. The account has a balance of $2,000 September 1 through September 15 and a balance of $1,000 for the remaining 15 days of September. The average daily balance for the month of September is $1,500, which results in $6.50 in interest earned for the month. The annual percentage yield earned for the month of September would be shown on the periodic statement covering September 16 through October 15. The annual percentage yield earned (using the formula above) is 5.40%:
+APY Earned=100 [(6.50/1,500)(365/30)−1]
+APY Earned=5.40%
+(3) Assume an institution calculates interest on the average daily balance for a quarter (for example, the calendar months of September through November), and provides monthly periodic statements covering calendar months. The account has a balance of $1,000 throughout the 30 days of September, a balance of $2,000 throughout the 31 days of October, and a balance of $3,000 throughout the 30 days of November. The average daily balance for the quarter is $2,000, which results in $21 in interest earned for the quarter. The annual percentage yield earned would be shown on the periodic statement for November. The annual percentage yield earned (using the formula above) is 4.28%:
+APY Earned=100 [(1+21/2,000)(365/91)−1]
+APY Earned=4.28%
+B. Special Formula for Use Where Periodic Statement Is Sent More Often Than the Period for Which Interest Is Compounded
+Institutions that use the daily balance method to accrue interest and that issue periodic statements more often than the period for which interest is compounded shall use the following special formula:
+The following definition applies for use in this formula (all other terms are defined under part II):
+“Compounding” is the number of days in each compounding period.
+Assume an institution calculates interest for the statement period using the daily balance method, pays a 5.00% interest rate, compounded annually, and provides periodic statements for each monthly cycle. The account has a daily balance of $1,000 for a 30-day statement period. The interest earned is $4.11 for the period, and the annual percentage yield earned (using the special formula above) is 5.00%:
+APY Earned=5.00%
+[84 FR 31698, July 3, 2019]
 Appendix B to Part 1030—Model Clauses and Sample Forms
-Table of Contents 
-B–1—Model Clauses for Account Disclosures (Section 1030.4(b)) 
-B–2—Model Clauses for Change in Terms (Section 1030.5(a)) 
-B–3—Model Clauses for Pre-Maturity Notices for Time Accounts (Section 1030.5(b)(2) and 1030.5(d)) 
-B–4—Sample Form (Multiple Accounts) 
-B–5—Sample Form (Now Account) 
-B–6—Sample Form (Tiered Rate Money Market Account) 
-B–7—Sample Form (Certificate of Deposit) 
-B–8—Sample Form (Certificate of Deposit Advertisement) 
-B–9—Sample Form (Money Market Account Advertisement) 
-B–10—Sample Form (Aggregate Overdraft and Returned Item Fees) 
-B–1—Model Clauses for Account Disclosures 
-(a) Rate Information 
-(i) Fixed-Rate Accounts 
-The interest rate on your account is ____% with an annual percentage yield of ____%. You will be paid this rate [for (time period)/until (date)/for at least 30 calendar days]. 
-(ii) Variable-Rate Accounts 
-The interest rate on your account is ____% with an annual percentage yield of ____%. 
-Your interest rate and annual percentage yield may change. 
-Determination of Rate 
-The interest rate on your account is based on (name of index) [plus/minus a margin of ____]; or 
-At our discretion, we may change the interest rate on your account. 
-Frequency of Rate Changes 
-We may change the interest rate on your account [every (time period)/at any time]. 
-Limitations on Rate Changes 
-The interest rate for your account will never change by more than ____% each (time period). 
-The interest rate will never be [less/more] than ____%; or 
-The interest rate will never [exceed____% above/drop more than ____% below] the interest rate initially disclosed to you. 
-(iii) Stepped-Rate Accounts 
-The initial interest rate for your account is ____%. You will be paid this rate [for (time period)/until (date)]. After that time, the interest rate for your account will be ____%, and you will be paid this rate [for (time period)/until (date)]. The annual percentage yield for your account is ____%. 
-(iv) Tiered-Rate Accounts 
-Tiering Method A 
-• If your [daily balance/average daily balance] is $____ or more, the interest rate paid on the entire balance in your account will be ____% with an annual percentage yield of __%. 
-• If your [daily balance/average daily balance] is more than $____, but less than $____, the interest rate paid on the entire balance in your account will be ____% with an annual percentage yield of ____%. 
-• If your [daily balance/average daily balance] is $____ or less, the interest rate paid on the entire balance will be ____% with an annual percentage yield of ____%. 
-Tiering Method B 
-• An interest rate of ____% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $____. The annual percentage yield for this tier will range from ____% to ____%, depending on the balance in the account. 
-• An interest rate of ____% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $____. The annual percentage yield for this tier will range from ____% to ____%, depending on the balance in the account. 
-• If your [daily balance/average daily balance] is $____ or less, the interest rate paid on the entire balance will be ____% with an annual percentage yield of ____%. 
-(b) Compounding and Crediting 
-(i) Frequency 
-Interest will be compounded [on a ____ basis/every (time period)]. Interest will be credited to your account [on a ____ basis/every (time period)]. 
-(ii) Effect of Closing an Account 
-If you close your account before interest is credited, you will not receive the accrued interest. 
-(c) Minimum Balance Requirements 
-(i) To Open the Account 
-You must deposit $____ to open this account. 
-(ii) To Avoid Imposition of Fees 
-A minimum balance fee of $____ will be imposed every (time period) if the balance in the account falls below $____ any day of the (time period). 
-A minimum balance fee of $____ will be imposed every (time period) if the average daily balance for the (time period) falls below $____. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period. 
-(iii) To Obtain the Annual Percentage Yield Disclosed 
-You must maintain a minimum balance of $____ in the account each day to obtain the disclosed annual percentage yield. 
-You must maintain a minimum average daily balance of $____ to obtain the disclosed annual percentage yield. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period. 
-(d) Balance Computation Method 
-(i) Daily Balance Method 
-We use the daily balance method to calculate the interest on your account. This method applies a daily periodic rate to the principal in the account each day. 
-(ii) Average Daily Balance Method 
-We use the average daily balance method to calculate interest on your account. This method applies a periodic rate to the average daily balance in the account for the period. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period. 
-(e) Accrual of Interest on Noncash Deposits 
-Interest begins to accrue no later than the business day we receive credit for the deposit of noncash items (for example, checks); or 
-Interest begins to accrue on the business day you deposit noncash items (for example, checks). 
-(f) Fees 
-The following fees may be assessed against your account: 
-____$____ 
-____$____ 
-____$____ 
-____(conditions for imposing fee) $____ 
-____% of ____. 
-(g) Transaction Limitations 
-The minimum amount you may [withdraw/write a check for] is $____. 
-You may make ____ [deposits into/withdrawals from] your account each (time period). 
-You may not make [deposits into/withdrawals from] your account until the maturity date. 
-(h) Disclosures Relating to Time Accounts 
-(i) Time Requirements 
-Your account will mature on (date). 
-Your account will mature in (time period). 
-(ii) Early Withdrawal Penalties 
-We [will/may] impose a penalty if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. The fee imposed will equal ____ days/week[s]/month[s] of interest; or 
-We [will/may] impose a penalty of $____ if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. 
-If you withdraw some of your funds before maturity, the interest rate for the remaining funds in your account will be ____% with an annual percentage yield of ____%. 
-(iii) Withdrawal of Interest Prior to Maturity 
-The annual percentage yield assumes interest will remain on deposit until maturity. A withdrawal will reduce earnings. 
-(iv) Renewal Policies 
-(1) Automatically Renewable Time Accounts 
-This account will automatically renew at maturity. 
-You will have [____ calendar/business] days after the maturity date to withdraw funds without penalty; or 
-There is no grace period following the maturity of this account to withdraw funds without penalty. 
-(2) Non-Automatically Renewable Time Accounts 
-This account will not renew automatically at maturity. If you do not renew the account, your deposit will be placed in [an interest-bearing/a noninterest-bearing] account. 
-(v) Required Interest Distribution 
-This account requires the distribution of interest and does not allow interest to remain in the account. 
-(i) Bonuses 
-You will [be paid/receive] [$____/(description of item)] as a bonus [when you open the account/on (date) ____]. 
-You must maintain a minimum [daily balance/average daily balance] of $____ to obtain the bonus. 
-To earn the bonus, [$____/your entire principal] must remain on deposit [for (time period)/until (date)____]. 
-B–2—Model Clauses for Change in Terms 
-On (date), the cost of (type of fee) will increase to $____. 
-On (date), the interest rate on your account will decrease to ____% with an annual percentage yield of ____%. 
-On (date), the minimum [daily balance/average daily balance] required to avoid imposition of a fee will increase to $____. 
-B–3—Model Clauses for Pre-Maturity Notices for Time Accounts 
-(a) Automatically Renewable Time Accounts With Maturities of One Year or Less But Longer Than One Month 
-Your account will mature on (date). 
-If the account renews, the new maturity date will be (date). 
-The interest rate for the renewed account will be ____% with an annual percentage yield of ____%; or 
-The interest rate and annual percentage yield have not yet been determined. They will be available on (date). Please call (phone number) to learn the interest rate and annual percentage yield for your new account. 
-(b) Non-Automatically Renewable Time Accounts With Maturities Longer Than One Year 
-Your account will mature on (date). 
-If you do not renew the account, interest [will/will not] be paid after maturity. 
+Table of Contents
+B–1—Model Clauses for Account Disclosures (Section 1030.4(b))
+B–2—Model Clauses for Change in Terms (Section 1030.5(a))
+B–3—Model Clauses for Pre-Maturity Notices for Time Accounts (Section 1030.5(b)(2) and 1030.5(d))
+B–4—Sample Form (Multiple Accounts)
+B–5—Sample Form (Now Account)
+B–6—Sample Form (Tiered Rate Money Market Account)
+B–7—Sample Form (Certificate of Deposit)
+B–8—Sample Form (Certificate of Deposit Advertisement)
+B–9—Sample Form (Money Market Account Advertisement)
+B–10—Sample Form (Aggregate Overdraft and Returned Item Fees)
+B–1—Model Clauses for Account Disclosures
+(a) Rate Information
+(i) Fixed-Rate Accounts
+The interest rate on your account is ____% with an annual percentage yield of ____%. You will be paid this rate [for (time period)/until (date)/for at least 30 calendar days].
+(ii) Variable-Rate Accounts
+The interest rate on your account is ____% with an annual percentage yield of ____%.
+Your interest rate and annual percentage yield may change.
+Determination of Rate
+The interest rate on your account is based on (name of index) [plus/minus a margin of ____]; or
+At our discretion, we may change the interest rate on your account.
+Frequency of Rate Changes
+We may change the interest rate on your account [every (time period)/at any time].
+Limitations on Rate Changes
+The interest rate for your account will never change by more than ____% each (time period).
+The interest rate will never be [less/more] than ____%; or
+The interest rate will never [exceed____% above/drop more than ____% below] the interest rate initially disclosed to you.
+(iii) Stepped-Rate Accounts
+The initial interest rate for your account is ____%. You will be paid this rate [for (time period)/until (date)]. After that time, the interest rate for your account will be ____%, and you will be paid this rate [for (time period)/until (date)]. The annual percentage yield for your account is ____%.
+(iv) Tiered-Rate Accounts
+Tiering Method A
+• If your [daily balance/average daily balance] is $____ or more, the interest rate paid on the entire balance in your account will be ____% with an annual percentage yield of __%.
+• If your [daily balance/average daily balance] is more than $____, but less than $____, the interest rate paid on the entire balance in your account will be ____% with an annual percentage yield of ____%.
+• If your [daily balance/average daily balance] is $____ or less, the interest rate paid on the entire balance will be ____% with an annual percentage yield of ____%.
+Tiering Method B
+• An interest rate of ____% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $____. The annual percentage yield for this tier will range from ____% to ____%, depending on the balance in the account.
+• An interest rate of ____% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $____. The annual percentage yield for this tier will range from ____% to ____%, depending on the balance in the account.
+• If your [daily balance/average daily balance] is $____ or less, the interest rate paid on the entire balance will be ____% with an annual percentage yield of ____%.
+(b) Compounding and Crediting
+(i) Frequency
+Interest will be compounded [on a ____ basis/every (time period)]. Interest will be credited to your account [on a ____ basis/every (time period)].
+(ii) Effect of Closing an Account
+If you close your account before interest is credited, you will not receive the accrued interest.
+(c) Minimum Balance Requirements
+(i) To Open the Account
+You must deposit $____ to open this account.
+(ii) To Avoid Imposition of Fees
+A minimum balance fee of $____ will be imposed every (time period) if the balance in the account falls below $____ any day of the (time period).
+A minimum balance fee of $____ will be imposed every (time period) if the average daily balance for the (time period) falls below $____. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period.
+(iii) To Obtain the Annual Percentage Yield Disclosed
+You must maintain a minimum balance of $____ in the account each day to obtain the disclosed annual percentage yield.
+You must maintain a minimum average daily balance of $____ to obtain the disclosed annual percentage yield. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period.
+(d) Balance Computation Method
+(i) Daily Balance Method
+We use the daily balance method to calculate the interest on your account. This method applies a daily periodic rate to the principal in the account each day.
+(ii) Average Daily Balance Method
+We use the average daily balance method to calculate interest on your account. This method applies a periodic rate to the average daily balance in the account for the period. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period.
+(e) Accrual of Interest on Noncash Deposits
+Interest begins to accrue no later than the business day we receive credit for the deposit of noncash items (for example, checks); or
+Interest begins to accrue on the business day you deposit noncash items (for example, checks).
+(f) Fees
+The following fees may be assessed against your account:
+____$____
+____$____
+____$____
+____(conditions for imposing fee) $____
+____% of ____.
+(g) Transaction Limitations
+The minimum amount you may [withdraw/write a check for] is $____.
+You may make ____ [deposits into/withdrawals from] your account each (time period).
+You may not make [deposits into/withdrawals from] your account until the maturity date.
+(h) Disclosures Relating to Time Accounts
+(i) Time Requirements
+Your account will mature on (date).
+Your account will mature in (time period).
+(ii) Early Withdrawal Penalties
+We [will/may] impose a penalty if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. The fee imposed will equal ____ days/week[s]/month[s] of interest; or
+We [will/may] impose a penalty of $____ if you withdraw [any/all] of the [deposited funds/principal] before the maturity date.
+If you withdraw some of your funds before maturity, the interest rate for the remaining funds in your account will be ____% with an annual percentage yield of ____%.
+(iii) Withdrawal of Interest Prior to Maturity
+The annual percentage yield assumes interest will remain on deposit until maturity. A withdrawal will reduce earnings.
+(iv) Renewal Policies
+(1) Automatically Renewable Time Accounts
+This account will automatically renew at maturity.
+You will have [____ calendar/business] days after the maturity date to withdraw funds without penalty; or
+There is no grace period following the maturity of this account to withdraw funds without penalty.
+(2) Non-Automatically Renewable Time Accounts
+This account will not renew automatically at maturity. If you do not renew the account, your deposit will be placed in [an interest-bearing/a noninterest-bearing] account.
+(v) Required Interest Distribution
+This account requires the distribution of interest and does not allow interest to remain in the account.
+(i) Bonuses
+You will [be paid/receive] [$____/(description of item)] as a bonus [when you open the account/on (date) ____].
+You must maintain a minimum [daily balance/average daily balance] of $____ to obtain the bonus.
+To earn the bonus, [$____/your entire principal] must remain on deposit [for (time period)/until (date)____].
+B–2—Model Clauses for Change in Terms
+On (date), the cost of (type of fee) will increase to $____.
+On (date), the interest rate on your account will decrease to ____% with an annual percentage yield of ____%.
+On (date), the minimum [daily balance/average daily balance] required to avoid imposition of a fee will increase to $____.
+B–3—Model Clauses for Pre-Maturity Notices for Time Accounts
+(a) Automatically Renewable Time Accounts With Maturities of One Year or Less But Longer Than One Month
+Your account will mature on (date).
+If the account renews, the new maturity date will be (date).
+The interest rate for the renewed account will be ____% with an annual percentage yield of ____%; or
+The interest rate and annual percentage yield have not yet been determined. They will be available on (date). Please call (phone number) to learn the interest rate and annual percentage yield for your new account.
+(b) Non-Automatically Renewable Time Accounts With Maturities Longer Than One Year
+Your account will mature on (date).
+If you do not renew the account, interest [will/will not] be paid after maturity.
 Appendix C to Part 1030—Effect on State Laws
-(a) Inconsistent Requirements 
-State law requirements that are inconsistent with the requirements of the act and this part are preempted to the extent of the inconsistency. A state law is inconsistent if it requires a depository institution to make disclosures or take actions that contradict the requirements of the federal law. A state law is also contradictory if it requires the use of the same term to represent a different amount or a different meaning than the federal law, requires the use of a term different from that required in the federal law to describe the same item, or permits a method of calculating interest on an account different from that required in the federal law. 
-(b) Preemption Determinations 
-A depository institution, state, or other interested party may request the Bureau to determine whether a state law requirement is inconsistent with the federal requirements. A request for a determination shall be in writing and addressed to the Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552. Notice that the Bureau intends to make a determination (either on request or on its own motion) will be published in the Federal Register, with an opportunity for public comment unless the Bureau finds that notice and opportunity for comment would be impracticable, unnecessary, or contrary to the public interest and publishes its reasons for such decision. Notice of a final determination will be published in the Federal Register and furnished to the party who made the request and to the appropriate state official. 
-(c) Effect of Preemption Determinations 
-After the Bureau determines that a state law is inconsistent, a depository institution may not make disclosures using the inconsistent term or take actions relying on the inconsistent law. 
-(d) Reversal of Determination 
-The Bureau reserves the right to reverse a determination for any reason bearing on the coverage or effect of state or federal law. Notice of reversal of a determination will be published in the Federal Register and a copy furnished to the appropriate state official. 
-[76 FR 79278, Dec. 21, 2011, as amended at 88 FR 16543, Mar. 20, 2023] 
+(a) Inconsistent Requirements
+State law requirements that are inconsistent with the requirements of the act and this part are preempted to the extent of the inconsistency. A state law is inconsistent if it requires a depository institution to make disclosures or take actions that contradict the requirements of the federal law. A state law is also contradictory if it requires the use of the same term to represent a different amount or a different meaning than the federal law, requires the use of a term different from that required in the federal law to describe the same item, or permits a method of calculating interest on an account different from that required in the federal law.
+(b) Preemption Determinations
+A depository institution, state, or other interested party may request the Bureau to determine whether a state law requirement is inconsistent with the federal requirements. A request for a determination shall be in writing and addressed to the Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552. Notice that the Bureau intends to make a determination (either on request or on its own motion) will be published in the Federal Register, with an opportunity for public comment unless the Bureau finds that notice and opportunity for comment would be impracticable, unnecessary, or contrary to the public interest and publishes its reasons for such decision. Notice of a final determination will be published in the Federal Register and furnished to the party who made the request and to the appropriate state official.
+(c) Effect of Preemption Determinations
+After the Bureau determines that a state law is inconsistent, a depository institution may not make disclosures using the inconsistent term or take actions relying on the inconsistent law.
+(d) Reversal of Determination
+The Bureau reserves the right to reverse a determination for any reason bearing on the coverage or effect of state or federal law. Notice of reversal of a determination will be published in the Federal Register and a copy furnished to the appropriate state official.
+[76 FR 79278, Dec. 21, 2011, as amended at 88 FR 16543, Mar. 20, 2023]
 Appendix D to Part 1030—Issuance of Official Interpretations
-Except in unusual circumstances, interpretations will not be issued separately but will be incorporated in an official commentary to this part, which will be amended periodically. No interpretations will be issued approving depository institutions' forms, statements, or calculation tools or methods. 
+Except in unusual circumstances, interpretations will not be issued separately but will be incorporated in an official commentary to this part, which will be amended periodically. No interpretations will be issued approving depository institutions' forms, statements, or calculation tools or methods.
 Supplement I to Part 1030—Official Interpretations
 Introduction
 1. Official status. This commentary is the means by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation DD.
