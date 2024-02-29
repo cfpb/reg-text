@@ -1,6 +1,3 @@
-PART 1024—REAL ESTATE SETTLEMENT PROCEDURES ACT (REGULATION X)
-Authority:12 U.S.C. 2603–2605, 2607, 2609, 2617, 5512, 5532, 5581.
-Source:76 FR 78981, Dec. 20, 2011, unless otherwise noted.
 Subpart A—General Provisions
 § 1024.1 Designation.
 This part, known as Regulation X, is issued by the Bureau of Consumer Financial Protection to implement the Real Estate Settlement Procedures Act of 1974, as amended, 12 U.S.C. 2601 et. seq.
@@ -414,7 +411,6 @@ Trial running balance means the accounting process that derives the target balan
 (2) Timeshare plans. A lender is not required to provide an applicant for a mortgage loan secured by a timeshare, as described under 11 U.S.C. 101(53D), the list of homeownership counseling organizations required under this section.
 [78 FR 6961, Jan. 31, 2013]
 Subpart C—Mortgage Servicing
-Source:78 FR 10876, Feb. 14, 2013, unless otherwise noted.
 § 1024.30 Scope.
 (a) In general. Except as provided in paragraphs (b) and (c) of this section, this subpart applies to any mortgage loan, as that term is defined in § 1024.31.
 (b) Exemptions. Except as otherwise provided in § 1024.41(j), §§ 1024.38 through 1024.41 of this subpart shall not apply to the following:

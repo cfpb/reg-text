@@ -1,6 +1,3 @@
-PART 1005—ELECTRONIC FUND TRANSFERS (REGULATION E)
-Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 1693b. Subpart B is also issued under 12 U.S.C. 5601 and 15 U.S.C. 1693o–1.
-Source:76 FR 81023, Dec. 27, 2011, unless otherwise noted.
 Subpart A—General
 § 1005.1 Authority and purpose.
 (a) Authority. The regulation in this part, known as Regulation E, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Electronic Fund Transfer Act (15 U.S.C. 1693 et seq.). The information-collection requirements have been approved by the Office of Management and Budget under 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170–0014.
@@ -660,7 +657,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (i) Are not required to be provided on or after January 31, 2011, with respect to in-store signage and general advertising.
 (ii) Are not required to be provided on or after January 31, 2013, with respect to messages during customer service calls and Web sites.
 Subpart B—Requirements for Remittance Transfers
-Source:77 FR 6285, Feb. 7, 2012, unless otherwise noted.
 § 1005.30 Remittance transfer definitions.
 Except as otherwise provided, for purposes of this subpart, the following definitions apply:
 (a) “Agent” means an agent, authorized delegate, or person affiliated with a remittance transfer provider, as defined under State or other applicable law, when such agent, authorized delegate, or affiliate acts for that remittance transfer provider.

@@ -1,6 +1,3 @@
-PART 1002—EQUAL CREDIT OPPORTUNITY ACT (REGULATION B)
-Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 1691b. Subpart B is also issued under 15 U.S.C. 1691c–2.
-Source:76 FR 79445, Dec. 21, 2011, unless otherwise noted.
 Subpart A—General
 § 1002.1 Authority, scope and purpose.
 (a) Authority and scope. This part, known as Regulation B, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to title VII (Equal Credit Opportunity Act) of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.). Except as otherwise provided herein, this subpart applies to all persons who are creditors, as defined in § 1002.2(l), other than a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 1376. Information collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170–0013.
@@ -338,7 +335,6 @@ For the purposes of this part, unless the context indicates otherwise or as othe
 (ii) Inform the applicant that the Secretary of Housing and Urban Development has been notified and that remedies may be available under the Fair Housing Act.
 (c) Failure of compliance. A creditor's failure to comply with § 1002.6(b)(6), § 1002.9, § 1002.10, § 1002.12 or § 1002.13 is not a violation if it results from an inadvertent error. On discovering an error under §§ 1002.9 and 1002.10, the creditor shall correct it as soon as possible. If a creditor inadvertently obtains the monitoring information regarding the ethnicity, race, and sex of the applicant in a dwelling-related transaction not covered by § 1002.13, the creditor may retain information and act on the application without violating the regulation.
 Subpart B—Small Business Lending Data Collection
-Source:88 FR 35528, May 31, 2023, unless otherwise noted.
 § 1002.101 Authority, purpose, and scope.
 (a) Authority and scope. This subpart to Regulation B is issued by the Bureau pursuant to section 704B of the Equal Credit Opportunity Act (15 U.S.C. 1691c–2). Except as otherwise provided herein, this subpart applies to covered financial institutions, as defined in § 1002.105(b), other than a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 1376, 2004 (2010).
 (b) Purpose. This subpart implements section 704B of the Equal Credit Opportunity Act, which Congress intended:
