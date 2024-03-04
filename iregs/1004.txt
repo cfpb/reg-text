@@ -16,7 +16,6 @@ Housing creditor means:
 (4) Any transferee of a party listed in paragraph (c)(1), (2), or (3) of this section.
 State means any State of the United States of America, the District of Columbia, Puerto Rico, the Virgin Islands, the Northern Mariana Islands, American Samoa, Guam, and any other territory or possession of the United States.
 State law means a State constitution, statute, or regulation or any provision thereof.
-```
 § 1004.3 Preemption of State law.
 Pursuant to 12 U.S.C. 3803, a State-chartered or -licensed housing creditor may make, purchase, and enforce alternative mortgage transactions in accordance with § 1004.4(a) through (c) of this part (as applicable), notwithstanding any provision of State law that restricts the ability of the housing creditor to adjust or renegotiate an interest rate or finance charge with respect to the transaction or to change the amount of interest or finance charges included in a regular periodic payment as a result of such an adjustment or renegotiation.
 § 1004.4 Requirements for alternative mortgage transactions.
