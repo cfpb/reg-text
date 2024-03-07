@@ -1,3 +1,4 @@
+Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 6804.
 § 1016.1 Purpose and scope.
 (a) Purpose. This part governs the treatment of nonpublic personal information about consumers by the financial institutions listed in paragraph (b) of this section. This part:
 (1) Requires a financial institution to provide notice to customers about its privacy policies and practices;
