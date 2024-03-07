@@ -1,4 +1,3 @@
-Authority:12 U.S.C. 2601, 2603-2605, 2607, 2609, 2617, 3353, 5511, 5512, 5532, 5581; 15 U.S.C. 1601 et seq.”
 Subpart A—General
 § 1026.1 Authority, purpose, coverage, organization, enforcement, and liability.
 (a) Authority. This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601 et seq.). In addition, this part implements certain provisions of the Financial Institutions Reform, Recovery, and Enforcement Act, as amended (12 U.S.C. 3331 et seq.). The Bureau's information-collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170-0015 (Truth in Lending).
@@ -27,7 +26,6 @@ Subpart A—General
 (7) Subpart G relates to credit card accounts under an open-end (not home-secured) consumer credit plan (except for § 1026.57(c), which applies to all open-end credit plans). Section 1026.51 contains rules on evaluation of a consumer's ability to make the required payments under the terms of an account. Section 1026.52 limits the fees that a consumer can be required to pay with respect to an open-end (not home-secured) consumer credit plan during the first year after account opening. Section 1026.53 contains rules on allocation of payments in excess of the minimum payment. Section 1026.54 sets forth certain limitations on the imposition of finance charges as the result of a loss of a grace period. Section 1026.55 contains limitations on increases in annual percentage rates, fees, and charges for credit card accounts. Section 1026.56 prohibits the assessment of fees or charges for over-the-limit transactions unless the consumer affirmatively consents to the creditor's payment of over-the-limit transactions. Section 1026.57 sets forth rules for reporting and marketing of college student open-end credit. Section 1026.58 sets forth requirements for the Internet posting of credit card accounts under an open-end (not home-secured) consumer credit plan.
 (8) Several appendices contain information such as the procedures for determinations about state laws, state exemptions and issuance of official interpretations, special rules for certain kinds of credit plans, and the rules for computing annual percentage rates in closed-end credit transactions and total-annual-loan-cost rates for reverse mortgage transactions.
 (e) Enforcement and liability. Section 108 of the Truth in Lending Act contains the administrative enforcement provisions for that Act. Sections 112, 113, 130, 131, and 134 contain provisions relating to liability for failure to comply with the requirements of the Truth in Lending Act and the regulation. Section 1204(c) of title XII of the Competitive Equality Banking Act of 1987, Public Law 100-86, 101 Stat. 552, incorporates by reference administrative enforcement and civil liability provisions of sections 108 and 130 of the Truth in Lending Act. Section 19 of the Real Estate Settlement Procedures Act contains the administrative enforcement provisions for that Act.
-[76 FR 79772, Dec. 22, 2011, as amended at 77 FR 70114, Nov. 23, 2012; 78 FR 6962, Jan. 31, 2013; 78 FR 80106, Dec. 31, 2013; 80 FR 32687, June 9, 2015; 82 FR 37768, Aug. 11, 2017]
 § 1026.2 Definitions and rules of construction.
 (a) Definitions. For purposes of this part, the following definitions apply:
 (1) Act means the Truth in Lending Act (15 U.S.C. 1601 et seq.).
@@ -89,7 +87,6 @@ Subpart A—General
 (2) Where the words obligation and transaction are used in the regulation, they refer to a consumer credit obligation or transaction, depending upon the context. Where the word credit is used in the regulation, it means consumer credit unless the context clearly indicates otherwise.
 (3) Unless defined in this part, the words used have the meanings given to them by state law or contract.
 (4) Where the word amount is used in this part to describe disclosure requirements, it refers to a numerical amount.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80106, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016; 81 FR 84369, Nov. 22, 2016; 88 FR 30622, May 11, 2023]
 § 1026.3 Exempt transactions.
 The following transactions are not subject to this part or, if the exemption is limited to specified provisions of this part, are not subject to those provisions:
 (a) Business, commercial, agricultural, or organizational credit.
@@ -132,7 +129,6 @@ The following transactions are not subject to this part or, if the exemption is 
 (6) The following disclosures are provided:
 (i) Disclosures described in § 1026.18 that comply with this part; or
 (ii) Alternatively, disclosures described in § 1026.19(e) and (f) that comply with this part.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80107, Dec. 31, 2013; 82 FR 37768, Aug. 11, 2017]
 § 1026.4 Finance charge.
 (a) Definition. The finance charge is the cost of consumer credit as a dollar amount. It includes any charge payable directly or indirectly by the consumer and imposed directly or indirectly by the creditor as an incident to or a condition of the extension of credit. It does not include any charge of a type payable in a comparable cash transaction.
 (1) Charges by third parties. The finance charge includes fees and amounts charged by someone other than the creditor, unless otherwise excluded under this section, if the creditor:
@@ -191,7 +187,6 @@ The following transactions are not subject to this part or, if the exemption is 
 (2) The premium for insurance in lieu of perfecting a security interest to the extent that the premium does not exceed the fees described in paragraph (e)(1) of this section that otherwise would be payable.
 (3) Taxes on security instruments. Any tax levied on security instruments or on documents evidencing indebtedness if the payment of such taxes is a requirement for recording the instrument securing the evidence of indebtedness.
 (f) Prohibited offsets. Interest, dividends, or other income received or to be received by the consumer on deposits or investments shall not be deducted in computing the finance charge.
-[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]
 Subpart B—Open-End Credit
 § 1026.5 General disclosure requirements.
 (a) Form of disclosures —
@@ -342,7 +337,6 @@ Subpart B—Open-End Credit
 (i) Voluntary credit insurance, debt cancellation or debt suspension. The disclosures in § 1026.4(d)(1)(i) and (d)(1)(ii) and (d)(3)(i) through (d)(3)(iii) if the creditor offers optional credit insurance or debt cancellation or debt suspension coverage that is identified in § 1026.4(b)(7) or (b)(10).
 (ii) Security interests. The fact that the creditor has or will acquire a security interest in the property purchased under the plan, or in other property identified by item or type.
 (iii) Statement of billing rights. A statement that outlines the consumer's rights and the creditor's responsibilities under §§ 1026.12(c) and 1026.13 and that is substantially similar to the statement found in Model Form G-3(A) in appendix G to this part.
-[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]
 § 1026.7 Periodic statement.
 The creditor shall furnish the consumer with a periodic statement that discloses the following items, to the extent applicable:
 (a) Rules affecting home-equity plans. The requirements of paragraph (a) of this section apply only to home-equity plans subject to the requirements of § 1026.40. Alternatively, a creditor subject to this paragraph may, at its option, comply with any of the requirements of paragraph (b) of this section; however, any creditor that chooses not to provide a disclosure under paragraph (a)(7) of this section must comply with paragraph (b)(6) of this section.
@@ -416,7 +410,6 @@ The creditor shall furnish the consumer with a periodic statement that discloses
 (C) A billing cycle where paying the minimum payment due for that billing cycle will pay the entire outstanding balance on the account for that billing cycle.
 (13) Format requirements. The due date required by paragraph (b)(11) of this section shall be disclosed on the front of the first page of the periodic statement. The amount of the late payment fee and the annual percentage rate(s) required by paragraph (b)(11) of this section shall be stated in close proximity to the due date. The ending balance required by paragraph (b)(10) of this section and the disclosures required by paragraph (b)(12) of this section shall be disclosed closely proximate to the minimum payment due. The due date, late payment fee and annual percentage rate, ending balance, minimum payment due, and disclosures required by paragraph (b)(12) of this section shall be grouped together. Sample G-18(D) in appendix G to this part sets forth an example of how these terms may be grouped.
 (14) Deferred interest or similar transactions. For accounts with an outstanding balance subject to a deferred interest or similar program, the date by which that outstanding balance must be paid in full in order to avoid the obligation to pay finance charges on such balance must be disclosed on the front of any page of each periodic statement issued during the deferred interest period beginning with the first periodic statement issued during the deferred interest period that reflects the deferred interest or similar transaction. The disclosure provided pursuant to this paragraph must be substantially similar to Sample G-18(H) in appendix G to this part.
-[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]
 § 1026.8 Identifying transactions on periodic statements.
 The creditor shall identify credit transactions on or with the first periodic statement that reflects the transaction by furnishing the following information, as applicable:
 (a) Sale credit.
@@ -556,7 +549,6 @@ The creditor shall identify credit transactions on or with the first periodic st
 (ii) Impose a fee or charge or treat the account as in default solely as a result of the rejection; or
 (iii) Require repayment of the balance on the account using a method that is less beneficial to the consumer than one of the methods listed in § 1026.55(c)(2).
 (3) Exception. Section 1026.9(h) does not apply when the creditor has not received the consumer's required minimum periodic payment within 60 days after the due date for that payment.
-[76 FR 79772, Dec. 22, 2011, as amended at 86 FR 69781, Dec. 8, 2021]
 § 1026.10 Payments.
 (a) General rule. A creditor shall credit a payment to the consumer's account as of the date of receipt, except when a delay in crediting does not result in a finance or other charge or except as provided in paragraph (b) of this section.
 (b) Specific requirements for payments —
@@ -640,7 +632,6 @@ The creditor shall identify credit transactions on or with the first periodic st
 (1) Prohibit any person who honors a credit card from offering a discount to a consumer to induce the consumer to pay by cash, check, or similar means rather than by use of a credit card or its underlying account for the purchase of property or services; or
 (2) Require any person who honors the card issuer's credit card to open or maintain any account or obtain any other service not essential to the operation of the credit card plan from the card issuer or any other person, as a condition of participation in a credit card plan. If maintenance of an account for clearing purposes is determined to be essential to the operation of the credit card plan, it may be required only if no service charges or minimum balance requirements are imposed.
 (g) Relation to Electronic Fund Transfer Act and Regulation E. For guidance on whether Regulation Z (12 CFR part 1026) or Regulation E (12 CFR part 1005) applies in instances involving both credit and electronic fund transfer aspects, refer to Regulation E, 12 CFR 1005.12(a) regarding issuance and liability for unauthorized use. On matters other than issuance and liability, this section applies to the credit aspects of combined credit/electronic fund transfer transactions, as applicable.
-[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]
 § 1026.13 Billing error resolution.
 (a) Definition of billing error. For purposes of this section, the term billing error means:
 (1) A reflection on or with a periodic statement of an extension of credit that is not made to the consumer or to a person who has actual, implied, or apparent authority to use the consumer's credit card or open-end credit plan.
@@ -681,7 +672,6 @@ The creditor shall identify credit transactions on or with the first periodic st
 (i) Relation to Electronic Fund Transfer Act and Regulation E. A creditor shall comply with the requirements of Regulation E, 12 CFR 1005.11, and 1005.18(e) as applicable, governing error resolution rather than those of paragraphs (a), (b), (c), (e), (f), and (h) of this section if:
 (1) Except with respect to a prepaid account as defined in § 1026.61, an extension of credit that is incident to an electronic fund transfer occurs under an agreement between the consumer and a financial institution to extend credit when the consumer's account is overdrawn or to maintain a specified minimum balance in the consumer's account; or
 (2) With regard to a covered separate credit feature and an asset feature of a prepaid account where both are accessible by a hybrid prepaid-credit card as defined in § 1026.61, an extension of credit that is incident to an electronic fund transfer occurs when the hybrid prepaid-credit card accesses both funds in the asset feature of the prepaid account and a credit extension from the credit feature with respect to a particular transaction.
-[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84369, Nov. 22, 2016]
 § 1026.14 Determination of annual percentage rate.
 (a) General rule. The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate. An annual percentage rate shall be considered accurate if it is not more than 1⁄8th of 1 percentage point above or below the annual percentage rate determined in accordance with this section. An error in disclosure of the annual percentage rate or finance charge shall not, in itself, be considered a violation of this part if:
 (1) The error resulted from a corresponding error in a calculation tool used in good faith by the creditor; and
@@ -829,7 +819,6 @@ Subpart C—Closed-End Credit
 (1) The consumer has approved in writing the annual percentage rate or rates, the range of balances to which they apply, and the method of treating any unearned finance charge on an existing balance.
 (2) The creditor retains no security interest in any property after the creditor has received payments equal to the cash price and any finance charge attributable to the sale of that property. For purposes of this provision, in the case of items purchased on different dates, the first purchased is deemed the first item paid for; in the case of items purchased on the same date, the lowest priced is deemed the first item paid for.
 (i) Interim student credit extensions. For transactions involving an interim credit extension under a student credit program for which an application is received prior to the mandatory compliance date of §§ 1026.46, 47, and 48, the creditor need not make the following disclosures: the finance charge under § 1026.18(d), the payment schedule under § 1026.18(g), the total of payments under § 1026.18(h), or the total sale price under § 1026.18(j) at the time the credit is actually extended. The creditor must make complete disclosures at the time the creditor and consumer agree upon the repayment schedule for the total obligation. At that time, a new set of disclosures must be made of all applicable items under § 1026.18.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 11004, Feb. 14, 2013; 78 FR 80107, Dec. 31, 2013]
 § 1026.18 Content of disclosures.
 For each transaction other than a mortgage transaction subject to § 1026.19(e) and (f), the creditor shall disclose the following information as applicable:
 (a) Creditor. The identity of the creditor making the disclosures.
@@ -934,7 +923,6 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 (t) “No-guarantee-to-refinance” statement —
 (1) Disclosure. For a closed-end transaction secured by real property or a dwelling, other than a transaction that is subject to § 1026.19(e) and (f), the creditor shall disclose a statement that there is no guarantee the consumer can refinance the transaction to lower the interest rate or periodic payments.
 (2) Format. The statement required by paragraph (t)(1) of this section must be in a form substantially similar to Model Clause H-4(K) in appendix H to this part.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80108, Dec. 31, 2013]
 § 1026.19 Certain mortgage and variable-rate transactions.
 (a) Mortgage transactions subject to RESPA —
 (1)
@@ -1061,7 +1049,6 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 (ii) In the “Avoiding Foreclosure” section of the booklet, it is permissible to inform homeowners that they may find information on and assistance in avoiding foreclosures at http://www.consumerfinance.gov. The reference to the HUD Web site, http://www.hud.gov/foreclosure/, in the “Avoiding Foreclosure” section of the booklet shall not be deleted.
 (iii) In the “No Discrimination” section of the appendix to the booklet, “the Bureau of Consumer Financial Protection” may be substituted for the reference to the “Board of Governors of the Federal Reserve System.” In the Contact Information section of the appendix to the booklet, the following contact information for the Bureau may be added: “Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552; www.consumerfinance.gov/learnmore.” The contact information for HUD's Office of RESPA and Interstate Land Sales may be removed from the “Contact Information” section of the appendix to the booklet.
 (iv) The cover of the booklet may be in any form and may contain any drawings, pictures or artwork, provided that the title appearing on the cover shall not be changed. Names, addresses, and telephone numbers of the creditor or others and similar information may appear on the cover, but no discussion of the matters covered in the booklet shall appear on the cover. References to HUD on the cover of the booklet may be changed to references to the Bureau.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80108, Dec. 31, 2013; 80 FR 8776, Feb. 19, 2015; 82 FR 37768, Aug. 11, 2017; 83 FR 19174, May 2, 2018]
 § 1026.20 Disclosure requirements regarding post-consummation events.
 (a) Refinancings. A refinancing occurs when an existing obligation that was subject to this subpart is satisfied and replaced by a new obligation undertaken by the same consumer. A refinancing is a new transaction requiring new disclosures to the consumer. The new finance charge shall include any unearned portion of the old finance charge that is not credited to the existing obligation. The following shall not be treated as a refinancing:
 (1) A renewal of a single payment obligation with no change in the original terms.
@@ -1158,7 +1145,6 @@ For each transaction other than a mortgage transaction subject to § 1026.19(e) 
 (ii) Cancellations other than upon the consumer's request. If the creditor or servicer cancels the escrow account and the cancellation is not at the consumer's request, the creditor or servicer shall ensure that the consumer receives the disclosures required by paragraph (e)(2) of this section no later than 30 business days before the closure of the consumer's escrow account.
 (iii) Receipt of disclosure. If the disclosures required by paragraph (e)(2) of this section are not provided to the consumer in person, the consumer is considered to have received the disclosures three business days after they are delivered or placed in the mail.
 (f) Successor in interest. If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by paragraphs (c), (d), and (e) of this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 11004, Feb. 14, 2013; 78 FR 63005, Oct. 23, 2013; 78 FR 80111, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016]
 § 1026.21 Treatment of credit balances.
 When a credit balance in excess of $1 is created in connection with a transaction (through transmittal of funds to a creditor in excess of the total balance due on an account, through rebates of unearned finance charges or insurance premiums, or through amounts otherwise owed to or held for the benefit of a consumer), the creditor shall:
 (a) Credit the amount of the credit balance to the consumer's account;
@@ -1184,7 +1170,6 @@ When a credit balance in excess of $1 is created in connection with a transactio
 (2) Creditors may use any other computation tool in determining the annual percentage rate if the rate so determined equals the rate determined in accordance with appendix J to this part, within the degree of accuracy set forth in paragraph (a) of this section.
 (c) Single add-on rate transactions. If a single add-on rate is applied to all transactions with maturities up to 60 months and if all payments are equal in amount and period, a single annual percentage rate may be disclosed for all those transactions, so long as it is the highest annual percentage rate for any such transaction.
 (d) Certain transactions involving ranges of balances. For purposes of disclosing the annual percentage rate referred to in § 1026.17(g)(4) (Mail or telephone orders—delay in disclosures) and (h) (Series of sales—delay in disclosures), if the same finance charge is imposed on all balances within a specified range of balances, the annual percentage rate computed for the median balance may be disclosed for all the balances. However, if the annual percentage rate computed for the median balance understates the annual percentage rate computed for the lowest balance by more than 8 percent of the latter rate, the annual percentage rate shall be computed on whatever lower balance will produce an annual percentage rate that does not result in an understatement of more than 8 percent of the rate determined on the lowest balance.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80112, Dec. 31, 2013; 80 FR 80229, Dec. 24, 2015]
 § 1026.23 Right of rescission.
 (a) Consumer's right to rescind.
 (1) In a credit transaction in which a security interest is or will be retained or acquired in a consumer's principal dwelling, each consumer whose ownership interest is or will be subject to the security interest shall have the right to rescind the transaction, except for transactions described in paragraph (f) of this section. For purposes of this section, the addition to an existing obligation of a security interest in a consumer's principal dwelling is a transaction. The right of rescission applies only to the addition of the security interest and not the existing obligation. The creditor shall deliver the notice required by paragraph (b) of this section but need not deliver new material disclosures. Delivery of the required notice shall begin the rescission period.
@@ -1240,7 +1225,6 @@ When a credit balance in excess of $1 is created in connection with a transactio
 (ii) The total of payments for each transaction subject to § 1026.19(e) and (f) shall be considered accurate for purposes of this section if the disclosed total of payments:
 (A) Is understated by no more than $35; or
 (B) Is greater than the amount required to be disclosed.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 30745, May 23, 2013; 78 FR 60440, Oct. 1, 2013; 82 FR 37769, Aug. 11, 2017]
 § 1026.24 Advertising.
 (a) Actually available terms. If an advertisement for credit states specific credit terms, it shall state only those terms that actually are or will be arranged or offered by the creditor.
 (b) Clear and conspicuous standard. Disclosures required by this section shall be made clearly and conspicuously.
@@ -1315,7 +1299,6 @@ Subpart D—Miscellaneous
 (i) A creditor shall maintain records sufficient to evidence all compensation it pays to a loan originator, as defined in § 1026.36(a)(1), and the compensation agreement that governs those payments for three years after the date of payment.
 (ii) A loan originator organization, as defined in § 1026.36(a)(1)(iii), shall maintain records sufficient to evidence all compensation it receives from a creditor, a consumer, or another person; all compensation it pays to any individual loan originator, as defined in § 1026.36(a)(1)(ii); and the compensation agreement that governs each such receipt or payment, for three years after the date of each such receipt or payment.
 (3) Records related to minimum standards for transactions secured by a dwelling. Notwithstanding paragraph (a) of this section, a creditor shall retain evidence of compliance with § 1026.43 of this regulation for three years after consummation of a transaction covered by that section.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6583, Jan. 30, 2013; 78 FR 11410, Feb. 15, 2013; 78 FR 60382, Oct. 1, 2013; 78 FR 80112, Dec. 31, 2013; 82 FR 37769, Aug. 11, 2017]
 § 1026.26 Use of annual percentage rate in oral disclosures.
 (a) Open-end credit. In an oral response to a consumer's inquiry about the cost of open-end credit, only the annual percentage rate or rates shall be stated, except that the periodic rate or rates also may be stated. If the annual percentage rate cannot be determined in advance because there are finance charges other than a periodic rate, the corresponding annual percentage rate shall be stated, and other cost information may be given.
 (b) Closed-end credit. In an oral response to a consumer's inquiry about the cost of closed-end credit, only the annual percentage rate shall be stated, except that a simple annual rate or periodic rate also may be stated if it is applied to an unpaid balance. If the annual percentage rate cannot be determined in advance, the annual percentage rate for a sample transaction shall be stated, and other cost information for the consumer's specific transaction may be given.
@@ -1331,7 +1314,6 @@ Disclosures required by this part may be made in a language other than English, 
 (b) Equivalent disclosure requirements. If the Bureau determines that a disclosure required by state law (other than a requirement relating to the finance charge, annual percentage rate, or the disclosures required under § 1026.32) is substantially the same in meaning as a disclosure required under the Act or this part, creditors in that state may make the state disclosure in lieu of the Federal disclosure. A creditor, state, or other interested party may request the Bureau to determine whether a state disclosure is substantially the same in meaning as a Federal disclosure.
 (c) Request for determination. The procedures under which a request for a determination may be made under this section are set forth in appendix A.
 (d) Special rule for credit and charge cards. State law requirements relating to the disclosure of credit information in any credit or charge card application or solicitation that is subject to the requirements of section 127(c) of chapter 2 of the Act (§ 1026.60 of the regulation) or in any renewal notice for a credit or charge card that is subject to the requirements of section 127(d) of chapter 2 of the Act (§ 1026.9(e) of the regulation) are preempted. State laws relating to the enforcement of section 127(c) and (d) of the Act are not preempted.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80112, Dec. 31, 2013]
 § 1026.29 State exemptions.
 (a) General rule. Any state may apply to the Bureau to exempt a class of transactions within the state from the requirements of chapter 2 (Credit transactions) or chapter 4 (Credit billing) of the Act and the corresponding provisions of this part. The Bureau shall grant an exemption if it determines that:
 (1) The state law is substantially similar to the Federal law or, in the case of chapter 4, affords the consumer greater protection than the Federal law; and
@@ -1378,7 +1360,6 @@ Subpart E—Special Rules for Certain Home Mortgage Transactions
 (iii) Within a reasonable time, whatever adjustments are necessary are made to the loan or credit plan to either, at the choice of the consumer:
 (A) Make the loan or credit plan satisfy the requirements of 15 U.S.C. 1631-1651; or
 (B) Change the terms of the loan or credit plan in a manner beneficial to the consumer so that the loan or credit plan will no longer be a high-cost mortgage.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6962, Jan. 31, 2013; 78 FR 60440, Oct. 1, 2013]
 § 1026.32 Requirements for high-cost mortgages.
 (a) Coverage.
 (1) The requirements of this section apply to a high-cost mortgage, which is any consumer credit transaction that is secured by the consumer's principal dwelling, other than as provided in paragraph (a)(2) of this section, and in which:
@@ -1495,7 +1476,6 @@ Subpart E—Special Rules for Certain Home Mortgage Transactions
 (i) There is fraud or material misrepresentation by the consumer in connection with the loan or open-end credit agreement;
 (ii) The consumer fails to meet the repayment terms of the agreement for any outstanding balance that results in a default in payment under the loan; or
 (iii) There is any action or inaction by the consumer that adversely affects the creditor's security for the loan, or any right of the creditor in such security.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6583, Jan. 30, 2013; 78 FR 6962, Jan. 31, 2013; 78 FR 35502, June 12, 2013; 78 FR 60440, Oct. 1, 2013]
 § 1026.33 Requirements for reverse mortgages.
 (a) Definition. For purposes of this subpart, reverse mortgage transaction means a nonrecourse consumer credit obligation in which:
 (1) A mortgage, deed of trust, or equivalent consensual security interest securing one or more advances is created in the consumer's principal dwelling; and
@@ -1573,7 +1553,6 @@ Subpart E—Special Rules for Certain Home Mortgage Transactions
 (v) Timing of delivery of payoff statements. A payoff statement, as described in paragraph (a)(9)(i) of this section, for a high-cost mortgage shall be provided by a creditor or servicer within five business days after receiving a request for such statement by a consumer or a person authorized by the consumer to obtain such statement.
 (10) Financing of points and fees. A creditor that extends credit under a high-cost mortgage may not finance charges that are required to be included in the calculation of points and fees, as that term is defined in § 1026.32(b)(1) and (2). Credit insurance premiums or debt cancellation or suspension fees that are required to be included in points and fees under § 1026.32(b)(1)(iv) or (2)(iv) shall not be considered financed by the creditor when they are calculated and paid in full on a monthly basis.
 (b) Prohibited acts or practices for dwelling-secured loans; structuring loans to evade high-cost mortgage requirements. A creditor shall not structure any transaction that is otherwise a high-cost mortgage in a form, for the purpose, and with the intent to evade the requirements of a high-cost mortgage subject to this subpart, including by dividing any loan transaction into separate parts.
-[78 FR 6964, Jan. 31, 2013, as amended at 78 FR 30745, May 23, 2013; 78 FR 63005, Oct. 23, 2013]
 § 1026.35 Requirements for higher-priced mortgage loans.
 (a) Definitions. For purposes of this section:
 (1) “Higher-priced mortgage loan” means a closed-end consumer credit transaction secured by the consumer's principal dwelling with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set:
@@ -1693,7 +1672,6 @@ Subpart E—Special Rules for Certain Home Mortgage Transactions
 (iv) No charge for copy of appraisal. A creditor shall not charge the consumer for a copy of a written appraisal required to be provided to the consumer pursuant to paragraph (c)(6)(i) of this section.
 (7) Relation to other rules. The rules in this paragraph (c) were adopted jointly by the Federal Reserve Board (Board), the Office of the Comptroller of the Currency (OCC), the Federal Deposit Insurance Corporation, the National Credit Union Administration, the Federal Housing Finance Agency, and the Bureau. These rules are substantively identical to the Board's and the OCC's higher-priced mortgage loan appraisal rules published separately in 12 CFR 226.43 (for the Board) and in 12 CFR part 34, subpart G and 12 CFR part 164, subpart B (for the OCC).
 (d) Evasion; open-end credit. In connection with credit secured by a consumer's principal dwelling that does not meet the definition of open-end credit in § 1026.2(a)(20), a creditor shall not structure a home-secured loan as an open-end plan to evade the requirements of this section.
-[78 FR 4753, Jan. 22, 2013, as amended at 78 FR 10442, Feb. 13, 2013; 78 FR 30745, May 23, 2013; 78 FR 44718, July 24, 2013; 78 FR 60441, Oct. 1, 2013; 78 FR 78585, 78586, Dec. 26, 2013; 80 FR 59967, Oct. 2, 2015; 81 FR 16082, Mar. 25, 2016; 86 FR 9852, Feb. 17, 2021]
 § 1026.36 Prohibited acts or practices and certain requirements for credit secured by a dwelling.
 (a) Definitions —
 (1) Loan originator.
@@ -1813,7 +1791,6 @@ Subpart E—Special Rules for Certain Home Mortgage Transactions
 (i) A “first-time borrower” means a consumer who has not previously received a closed-end credit transaction or open-end credit plan secured by a dwelling.
 (ii) “Negative amortization” means a payment schedule with regular periodic payments that cause the principal balance to increase.
 (3) Steering prohibited. A creditor that extends credit to a first-time borrower in connection with a closed-end transaction secured by a dwelling, other than a reverse mortgage transaction subject to § 1026.33 or a transaction secured by a consumer's interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in negative amortization shall not steer or otherwise direct a consumer to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 6966, Jan. 31, 2013; 78 FR 11006, Feb. 14, 2013; 78 FR 11410, Feb. 15, 2013; 78 FR 60441, Oct. 1, 2013; 80 FR 8776, Feb. 19, 2015; 81 FR 72388, Oct. 19, 2016; 86 FR 69781, Dec. 8, 2021]
 § 1026.37 Content of disclosures for certain mortgage transactions (Loan Estimate).
 For each transaction subject to § 1026.19(e), the creditor shall disclose the information in this section:
 (a) General information —
@@ -2059,7 +2036,6 @@ For each transaction subject to § 1026.19(e), the creditor shall disclose the i
 (iii) Logo or slogan. The creditor providing the form may use a logo for, and include a slogan with, the information required by paragraph (a)(3) of this section in any font size or type, provided that such logo or slogan does not cause the information required by paragraph (a)(3) of this section to exceed the space provided for that information, as illustrated in form H-24 of appendix H to this part. If the creditor does not use a logo for the information required by paragraph (a)(3) of this section, the information shall be disclosed in a similar format as form H-24.
 (iv) Business card. The creditor may physically attach a business card over the information required to be disclosed by paragraph (a)(3) of this section.
 (v) Administrative information. The creditor may insert at the bottom of each page under the disclosures required by this section as illustrated by form H-24 of appendix H to this part, any administrative information, text, or codes that assist in identification of the form or the information disclosed on the form, provided that the space provided on form H-24 of appendix H to this part for any of the information required by this section is not altered.
-[78 FR 80113, Dec. 31, 2013, as amended at 80 FR 8776, Feb. 19, 2015; 82 FR 37769, Aug. 11, 2017]
 § 1026.38 Content of disclosures for certain mortgage transactions (Closing Disclosure).
 For each transaction subject to § 1026.19(f), the creditor shall disclose the information in this section:
 (a) General information —
@@ -2390,7 +2366,6 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 (C) The tables required to be disclosed by paragraphs (j) and (k) of this section may be deleted.
 (viii) Translation. The form may be translated into languages other than English, and creditors may modify form H-25 of appendix H to this part to the extent that translation prevents the headings, labels, designations, and required disclosure items under this section from fitting in the space provided on form H-25.
 (ix) Customary recitals and information. An additional page may be attached to the form for the purpose of including customary recitals and information used locally in real estate settlements.
-[78 FR 80120, Dec. 31, 2013, as amended at 80 FR 8776, Feb. 19, 2015; 80 FR 43920, July 24, 2015; 82 FR 37770, Aug. 11, 2017]
 § 1026.39 Mortgage transfer disclosures.
 (a) Scope. The disclosure requirements of this section apply to any covered person except as otherwise provided in this section. For purposes of this section:
 (1) A “covered person” means any person, as defined in § 1026.2(a)(22), that becomes the owner of an existing mortgage loan by acquiring legal title to the debt obligation, whether through a purchase, assignment or other transfer, and who acquires more than one mortgage loan in any twelve-month period. For purposes of this section, a servicer of a mortgage loan shall not be treated as the owner of the obligation if the servicer holds title to the loan, or title is assigned to the servicer, solely for the administrative convenience of the servicer in servicing the obligation.
@@ -2421,7 +2396,6 @@ For each transaction subject to § 1026.19(f), the creditor shall disclose the i
 (iv) A statement that, if the loan is sold, the new covered person, using the term “lender,” may have a different policy.
 (e) Optional disclosures. In addition to the information required to be disclosed under paragraph (d) of this section, a covered person may, at its option, provide any other information regarding the transaction.
 (f) Successor in interest. If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by paragraph (b) of this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80130, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016]
 § 1026.40 Requirements for home equity plans.
 The requirements of this section apply to open-end credit plans secured by the consumer's dwelling. For purposes of this section, an annual percentage rate is the annual percentage rate corresponding to the periodic rate as determined under § 1026.14(b).
 (a) Form of disclosures —
@@ -2495,7 +2469,6 @@ The requirements of this section apply to open-end credit plans secured by the c
 (iv) Upon the consumer's death.
 (g) Refund of fees. A creditor shall refund all fees paid by the consumer to anyone in connection with an application if any term required to be disclosed under paragraph (d) of this section changes (other than a change due to fluctuations in the index in a variable-rate plan) before the plan is opened and, as a result, the consumer elects not to open the plan.
 (h) Imposition of nonrefundable fees. Neither a creditor nor any other person may impose a nonrefundable fee in connection with an application until three business days after the consumer receives the disclosures and brochure required under this section. If the disclosures and brochure are mailed to the consumer, the consumer is considered to have received them three business days after they are mailed.
-[76 FR 79772, Dec. 22, 2011, as amended at 86 FR 69781, Dec. 8, 2021; 88 FR 30622, May 11, 2023]
 § 1026.41 Periodic statements for residential mortgage loans.
 (a) In general —
 (1) Scope. This section applies to a closed-end consumer credit transaction secured by a dwelling, unless an exemption in paragraph (e) of this section applies. A closed-end consumer credit transaction secured by a dwelling is referred to as a mortgage loan for purposes of this section.
@@ -2604,7 +2577,6 @@ The requirements of this section apply to open-end credit plans secured by the c
 (4) Multiple obligors. If this paragraph (f) applies in connection with a mortgage loan with more than one primary obligor, the servicer may provide the modified statement to any or all of the primary obligors, even if a primary obligor to whom the servicer provides the modified statement is not a debtor in bankruptcy.
 (5) Coupon books. A servicer that provides a coupon book instead of a periodic statement under paragraph (e)(3) of this section must include in the coupon book the disclosures set forth in paragraphs (f)(2) and (f)(3)(vi) of this section, as applicable. The servicer may include these disclosures anywhere in the coupon book provided to the consumer or on a separate page enclosed with the coupon book. The servicer must make available upon request to the consumer by telephone, in writing, in person, or electronically, if the consumer consents, the information listed in paragraph (f)(3)(v) of this section, as applicable. The modifications set forth in paragraphs (f)(1) and (f)(3)(i) through (iv) and (vi) of this section apply to a coupon book and other information a servicer provides to the consumer under paragraph (e)(3) of this section.
 (g) Successor in interest. If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.
-[78 FR 11007, Feb. 14, 2013, as amended at 78 FR 44718, July 24, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65322, Nov. 3, 2014; 81 FR 72388, Oct. 19, 2016; 83 FR 10559, Mar. 12, 2018]
 § 1026.42 Valuation independence.
 (a) Scope. This section applies to any consumer credit transaction secured by the consumer's principal dwelling.
 (b) Definitions. For purposes of this section:
@@ -2688,7 +2660,6 @@ The requirements of this section apply to open-end credit plans secured by the c
 (2) Timing of reporting. A covered person shall notify the appropriate state agency within a reasonable period of time after the person determines that there is a reasonable basis to believe that a failure to comply required to be reported under paragraph (g)(1) of this section has occurred.
 (3) Definition. For purposes of this paragraph (g), “state agency” means “state appraiser certifying and licensing agency” under 12 U.S.C. 3350(1) and any implementing regulations. The appropriate state agency to which a covered person must refer a matter under paragraph (g)(1) of this section is the agency for the state in which the consumer's principal dwelling is located.
 (h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. See 12 CFR part 34.
-[76 FR 79772, Dec. 22, 2011, as amended at 80 FR 32687, June 9, 2015]
 § 1026.43 Minimum standards for transactions secured by a dwelling.
 (a) Scope. This section applies to any consumer credit transaction that is secured by a dwelling, as defined in § 1026.2(a)(19), including any real property attached to a dwelling, other than:
 (1) A home equity line of credit subject to § 1026.40;
@@ -2993,7 +2964,6 @@ The requirements of this section apply to open-end credit plans secured by the c
 (i) A covered transaction is consummated without a prepayment penalty; or
 (ii) The creditor and consumer do not consummate a covered transaction.
 (h) Evasion; open-end credit. In connection with credit secured by a consumer's dwelling that does not meet the definition of open-end credit in § 1026.2(a)(20), a creditor shall not structure the loan as an open-end plan to evade the requirements of this section.
-[78 FR 6584, Jan. 30, 2013, as amended at 78 FR 35502, June 12, 2013; 78 FR 44718, July 24, 2013; 78 FR 60442, Oct. 1, 2013; 78 FR 63005, Oct. 23, 2013; 79 FR 65323, Nov. 3, 2014; 80 FR 59968, Oct. 2, 2015; 85 FR 67958, Oct. 26, 2020; 85 FR 86394, 86452, Dec. 29, 2020; 86 FR 8283, Feb. 5, 2021; 86 FR 60360, Nov. 2, 2021]
 §§ 1026.44-1026.45 [Reserved]
 Subpart F—Special Rules for Private Education Loans
 § 1026.46 Special disclosure requirements for private education loans.
@@ -3146,7 +3116,6 @@ Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit
 (A) At the time of the contemplated increase, the consumer has an independent ability to make the required minimum periodic payments on the increased limit consistent with paragraph (b)(1)(i) of this section; or
 (B) A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph (b)(1)(ii) of this section.
 (ii) If a credit card account has been opened pursuant to paragraph (b)(1)(ii) of this section, no increase in the credit limit may be made on such account before the consumer attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 25837, May 3, 2013]
 § 1026.52 Limitations on fees.
 (a) Limitations during first year after account opening —
 (1) General rule. Except as provided in paragraph (a)(2) of this section, the total amount of fees a consumer is required to pay with respect to a credit card account under an open-end (not home-secured) consumer credit plan during the first year after account opening must not exceed 25 percent of the credit limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the consumer to engage in transactions.
@@ -3170,7 +3139,6 @@ Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit
 (2) Account inactivity; and
 (3) The closure or termination of an account.
 (ii) Multiple fees based on a single event or transaction. A card issuer must not impose more than one fee for violating the terms or other requirements of a credit card account under an open-end (not home-secured) consumer credit plan based on a single event or transaction. A card issuer may, at its option, comply with this prohibition by imposing no more than one fee for violating the terms or other requirements of an account during a billing cycle.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 18797, Mar. 28, 2013; 78 FR 76035, Dec. 16, 2013; 79 FR 48017, Aug. 15, 2014; 80 FR 56898, Sept. 21, 2015; 81 FR 41421, June 27, 2016; 81 FR 84370, Nov. 22, 2016; 83 FR 43505, Aug. 27, 2018; 84 FR 37567, Aug. 1, 2019; 86 FR 60360, Nov. 2, 2021]
 § 1026.53 Allocation of payments.
 (a) General rule. Except as provided in paragraph (b) of this section, when a consumer makes a payment in excess of the required minimum periodic payment for a credit card account under an open-end (not home-secured) consumer credit plan, the card issuer must allocate the excess amount first to the balance with the highest annual percentage rate and any remaining portion to the other balances in descending order based on the applicable annual percentage rate.
 (b) Special rules —
@@ -3225,7 +3193,6 @@ Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit
 (1) The account is closed or acquired by another creditor; or
 (2) The balance is transferred from a credit card account under an open-end (not home-secured) consumer credit plan issued by a creditor to another credit account issued by the same creditor or its affiliate or subsidiary (unless the account to which the balance is transferred is subject to § 1026.40).
 (e) Promotional waivers or rebates of interest, fees, and other charges. If a card issuer promotes the waiver or rebate of finance charges due to a periodic interest rate or fees or charges required to be disclosed under § 1026.6(b)(2)(ii), (iii), or (xii) and applies the waiver or rebate to a credit card account under an open-end (not home-secured) consumer credit plan, any cessation of the waiver or rebate on that account constitutes an increase in an annual percentage rate, fee, or charge for purposes of this section.
-[76 FR 79772, Dec. 22, 2011, as amended at 86 FR 69782, Dec. 8, 2021; 88 FR 30622, May 11, 2023]
 § 1026.56 Requirements for over-the-limit transactions.
 (a) Definition. For purposes of this section, the term “over-the-limit transaction” means any extension of credit by a card issuer to complete a transaction that causes a consumer's credit card account balance to exceed the credit limit.
 (b) Opt-in requirement —
@@ -3364,7 +3331,6 @@ Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit
 (g) Temporary suspension of agreement submission requirement —
 (1) Quarterly submissions. The quarterly submission requirement in paragraph (c) of this section is suspended for the submissions that would otherwise be due to the Bureau by the first business day on or after April 30, 2015; July 31, 2015; October 31, 2015; and January 31, 2016.
 (2) Posting of agreements offered to the public. Nothing in paragraph (g)(1) of this section shall affect the agreement posting requirements in paragraph (d) of this section.
-[76 FR 79772, Dec. 22, 2011, as amended at 80 FR 21158, Apr. 17, 2015]
 § 1026.59 Reevaluation of rate increases.
 (a) General rule —
 (1) Evaluation of increased rate. If a card issuer increases an annual percentage rate that applies to a credit card account under an open-end (not home-secured) consumer credit plan, based on the credit risk of the consumer, market conditions, or other factors, or increased such a rate on or after January 1, 2009, and 45 days' advance notice of the rate increase is required pursuant to § 1026.9(c)(2) or (g), the card issuer must:
@@ -3397,7 +3363,6 @@ Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit
 (1) Servicemembers Civil Relief Act exception. The requirements of this section do not apply to increases in an annual percentage rate that was previously decreased pursuant to 50 U.S.C. app. 527, provided that such a rate increase is made in accordance with § 1026.55(b)(6).
 (2) Charged off accounts. The requirements of this section do not apply to accounts that the card issuer has charged off in accordance with loan-loss provisions.
 (3) Transition from LIBOR. The requirements of this section do not apply to increases in an annual percentage rate that occur as a result of the transition from the use of a LIBOR index as the index in setting a variable rate to the use of a replacement index in setting a variable rate if the change from the use of the LIBOR index to a replacement index occurs in accordance with § 1026.55(b)(7)(i) or (ii).
-[76 FR 79772, Dec. 22, 2011, as amended at 86 FR 69782, Dec. 8, 2021; 88 FR 30623, May 11, 2023]
 § 1026.60 Credit and charge card applications and solicitations.
 (a) General rules. The card issuer shall provide the disclosures required under this section on or with a solicitation or an application to open a credit or charge card account.
 (1) Definition of solicitation. For purposes of this section, the term solicitation means an offer by the card issuer to open a credit or charge card account that does not require the consumer to complete an application. A “firm offer of credit” as defined in section 603(l) of the Fair Credit Reporting Act (15 U.S.C. 1681a(l)) for a credit or charge card is a solicitation for purposes of this section.
@@ -3486,7 +3451,6 @@ Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit
 (2) Adjusted balance. This balance is figured by deducting payments and credits made during the billing cycle from the outstanding balance at the beginning of the billing cycle.
 (3) Previous balance. This balance is the outstanding balance at the beginning of the billing cycle.
 (4) Daily balance. For each day in the billing cycle, this balance is figured by taking the beginning balance each day, adding any new purchases, and subtracting any payment and credits.
-[76 FR 79772, Dec. 22, 2011, as amended at 81 FR 84370, Nov. 22, 2016]
 § 1026.61 Hybrid prepaid-credit cards.
 (a) Hybrid prepaid-credit card —
 (1) In general.
@@ -3541,7 +3505,6 @@ Subpart G—Special Rules Applicable to Credit Card Accounts and Open-End Credit
 (ii) Make a solicitation or provide an application to open a covered separate credit feature that could be accessible by the hybrid prepaid-credit card; or
 (iii) Allow an existing credit feature that was opened prior to the consumer obtaining the prepaid account to become a covered separate credit feature accessible by the hybrid prepaid-credit card.
 (2) For purposes of paragraph (c) of this section, the term solicitation has the meaning set forth in § 1026.60(a)(1).
-[81 FR 84370, Nov. 22, 2016, as amended at 83 FR 6439, Feb. 13, 2018]
 Appendix A to Part 1026—Effect on State Laws
 Request for Determination
 A request for a determination that a state law is inconsistent or that a state law is substantially the same as the Act and regulation shall be in writing and addressed to the Executive Secretary, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552. The request shall be made pursuant to the procedures herein.
@@ -3559,7 +3522,6 @@ Notice of a final determination will be published in the Federal Register, and t
 Reversal of Determination
 The Bureau reserves the right to reverse a determination for any reason bearing on the coverage or effect of state or Federal law.
 Notice of reversal of a determination will be published in the Federal Register and a copy furnished to the appropriate state official.
-[76 FR 79772, Dec. 22, 2011, as amended at 88 FR 16543, Mar. 20, 2023]
 Appendix B to Part 1026—State Exemptions
 Application
 Any state may apply to the Bureau for a determination that a class of transactions subject to state law is exempt from the requirements of the Act and this part. An application shall be in writing and addressed to the Executive Secretary, Bureau of Consumer Financial Protection, 1700 G Street, NW., Washington, DC 20552, and shall be signed by the appropriate state official. The application shall be made pursuant to the procedures herein.
@@ -3583,7 +3545,6 @@ Revocation of Exemption
 The Bureau reserves the right to revoke an exemption if at any time it determines that the standards required for an exemption are not met.
 Before taking such action, the Bureau will notify the appropriate state official of its intent, and will afford the official such opportunity as it deems appropriate in the circumstances to demonstrate that revocation is improper. If the Bureau ultimately finds that revocation is proper, notice of the Bureau's intention to revoke such exemption will be published in the Federal Register with a reasonable period of time for interested persons to comment.
 Notice of revocation of an exemption will be published in the Federal Register. A copy of such notice will be furnished to the appropriate state official and to the Federal officials responsible for enforcement. Upon revocation of an exemption, creditors in that state shall then be subject to the requirements of the Federal law.
-[76 FR 79772, Dec. 22, 2011, as amended at 88 FR 16543, Mar. 20, 2023]
 Appendix C to Part 1026—Issuance of Official Interpretations
 Official Interpretations
 Interpretations of this part issued by officials of the Bureau provide the protection afforded under section 130(f) of the Act. Except in unusual circumstances, such interpretations will not be issued separately but will be incorporated in an official commentary to the regulation which will be amended periodically.
@@ -3591,7 +3552,6 @@ Requests for Issuance of Official Interpretations
 A request for an official interpretation shall be in writing and addressed to the Assistant Director, Office of Regulations, Division of Research, Monitoring, and Regulations, Bureau of Consumer Financial Protection, 1700 G Street, NW., Washington, DC 20552. The request shall contain a complete statement of all relevant facts concerning the issue, including copies of all pertinent documents.
 Scope of Interpretations
 No interpretations will be issued approving creditors' forms, statements, or calculation tools or methods. This restriction does not apply to forms, statements, tools, or methods whose use is required or sanctioned by a government agency.
-[76 FR 79772, Dec. 22, 2011, as amended at 88 FR 16543, Mar. 20, 2023]
 Appendix D to Part 1026—Multiple Advance Construction Loans
 Section 1026.17(c)(6) permits creditors to treat multiple advance loans to finance construction of a dwelling that may be permanently financed by the same creditor either as a single transaction or as more than one transaction. If the actual schedule of advances is not known, the following methods may be used to estimate the interest portion of the finance charge and the annual percentage rate and to make disclosures. If the creditor chooses to disclose the construction phase separately, whether interest is payable periodically or at the end of construction, part I may be used. If the creditor chooses to disclose the construction and the permanent financing as one transaction, part II may be used.
 Part I—Construction Period Disclosed Separately
@@ -3617,7 +3577,6 @@ C. The creditor shall disclose the repayment schedule as follows:
 1. For loans under paragraph A.1 of part II, other than loans that are subject to § 1026.19(e) and (f), without reflecting the number or amounts of payments of interest only that are made during the construction period. The fact that interest payments must be made and the timing of such payments shall be disclosed.
 2. For loans under paragraph A.2 of part II and loans under paragraph A.1 of part II that are subject to § 1026.19(e) and (f), including any payments of interest only that are made during the construction period.
 D. The creditor shall disclose the amount financed as the entire commitment amount less any prepaid finance charge.
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80130, Dec. 31, 2013]
 Appendix E to Part 1026—Rules for Card Issuers That Bill on a Transaction-by-Transaction Basis
 The following provisions of Subpart B apply if credit cards are issued and the card issuer and the seller are the same or related persons; no finance charge is imposed; consumers are billed in full for each use of the card on a transaction-by-transaction basis, by means of an invoice or other statement reflecting each use of the card; and no cumulative account is maintained which reflects the transactions by each consumer during a period of time, such as a month. The term “related person” refers to, for example, a franchised or licensed seller of a creditor's product or service or a seller who assigns or sells sales accounts to a creditor or arranges for credit under a plan that allows the consumer to use the credit only in transactions with that seller. A seller is not related to the creditor merely because the seller and the creditor have an agreement authorizing the seller to honor the creditor's credit card.
 1. Section 1026.6(a)(5) or § 1026.6(b)(5)(iii).
@@ -4294,7 +4253,6 @@ Housing Counselor Information: If you would like counseling or assistance, you c
 • U.S. Department of Housing and Urban Development (HUD): For a list of homeownership counselors or counseling organizations in your area, go to http://www.hud.gov/offices/hsg/sfh/hcc/hcs.cfm or call 800-569-4287.
 H-30(E) Sample Form of Periodic Statement for Consumer in Chapter 7 or Chapter 11 Bankruptcy
 H-30(F) Sample Form of Periodic Statement for Consumer in Chapter 12 or Chapter 13 Bankruptcy
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 11008, Feb. 14, 2013; 78 FR 80130, Dec. 31, 2013; 80 FR 8776, Feb. 19, 2015; 81 FR 72390, Oct. 19, 2016; 86 FR 69782, Dec. 8, 2021]
 Appendix I to Part 1026 [Reserved]
 Appendix J to Part 1026—Annual Percentage Rate Computations for Closed-End Credit Transactions
 (a) Introduction
@@ -4796,7 +4754,6 @@ To qualify for the safe harbor provided in § 1026.35(c)(3)(ii), a creditor must
 7. Indicates that a physical property visit of the interior of the property was performed, as applicable.
 8. Includes a certification signed by the appraiser that the appraisal was prepared in accordance with the requirements of the Uniform Standards of Professional Appraisal Practice.
 9. Includes a certification signed by the appraiser that the appraisal was prepared in accordance with the requirements of title XI of the Financial Institutions Reform, Recovery and Enforcement Act of 1989, as amended (12 U.S.C. 3331 et seq.), and any implementing regulations.
-[78 FR 10444, Feb. 13, 2013, as amended at 78 FR 78586, Dec. 26, 2013]
 Appendix O to Part 1026—Illustrative Written Source Documents for Higher-Priced Mortgage Loan Appraisal Rules
 A creditor acts with reasonable diligence under § 1026.35(c)(4)(vi)(A) if the creditor bases its determination on information contained in written source documents, such as:
 1. A copy of the recorded deed from the seller.
@@ -4809,7 +4766,6 @@ A creditor acts with reasonable diligence under § 1026.35(c)(4)(vi)(A) if the c
 8. A written appraisal performed in compliance with § 1026.35(c)(3)(i) for the same transaction.
 9. A copy of a title commitment report detailing the seller's ownership of the property, the date it was acquired, or the price at which the seller acquired the property.
 10. A property abstract.
-[78 FR 10444, Feb. 13, 2013]
 Appendix P to Part 1026 [Reserved]
 Supplement I to Part 1026—Official Interpretations
 Introduction
@@ -11737,7 +11693,6 @@ Appendix L—Assumed Loan Periods for Computations of Total Annual Loan Cost Rat
 1. General. The life expectancy figures used in appendix L are those found in the U.S. Decennial Life Tables for women, as rounded to the nearest whole year and as published by the U.S. Department of Health and Human Services. The figures contained in appendix L must be used by creditors for all consumers (men and women). Appendix L will be revised periodically by the Bureau to incorporate revisions to the figures made in the Decennial Tables.
 Appendix O—Illustrative Written Source Documents for Higher-Priced Mortgage Loan Appraisal Rules
 1. Title commitment report. The “title commitment report” is a document from a title insurance company describing the property interest and status of its title, parties with interests in the title and the nature of their claims, issues with the title that must be resolved prior to closing of the transaction between the parties to the transfer, amount and disposition of the premiums, and endorsements on the title policy. This document is issued by the title insurance company prior to the company's issuance of an actual title insurance policy to the property's transferee and/or creditor financing the transaction. In different jurisdictions, this instrument may be referred to by different terms, such as a title commitment, title binder, title opinion, or title report.
-[76 FR 79772, Dec. 22, 2011]
 Editorial Note
 Editorial Note:
 For Federal Register citations affecting supplement I to part 1026, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

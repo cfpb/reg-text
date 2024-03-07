@@ -1,9 +1,7 @@
-Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 1693b. Subpart B is also issued under 12 U.S.C. 5601 and 15 U.S.C. 1693o-1.
 Subpart A—General
 § 1005.1 Authority and purpose.
 (a) Authority. The regulation in this part, known as Regulation E, is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to the Electronic Fund Transfer Act (15 U.S.C. 1693 et seq.). The information-collection requirements have been approved by the Office of Management and Budget under 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170-0014.
 (b) Purpose. This part carries out the purposes of the Electronic Fund Transfer Act, which establishes the basic rights, liabilities, and responsibilities of consumers who use electronic fund transfer and remittance transfer services and of financial institutions or other persons that offer these services. The primary objective of the act and this part is the protection of individual consumers engaging in electronic fund transfers and remittance transfers.
-[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 6285, Feb. 7, 2012]
 § 1005.2 Definitions.
 Except as otherwise provided in subpart B, for purposes of this part, the following definitions apply:
 (a)
@@ -48,7 +46,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (1) By a person who was furnished the access device to the consumer's account by the consumer, unless the consumer has notified the financial institution that transfers by that person are no longer authorized;
 (2) With fraudulent intent by the consumer or any person acting in concert with the consumer; or
 (3) By the financial institution or its employee.
-[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 6285, Feb. 7, 2012; 81 FR 84325, Nov. 22, 2016; 83 FR 6417, Feb. 13, 2018]
 § 1005.3 Coverage.
 (a) General. This part applies to any electronic fund transfer that authorizes a financial institution to debit or credit a consumer's account. Generally, this part applies to financial institutions. For purposes of §§ 1005.3(b)(2) and (3), 1005.10(b), (d), and (e), 1005.13, and 1005.20, this part applies to any person, other than a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111-203, 124 Stat. 1376. The requirements of subpart B apply to remittance transfer providers.
 (b) Electronic fund transfer —
@@ -81,7 +78,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (i) Is initiated by a telephone communication between a consumer and a financial institution making the transfer; and
 (ii) Does not take place under a telephone bill-payment or other written plan in which periodic or recurring transfers are contemplated.
 (7) Small institutions. Any preauthorized transfer to or from an account if the assets of the account-holding financial institution were $100 million or less on the preceding December 31. If assets of the account-holding institution subsequently exceed $100 million, the institution's exemption for preauthorized transfers terminates one year from the end of the calendar year in which the assets exceed $100 million. Preauthorized transfers exempt under this paragraph (c)(7) remain subject to § 1005.10(e) regarding compulsory use and sections 916 and 917 of the Act regarding civil and criminal liability.
-[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 6285, Feb. 7, 2012]
 § 1005.4 General disclosure requirements; jointly offered services.
 (a)
 (1) Form of disclosures. Disclosures required under this part shall be clear and readily understandable, in writing, and in a form the consumer may keep, except as otherwise provided in this part. The disclosures required by this part may be provided to the consumer in electronic form, subject to compliance with the consumer-consent and other applicable provisions of the Electronic Signatures in Global and National Commerce Act (E-Sign Act) (15 U.S.C. 7001 et seq.). A financial institution may use commonly accepted or readily understandable abbreviations in complying with the disclosure requirements of this part.
@@ -129,7 +125,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (10) Error resolution. A notice that is substantially similar to Model Form A-3 as set out in appendix A of this part concerning error resolution.
 (11) ATM fees. A notice that a fee may be imposed by an automated teller machine operator as defined in § 1005.16(a), when the consumer initiates an electronic fund transfer or makes a balance inquiry, and by any network used to complete the transaction.
 (c) Addition of electronic fund transfer services. If an electronic fund transfer service is added to a consumer's account and is subject to terms and conditions different from those described in the initial disclosures, disclosures for the new service are required.
-[76 FR 81023, Dec. 27, 2011, as amended at 81 FR 70320, Oct. 12, 2016]
 § 1005.8 Change in terms notice; error resolution notice.
 (a) Change in terms notice —
 (1) Prior notice required. A financial institution shall mail or deliver a written notice to the consumer, at least 21 days before the effective date, of any change in a term or condition required to be disclosed under § 1005.7(b) of this part if the change would result in:
@@ -190,7 +185,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (e) Compulsory use —
 (1) Credit. No financial institution or other person may condition an extension of credit to a consumer on the consumer's repayment by preauthorized electronic fund transfers, except for credit extended under an overdraft credit plan or extended to maintain a specified minimum balance in the consumer's account. This exception does not apply to a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61.
 (2) Employment or government benefit. No financial institution or other person may require a consumer to establish an account for receipt of electronic fund transfers with a particular institution as a condition of employment or receipt of a government benefit.
-[76 FR 81023, Dec. 27, 2011, as amended at 81 FR 84326, Nov. 22, 2016]
 § 1005.11 Procedures for resolving errors.
 (a) Definition of error —
 (1) Types of transfers or inquiries covered. The term “error” means:
@@ -236,7 +230,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (i) Notify the consumer of the date and amount of the debiting;
 (ii) Notify the consumer that the institution will honor checks, drafts, or similar instruments payable to third parties and preauthorized transfers from the consumer's account (without charge to the consumer as a result of an overdraft) for five business days after the notification. The institution shall honor items as specified in the notice, but need honor only items that it would have paid if the provisionally credited funds had not been debited.
 (e) Reassertion of error. A financial institution that has fully complied with the error resolution requirements has no further responsibilities under this section should the consumer later reassert the same error, except in the case of an error asserted by the consumer following receipt of information provided under paragraph (a)(1)(vii) of this section.
-[76 FR 81023, Dec. 27, 2011, as amended at 81 FR 84326, Nov. 22, 2016; 83 FR 6417, Feb. 13, 2018]
 § 1005.12 Relation to other laws.
 (a) Relation to Truth in Lending.
 (1) The Electronic Fund Transfer Act and this part govern:
@@ -266,7 +259,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (2) Exception. To assure that the Federal and state courts continue to have concurrent jurisdiction, and to aid in implementing the Act:
 (i) No exemption shall extend to the civil liability provisions of section 916 of the Act; and
 (ii) When the Bureau grants an exemption, the state law requirements shall constitute the requirements of the Federal law for purposes of section 916 of the Act, except for state law requirements not imposed by the Federal law.
-[76 FR 81023, Dec. 27, 2011, as amended at 81 FR 84326, Nov. 22, 2016]
 § 1005.13 Administrative enforcement; record retention.
 (a) Enforcement by Federal agencies. Compliance with this part is enforced in accordance with section 918 of the Act.
 (b) Record retention.
@@ -325,7 +317,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (ii) In lieu of following the procedures in paragraph (e)(4)(i) of this section, an agency complies with the requirements for resolving errors in § 1005.11 if it investigates any oral or written notice of an error from the consumer that is received by the agency within 120 days after the transfer allegedly in error was credited or debited to the consumer's account.
 (f) Disclosure of fees and other information. For government benefit accounts, a government agency shall comply with the disclosure and change-in-terms requirements applicable to prepaid accounts as set forth in § 1005.18(f).
 (g) Government benefit accounts accessible by hybrid prepaid-credit cards. For government benefit accounts accessible by hybrid prepaid-credit cards as defined in Regulation Z, 12 CFR 1026.61, a government agency shall comply with prohibitions and requirements applicable to prepaid accounts as set forth in § 1005.18(g).
-[81 FR 84326, Nov. 22, 2016]
 § 1005.16 Disclosures at automated teller machines.
 (a) Definition. “Automated teller machine operator” means any person that operates an automated teller machine at which a consumer initiates an electronic fund transfer or a balance inquiry and that does not hold the account to or from which the transfer is made, or about which an inquiry is made.
 (b) General. An automated teller machine operator that imposes a fee on a consumer for initiating an electronic fund transfer or a balance inquiry must provide a notice that a fee will be imposed for providing electronic fund transfer services or a balance inquiry that discloses the amount of the fee.
@@ -333,7 +324,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (d) Imposition of fee. An automated teller machine operator may impose a fee on a consumer for initiating an electronic fund transfer or a balance inquiry only if:
 (1) The consumer is provided the notice required under paragraph (c) of this section, and
 (2) The consumer elects to continue the transaction or inquiry after receiving such notice.
-[76 FR 81023, Dec. 27, 2011, as amended at 78 FR 18224, Mar. 26, 2013]
 § 1005.17 Requirements for overdraft services.
 (a) Definition. For purposes of this section, the term “overdraft service” means a service under which a financial institution assesses a fee or charge on a consumer's account held by the institution for paying a transaction (including a check or other item) when the consumer has insufficient or unavailable funds in the account. The term “overdraft service” does not include any payment of overdrafts pursuant to:
 (1) A line of credit subject to Regulation Z (12 CFR part 1026), including transfers from a credit card account, home equity line of credit, or overdraft line of credit;
@@ -363,7 +353,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (e) Joint relationships. If two or more consumers jointly hold an account, the financial institution shall treat the affirmative consent of any of the joint consumers as affirmative consent for that account. Similarly, the financial institution shall treat a revocation of affirmative consent by any of the joint consumers as revocation of consent for that account.
 (f) Continuing right to opt in or to revoke the opt-in. A consumer may affirmatively consent to the financial institution's overdraft service at any time in the manner described in the notice required by paragraph (b)(1)(i) of this section. A consumer may also revoke consent at any time in the manner made available to the consumer for providing consent. A financial institution must implement a consumer's revocation of consent as soon as reasonably practicable.
 (g) Duration and revocation of opt-in. A consumer's affirmative consent to the institution's overdraft service is effective until revoked by the consumer, or unless the financial institution terminates the service.
-[76 FR 81023, Dec. 27, 2011, as amended at 81 FR 84328, Nov. 22, 2016]
 § 1005.18 Requirements for financial institutions offering prepaid accounts.
 (a) Coverage. A financial institution shall comply with all applicable requirements of the Act and this part with respect to prepaid accounts except as modified by this section. For rules governing government benefit accounts, see § 1005.15.
 (b) Pre-acquisition disclosure requirements —
@@ -519,7 +508,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (3) Account information not available on April 1, 2019 —
 (i) Electronic and written account transaction history. If, on April 1, 2019, a financial institution does not have readily accessible the data necessary to make available 12 months of electronic account transaction history pursuant to paragraph (c)(1)(ii) of this section or to provide 24 months of written account transaction history upon request pursuant to paragraph (c)(1)(iii) of this section, the financial institution may make available or provide such histories using the data for the time period it has until the financial institution has accumulated the data necessary to comply in full with the requirements set forth in paragraphs (c)(1)(ii) and (iii) of this section.
 (ii) Summary totals of fees. If, on April 1, 2019, the financial institution does not have readily accessible the data necessary to calculate the summary totals of the amount of all fees assessed by the financial institution on the consumer's prepaid account for the prior calendar month and for the calendar year to date pursuant to paragraph (c)(5) of this section, the financial institution may display the summary totals using the data it has until the financial institution has accumulated the data necessary to display the summary totals as required by paragraph (c)(5) of this section.
-[81 FR 84328, Nov. 22, 2016, as amended at 82 FR 18980, Apr. 25, 2017; 83 FR 6417, Feb. 13, 2018]
 § 1005.19 Internet posting of prepaid account agreements.
 (a) Definitions —
 (1) Agreement. For purposes of this section, “agreement” or “prepaid account agreement” means the written document or documents evidencing the terms of the legal obligation, or the prospective legal obligation, between a prepaid account issuer and a consumer for a prepaid account. “Agreement” or “prepaid account agreement” also includes fee information, as defined in paragraph (a)(3) of this section.
@@ -581,7 +569,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (vi) Agreements provided upon consumer request pursuant to paragraph (d)(1)(ii) of this section must be provided by the issuer in paper form, unless the consumer agrees to receive the agreement electronically.
 (e) E-Sign Act requirements. Except as otherwise provided in this section, issuers may provide prepaid account agreements in electronic form under paragraphs (c) and (d) of this section without regard to the consumer notice and consent requirements of section 101(c) of the Electronic Signatures in Global and National Commerce Act(E-Sign Act) (15 U.S.C. 7001 et seq.).
 (f) Initial submission date. The requirements of this section apply to prepaid accounts beginning on April 1, 2019. An issuer must submit to the Bureau no later than May 1, 2019 all prepaid account agreements it offers as of April 1, 2019.
-[81 FR 84336, Nov. 22, 2016, as amended at 83 FR 6419, Feb. 13, 2018]
 § 1005.20 Requirements for gift cards and gift certificates.
 (a) Definitions. For purposes of this section, except as excluded under paragraph (b), the following definitions apply:
 (1) “Gift certificate” means a card, code, or other device that is:
@@ -681,7 +668,6 @@ Except as otherwise provided, for purposes of this subpart, the following defini
 (h) Third-party fees.
 (1) “Covered third-party fees.” The term “covered third-party fees” means any fees imposed on the remittance transfer by a person other than the remittance transfer provider except for fees described in paragraph (h)(2) of this section.
 (2) “Non-covered third-party fees.” The term “non-covered third-party fees” means any fees imposed by the designated recipient's institution for receiving a remittance transfer into an account except if the institution acts as an agent of the remittance transfer provider.
-[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50282, Aug. 20, 2012; 78 FR 30703, May 22, 2013; 85 FR 34904, June 5, 2020]
 § 1005.31 Disclosures.
 (a) General form of disclosures —
 (1) Clear and conspicuous. Disclosures required by this subpart or permitted by paragraph (b)(1)(viii) of this section or § 1005.33(h)(3) must be clear and conspicuous. Disclosures required by this subpart or permitted by paragraph (b)(1)(viii) of this section or § 1005.33(h)(3) may contain commonly accepted or readily understandable abbreviations or symbols.
@@ -736,7 +722,6 @@ Except as otherwise provided, for purposes of this subpart, the following defini
 (i) Each of the foreign languages principally used by the remittance transfer provider to advertise, solicit, or market remittance transfer services, either orally, in writing, or electronically, at the office in which a sender conducts a transaction or asserts an error; or
 (ii) The foreign language primarily used by the sender with the remittance transfer provider to conduct the transaction (or for written or electronic disclosures made pursuant to § 1005.33, in the foreign language primarily used by the sender with the remittance transfer provider to assert the error), provided that such foreign language is principally used by the remittance transfer provider to advertise, solicit, or market remittance transfer services, either orally, in writing, or electronically, at the office in which a sender conducts a transaction or asserts an error, respectively.
 (2) Oral, mobile application, or text message disclosures. Disclosures provided orally for transactions conducted orally and entirely by telephone under paragraph (a)(3) of this section or orally or via mobile application or text message for transactions conducted via mobile application or text message under paragraph (a)(5) of this section shall be made in the language primarily used by the sender with the remittance transfer provider to conduct the transaction. Disclosures provided orally under paragraph (a)(4) of this section for error resolution purposes shall be made in the language primarily used by the sender with the remittance transfer provider to assert the error.
-[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50282, Aug. 20, 2012; 77 FR 30703, May 22, 2013]
 § 1005.32 Estimates.
 (a) Temporary exception for insured institutions —
 (1) General. For disclosures described in §§ 1005.31(b)(1) through (3) and 1005.36(a)(1) and (2), estimates may be provided in accordance with paragraph (c) of this section for the amounts required to be disclosed under § 1005.31(b)(1)(iv) through (vii), if:
@@ -783,7 +768,6 @@ Except as otherwise provided, for purposes of this subpart, the following defini
 (B) A representative transmittal route identified by the remittance transfer provider.
 (4) Amount of currency that will be received by the designated recipient. In disclosing the amount of currency that will be received by the designated recipient as required under § 1005.31(b)(1)(vii), an estimate must be based on the information provided in accordance with paragraphs (c)(1) through (3) of this section, as applicable.
 (d) Bases for estimates for transfers scheduled before the date of transfer. Estimates provided pursuant to paragraph (b)(2) of this section must be based on the exchange rate or, where applicable, the estimated exchange rate based on an estimation methodology permitted under paragraph (c) of this section that the provider would have used or did use that day in providing disclosures to a sender requesting such a remittance transfer to be made on the same day. If, in accordance with this paragraph, a remittance transfer provider uses a basis described in paragraph (c) of this section but not listed in paragraph (c)(1) of this section, the provider is deemed to be in compliance with this paragraph regardless of the amount received by the designated recipient, so long as the estimation methodology is the same that the provider would have used or did use in providing disclosures to a sender requesting such a remittance transfer to be made on the same day.
-[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50283, Aug. 20, 2012; 78 FR 30704, May 22, 2013; 79 FR 55991, Sept. 18, 2014; 81 FR 84338, Nov. 22, 2016; 85 FR 34904, June 5, 2020]
 § 1005.33 Procedures for resolving errors.
 (a) Definition of error —
 (1) Types of transfers or inquiries covered. For purposes of this section, the term error means:
@@ -843,7 +827,6 @@ Except as otherwise provided, for purposes of this subpart, the following defini
 (3) The provider provided notice to the sender before the sender made payment for the remittance transfer that, in the event the sender provided an incorrect account number or recipient institution identifier, the sender could lose the transfer amount. For purposes of providing this disclosure, § 1005.31(a)(2) applies to this notice unless the notice is given at the same time as other disclosures required by this subpart for which information is permitted to be disclosed orally or via mobile application or text message, in which case this disclosure may be given in the same medium as those other disclosures;
 (4) The incorrect account number or recipient institution identifier resulted in the deposit of the remittance transfer into a customer's account that is not the designated recipient's account; and
 (5) The provider promptly used reasonable efforts to recover the amount that was to be received by the designated recipient.
-[77 FR 6285, Feb. 7, 2012, as amended at 77 FR 50284, Aug. 20, 2012; 78 FR 30704, May 22, 2013; 78 FR 49366, Aug. 14, 2013; 79 FR 55991, Sept. 18, 2014; 85 FR 34904, June 5, 2020]
 § 1005.34 Procedures for cancellation and refund of remittance transfers.
 (a) Sender right of cancellation and refund. Except as provided in § 1005.36(c), a remittance transfer provider shall comply with the requirements of this section with respect to any oral or written request to cancel a remittance transfer from the sender that is received by the provider no later than 30 minutes after the sender makes payment in connection with the remittance transfer if:
 (1) The request to cancel enables the provider to identify the sender's name and address or telephone number and the particular transfer to be cancelled; and
@@ -881,7 +864,6 @@ A remittance transfer provider is liable for any violation of this subpart by an
 (ii) For any subsequent preauthorized remittance transfer for which the date of transfer is four or fewer business days after the date payment is made for that transfer, the information required by paragraph (d)(1) of this section must be provided on or with the receipt described in § 1005.31(b)(2), or disclosed as permitted by § 1005.31(a)(3) or (a)(5), for the initial transfer in that series in accordance with paragraph (a)(1)(i) of this section.
 (3) Specific format requirement. The information required by paragraph (d)(1)(i)(A) of this section generally must be disclosed in close proximity to the other information required by paragraph (d)(1)(i)(B) of this section.
 (4) Accuracy. Any disclosure required by paragraph (d)(1) of this section must be accurate as of the date the preauthorized remittance transfer to which it pertains is made.
-[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 50284, Aug. 20, 2012; 85 FR 34904, June 5, 2020]
 Appendix A to Part 1005—Model Disclosure Clauses and Forms
 A-1—Model Clauses for Unsolicited Issuance (§ 1005.5(b)(2))
 A-2—Model Clauses for Initial Disclosures (§ 1005.7(b))
@@ -1055,7 +1037,6 @@ A-38—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged
 A-39—Model Form for Receipts for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(2))
 A-40—Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency—Spanish (§ 1005.31(b)(3))
 A-41—Model Form for Error Resolution and Cancellation Disclosures (Long)—Spanish (§ 1005.31(b)(4))
-[76 FR 81023, Dec. 27, 2011, as amended at 77 FR 6290, Feb. 7, 2012; 77 FR 40459, July 10, 2012; 78 FR 30705, May 22, 2013; 79 FR 55991, Sept. 18, 2014; 81 FR 70320, Oct. 12, 2016; 81 FR 84338, Nov. 22, 2016; 83 FR 6419, Feb. 13, 2018]
 Appendix B to Part 1005 [Reserved]
 Appendix C to Part 1005—Issuance of Official Interpretations
 Official Interpretations
@@ -1064,7 +1045,6 @@ Requests for Issuance of Official Interpretations
 A request for an official interpretation shall be in writing and addressed to the Bureau of Consumer Financial Protection, 1700 G Street NW, Washington, DC 20552. The request shall contain a complete statement of all relevant facts concerning the issue, including copies of all pertinent documents.
 Scope of Interpretations
 No interpretations will be issued approving financial institutions' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.
-[88 FR 16538, Mar. 20, 2023]
 Supplement I to Part 1005—Official Interpretations
 Section 1005.2 Definitions
 2(a) Access Device
@@ -2407,4 +2387,3 @@ E. Adding a term substantially similar to “estimated” in close proximity to 
 F. Providing the disclosures in a foreign language, or multiple foreign languages, subject to the requirements of § 1005.31(g).
 G. Substituting cancellation language to reflect the right to a cancellation made pursuant to the requirements of § 1005.36(c).
 iv. Changes to the model forms that are not permissible include, for example, adding information that is not segregated from the required disclosures, other than as permitted by § 1005.31(c)(4).
-[76 FR 81023, Dec. 27, 2011, as amended at 78 FR 18224, Mar. 26, 2013; 77 FR 6297, Feb. 7, 2012; 77 FR 50285; 77 FR 50285, Aug. 20, 2012; 78 FR 30714, May 22, 2013; 78 FR 49366, Aug. 14, 2013; 79 FR 55993, Sept. 18, 2014; 81 FR 70320, Oct. 12, 2016; 81 FR 84345, Nov. 22, 2016; 83 FR 6420, Feb. 13, 2018; 85 FR 34905, June 5, 2020]

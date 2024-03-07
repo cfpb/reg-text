@@ -1,4 +1,3 @@
-Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 1681a, 1681b, 1681c, 1681c-1, 1681c-3, 1681e, 1681g, 1681i, 1681j, 1681m, 1681s, 1681s-2, 1681s-3, and 1681t; Sec. 214, Pub. L. 108-159, 117 Stat. 1952.
 Subpart A—General Provisions
 § 1022.1 Purpose, scope, and model forms and disclosures.
 (a) Purpose. The purpose of this part is to implement the Fair Credit Reporting Act (FCRA). This part generally applies to persons that obtain and use information about consumers to determine the consumer's eligibility for products, services, or employment, share such information among affiliates, and furnish information to consumer reporting agencies.
@@ -837,7 +836,6 @@ Subpart O—Miscellaneous Duties of Consumer Reporting Agencies
 (c) Limitation on applicability. Any person who is otherwise in violation of paragraph (a) of this section shall be deemed to be in compliance with this part if such person is in compliance with all obligations imposed upon consumer reporting agencies that compile and maintain files on consumers on a nationwide basis under the FCRA, 15 U.S.C. 1681 et seq.
 § 1022.141 Reasonable charges for certain disclosures.
 Pursuant to section 612(f) of the FCRA, 15 U.S.C. 1681j(f), the charge imposed by a consumer reporting agency for a disclosure to the consumer pursuant to section 609 of the FCRA, 15 U.S.C. 1681g, shall not exceed the maximum allowable charge set by the Bureau.
-[84 FR 517, Jan. 31, 2019]
 § 1022.142 Prohibition on inclusion of adverse information in consumer reporting in cases of human trafficking.
 (a) Scope. This section applies to any consumer reporting agency as defined in section 603(f) of the FCRA, 15 U.S.C. 1681a(f).
 (b) Definitions. For purposes of this section:
@@ -882,7 +880,6 @@ Pursuant to section 612(f) of the FCRA, 15 U.S.C. 1681j(f), the charge imposed b
 (vi) The web page consumers can use to submit complaints to the Consumer Financial Protection Bureau.
 (g) Record retention. For a period of seven years after the consumer's submission is received at the mailing or website address made available under paragraph (d)(1) of this section, a consumer reporting agency must retain evidence of all such submissions and compliance with this section, including the actions taken by the consumer reporting agency under paragraphs (e)(1) through (e)(3), and (f) of this section and the reasons provided under paragraph (e)(4) of this section for declining to block or rescinding any block of items of adverse information identified by the consumer.
 (h) Policies and procedures to ensure and maintain compliance. A consumer reporting agency must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the consumer reporting agency and its employees with the requirements of the paragraphs in this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the activities of the consumer reporting agency and its employees.
-[87 FR 37723, June 24, 2022]
 Appendix A to Part 1022 [Reserved]
 Appendix B to Part 1022—Model Notices of Furnishing Negative Information
 a. Although use of the model notices is not required, a financial institution that is subject to section 623(a)(7) of the FCRA shall be deemed to be in compliance with the notice requirement in section 623(a)(7) of the FCRA if the institution properly uses the model notices in this appendix (as applicable).
@@ -1057,18 +1054,14 @@ H-6 Model form for risk-based pricing notice with credit score information.
 H-7 Model form for account review risk-based pricing notice with credit score information.
 Appendix I to Part 1022—Summary of Consumer Identity Theft Rights
 The prescribed form for this summary is a disclosure that is substantially similar to the Bureau's model summary with all information clearly and prominently displayed. A summary should accurately reflect changes to those items that may change over time (such as telephone numbers) to remain in compliance. Translations of this summary will be in compliance with the Bureau's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.
-[83 FR 47033, Sept. 18, 2018]
 Appendix J to Part 1022 [Reserved]
 Appendix K to Part 1022—Summary of Consumer Rights
 The prescribed form for this summary is a disclosure that is substantially similar to the Bureau's model summary with all information clearly and prominently displayed. The list of Federal regulators that is included in the Bureau's prescribed summary may be provided separately so long as this is done in a clear and conspicuous way. A summary should accurately reflect changes to those items that may change over time (e.g., dollar amounts, or telephone numbers and addresses of Federal agencies) to remain in compliance. Translations of this summary will be in compliance with the Bureau's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.
-[ 88 FR 58066, Aug. 25, 2023]
 Appendix L to Part 1022—Standardized Form for Requesting Annual File Disclosures
 Appendix M to Part 1022—Notice of Furnisher Responsibilities
 The prescribed form for this disclosure is a separate document that is substantially similar to the Bureau's model notice with all information clearly and prominently displayed. Consumer reporting agencies may limit the disclosure to only those items that they know are relevant to the furnisher that will receive the notice.
-[77 FR 67750, Nov. 14, 2012]
 Appendix N to Part 1022—Notice of User Responsibilities
 The prescribed form for this disclosure is a separate document that is substantially similar to the Bureau's notice with all information clearly and prominently displayed. Consumer reporting agencies may limit the disclosure to only those items that they know are relevant to the user that will receive the notice.
-[77 FR 67754, Nov. 14, 2012]
 Appendix O to Part 1022—Reasonable Charges for Certain Disclosures
 Section 612(f) of the FCRA, 15 U.S.C. 1681j(f), directs the Bureau to increase the maximum allowable charge a consumer reporting agency may impose for making a disclosure to the consumer pursuant to section 609 of the FCRA, 15 U.S.C. 1681g, on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents. The Bureau will publish notice of the maximum allowable charge each year by amending this appendix. For calendar year 2024, the maximum allowable charge is $15.50. For historical purposes:
 1. For calendar year 2012, the maximum allowable disclosure charge was $11.50.
@@ -1084,4 +1077,3 @@ Section 612(f) of the FCRA, 15 U.S.C. 1681j(f), directs the Bureau to increase t
 11. For calendar year 2022, the maximum allowable disclosure charge was $13.50.
 12. For calendar year 2023, the maximum allowable disclosure charge was $14.50.
 13. For calendar year 2024, the maximum allowable disclosure charge is $15.50.
-[88 FR 78231, Nov. 15, 2023]

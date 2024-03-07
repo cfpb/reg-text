@@ -1,4 +1,3 @@
-Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 6804.
 § 1016.1 Purpose and scope.
 (a) Purpose. This part governs the treatment of nonpublic personal information about consumers by the financial institutions listed in paragraph (b) of this section. This part:
 (1) Requires a financial institution to provide notice to customers about its privacy policies and practices;
@@ -16,7 +15,6 @@ Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 6804.
 (iv) A registered investment adviser, properly registered by or on behalf of either the Securities Exchange Commission or any state, with respect to its investment advisory activities and its activities incidental to those investment advisory activities;
 (v) An investment company that is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.;) or
 (vi) An insurance company, with respect to its insurance activities and its activities incidental to those insurance activities, that is subject to supervision by a state insurance regulator.
-[76 FR 79028, Dec. 21, 2011, as amended at 79 FR 64081, Oct. 28, 2014]
 § 1016.2 Model privacy form and examples.
 (a) Model privacy form. Use of the model privacy form in the appendix to this part, consistent with the instructions in the appendix constitutes compliance with the notice content requirements of §§ 1016.6 and 1016.7 of this part, although use of the model privacy form is not required.
 (b) Examples. The examples in this part are not exclusive. Compliance with an example, to the extent applicable, constitutes compliance with this part.
@@ -216,7 +214,6 @@ As used in this part, unless the context requires otherwise:
 (iv) A registered investment adviser, properly registered by or on behalf of either the Securities Exchange Commission or any State, with respect to its investment advisory activities and its activities incidental to those investment advisory activities;
 (v) An investment company that is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.;) or
 (vi) An insurance company, with respect to its insurance activities and its activities incidental to those insurance activities, that is subject to supervision by a State insurance regulator.
-[76 FR 79028, Dec. 21, 2011, as amended by CFPB-2016-0032, 83 FR 40958, Aug. 17, 2018]
 Subpart A—Privacy and Opt Out Notices
 § 1016.4 Initial privacy notice to consumers required.
 (a) Initial notice requirement. You must provide a clear and conspicuous notice that accurately reflects your privacy policies and practices to:
@@ -306,7 +303,6 @@ Subpart A—Privacy and Opt Out Notices
 (iii) Examples.
 (A) You change your policies and practices in such a way that you no longer meet the requirements of paragraph (e)(1) of this section effective April 1 of year 1. Assuming you define the 12-consecutive-month period pursuant to paragraph (a) of this section as a calendar year, if you were required to provide a revised privacy notice under § 1016.8 and you provided that notice on March 1 of year 1, you must provide an annual privacy notice by December 31 of year 2. If you were not required to provide a revised privacy notice under § 1016.8, you must provide an annual privacy notice by July 9 of year 1.
 (B) You change your policies and practices in such a way that you no longer meet the requirements of paragraph (e)(1) of this section, and so provide an annual notice to your customers. After providing the annual notice to your customers, you once again meet the requirements of paragraph (e)(1) of this section for an exception to the annual notice requirement. You do not need to provide additional annual notices to your customers until such time as you no longer meet the requirements of paragraph (e)(1) of this section.
-[76 FR 79028, Dec. 21, 2011, as amended by CFPB-2016-0032, 83 FR 40958, Aug. 17, 2018]
 § 1016.6 Information to be included in privacy notices.
 (a) General rule. The initial, annual, and revised privacy notices that you provide under §§ 1016.4, 1016.5, and 1016.8 of this part must include each of the following items of information, in addition to any other information you wish to provide, that applies to you and to the consumers to whom you send your privacy notice:
 (1) The categories of nonpublic personal information that you collect;
@@ -471,7 +467,6 @@ Subpart A—Privacy and Opt Out Notices
 (2) Special rule for loans in the case of credit unions.
 (i) A credit union is required to provide an initial notice to a borrower or guarantor on a loan if the credit union shares his or her nonpublic personal information with nonaffiliated third parties other than for purposes under §§ 1016.13, 1016.14, and 1016.15.
 (ii) A credit union may satisfy the annual notice requirements of § 1016.5 by providing one notice to those borrowers and guarantors jointly.
-[76 FR 79028, Dec. 21, 2011, as amended at 79 FR 64081, Oct. 28, 2014; CFPB-2016-0032, 83 FR 40959, Aug. 17, 2018]
 Subpart B—Limits on Disclosures
 § 1016.10 Limits on disclosure of nonpublic personal information to nonaffiliated third parties.
 (a)

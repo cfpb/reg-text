@@ -1,9 +1,7 @@
-Authority:12 U.S.C. 5511, 5512, 5514(b), 5531(b), (c), and (d), 5532.
 Subpart A—General
 § 1041.1 Authority and purpose.
 (a) Authority. The regulation in this part is issued by the Bureau of Consumer Financial Protection (Bureau) pursuant to Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5481, et seq.).
 (b) Purpose. The purpose of this part is to identify certain unfair and abusive acts or practices in connection with certain consumer credit transactions and to set forth requirements for preventing such acts or practices. This part also prescribes requirements to ensure that the features of those consumer credit transactions are fully, accurately, and effectively disclosed to consumers.
-[82 FR 54871, Nov. 17, 2017, as amended at 85 FR 44444, July 22, 2020]
 § 1041.2 Definitions.
 (a) Definitions. For the purposes of this part, the following definitions apply:
 (1) Account has the same meaning as in Regulation E, 12 CFR 1005.2(b).
@@ -30,7 +28,6 @@ Subpart A—General
 (18) Service provider has the same meaning as in the Dodd-Frank Wall Street Reform and Consumer Protection Act, 12 U.S.C. 5481(26).
 (19) [Reserved]
 (b) Rule of construction. For purposes of this part, where definitions are incorporated from other statutes or regulations, the terms have the meaning and incorporate the embedded definitions, appendices, and commentary from those other laws except to the extent that this part provides a different definition for a parallel term.
-[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019; 85 FR 44444, July 22, 2020]
 § 1041.3 Scope of coverage; exclusions; exemptions.
 (a) General. This part applies to a lender that extends credit by making covered loans.
 (b) Covered loan. Covered loan means closed-end or open-end credit that is extended to a consumer primarily for personal, family, or household purposes that is not excluded under paragraph (d) of this section or conditionally exempted under paragraph (e) or (f) of this section; and:
@@ -82,7 +79,6 @@ Subpart A—General
 (3) Provided, however, that covered longer-term loans for which all transfers meet the conditions in § 1041.8(a)(1)(ii), and receipts from such loans, are not included for the purpose of determining whether the conditions of paragraphs (f)(1) and (2) of this section have been satisfied.
 (g) Receipts. For purposes of paragraph (f) of this section, receipts means “total income” (or in the case of a sole proprietorship “gross income”) plus “cost of goods sold” as these terms are defined and reported on Internal Revenue Service (IRS) tax return forms (such as Form 1120 for corporations; Form 1120S and Schedule K for S corporations; Form 1120, Form 1065 or Form 1040 for LLCs; Form 1065 and Schedule K for partnerships; and Form 1040, Schedule C for sole proprietorships). Receipts do not include net capital gains or losses; taxes collected for and remitted to a taxing authority if included in gross or total income, such as sales or other taxes collected from customers but excluding taxes levied on the entity or its employees; or amounts collected for another (but fees earned in connection with such collections are receipts). Items such as subcontractor costs, reimbursements for purchases a contractor makes at a customer's request, and employee-based costs such as payroll taxes are included in receipts.
 (h) Tax year. For purposes of paragraph (f) of this section, “tax year” has the meaning attributed to it by the IRS as set forth in IRS Publication 538, which provides that a “tax year” is an annual accounting period for keeping records and reporting income and expenses.
-[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019]
 Subpart B [Reserved]
 Subpart C—Payments
 § 1041.7 Identification of unfair and abusive practice.
@@ -245,7 +241,6 @@ It is an unfair and abusive practice for a lender to make attempts to withdraw p
 (5) Web site URL. When the full notice is being provided through a linked URL rather than as a PDF attachment, the unique URL of a Web site that the consumer may use to access the full consumer rights notice required by paragraph (c) of this section.
 (B) [Reserved]
 (iii) Email delivery. When the consumer has consented to receive disclosures through electronic delivery, and the method of electronic delivery is email, the lender may either deliver the full notice required by paragraph (c)(1) of this section in the body of the email or deliver the full notice as a linked URL Web page or PDF attachment along with the electronic short notice as provided in paragraph (c)(4)(ii) of this section.
-[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019]
 Subpart D—Recordkeeping, Anti-Evasion, Severability, and Dates
 §§ 1041.10-1041.11 [Reserved]
 § 1041.12 Compliance program and record retention.
@@ -265,7 +260,6 @@ Subpart D—Recordkeeping, Anti-Evasion, Severability, and Dates
 (D) Amount of payment received or transferred; and
 (E) Payment channel used for attempted payment transfer.
 (ii) If an attempt to transfer funds from a consumer's account is subject to the prohibition in § 1041.8(b)(1), whether the lender or service provider obtained authorization to initiate a payment transfer from the consumer in accordance with the requirements in § 1041.8(c) or (d).
-[82 FR 54871, Nov. 17, 2017, as amended at 85 FR 44444, July 22, 2020]
 § 1041.13 Prohibition against evasion.
 A lender must not take any action with the intent of evading the requirements of this part.
 § 1041.14 Severability.
@@ -274,7 +268,6 @@ The provisions of this part are separate and severable from one another. If any 
 (a) Effective date. The effective date of this part is January 16, 2018.
 (b) April 16, 2018 application deadline. The deadline to submit an application for preliminary approval for registration pursuant to § 1041.11(c)(1) is April 16, 2018.
 (c) August 19, 2019 compliance date. The compliance date for §§ 1041.2, 1041.3, 1041.7 through 1041.9, 1041.12(a), (b) introductory text and (b)(4) and (5), and 1041.13 is August 19, 2019.
-[84 FR 27929, June 17, 2019, as amended at 85 FR 44445, July 22, 2020]
 Appendix A to Part 1041—Model Forms
 A-1 and A-2 Model Forms [Reserved]
 A-3 Model Form for First Payment Withdrawal Notice Under § 1041.9(b)(2)
@@ -283,7 +276,6 @@ A-5 Model Form for Consumer Rights Notice Under § 1041.9(c)
 A-6 Model Clause for First Payment Withdrawal Electronic Short Notice Under § 1041.9(b)(4)
 A-7 Model Clause for Unusual Withdrawal Electronic Short Notice Under § 1041.9(c)(4)(ii)(B)
 A-8 Model Clause for Consumer Rights Electronic Short Notice Under § 1041.9(c)(4)
-[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019; 85 FR 44445, July 22, 2020]
 Supplement I to Part 1041—Official Interpretations
 Section 1041.2—Definitions
 2(a)(3) Closed-End Credit
@@ -584,4 +576,3 @@ Section 1041.12—Compliance Program and Record Retention
 1. Electronic records in tabular format. Section 1041.12(b)(5) requires a lender to retain records regarding payment practices in electronic, tabular format. Tabular format means a format in which the individual data elements comprising the record can be transmitted, analyzed, and processed by a computer program, such as a widely used spreadsheet or database program. Data formats for image reproductions, such as PDF, and document formats used by word processing programs are not tabular formats.
 Section 1041.13—Prohibition Against Evasion
 1. Lender action taken with the intent of evading the requirements of the rule. Section 1041.13 provides that a lender must not take any action with the intent of evading the requirements of this part. In determining whether a lender has taken action with the intent of evading the requirements of this part, the form, characterization, label, structure, or written documentation of the lender's action shall not be dispositive. Rather, the actual substance of the lender's action as well as other relevant facts and circumstances will determine whether the lender's action was taken with the intent of evading the requirements of this part. If the lender's action is taken solely for legitimate business purposes, it is not taken with the intent of evading the requirements of this part. By contrast, if a consideration of all relevant facts and circumstances reveals the presence of a purpose that is not a legitimate business purpose, the lender's action may have been taken with the intent of evading the requirements of this part. A lender action that is taken with the intent of evading the requirements of this part may be knowing or reckless. Fraud, deceit, or other unlawful or illegitimate activity may be one fact or circumstance that is relevant to the determination of whether a lender's action was taken with the intent of evading the requirements of this part, but fraud, deceit, or other unlawful or illegitimate activity is not a prerequisite to such a finding.
-[82 FR 54871, Nov. 17, 2017, as amended at 84 FR 27929, June 17, 2019; 85 FR 44445, July 22, 2020]

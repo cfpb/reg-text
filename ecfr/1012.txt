@@ -1,11 +1,9 @@
-Authority:12 U.S.C. 5512, 5581; 15 U.S.C. 1718.
 Subpart A [Reserved]
 Subpart B—Filing Assistance
 § 1012.30 Scope of this subpart.
 This subpart applies to and governs procedures under which developers may obtain prefiling assistance and be notified of and permitted to correct deficiencies in the Statement of Record.
 § 1012.35 Prefiling assistance.
 Persons intending to file with the Bureau of Consumer Financial Protection, Office of Supervision Examinations may receive advice of a general nature as to the preparation of the filing including information as to proper format to be used and the scope of the items to be included in the format. Inquiries and requests for informal discussions with staff members should be directed to the Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington, DC 20552.
-[81 FR 29119, May 11, 2016]
 § 1012.40 Processing of filings.
 (a) Statements of Record and accompanying filing fees will be received on behalf of the Director by the Office of Supervision Examinations, for determination of whether the criteria set forth in paragraphs (a)(1) through (3) of this section have been satisfied. Where it appears that all three criteria are satisfied and it is otherwise practicable, acceleration of the effectiveness of the Statement of Record will normally be granted.
 (1) Completeness of the statement
@@ -13,7 +11,6 @@ Persons intending to file with the Bureau of Consumer Financial Protection, Offi
 (3) Adequacy of disclosure.
 (b) Filings intended as Statements of Record but which do not comply in form with §§ 1010.105 and 1010.120 of this chapter, whichever is applicable, and Statements of Record accompanied by inadequate filing fees will not be effective to accomplish any purpose under the Act. At the discretion of the Interstate Land Sales Registration Program, such filings and any moneys accompanying them may be immediately returned to the sender or after notification may be held pending the sender's appropriate response.
 (c) Persons filing incomplete or inaccurate Statements of Record will be notified of the deficiencies therein by the Suspension Notice procedure described in § 1010.45(a) of this chapter.
-[76 FR 79524, Dec. 21, 2011, as amended at 81 FR 29119, May 11, 2016]
 Subpart C [Reserved]
 Subpart D—Adjudicatory Proceedings
 §§ 1012.105-1012.200 [Reserved]
@@ -62,7 +59,6 @@ A proceeding pursuant to § 1010.505 of this chapter is commenced by issuance an
 (b) A clear and concise statement of material facts, sufficient to inform the respondent with reasonable definiteness of the basis for the Director's determination, pursuant to § 1010.505, that the State's laws, regulations and the administration thereof, taken as a whole, no longer meet the requirements of subpart C of part 1010.
 (c) A notice of hearing rights of the state under § 1012.237 and of the procedures for invoking those rights.
 (d) A notice that failure to file an answer conforming to the requirements of § 1081.201(b) and (c) will result in an order suspending the State's certification.
-[76 FR 79524, Dec. 21, 2011, as amended at 81 FR 29119, May 11, 2016]
 § 1012.237 Hearings—notice of proceedings pursuant to withdrawal of state certification.
 (a) A State, upon receipt of a notice of proceedings issued pursuant to § 1010.505 of this chapter, may obtain a hearing by filing a written request in accordance with the instructions regarding such request contained in the notice of proceedings. Such request must be filed within 15 days of receipt of the notice of proceedings and must be accompanied by an answer conforming to the requirements of § 1081.201(b) and (c).
 (b) When a hearing is requested pursuant to paragraph (a) of this section, such hearing shall be held within 45 days of receipt of this request. The time and place for the hearing shall be fixed with due regard for the public interest and the convenience and necessity of the parties or their representatives.
