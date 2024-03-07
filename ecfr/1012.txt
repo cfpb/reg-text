@@ -1,5 +1,3 @@
-Subpart A [Reserved]
-Subpart B—Filing Assistance
 § 1012.30 Scope of this subpart.
 This subpart applies to and governs procedures under which developers may obtain prefiling assistance and be notified of and permitted to correct deficiencies in the Statement of Record.
 § 1012.35 Prefiling assistance.
@@ -11,8 +9,6 @@ Persons intending to file with the Bureau of Consumer Financial Protection, Offi
 (3) Adequacy of disclosure.
 (b) Filings intended as Statements of Record but which do not comply in form with §§ 1010.105 and 1010.120 of this chapter, whichever is applicable, and Statements of Record accompanied by inadequate filing fees will not be effective to accomplish any purpose under the Act. At the discretion of the Interstate Land Sales Registration Program, such filings and any moneys accompanying them may be immediately returned to the sender or after notification may be held pending the sender's appropriate response.
 (c) Persons filing incomplete or inaccurate Statements of Record will be notified of the deficiencies therein by the Suspension Notice procedure described in § 1010.45(a) of this chapter.
-Subpart C [Reserved]
-Subpart D—Adjudicatory Proceedings
 §§ 1012.105-1012.200 [Reserved]
 § 1012.205 Suspension notice prior to effective date.
 A suspension pursuant to § 1010.45(a) of this chapter shall be effected by service of a suspension notice which shall contain:

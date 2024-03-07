@@ -1,4 +1,3 @@
-Subpart A—Purchasers' Revocation Rights
 § 1011.1 General.
 The purpose of this subpart A is to elaborate on the revocation rights in 15 U.S.C. 1703, by enumerating certain conditions under which purchasers may exercise revocation rights. Generally, whenever revocation rights are available, they apply to promissory notes, as well as traditional agreements.
 § 1011.2 Revocation regardless of registration.
@@ -13,7 +12,6 @@ Purchase price means the cash sales price of the lot shown on the contract.
 (c) The contractual requirements of 15 U.S.C. 1703(d) do not apply to the sale of a lot for which, within 180 days after the signing of the sales contract, the purchaser receives a warranty deed or, where warranty deeds are not commonly used, its equivalent under state law.
 § 1011.5 Reimbursement.
 If a purchaser exercises rights under 15 U.S.C. 1703(b), (c), or (d), but cannot reconvey the lot in substantially similar condition, the developer may subtract from the amount paid by the purchaser, and otherwise due to the purchaser under 15 U.S.C. 1703, any diminished value in the lot caused by the acts of the purchaser.
-Subpart B—Sales Practices and Standards
 § 1011.10 General.
 Sales practices means any conduct or advertising by a developer or its agents to induce a person to buy or lease a lot. This subpart describes certain unlawful sales practices and provides standards to illustrate what other sales practices are considered misleading in light of certain circumstances in which they are made and within the context of the overall offer and sale or lease.
 § 1011.15 Unlawful sales practices—statutory provisions.
@@ -71,7 +69,6 @@ Newspaper or periodical publishers, job printers, broadcasters, or telecasters, 
 (a) Have actual knowledge of the falsity of the advertisement or
 (b) Have any interest in the subdivision advertised or
 (c) Also serve directly or indirectly as the advertising agent or agency for the developer.
-Subpart C—Advertising Disclaimers
 § 1011.50 Advertising disclaimers; subdivisions registered and effective with the Bureau.
 (a) The following disclaimer statement shall be displayed below the text of all printed material and literature used in connection with the sale or lease of lots in a subdivision for which an effective Statement or Record is on file with the Director: “Obtain the Property Report required by Federal law and read it before signing anything. No Federal agency has judged the merits or value, if any, of this property.” If the material or literature consists of more than one page, it shall appear at the bottom of the front page. The disclaimer statement shall be set in type of at least ten point font.
 (b) If the advertising is of a classified type; is not more than five inches long and not more than one column in print wide, the disclaimer statement may be set in type of at least six point font.

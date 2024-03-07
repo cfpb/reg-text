@@ -15,7 +15,6 @@
 (2) Subpoena or discovery, or admission into evidence, in any private civil action or administrative process, unless with respect to any privilege held by the Nationwide Mortgage Licensing System and Registry or by the Director with respect to such information or material, the person to whom such information or material pertains, waives, in whole or in part, in the discretion of such person, that privilege.
 (c) Any state law, including any state open record law, relating to the disclosure of confidential supervisory information or any information or material described in paragraph (a) of this section that is inconsistent with paragraph (a), shall be superseded by the requirements of such provision to the extent that state law provides less confidentiality or a weaker privilege.
 (d) This section shall not apply with respect to the information or material relating to the employment history of, and any publicly adjudicated disciplinary and enforcement action against, any loan originator that is included in the Nationwide Mortgage Licensing System and Registry for access by the public.
-Subpart A—General
 § 1008.20 Scope of this subpart.
 This subpart provides the definitions applicable to this part, and other general requirements applicable to this part.
 § 1008.23 Definitions.
@@ -58,7 +57,6 @@ Unique identifier means a number or other identifier that:
 (1) Permanently identifies a loan originator;
 (2) Is assigned by protocols established by the Nationwide Mortgage Licensing System and Registry and the Bureau to facilitate electronic tracking of loan originators and uniform identification of, and public access to, the employment history of and the publicly adjudicated disciplinary and enforcement actions against loan originators; and
 (3) Shall not be used for purposes other than those set forth under the S.A.F.E. Act.
-Subpart B—Determination of State Compliance With the S.A.F.E. Act
 § 1008.101 Scope of this subpart.
 This subpart describes the minimum standards of the S.A.F.E. Act that apply to a state's licensing and registering of loan originators. This subpart also provides the procedures that the Bureau follows to determine that a state does not have in place a system for licensing and registering mortgage loan originators that complies with the minimum standards. Upon making such a determination, the Bureau will impose the requirements and exercise the enforcement authorities described in subparts C and E of this part.
 § 1008.103 Individuals required to be licensed by states.
@@ -179,14 +177,12 @@ For an individual to be eligible for a loan originator license required under §
 (e) Effective date of subparts C and E. The provisions of subparts C and E of this part will become effective with respect to a state for which a final determination of noncompliance has been made upon:
 (1) The effective date of the Bureau's final determination with respect to the state, pursuant to paragraph (c) of this section, unless an extension had been granted to the state in accordance with paragraph (d) of this section; or
 (2) If an extension had been granted to the state in accordance with paragraph (d) of this section, the effective date of the Bureau's subsequent final determination with respect to the state following the expiration of the period of time granted pursuant to paragraph (d) of this section.
-Subpart C—The Bureau's Loan Originator Licensing System and Nationwide Mortgage Licensing and Registry System
 § 1008.201 Scope of this subpart.
 The S.A.F.E. Act provides the Bureau with “backup authority” to establish a loan originator licensing system for any state that is determined by the Bureau not to be in compliance with the minimum standards of the S.A.F.E. Act. The provisions of this subpart become applicable to individuals in a state as provided in § 1008.115(e). The S.A.F.E. Act also authorizes the Bureau to establish and maintain a nationwide mortgage licensing system and registry if the Bureau determines that the NMLSR is failing to meet the purposes and requirements of the S.A.F.E. Act for a comprehensive licensing, supervisory, and tracking system for loan originators.
 § 1008.203 The Bureau's establishment of loan originator licensing system.
 If the Bureau determines, in accordance with § 1008.115(e), that a state has not established a licensing and registration system in compliance with the minimum standards of the S.A.F.E. Act, the Bureau shall apply to individuals in that state the minimum standards of the S.A.F.E. Act, as specified in subpart B, which provides the minimum requirements that a state must meet to be in compliance with the S.A.F.E. Act, and as may be further specified in this part.
 § 1008.205 The Bureau's establishment of nationwide mortgage licensing system and registry.
 If the Bureau determines that the NMLSR established by CSBS and AARMR does not meet the minimum requirements of subpart D of this part, the Bureau will establish and maintain a nationwide mortgage licensing system and registry.
-Subpart D—Minimum Requirements for Administration of the NMLSR
 § 1008.301 Scope of this subpart.
 This subpart establishes minimum requirements that apply to administration of the NMLSR by the Conference of State Bank Supervisors or by the Bureau. The NMLSR must accomplish the following objectives:
 (a) Provide uniform license applications and reporting requirements for state-licensed loan originators.
@@ -208,7 +204,6 @@ To the extent that CSBS maintains the NMLSR, CSBS must annually provide to the B
 CSBS, AARMR, or the Bureau, as applicable, may charge reasonable fees to cover the costs of maintaining and providing access to information from the Nationwide Mortgage Licensing System and Registry. Fees shall not be charged to consumers for access to such system and registry. If the Bureau determines to charge fees, the fees to be charged shall be issued by notice with the opportunity for comment prior to any fees being charged.
 § 1008.309 Absence of liability for good-faith administration.
 The Bureau or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Bureau under 12 U.S.C. 5108 and in accordance with subpart C, or any officer or employee of the Bureau or the Bureau's designee, shall not be subject to any civil action or proceeding for monetary damages by reason of the good-faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who are loan originators or are applying for licensing or registration as loan originators.
-Subpart E—Enforcement of the Bureau's Licensing System
 § 1008.401 The Bureau's authority to examine loan originator records.
 (a) Summons authority. The Bureau may:
 (1) Examine any books, papers, records, or other data of any loan originator operating in any state which is subject to a licensing system established by the Bureau under subpart C of this part; and

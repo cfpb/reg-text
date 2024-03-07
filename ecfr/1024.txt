@@ -1,4 +1,3 @@
-Subpart A—General Provisions
 § 1024.1 Designation.
 This part, known as Regulation X, is issued by the Bureau of Consumer Financial Protection to implement the Real Estate Settlement Procedures Act of 1974, as amended, 12 U.S.C. 2601 et. seq.
 § 1024.2 Definitions.
@@ -115,7 +114,6 @@ The disclosures required by this part may be provided in electronic form, subjec
 (d) Partial exemptions for certain mortgage loans. Sections 1024.6, 1024.7, 1024.8, 1024.10, and 1024.33(a) do not apply to a federally related mortgage loan:
 (1) That is subject to the special disclosure requirements for certain consumer credit transactions secured by real property set forth in Regulation Z, 12 CFR 1026.19(e), (f), and (g); or
 (2) That satisfies the criteria in Regulation Z, 12 CFR 1026.3(h).
-Subpart B—Mortgage Settlement and Escrow Accounts
 § 1024.6 Special information booklet at time of loan application.
 (a) Lender to provide special information booklet. Subject to the exceptions set forth in this paragraph, the lender shall provide a copy of the special information booklet to a person from whom the lender receives, or for whom the lender prepares, a written application for a federally related mortgage loan. When two or more persons apply together for a loan, the lender is in compliance if the lender provides a copy of the booklet to one of the persons applying.
 (1) The lender shall provide the special information booklet by delivering it or placing it in the mail to the applicant not later than three business days (as that term is defined in § 1024.2) after the application is received or prepared. However, if the lender denies the borrower's application for credit before the end of the three-business-day period, then the lender need not provide the booklet to the borrower. If a borrower uses a mortgage broker, the mortgage broker shall distribute the special information booklet and the lender need not do so. The intent of this provision is that the applicant receive the special information booklet at the earliest possible date.
@@ -401,7 +399,6 @@ Trial running balance means the accounting process that derives the target balan
 (c) Exemptions —
 (1) Reverse mortgage transactions. A lender is not required to provide an applicant for a reverse mortgage transaction subject to 12 CFR 1026.33(a) the list of homeownership counseling organizations required under this section.
 (2) Timeshare plans. A lender is not required to provide an applicant for a mortgage loan secured by a timeshare, as described under 11 U.S.C. 101(53D), the list of homeownership counseling organizations required under this section.
-Subpart C—Mortgage Servicing
 § 1024.30 Scope.
 (a) In general. Except as provided in paragraphs (b) and (c) of this section, this subpart applies to any mortgage loan, as that term is defined in § 1024.31.
 (b) Exemptions. Except as otherwise provided in § 1024.41(j), §§ 1024.38 through 1024.41 of this subpart shall not apply to the following:

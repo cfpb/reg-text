@@ -1,4 +1,3 @@
-Subpart A—General Provisions
 § 1022.1 Purpose, scope, and model forms and disclosures.
 (a) Purpose. The purpose of this part is to implement the Fair Credit Reporting Act (FCRA). This part generally applies to persons that obtain and use information about consumers to determine the consumer's eligibility for products, services, or employment, share such information among affiliates, and furnish information to consumer reporting agencies.
 (b) Scope.
@@ -60,8 +59,6 @@ For purposes of this part, unless explicitly stated otherwise:
 (iii) Any other information about a consumer that does not relate to the physical, mental, or behavioral health or condition of a consumer, including the existence or value of any insurance policy; or
 (iv) Information that does not identify a specific consumer.
 (l) Person means any individual, partnership, corporation, trust, estate cooperative, association, government or governmental subdivision or agency, or other entity.
-Subpart B [Reserved]
-Subpart C—Affiliate Marketing
 § 1022.20 Coverage and definitions.
 (a) Coverage. Subpart C of this part applies to any person that uses information from its affiliates for the purpose of marketing solicitations, or provides information to its affiliates for that purpose, other than a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) Definitions. For purposes of this subpart:
@@ -261,7 +258,6 @@ Subpart C—Affiliate Marketing
 (ii) Any time after the expiration of the opt-out period but before solicitations that would have been prohibited by the expired opt-out are made to the consumer.
 (2) Combination with annual privacy notice. If you provide an annual privacy notice under the Gramm-Leach-Bliley Act, 15 U.S.C. 6801 et seq., providing a renewal notice with the last annual privacy notice provided to the consumer before expiration of the opt-out period is a reasonable period of time before expiration of the opt-out in all cases.
 (d) No effect on opt-out period. An opt-out period may not be shortened by sending a renewal notice to the consumer before expiration of the opt-out period, even if the consumer does not renew the opt out.
-Subpart D—Medical Information
 § 1022.30 Obtaining or using medical information in connection with a determination of eligibility for credit.
 (a) Scope. This section applies to any person that participates as a creditor in a transaction, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) General prohibition on obtaining or using medical information —
@@ -342,7 +338,6 @@ Subpart D—Medical Information
 (4) For any purpose described in section 502(e) of the Gramm-Leach-Bliley Act;
 (5) In connection with a determination of the consumer's eligibility, or continued eligibility, for credit consistent with § 1022.30 of this part; or
 (6) As otherwise permitted by order of the Bureau.
-Subpart E—Duties of Furnishers of Information
 § 1022.40 Scope.
 Subpart E of this part applies to any person that furnishes information to a consumer reporting agency, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376.
 § 1022.41 Definitions.
@@ -402,7 +397,6 @@ For purposes of this subpart and appendix E of this part, the following definiti
 (iii) The furnisher is not required to investigate the direct dispute because one or more of the exceptions listed in paragraph (b) of this section applies.
 (2) Notice of determination. Upon making a determination that a dispute is frivolous or irrelevant, the furnisher must notify the consumer of the determination not later than five business days after making the determination, by mail or, if authorized by the consumer for that purpose, by any other means available to the furnisher.
 (3) Contents of notice of determination that a dispute is frivolous or irrelevant. A notice of determination that a dispute is frivolous or irrelevant must include the reasons for such determination and identify any information required to investigate the disputed information, which notice may consist of a standardized form describing the general nature of such information.
-Subpart F—Duties of Users Regarding Obtaining and Using Consumer Reports
 §§ 1022.50-1022.53 [Reserved]
 § 1022.54 Duties of users making written firm offers of credit or insurance based on information contained in consumer files
 (a) Scope. This subpart applies to any person who uses a consumer report on any consumer in connection with any credit or insurance transaction that is not initiated by the consumer, and that is provided to that person under section 604(c)(1)(B) of the FCRA (15 U.S.C. 1681b(c)(1)(B)), except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
@@ -437,8 +431,6 @@ Subpart F—Duties of Users Regarding Obtaining and Using Consumer Reports
 (D) Be in a type style that is distinct from the principal type style used on the same page, such as bolded, italicized, underlined, and/or in a color that contrasts with the color of the principal text on the page, if the solicitation is in more than one color; and
 (E) Be set apart from other text on the page, such as by including a blank line above and below the statement, and by indenting both the left and right margins from other text on the page.
 §§ 1022.55-1022.59 [Reserved]
-Subpart G [Reserved]
-Subpart H—Duties of Users Regarding Risk-Based Pricing
 § 1022.70 Scope.
 (a) Coverage —
 (1) In general. This subpart applies to any person, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137, that both:
@@ -659,7 +651,6 @@ For purposes of this subpart, the following rules of construction apply:
 (3) Examples.
 (i) Two consumers jointly apply for credit with a creditor. The creditor obtains credit scores on both consumers. Based in part on the credit scores, the creditor grants credit to the consumers on material terms that are materially less favorable than the most favorable terms available to other consumers from the creditor. The creditor provides risk-based pricing notices to satisfy its obligations under this subpart. The creditor must provide a separate risk-based pricing notice to each consumer whether the consumers have the same address or not. Each risk-based pricing notice must contain only the credit score(s) of the consumer to whom the notice is provided.
 (ii) Two consumers jointly apply for credit with a creditor. The two consumers reside at the same address. The creditor obtains credit scores on each of the two consumer applicants. The creditor grants credit to the consumers. The creditor provides credit score disclosure notices to satisfy its obligations under this subpart. Even though the two consumers reside at the same address, the creditor must provide a separate credit score disclosure notice to each of the consumers. Each notice must contain only the credit score of the consumer to whom the notice is provided.
-Subpart I—Duties of Users of Consumer Reports Regarding Identity Theft
 §§ 1022.80-1022.81 [Reserved]
 § 1022.82 Duties of users regarding address discrepancies.
 (a) Scope. This section applies to a user of consumer reports (user) that receives a notice of address discrepancy from a consumer reporting agency described in 15 U.S.C. 1681a(p), except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
@@ -683,8 +674,6 @@ Subpart I—Duties of Users of Consumer Reports Regarding Identity Theft
 (iii) Verifying the address through third-party sources; or
 (iv) Using other reasonable means.
 (3) Timing. The policies and procedures developed in accordance with paragraph (d)(1) of this section must provide that the user will furnish the consumer's address that the user has reasonably confirmed is accurate to the consumer reporting agency described in 15 U.S.C. 1681a(p) as part of the information it regularly furnishes for the reporting period in which it establishes a relationship with the consumer.
-Subparts J-L [Reserved]
-Subpart M—Duties of Consumer Reporting Agencies Regarding Identity Theft
 § 1022.120 [Reserved]
 § 1022.121 Active duty alerts.
 (a) Duration. The duration of an active duty alert shall be twelve months.
@@ -697,7 +686,6 @@ Subpart M—Duties of Consumer Reporting Agencies Regarding Identity Theft
 (1) Consumer file match. The identification information of the consumer including his or her full name (first, middle initial, last, suffix), any other or previously used names, current and/or recent full address (street number and name, apt. no., city, state, and zip code), full nine digits of Social Security number, and/or date of birth.
 (2) Additional proof of identity. Copies of government issued identification documents, utility bills, and/or other methods of authentication of a person's identity which may include, but would not be limited to, answering questions to which only the consumer might be expected to know the answer.
 §§ 1022.124-1022.129 [Reserved]
-Subpart N—Duties of Consumer Reporting Agencies Regarding Disclosures to Consumers
 § 1022.130 Definitions
 For purposes of this subpart, the following definitions apply:
 (a) Annual file disclosure means a file disclosure that is provided to a consumer, upon consumer request and without charge, once in any twelve month period, in compliance with section 612(a) of the FCRA, 15 U.S.C. 1681j(a).
@@ -823,7 +811,6 @@ For purposes of this subpart, the following definitions apply:
 (6) Telephone requests. When consumers call any telephone number, other than the number of the centralized source, appearing in an advertisement that represents free credit reports are available at the number, consumers must receive the following audio disclosure at the first mention of a free credit report: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the only authorized source under Federal law.”
 (7) Telemarketing solicitations. When telemarketing sales calls are made that include offers of free credit reports, the call must include at the first mention of a free credit report the following disclosure: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the only authorized source under Federal law.”
 § 1022.139 [Reserved]
-Subpart O—Miscellaneous Duties of Consumer Reporting Agencies
 § 1022.140 Prohibition against circumventing or evading treatment as a consumer reporting agency
 (a) A consumer reporting agency shall not circumvent or evade treatment as a “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis,” as defined under section 603(p) of the FCRA, 15 U.S.C. 1681a(p), by any means, including, but not limited to:
 (1) Corporate organization, reorganization, structure, or restructuring, including merger, acquisition, dissolution, divestiture, or asset sale of a consumer reporting agency; or

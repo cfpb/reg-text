@@ -214,7 +214,6 @@ As used in this part, unless the context requires otherwise:
 (iv) A registered investment adviser, properly registered by or on behalf of either the Securities Exchange Commission or any State, with respect to its investment advisory activities and its activities incidental to those investment advisory activities;
 (v) An investment company that is registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.;) or
 (vi) An insurance company, with respect to its insurance activities and its activities incidental to those insurance activities, that is subject to supervision by a State insurance regulator.
-Subpart A—Privacy and Opt Out Notices
 § 1016.4 Initial privacy notice to consumers required.
 (a) Initial notice requirement. You must provide a clear and conspicuous notice that accurately reflects your privacy policies and practices to:
 (1) Customer. An individual who becomes your customer, not later than when you establish a customer relationship, except as provided in paragraph (e) of this section; and
@@ -467,7 +466,6 @@ Subpart A—Privacy and Opt Out Notices
 (2) Special rule for loans in the case of credit unions.
 (i) A credit union is required to provide an initial notice to a borrower or guarantor on a loan if the credit union shares his or her nonpublic personal information with nonaffiliated third parties other than for purposes under §§ 1016.13, 1016.14, and 1016.15.
 (ii) A credit union may satisfy the annual notice requirements of § 1016.5 by providing one notice to those borrowers and guarantors jointly.
-Subpart B—Limits on Disclosures
 § 1016.10 Limits on disclosure of nonpublic personal information to nonaffiliated third parties.
 (a)
 (1) Conditions for disclosure. Except as otherwise authorized in this part, you may not, directly or through any affiliate, disclose any nonpublic personal information about a consumer to a nonaffiliated third party unless:
@@ -515,7 +513,6 @@ Subpart B—Limits on Disclosures
 (c) Examples —
 (1) Account number. An account number, or similar form of access number or access code, does not include a number or code in an encrypted form, as long as you do not provide the recipient with a means to decode the number or code.
 (2) Transaction account. A transaction account is an account other than a deposit account, a share account, or a credit card account. A transaction account does not include an account to which third parties cannot initiate charges.
-Subpart C—Exceptions
 § 1016.13 Exception to opt out requirements for service providers and joint marketing.
 (a) General rule.
 (1) The opt out requirements in §§ 1016.7 and 1016.10 of this part do not apply when you provide nonpublic personal information to a nonaffiliated third party to perform services for you or functions on your behalf, if you:
@@ -563,7 +560,6 @@ Subpart C—Exceptions
 (b) Examples of consent and revocation of consent.
 (1) A consumer may specifically consent to your disclosure to a nonaffiliated insurance company of the fact that the consumer has applied to you for a mortgage so that the insurance company can offer homeowner's insurance to the consumer.
 (2) A consumer may revoke consent by subsequently exercising the right to opt out of future disclosures of nonpublic personal information as permitted under § 1016.7(h) of this part.
-Subpart D—Relation to Other Laws
 § 1016.16 Protection of Fair Credit Reporting Act.
 Nothing in this part shall be construed to modify, limit, or supersede the operation of the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.), and no inference shall be drawn on the basis of the provisions of this part regarding whether information is transaction or experience information under section 603 of that Act.
 § 1016.17 Relation to state laws.
