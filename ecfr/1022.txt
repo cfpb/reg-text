@@ -4,8 +4,8 @@ Subpart A—General Provisions
 (b) Scope.
 (1) [Reserved]
 (2) Institutions covered.
-(i) Except as otherwise provided in this part, this part applies to any person subject to the FCRA except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 1376.
-(ii) For purposes of appendix B to this part, financial institutions as defined in section 509 of the Gramm-Leach-Bliley Act (12 U.S.C. 6809), may use the model notices in appendix B to this part to comply with the notice requirement in section 623(a)(7) of the FCRA (15 U.S.C. 1681s–2(a)(7)).
+(i) Except as otherwise provided in this part, this part applies to any person subject to the FCRA except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376.
+(ii) For purposes of appendix B to this part, financial institutions as defined in section 509 of the Gramm-Leach-Bliley Act (12 U.S.C. 6809), may use the model notices in appendix B to this part to comply with the notice requirement in section 623(a)(7) of the FCRA (15 U.S.C. 1681s-2(a)(7)).
 (c) Model forms and disclosures —
 (1) Use. Appendices D, H, I, K, L, M, and N contain model forms and disclosures. These appendices carry out the directive in FCRA that the Bureau prescribe such model forms and disclosures. Use or distribution of these model forms and disclosures, or substantially similar forms and disclosures, will constitute compliance with any section or subsection of the FCRA requiring that such forms and disclosures be used by or supplied to any person.
 (2) Definition. Substantially similar means that all information in the Bureau's prescribed model is included in the document that is distributed, and that the document distributed is formatted in a way consistent with the format prescribed by the Bureau. The document that is distributed shall not include anything that interferes with, detracts from, or otherwise undermines the information contained in the Bureau's prescribed model. Until January 1, 2013, the model forms in appendices B, E, F, G, and H to 16 CFR part 698, as those appendices existed as of October 1, 2011, are deemed substantially similar to the corresponding model forms in appendices H, I, K, M, and N to this part, and the model forms in appendix H to 12 CFR part 222, as that appendix existed as of October 1, 2011, are deemed substantially similar to the corresponding model forms in appendix H to this part.
@@ -63,7 +63,7 @@ For purposes of this part, unless explicitly stated otherwise:
 Subpart B [Reserved]
 Subpart C—Affiliate Marketing
 § 1022.20 Coverage and definitions.
-(a) Coverage. Subpart C of this part applies to any person that uses information from its affiliates for the purpose of marketing solicitations, or provides information to its affiliates for that purpose, other than a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 137.
+(a) Coverage. Subpart C of this part applies to any person that uses information from its affiliates for the purpose of marketing solicitations, or provides information to its affiliates for that purpose, other than a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) Definitions. For purposes of this subpart:
 (1) Clear and conspicuous. The term “clear and conspicuous” means reasonably understandable and designed to call attention to the nature and significance of the information presented.
 (2) Concise —
@@ -263,7 +263,7 @@ Subpart C—Affiliate Marketing
 (d) No effect on opt-out period. An opt-out period may not be shortened by sending a renewal notice to the consumer before expiration of the opt-out period, even if the consumer does not renew the opt out.
 Subpart D—Medical Information
 § 1022.30 Obtaining or using medical information in connection with a determination of eligibility for credit.
-(a) Scope. This section applies to any person that participates as a creditor in a transaction, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 137.
+(a) Scope. This section applies to any person that participates as a creditor in a transaction, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) General prohibition on obtaining or using medical information —
 (1) In general. A creditor may not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit, except as provided in this section.
 (2) Definitions.
@@ -327,10 +327,10 @@ Subpart D—Medical Information
 (v) If a consumer completes and signs a credit application that is not for medical purpose credit and the application contains boilerplate language that routinely requests medical information from the consumer or that indicates that by applying for credit the consumer authorizes or consents to the creditor obtaining and using medical information in connection with a determination of the consumer's eligibility, or continued eligibility, for credit, the consumer has not specifically requested that the creditor obtain and use medical information to accommodate the consumer's particular circumstances.
 (5) Example of a forbearance practice or program. After an appropriate safety and soundness review, a creditor institutes a program that allows consumers who are or will be hospitalized to defer payments as needed for up to three months, without penalty, if the credit account has been open for more than one year and has not previously been in default, and the consumer provides confirming documentation at an appropriate time. A consumer is hospitalized and does not pay her bill for a particular month. This consumer has had a credit account with the creditor for more than one year and has not previously been in default. The creditor attempts to contact the consumer and speaks with the consumer's adult child, who is not the consumer's legal representative. The adult child informs the creditor that the consumer is hospitalized and is unable to pay the bill at that time. The creditor defers payments for up to three months, without penalty, for the hospitalized consumer and sends the consumer a letter confirming this practice and the date on which the next payment will be due. The creditor has obtained and used medical information to determine whether the provisions of a medically-triggered forbearance practice or program apply to a consumer.
 § 1022.31 Limits on redisclosure of information.
-(a) Scope. This section applies to any person, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 137.
+(a) Scope. This section applies to any person, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) Limits on redisclosure. If a person described in paragraph (a) of this section receives medical information about a consumer from a consumer reporting agency or its affiliate, the person must not disclose that information to any other person, except as necessary to carry out the purpose for which the information was initially disclosed, or as otherwise permitted by statute, regulation, or order.
 § 1022.32 Sharing medical information with affiliates.
-(a) Scope. This section applies to any person, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 137.
+(a) Scope. This section applies to any person, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) In general. The exclusions from the term “consumer report” in section 603(d)(2) of the Act that allow the sharing of information with affiliates do not apply to a person described in paragraph (a) of this section if that person communicates to an affiliate:
 (1) Medical information;
 (2) An individualized list or description based on the payment transactions of the consumer for medical products or services; or
@@ -344,7 +344,7 @@ Subpart D—Medical Information
 (6) As otherwise permitted by order of the Bureau.
 Subpart E—Duties of Furnishers of Information
 § 1022.40 Scope.
-Subpart E of this part applies to any person that furnishes information to a consumer reporting agency, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 1376.
+Subpart E of this part applies to any person that furnishes information to a consumer reporting agency, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376.
 § 1022.41 Definitions.
 For purposes of this subpart and appendix E of this part, the following definitions apply:
 (a) Accuracy means that information that a furnisher provides to a consumer reporting agency about an account or other relationship with the consumer correctly:
@@ -405,7 +405,7 @@ For purposes of this subpart and appendix E of this part, the following definiti
 Subpart F—Duties of Users Regarding Obtaining and Using Consumer Reports
 §§ 1022.50-1022.53 [Reserved]
 § 1022.54 Duties of users making written firm offers of credit or insurance based on information contained in consumer files
-(a) Scope. This subpart applies to any person who uses a consumer report on any consumer in connection with any credit or insurance transaction that is not initiated by the consumer, and that is provided to that person under section 604(c)(1)(B) of the FCRA (15 U.S.C. 1681b(c)(1)(B)), except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 137.
+(a) Scope. This subpart applies to any person who uses a consumer report on any consumer in connection with any credit or insurance transaction that is not initiated by the consumer, and that is provided to that person under section 604(c)(1)(B) of the FCRA (15 U.S.C. 1681b(c)(1)(B)), except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) Definitions. For purposes of this section and appendix D of this part, the following definitions apply:
 (1) Simple and easy to understand means:
 (i) A layered format as described in paragraph (c) of this section;
@@ -441,7 +441,7 @@ Subpart G [Reserved]
 Subpart H—Duties of Users Regarding Risk-Based Pricing
 § 1022.70 Scope.
 (a) Coverage —
-(1) In general. This subpart applies to any person, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 137, that both:
+(1) In general. This subpart applies to any person, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137, that both:
 (i) Uses a consumer report in connection with an application for, or a grant, extension, or other provision of, credit to a consumer that is primarily for personal, family, or household purposes; and
 (ii) Based in whole or in part on the consumer report, grants, extends, or otherwise provides credit to the consumer on material terms that are materially less favorable than the most favorable material terms available to a substantial proportion of consumers from or through that person.
 (2) Business credit excluded. This subpart does not apply to an application for, or a grant, extension, or other provision of, credit to a consumer or to any other applicant primarily for a business purpose.
@@ -547,7 +547,7 @@ For purposes of this subpart, the following definitions apply:
 (1) In general. The risk-based pricing notice required by § 1022.72(a), (c), or (d) must be:
 (i) Clear and conspicuous; and
 (ii) Provided to the consumer in oral, written, or electronic form.
-(2) Model forms. Model forms of the risk-based pricing notice required by § 1022.72(a) and (c) are contained in appendices H–1 and H–6 of this part. Appropriate use of Model Form H–1 or H–6 is deemed to comply with the requirements of § 1022.72(a) and (c). Model forms of the risk-based pricing notice required by § 1022.72(d) are contained in appendices H–2 and H–7 of this part. Appropriate use of Model Form H–2 or H–7 is deemed to comply with the requirements of § 1022.72(d). Use of the model forms is optional.
+(2) Model forms. Model forms of the risk-based pricing notice required by § 1022.72(a) and (c) are contained in appendices H-1 and H-6 of this part. Appropriate use of Model Form H-1 or H-6 is deemed to comply with the requirements of § 1022.72(a) and (c). Model forms of the risk-based pricing notice required by § 1022.72(d) are contained in appendices H-2 and H-7 of this part. Appropriate use of Model Form H-2 or H-7 is deemed to comply with the requirements of § 1022.72(d). Use of the model forms is optional.
 (c) Timing —
 (1) General. Except as provided in paragraph (c)(3) of this section, a risk-based pricing notice must be provided to the consumer:
 (i) In the case of a grant, extension, or other provision of closed-end credit, before consummation of the transaction, but not earlier than the time the decision to approve an application for, or a grant, extension, or other provision of, credit, is communicated to the consumer by the person required to provide the notice;
@@ -599,7 +599,7 @@ For purposes of this subpart, the following definitions apply:
 (ii) Examples.
 (A) A person that uses consumer reports to set the material terms of mortgage credit granted, extended, or provided to consumers regularly requests credit scores from several consumer reporting agencies and uses the low score when determining the material terms it will offer to the consumer. That person must disclose the low score in the notice described in paragraph (d)(1)(ii) of this section.
 (B) A person that uses consumer reports to set the material terms of mortgage credit granted, extended, or provided to consumers regularly requests credit scores from several consumer reporting agencies, each of which it uses in an underwriting program in order to determine the material terms it will offer to the consumer. That person may choose one of these scores to include in the notice described in paragraph (d)(1)(ii) of this section.
-(5) Model form. A model form of the notice described in paragraph (d)(1)(ii) of this section consolidated with the notice required by section 609(g) of the FCRA is contained in appendix H–3 of this part. Appropriate use of Model Form H–3 is deemed to comply with the requirements of § 1022.74(d). Use of the model form is optional.
+(5) Model form. A model form of the notice described in paragraph (d)(1)(ii) of this section consolidated with the notice required by section 609(g) of the FCRA is contained in appendix H-3 of this part. Appropriate use of Model Form H-3 is deemed to comply with the requirements of § 1022.74(d). Use of the model form is optional.
 (e) Other extensions of credit—credit score disclosure —
 (1) In general. A person is not required to provide a risk-based pricing notice to a consumer under § 1022.72(a) or (c) if:
 (i) The consumer requests from the person an extension of credit other than credit that is or will be secured by one to four units of residential real property; and
@@ -624,7 +624,7 @@ For purposes of this subpart, the following definitions apply:
 (4) Multiple credit scores.
 (i) In general. When a person obtains two or more credit scores from consumer reporting agencies and uses one of those credit scores in setting the material terms of credit granted, extended, or otherwise provided to a consumer, for example, by using the low, middle, high, or most recent score, the notice described in paragraph (e)(1)(ii) of this section must include that credit score and the other information required by that paragraph. When a person obtains two or more credit scores from consumer reporting agencies and uses multiple credit scores in setting the material terms of credit granted, extended, or otherwise provided to a consumer, for example, by computing the average of all the credit scores obtained, the notice described in paragraph (e)(1)(ii) of this section must include one of those credit scores and the other information required by that paragraph. The notice may, at the person's option, include more than one credit score, along with the additional information specified in paragraph (e)(1)(ii) of this section for each credit score disclosed.
 (ii) Examples. The manner in which multiple credit scores are to be disclosed under this section are substantially identical to the manner set forth in the examples contained in paragraph (d)(4)(ii) of this section.
-(5) Model form. A model form of the notice described in paragraph (e)(1)(ii) of this section is contained in appendix H–4 of this part. Appropriate use of Model Form H–4 is deemed to comply with the requirements of § 1022.74(e). Use of the model form is optional.
+(5) Model form. A model form of the notice described in paragraph (e)(1)(ii) of this section is contained in appendix H-4 of this part. Appropriate use of Model Form H-4 is deemed to comply with the requirements of § 1022.74(e). Use of the model form is optional.
 (f) Credit score not available —
 (1) In general. A person is not required to provide a risk-based pricing notice to a consumer under § 1022.72(a) or (c) if the person:
 (i) Regularly obtains credit scores from a consumer reporting agency and provides credit score disclosures to consumers in accordance with paragraphs (d) or (e) of this section, but a credit score is not available from the consumer reporting agency from which the person regularly obtains credit scores for a consumer to whom the person grants, extends, or provides credit;
@@ -645,7 +645,7 @@ For purposes of this subpart, the following definitions apply:
 (ii) Segregated from other information provided to the consumer; and
 (iii) Provided to the consumer in writing and in a form that the consumer may keep.
 (4) Timing. The notice described in paragraph (f)(1)(iii) of this section must be provided to the consumer as soon as reasonably practicable after the person has requested the credit score, but in any event not later than consummation of a transaction in the case of closed-end credit or when the first transaction is made under an open-end credit plan.
-(5) Model form. A model form of the notice described in paragraph (f)(1)(iii) of this section is contained in appendix H–5 of this part. Appropriate use of Model Form H–5 is deemed to comply with the requirements of § 1022.74(f). Use of the model form is optional.
+(5) Model form. A model form of the notice described in paragraph (f)(1)(iii) of this section is contained in appendix H-5 of this part. Appropriate use of Model Form H-5 is deemed to comply with the requirements of § 1022.74(f). Use of the model form is optional.
 § 1022.75 Rules of construction.
 For purposes of this subpart, the following rules of construction apply:
 (a) One notice per credit extension. A consumer is entitled to no more than one risk-based pricing notice under § 1022.72(a) or (c), or one notice under § 1022.74(d), (e), or (f), for each grant, extension, or other provision of credit. Notwithstanding the foregoing, even if a consumer has previously received a risk-based pricing notice in connection with a grant, extension, or other provision of credit, another risk-based pricing notice is required if the conditions set forth in § 1022.72(d) have been met.
@@ -662,7 +662,7 @@ For purposes of this subpart, the following rules of construction apply:
 Subpart I—Duties of Users of Consumer Reports Regarding Identity Theft
 §§ 1022.80-1022.81 [Reserved]
 § 1022.82 Duties of users regarding address discrepancies.
-(a) Scope. This section applies to a user of consumer reports (user) that receives a notice of address discrepancy from a consumer reporting agency described in 15 U.S.C. 1681a(p), except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111–203, 124 Stat. 137.
+(a) Scope. This section applies to a user of consumer reports (user) that receives a notice of address discrepancy from a consumer reporting agency described in 15 U.S.C. 1681a(p), except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) Definition. For purposes of this section, a notice of address discrepancy means a notice sent to a user by a consumer reporting agency described in 15 U.S.C. 1681a(p) pursuant to 15 U.S.C. 1681c(h)(1), that informs the user of a substantial difference between the address for the consumer that the user provided to request the consumer report and the address(es) in the agency's file for the consumer.
 (c) Reasonable belief —
 (1) Requirement to form a reasonable belief. A user must develop and implement reasonable policies and procedures designed to enable the user to form a reasonable belief that a consumer report relates to the consumer about whom it has requested the report, when the user receives a notice of address discrepancy.
@@ -683,7 +683,7 @@ Subpart I—Duties of Users of Consumer Reports Regarding Identity Theft
 (iii) Verifying the address through third-party sources; or
 (iv) Using other reasonable means.
 (3) Timing. The policies and procedures developed in accordance with paragraph (d)(1) of this section must provide that the user will furnish the consumer's address that the user has reasonably confirmed is accurate to the consumer reporting agency described in 15 U.S.C. 1681a(p) as part of the information it regularly furnishes for the reporting period in which it establishes a relationship with the consumer.
-Subparts J–L [Reserved]
+Subparts J-L [Reserved]
 Subpart M—Duties of Consumer Reporting Agencies Regarding Identity Theft
 § 1022.120 [Reserved]
 § 1022.121 Active duty alerts.
@@ -795,7 +795,7 @@ For purposes of this subpart, the following definitions apply:
 (2) Instruct the consumer how to make the request using the streamlined process required by this part.
 § 1022.138 Prevention of deceptive marketing of free credit reports.
 (a) For purposes of this section:
-(1) AnnualCreditReport.com and (877) 322–8228 means the Uniform Resource Locator address “AnnualCreditReport.com” and toll-free telephone number, (877) 322–8228. These are the locator address and toll-free telephone number currently used by the centralized source. If the locator address or toll-free telephone number changes in the future, the new address or telephone number shall be substituted within a reasonable time.
+(1) AnnualCreditReport.com and (877) 322-8228 means the Uniform Resource Locator address “AnnualCreditReport.com” and toll-free telephone number, (877) 322-8228. These are the locator address and toll-free telephone number currently used by the centralized source. If the locator address or toll-free telephone number changes in the future, the new address or telephone number shall be substituted within a reasonable time.
 (2) Free credit report means a file disclosure prepared by or obtained from, directly or indirectly, a nationwide consumer reporting agency (as defined in section 603(p) of the FCRA), that is represented, either expressly or impliedly, to be available to the consumer at no cost if the consumer purchases a product or service, or agrees to purchase a product or service subject to cancellation.
 (3) General requirements for disclosures. The disclosures covered by Paragraph (b) of this section shall contain only the prescribed content and comply with the following requirements:
 (i) All disclosures shall be prominent;
@@ -809,19 +809,19 @@ For purposes of this subpart, the following definitions apply:
 (i) All advertisements for free credit reports broadcast on television shall include the following disclosure in close proximity to the first mention of a free credit report: “This is not the free credit report provided for by Federal law.”
 (ii) The disclosure shall appear at the same time in the audio and visual part of the advertisement. The visual disclosure shall be at least four percent of the vertical picture height and appear for a minimum of four seconds.
 (2) Radio advertisements. All advertisements for free credit reports broadcast on radio shall include the following disclosure in close proximity to the first mention of a free credit report: “This is not the free credit report provided for by Federal law.”
-(3) Print advertisements. All advertisements for free credit reports in print shall include the following disclosure in the form specified below and in close proximity to the first mention of a free credit report. The first line of the disclosure shall be centered and contain only the following language: “THIS NOTICE IS REQUIRED BY LAW.” Immediately below the first line of the disclosure the following language shall appear: “You have the right to a free credit report from AnnualCreditReport.com or (877) 322–8228, the ONLY authorized source under Federal law.” Each letter of the disclosure text shall be, at minimum, one-half the size of the largest character used in the advertisement.
+(3) Print advertisements. All advertisements for free credit reports in print shall include the following disclosure in the form specified below and in close proximity to the first mention of a free credit report. The first line of the disclosure shall be centered and contain only the following language: “THIS NOTICE IS REQUIRED BY LAW.” Immediately below the first line of the disclosure the following language shall appear: “You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the ONLY authorized source under Federal law.” Each letter of the disclosure text shall be, at minimum, one-half the size of the largest character used in the advertisement.
 (4) Web sites. Any Web site offering free credit reports must display the disclosure set forth in paragraphs (b)(4)(i), (ii), and (v) of this section on each page that mentions a free credit report and on each page of the ordering process. This disclosure shall be visible across the top of each page where the disclosure is required to appear; shall appear inside a box; and shall appear in the form specified below:
 (i) The first element of the disclosure shall be a header that is centered and shall consist of the following text: “THIS NOTICE IS REQUIRED BY LAW. Read more at consumerfinance.gov/learnmore.” Each letter of the header shall be one-half the size of the largest character of the disclosure text required by paragraph (b)(4)(ii) of this section. The reference to consumerfinance.gov/learnmore shall be an operational hyperlink, underlined, and in a color that is a high degree of contrast from the color of the other disclosure text and background color of the box. Until January 1, 2013, www.ftc.gov and the corresponding hyperlink may be substituted for “consumerfinance.gov/learmore” and the corresponding hyperlink;
-(ii) The second element of the disclosure shall appear below the header required by paragraph (b)(4)(i) and shall consist of the following text: “You have the right to a free credit report from AnnualCreditReport.com or (877) 322–8228, the ONLY authorized source under Federal law.” The reference to AnnualCreditReport.com shall be an operational hyperlink to the centralized source, underlined, and in the same color as the hyperlink to consumerfinance.gov/learnmore required in § 1022.138(b)(4)(i);
+(ii) The second element of the disclosure shall appear below the header required by paragraph (b)(4)(i) and shall consist of the following text: “You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the ONLY authorized source under Federal law.” The reference to AnnualCreditReport.com shall be an operational hyperlink to the centralized source, underlined, and in the same color as the hyperlink to consumerfinance.gov/learnmore required in § 1022.138(b)(4)(i);
 (iii) The color of the text required by § 1022.138(b)(4)(i) and (ii) shall be in a high degree of contrast with the background color of the box;
 (iv) The background of the box shall be a solid color in a high degree of contrast from the background of the page and the color shall not appear elsewhere on the page;
 (v) The third element of the disclosure shall appear below the text required by paragraph (b)(4)(ii) and shall be an operational hyperlink to AnnualCreditReport.com that appears as a centered button containing the following language: “Take me to the authorized source.” The background of this button shall be the same color as the hyperlinks required by § 1022.138(b)(4)(i) and (ii) and the text shall be in a high degree of contrast to the background of the button;
 (vi) Each character of the text required in paragraph (b)(4)(ii) and (v) of this section shall be, at minimum, the same size as the largest character on the page, including characters in an image or graphic banner;
 (vii) Each character of the disclosure shall be displayed as plain text and in a sans serif font, such as Arial; and
 (viii) The space between each element of the disclosure required in paragraph (b)(i), (ii), and (v) of this section shall be, at minimum, the same size as the largest character on the page, including characters in an image or graphic banner. The space between the boundaries of the box and the text or button required in § 1022.138(b)(i), (ii), and (v) shall be, at minimum, twice the size of the vertical height of the largest character on the page, including characters in an image or graphic banner.
-(5) Internet-hosted multimedia advertising. All advertisements for free credit reports disseminated through Internet-hosted multimedia in both audio and visual formats shall include the following disclosure in the form specified below and in close proximity to the first mention of a free credit report. The first line of the disclosure shall be centered and contain only the following language: “THIS NOTICE IS REQUIRED BY LAW.” Immediately below the first line of the disclosure the following language shall appear: “You have the right to a free credit report from AnnualCreditReport.com or (877) 322–8228, the ONLY authorized source under Federal law.” The disclosure shall appear at the same time in the audio and visual part of the advertisement. If the advertisement contains characters, the visual disclosure shall be, at minimum, the same size as the largest character on the advertisement.
-(6) Telephone requests. When consumers call any telephone number, other than the number of the centralized source, appearing in an advertisement that represents free credit reports are available at the number, consumers must receive the following audio disclosure at the first mention of a free credit report: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322–8228, the only authorized source under Federal law.”
-(7) Telemarketing solicitations. When telemarketing sales calls are made that include offers of free credit reports, the call must include at the first mention of a free credit report the following disclosure: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322–8228, the only authorized source under Federal law.”
+(5) Internet-hosted multimedia advertising. All advertisements for free credit reports disseminated through Internet-hosted multimedia in both audio and visual formats shall include the following disclosure in the form specified below and in close proximity to the first mention of a free credit report. The first line of the disclosure shall be centered and contain only the following language: “THIS NOTICE IS REQUIRED BY LAW.” Immediately below the first line of the disclosure the following language shall appear: “You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the ONLY authorized source under Federal law.” The disclosure shall appear at the same time in the audio and visual part of the advertisement. If the advertisement contains characters, the visual disclosure shall be, at minimum, the same size as the largest character on the advertisement.
+(6) Telephone requests. When consumers call any telephone number, other than the number of the centralized source, appearing in an advertisement that represents free credit reports are available at the number, consumers must receive the following audio disclosure at the first mention of a free credit report: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the only authorized source under Federal law.”
+(7) Telemarketing solicitations. When telemarketing sales calls are made that include offers of free credit reports, the call must include at the first mention of a free credit report the following disclosure: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the only authorized source under Federal law.”
 § 1022.139 [Reserved]
 Subpart O—Miscellaneous Duties of Consumer Reporting Agencies
 § 1022.140 Prohibition against circumventing or evading treatment as a consumer reporting agency
@@ -885,16 +885,16 @@ Pursuant to section 612(f) of the FCRA, 15 U.S.C. 1681j(f), the charge imposed b
 Appendix A to Part 1022 [Reserved]
 Appendix B to Part 1022—Model Notices of Furnishing Negative Information
 a. Although use of the model notices is not required, a financial institution that is subject to section 623(a)(7) of the FCRA shall be deemed to be in compliance with the notice requirement in section 623(a)(7) of the FCRA if the institution properly uses the model notices in this appendix (as applicable).
-b. A financial institution may use Model Notice B–1 if the institution provides the notice prior to furnishing negative information to a nationwide consumer reporting agency.
-c. A financial institution may use Model Notice B–2 if the institution provides the notice after furnishing negative information to a nationwide consumer reporting agency.
+b. A financial institution may use Model Notice B-1 if the institution provides the notice prior to furnishing negative information to a nationwide consumer reporting agency.
+c. A financial institution may use Model Notice B-2 if the institution provides the notice after furnishing negative information to a nationwide consumer reporting agency.
 d. Financial institutions may make certain changes to the language or format of the model notices without losing the safe harbor from liability provided by the model notices. The changes to the model notices may not be so extensive as to affect the substance, clarity, or meaningful sequence of the language in the model notices. Financial institutions making such extensive revisions will lose the safe harbor from liability that this appendix provides. Acceptable changes include, for example,
 1. Rearranging the order of the references to “late payment(s),” or “missed payment(s).”
 2. Pluralizing the terms “credit bureau,” “credit report,” and “account.”
 3. Specifying the particular type of account on which information may be furnished, such as “credit card account.”
-4. Rearranging in Model Notice B–1 the phrases “information about your account” and “to credit bureaus” such that it would read “We may report to credit bureaus information about your account.”
-Model Notice B–1
+4. Rearranging in Model Notice B-1 the phrases “information about your account” and “to credit bureaus” such that it would read “We may report to credit bureaus information about your account.”
+Model Notice B-1
 We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.
-Model Notice B–2
+Model Notice B-2
 We have told a credit bureau about a late payment, missed payment or other default on your account. This information may be reflected in your credit report.
 Appendix C to Part 1022—Model Forms for Opt-Out Notices
 a. Although use of the model forms is not required, use of the model forms in this appendix (as applicable) complies with the requirement in section 624 of the Act for clear, conspicuous, and concise notices.
@@ -909,67 +909,67 @@ b. Certain changes may be made to the language or format of the model forms with
 8. Adding the following statement, if accurate: “If you previously opted out, you do not need to do so again.”
 9. Providing a place on the form for the consumer to fill in identifying information, such as his or her name and address.
 10. Adding disclosures regarding the treatment of opt-outs by joint consumers to comply with § 1022.23(a)(2) of this part.
-C–1 Model Form for Initial Opt-out Notice (Single-Affiliate Notice)
-C–2 Model Form for Initial Opt-out Notice (Joint Notice)
-C–3 Model Form for Renewal Notice (Single-Affiliate Notice)
-C–4 Model Form for Renewal Notice (Joint Notice)
-C–5 Model Form for Voluntary “No Marketing” Notice
-C–1—Model Form for Initial Opt-Out Notice (Single-Affiliate Notice)—[Your Choice To Limit Marketing]/[Marketing Opt-Out]
+C-1 Model Form for Initial Opt-out Notice (Single-Affiliate Notice)
+C-2 Model Form for Initial Opt-out Notice (Joint Notice)
+C-3 Model Form for Renewal Notice (Single-Affiliate Notice)
+C-4 Model Form for Renewal Notice (Joint Notice)
+C-5 Model Form for Voluntary “No Marketing” Notice
+C-1—Model Form for Initial Opt-Out Notice (Single-Affiliate Notice)—[Your Choice To Limit Marketing]/[Marketing Opt-Out]
 • [Name of Affiliate] is providing this notice.
 • [Optional: Federal law gives you the right to limit some but not all marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates.]
 • You may limit our affiliates in the [ABC] group of companies, such as our [credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your [income], your [account history with us], and your [credit score].
 • Your choice to limit marketing offers from our affiliates will apply [until you tell us to change your choice]/[for x years from when you tell us your choice]/[for at least 5 years from when you tell us your choice]. [Include if the opt-out period expires.] Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our affiliates for [another x years]/[at least another 5 years].
 • [Include, if applicable, in a subsequent notice, including an annual notice, for consumers who may have previously opted out.] If you have already made a choice to limit marketing offers from our affiliates, you do not need to act again until you receive the renewal notice.
 To limit marketing offers, contact us [include all that apply]:
-• By telephone: 1–(877) ###–####
+• By telephone: 1-(877) ###-####
 • On the Web: www.—.com
 • By mail: Check the box and complete the form below, and send the form to:
 [Company name]
 [Company address]
 —Do not allow your affiliates to use my personal information to market to me.
-C–2—Model Form for Initial Opt-Out Notice (Joint Notice)—[Your Choice To Limit Marketing]/[Marketing Opt-Out]
+C-2—Model Form for Initial Opt-Out Notice (Joint Notice)—[Your Choice To Limit Marketing]/[Marketing Opt-Out]
 • The [ABC group of companies] is providing this notice.
 • [Optional: Federal law gives you the right to limit some but not all marketing from the [ABC] companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the [ABC] companies.]
 • You may limit the [ABC] companies, such as the [ABC credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that they receive from other [ABC] companies. This information includes your [income], your [account history], and your [credit score].
 • Your choice to limit marketing offers from the [ABC] companies will apply [until you tell us to change your choice]/[for x years from when you tell us your choice]/[for at least 5 years from when you tell us your choice]. [Include if the opt-out period expires.] Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from the [ABC] companies for [another x years]/[at least another 5 years].
 • [Include, if applicable, in a subsequent notice, including an annual notice, for consumers who may have previously opted out.] If you have already made a choice to limit marketing offers from the [ABC] companies, you do not need to act again until you receive the renewal notice.
 To limit marketing offers, contact us [include all that apply]:
-• By telephone: 1–(877) ###–####
+• By telephone: 1-(877) ###-####
 • On the Web: www.—.com
 • By mail: Check the box and complete the form below, and send the form to:
 [Company name]
 [Company address]
 —Do not allow any company [in the ABC group of companies] to use my personal information to market to me.
-C–3—Model Form for Renewal Notice (Single-Affiliate Notice)—[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]
+C-3—Model Form for Renewal Notice (Single-Affiliate Notice)—[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]
 • [Name of Affiliate] is providing this notice.
 • [Optional: Federal law gives you the right to limit some but not all marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates.]
 • You previously chose to limit our affiliates in the [ABC] group of companies, such as our [credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that we share with them. This information includes your [income], your [account history with us], and your [credit score].
 • Your choice has expired or is about to expire.
 To renew your choice to limit marketing for [x] more years, contact us [include all that apply]:
-• By telephone: 1–(877) ###–####
+• By telephone: 1-(877) ###-####
 • On the Web: www.—.com
 • By mail: Check the box and complete the form below, and send the form to:
 [Company name]
 [Company address]
 —Renew my choice to limit marketing for [x] more years.
-C–4—Model Form for Renewal Notice (Joint Notice)—[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]
+C-4—Model Form for Renewal Notice (Joint Notice)—[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]
 • The [ABC group of companies] is providing this notice.
 • [Optional: Federal law gives you the right to limit some but not all marketing from the [ABC] companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the [ABC] companies.]
 • You previously chose to limit the [ABC] companies, such as the [ABC credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that they receive from other ABC companies. This information includes your [income], your [account history], and your [credit score].
 • Your choice has expired or is about to expire.
 To renew your choice to limit marketing for [x] more years, contact us [include all that apply]:
-• By telephone: 1–(877) ###–####
+• By telephone: 1-(877) ###-####
 • On the Web: www.—.com
 • By mail: Check the box and complete the form below, and send the form to:
 [Company name]
 [Company address]
 —Renew my choice to limit marketing for [x] more years.
-C–5—Model Form for Voluntary “No Marketing” Notice—[Your Choice To Stop Marketing]
+C-5—Model Form for Voluntary “No Marketing” Notice—[Your Choice To Stop Marketing]
 • [Name of Affiliate] is providing this notice.
 • You may choose to stop all marketing from us and our affiliates.
 • [Your choice to stop marketing from us and our affiliates will apply until you tell us to change your choice.]
 To stop all marketing, contact us [include all that apply]:
-• By telephone: 1 (877) ###–####
+• By telephone: 1 (877) ###-####
 • On the Web: www.—.com
 • By mail: Check the box and complete the form below, and send the form to:
 [Company name]
@@ -1028,10 +1028,10 @@ In developing its policies and procedures, a furnisher should address the follow
 (k) Providing consumer reporting agencies with sufficient identifying information in the furnisher's possession about each consumer about whom information is furnished to enable the consumer reporting agency properly to identify the consumer.
 (l) Conducting a periodic evaluation of its own practices, consumer reporting agency practices of which the furnisher is aware, investigations of disputed information, corrections of inaccurate information, means of communication, and other factors that may affect the accuracy or integrity of information furnished to consumer reporting agencies.
 (m) Complying with applicable requirements under the FCRA and its implementing regulations.
-Appendixes F–G to Part 1022 [Reserved]
+Appendixes F-G to Part 1022 [Reserved]
 Appendix H to Part 1022—Model Forms for Risk-Based Pricing and Credit Score Disclosure Exception Notices
 1. This appendix contains four model forms for risk-based pricing notices and three model forms for use in connection with the credit score disclosure exceptions. Each of the model forms is designated for use in a particular set of circumstances as indicated by the title of that model form.
-2. Model form H–1 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is not used in setting the material terms of credit. Model form H–2 is for risk-based pricing notices given in connection with account review if a credit score is not used in increasing the annual percentage rate. Model form H–3 is for use in connection with the credit score disclosure exception for loans secured by residential real property. Model form H–4 is for use in connection with the credit score disclosure exception for loans that are not secured by residential real property. Model form H–5 is for use in connection with the credit score disclosure exception when no credit score is available for a consumer. Model form H–6 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is used in setting the material terms of credit. Model form H–7 is for risk-based pricing notices given in connection with account review if a credit score is used in increasing the annual percentage rate. All forms contained in this appendix are models; their use is optional.
+2. Model form H-1 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is not used in setting the material terms of credit. Model form H-2 is for risk-based pricing notices given in connection with account review if a credit score is not used in increasing the annual percentage rate. Model form H-3 is for use in connection with the credit score disclosure exception for loans secured by residential real property. Model form H-4 is for use in connection with the credit score disclosure exception for loans that are not secured by residential real property. Model form H-5 is for use in connection with the credit score disclosure exception when no credit score is available for a consumer. Model form H-6 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is used in setting the material terms of credit. Model form H-7 is for risk-based pricing notices given in connection with account review if a credit score is used in increasing the annual percentage rate. All forms contained in this appendix are models; their use is optional.
 3. A person may change the forms by rearranging the format or by making technical modifications to the language of the forms, in each case without modifying the substance of the disclosures. Any such rearrangement or modification of the language of the model forms may not be so extensive as to materially affect the substance, clarity, comprehensibility, or meaningful sequence of the forms. Persons making revisions with that effect will lose the benefit of the safe harbor for appropriate use of appendix H model forms. A person is not required to conduct consumer testing when rearranging the format of the model forms.
 a. Acceptable changes include, for example:
 i. Corrections or updates to telephone numbers, mailing addresses, or Web site addresses that may change over time.
@@ -1046,14 +1046,14 @@ ix. Until January 1, 2013, substituting “For more information about credit rep
 b. Unacceptable changes include, for example:
 i. Providing model forms on register receipts or interspersed with other disclosures.
 ii. Eliminating empty lines and extra spaces between sentences within the same section.
-4. If a person uses an appropriate appendix H model form, or modifies a form in accordance with the above instructions, that person shall be deemed to be acting in compliance with the provisions of § 1022.73 or § 1022.74, as applicable, of this part. It is intended that appropriate use of Model Form H–3 also will comply with the disclosure that may be required under section 609(g) of the FCRA. Optional language in model forms H–6 and H–7 may be used to direct the consumer to the entity (which may be a consumer reporting agency or the creditor itself, for a proprietary score that meets the definition of a credit score) that provided the credit score for any questions about the credit score, along with the entity's contact information. Creditors may use or not use the additional language without losing the safe harbor, since the language is optional.
-H–1 Model form for risk-based pricing notice.
-H–2 Model form for account review risk-based pricing notice.
-H–3 Model form for credit score disclosure exception for credit secured by one to four units of residential real property.
-H–4 Model form for credit score disclosure exception for loans not secured by residential real property.
-H–5 Model form for credit score disclosure exception for loans where credit score is not available.
-H–6 Model form for risk-based pricing notice with credit score information.
-H–7 Model form for account review risk-based pricing notice with credit score information.
+4. If a person uses an appropriate appendix H model form, or modifies a form in accordance with the above instructions, that person shall be deemed to be acting in compliance with the provisions of § 1022.73 or § 1022.74, as applicable, of this part. It is intended that appropriate use of Model Form H-3 also will comply with the disclosure that may be required under section 609(g) of the FCRA. Optional language in model forms H-6 and H-7 may be used to direct the consumer to the entity (which may be a consumer reporting agency or the creditor itself, for a proprietary score that meets the definition of a credit score) that provided the credit score for any questions about the credit score, along with the entity's contact information. Creditors may use or not use the additional language without losing the safe harbor, since the language is optional.
+H-1 Model form for risk-based pricing notice.
+H-2 Model form for account review risk-based pricing notice.
+H-3 Model form for credit score disclosure exception for credit secured by one to four units of residential real property.
+H-4 Model form for credit score disclosure exception for loans not secured by residential real property.
+H-5 Model form for credit score disclosure exception for loans where credit score is not available.
+H-6 Model form for risk-based pricing notice with credit score information.
+H-7 Model form for account review risk-based pricing notice with credit score information.
 Appendix I to Part 1022—Summary of Consumer Identity Theft Rights
 The prescribed form for this summary is a disclosure that is substantially similar to the Bureau's model summary with all information clearly and prominently displayed. A summary should accurately reflect changes to those items that may change over time (such as telephone numbers) to remain in compliance. Translations of this summary will be in compliance with the Bureau's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.
 [83 FR 47033, Sept. 18, 2018]

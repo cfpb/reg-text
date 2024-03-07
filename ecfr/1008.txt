@@ -1,5 +1,5 @@
 § 1008.1 Purpose.
-(a) Authority. This part, known as Regulation H, is issued by the Bureau of Consumer Financial Protection to implement the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act) (Pub. L. 110–289, 122 Stat. 2654, 12 U.S.C. 5101 et seq.).
+(a) Authority. This part, known as Regulation H, is issued by the Bureau of Consumer Financial Protection to implement the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act) (Pub. L. 110-289, 122 Stat. 2654, 12 U.S.C. 5101 et seq.).
 (b) Purpose. The purpose of this part is to enhance consumer protection and reduce fraud by directing states to adopt minimum uniform standards for the licensing and registration of residential mortgage loan originators and to participate in a nationwide mortgage licensing system and registry database of residential mortgage loan originators. Under the S.A.F.E. Act, if the Bureau determines that a state's loan origination licensing system does not meet the minimum requirements of the S.A.F.E. Act, the Bureau is charged with establishing and implementing a system for all loan originators in that state. Additionally, if at any time the Bureau determines that the nationwide mortgage licensing system and registry is failing to meet the S.A.F.E. Act's requirements, the Bureau is charged with establishing and maintaining a licensing and registry database for loan originators.
 (c) Organization. The regulation is divided into subparts and appendices as follows:
 (1) Subpart A establishes the definitions applicable to this part.
@@ -35,7 +35,7 @@ Conference of State Bank Supervisors (CSBS) is the national organization compose
 Director means the Director of the Bureau of Consumer Financial Protection.
 Employee means an individual:
 (1) Whose manner and means of performance of work are subject to the right of control of, or are controlled by, a person, and
-(2) Whose compensation for Federal income tax purposes is reported, or required to be reported, on a W–2 form issued by the controlling person.
+(2) Whose compensation for Federal income tax purposes is reported, or required to be reported, on a W-2 form issued by the controlling person.
 Farm Credit Administration means the independent Federal agency, authorized by the Farm Credit Act of 1971, that examines and regulates the Farm Credit System.
 For compensation or gain. See § 1008.103(c)(2)(ii).
 Independent contractor means an individual who performs his or her duties other than at the direction of and subject to the supervision and instruction of an individual who is licensed and registered in accordance with § 1008.103(a), or is not required to be licensed, in accordance with § 1008.103(e)(5), (6), or (7).

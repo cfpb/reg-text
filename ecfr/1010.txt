@@ -21,7 +21,7 @@ Start of construction means breaking ground for building a facility, followed by
 [76 FR 79489, Dec. 21, 2011, as amended at 81 FR 29115, May 11, 2016]
 § 1010.2 [Reserved]
 § 1010.3 General applicability.
-Except in the case of an exempt transaction, a developer may not sell or lease lots in a subdivision, making use of any means or instruments of transportation or communication in interstate commerce, or of the mails, unless a Statement of Record is in effect in accordance with the provisions of this part. In non-exempt transactions, the developer must give each purchaser a printed Property Report, meeting the requirements of this part, in advance of the purchaser's signing of any contract or agreement for sale or lease. Information collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB Control No. 3170–0012.
+Except in the case of an exempt transaction, a developer may not sell or lease lots in a subdivision, making use of any means or instruments of transportation or communication in interstate commerce, or of the mails, unless a Statement of Record is in effect in accordance with the provisions of this part. In non-exempt transactions, the developer must give each purchaser a printed Property Report, meeting the requirements of this part, in advance of the purchaser's signing of any contract or agreement for sale or lease. Information collection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB Control No. 3170-0012.
 § 1010.4 Exemptions—general.
 (a) The exemptions available under §§ 1010.5 through 1010.16 are not applicable when the method of sale, lease or other disposition of land or an interest in land is adopted for the purpose of evasion of the Act.
 (b) With the exception of the sales or leases which are exempt under § 1010.5, the anti-fraud provisions of the Act (15 U.S.C. 1703(a)(2)) apply to exempt transactions. The anti-fraud provisions make it unlawful for a developer or agent to employ any device, scheme, or artifice to:
@@ -1085,7 +1085,7 @@ Additional Information
 1010.216
 Affirmation
 1010.219
-The Bureau's OMB control number for this information collection is: 3170–0012.
+The Bureau's OMB control number for this information collection is: 3170-0012.
 IX. Sample Page for Statement of Record —1010.102(e)
 SAMPLE PAGE
 ROADS
