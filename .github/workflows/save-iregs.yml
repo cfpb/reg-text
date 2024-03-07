@@ -36,7 +36,7 @@ jobs:
             curl -sSL "${CHUNKS[@]}" |
               htmlq -r '.regulation-meta, .inline-interpretation, .block__sub, .o-regulations-wayfinder' |
               htmlq -t '.u-layout-grid_main' |
-              sed -e '/^ *$/d' -e 's/ / /g' -e 's/–/-/g' |
+              ./sed.sh |
               awk '{$1=$1};1' > "./iregs/${PART}.txt"
               sleep 1
           done
