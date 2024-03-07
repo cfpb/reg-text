@@ -19,7 +19,7 @@ For purposes of this part, the following definitions apply:
 Administrative or clerical tasks means the receipt, collection, and distribution of information common for the processing or underwriting of a loan in the residential mortgage industry and communication with a consumer to obtain information necessary for the processing or underwriting of a residential mortgage loan.
 Annual renewal period means November 1 through December 31 of each year.
 Bureau means the Bureau of Consumer Financial Protection.
-Covered financial institution means any national bank, member bank, insured state nonmember bank, savings association, Farm Credit System institution, or federally insured credit union as any such term is defined in § 1007.101(c)(1). Covered financial institution also includes a non-federally insured credit union that registers subject to the conditions of § 1007.101(c)(3).
+Covered financial institution means any national bank, member bank, insured state nonmember bank, savings association, Farm Credit System institution, or federally insured credit union as any such term is defined in § 1007.101(c)(1). Covered financial institution also includes a non-federally insured credit union that registers subject to the conditions of § 1007.101(c)(3).
 Mortgage loan originator means
 (1) An individual who:
 (i) Takes a residential mortgage loan application; and
@@ -113,7 +113,7 @@ Unique identifier means a number or other identifier that:
 A covered financial institution that employs one or more mortgage loan originators must adopt and follow written policies and procedures designed to assure compliance with this part. These policies and procedures must be appropriate to the nature, size, complexity, and scope of the mortgage lending activities of the covered financial institution, and apply only to those employees acting within the scope of their employment at the covered financial institution. At a minimum, these policies and procedures must:
 (a) Establish a process for identifying which employees of the covered financial institution are required to be registered mortgage loan originators;
 (b) Require that all employees of the covered financial institution who are mortgage loan originators be informed of the registration requirements of the S.A.F.E. Act and this part and be instructed on how to comply with such requirements and procedures;
-(c) Establish procedures to comply with the unique identifier requirements in § 1007.105;
+(c) Establish procedures to comply with the unique identifier requirements in § 1007.105;
 (d) Establish reasonable procedures for confirming the adequacy and accuracy of employee registrations, including updates and renewals, by comparisons with its own records;
 (e) Establish reasonable procedures and tracking systems for monitoring compliance with registration and renewal requirements and procedures;
 (f) Provide for independent testing for compliance with this part to be conducted at least annually by covered financial institution personnel or by an outside party;

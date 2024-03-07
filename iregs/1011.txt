@@ -1,7 +1,7 @@
 § 1011.1 General.
 The purpose of this subpart A is to elaborate on the revocation rights in 15 U.S.C. 1703, by enumerating certain conditions under which purchasers may exercise revocation rights. Generally, whenever revocation rights are available, they apply to promissory notes, as well as traditional agreements.
 § 1011.2 Revocation regardless of registration.
-All purchasers have the option to revoke a contract or lease with regard to a lot not exempt under §§ 1010.5 through 1010.11 and 1010.14 until midnight of the seventh day after the day that the purchaser signs a contract or lease. If a purchaser is entitled to a longer revocation period under state law, that period is deemed the Federal revocation period rather than the 7 days, and all contracts and agreements (including promissory notes) shall so state.
+All purchasers have the option to revoke a contract or lease with regard to a lot not exempt under §§ 1010.5 through 1010.11 and 1010.14 until midnight of the seventh day after the day that the purchaser signs a contract or lease. If a purchaser is entitled to a longer revocation period under state law, that period is deemed the Federal revocation period rather than the 7 days, and all contracts and agreements (including promissory notes) shall so state.
 § 1011.4 Contract requirements and revocation.
 (a) In accordance with 15 U.S.C. 1703(d)(3), the refund to the purchaser is calculated by subtracting from the amount described in 15 U.S.C. 1703(d)(3)(B), the greater of:
 (1) Fifteen percent of the purchase or lease price of the lot (excluding interest owed) at the time of the default or breach of contract or agreement; or
@@ -27,7 +27,7 @@ In selling, leasing or offering to sell or lease any lot in a subdivision it is 
 (d) Use any misleading practice, device or representation which would deny a purchaser any cancellation or refund rights or privileges granted the purchaser by the terms of a contract or any other document used by the developer as a sales inducement.
 (e) Refuse to deliver a Property Report to any person who exhibits an interest in buying or leasing a lot in the subdivision and requests a copy of the Property Report.
 (f) Use a Property Report, note, contract, deed or other document prepared in a language other than that in which the sales campaign is conducted, unless an accurate translation is attached to the document.
-(g) Deliberately fail to maintain a sufficient supply of restrictive covenants and financial statements or to deliver a copy to a purchaser upon request as required by §§ 1010.109(f), 1010.112(d), 1010.209(g), and 1010.212(i).
+(g) Deliberately fail to maintain a sufficient supply of restrictive covenants and financial statements or to deliver a copy to a purchaser upon request as required by §§ 1010.109(f), 1010.112(d), 1010.209(g), and 1010.212(i).
 (h) Use, as a sales inducement, any representation that any lot has good investment potential or will increase in value unless it can be established, in writing, that:
 (1) Comparable lots or parcels in the subdivision have, in fact, been resold by their owners on the open market at a profit, or;
 (2) There is a factual basis for the represented future increase in value and the factual basis is certain, and;
