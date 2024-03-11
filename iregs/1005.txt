@@ -862,7 +862,7 @@ A remittance transfer provider is liable for any violation of this subpart by an
 (ii) For any subsequent preauthorized remittance transfer for which the date of transfer is four or fewer business days after the date payment is made for that transfer, the information required by paragraph (d)(1) of this section must be provided on or with the receipt described in § 1005.31(b)(2), or disclosed as permitted by § 1005.31(a)(3) or (a)(5), for the initial transfer in that series in accordance with paragraph (a)(1)(i) of this section.
 (3) Specific format requirement. The information required by paragraph (d)(1)(i)(A) of this section generally must be disclosed in close proximity to the other information required by paragraph (d)(1)(i)(B) of this section.
 (4) Accuracy. Any disclosure required by paragraph (d)(1) of this section must be accurate as of the date the preauthorized remittance transfer to which it pertains is made.
-Appendix A to Part 1005 — Model Disclosure Clauses and Forms
+Appendix A to Part 1005—Model Disclosure Clauses and Forms
 A-1 - Model Clauses for Unsolicited Issuance (§ 1005.5(b)(2))
 A-2 - Model Clauses for Initial Disclosures (§ 1005.7(b))
 A-3 - Model Forms for Error Resolution Notice (§§ 1005.7(b)(10) and 1005.8(b))
@@ -1021,11 +1021,11 @@ A-10(d)—Model Form for Short Form Disclosures for Prepaid Accounts, Example 2 
 A-10(e)—Model Form for Short Form Disclosures for Prepaid Accounts with Multiple Service Plans (§ 1005.18(b)(2), (3), (6), and (7))
 A-10(f)—Sample Form for Long Form Disclosures for Prepaid Accounts (§ 1005.18(b)(4), (6), and (7))
 A-11 through A-29 [Reserved]
-A-30(a) — Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
+A-30(a)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
 A-30(b)
 Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
-A-30(c) — Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
-A-30(d) — Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
+A-30(c)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
+A-30(d)—Model Form for Pre-Payment Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(1))
 A-31 - Model Form for Receipts for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(2))
 A-32 - Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency (§ 1005.31(b)(3))
 A-33 - Model Form for Pre-Payment Disclosures for Dollar-to-Dollar Remittance Transfers (§ 1005.31(b)(1))
@@ -1044,7 +1044,7 @@ A-39 - Model Form for Receipts for Remittance Transfers Exchanged into Local Cur
 A-40 - Model Form for Combined Disclosures for Remittance Transfers Exchanged into Local Currency - Spanish (§ 1005.31(b)(3))
 A-41 - Model Form for Error Resolution and Cancellation Disclosures (Long) - Spanish (§ 1005.31(b)(4))
 Appendix B to Part 1005 [Reserved]
-Appendix C to Part 1005 — Issuance of Official Interpretations
+Appendix C to Part 1005—Issuance of Official Interpretations
 Official Interpretations
 Interpretations of this part issued by duly authorized officials of the Bureau provide the protection afforded under section 916(d) of the Act. Except in unusual circumstances, such interpretations will not be issued separately but will be incorporated in an official commentary to this part, which will be amended periodically.
 Requests for Issuance of Official Interpretations

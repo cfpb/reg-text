@@ -136,7 +136,7 @@ A lessor shall retain evidence of compliance with the requirements imposed by th
 (i) The class of leasing transactions is subject to state law requirements substantially similar to the Act and this part or that lessees are afforded greater protection under state law; and
 (ii) There is adequate provision for state enforcement.
 (2) Enforcement and liability. After an exemption has been granted, the requirements of the applicable state law (except for additional requirements not imposed by Federal law) will constitute the requirements of the Act and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of the Act.
-Appendix A to Part 1013 — Model Forms
+Appendix A to Part 1013—Model Forms
 A-1 - Model Open-End or Finance Vehicle Lease Disclosures
 A-2 - Model Closed-End or Net Vehicle Lease Disclosures
 A-3 - Model Furniture Lease Disclosures
@@ -144,7 +144,7 @@ A-1—Model Open-End or Finance Vehicle Lease Disclosures
 A-2—Model Closed-End or Net Vehicle Lease Disclosures
 A-3—Model Furniture Lease Disclosures
 Appendix B to Part 1013 [Reserved]
-Appendix C to Part 1013 — Issuance of Official Interpretations
+Appendix C to Part 1013—Issuance of Official Interpretations
 Interpretations of this part issued by officials of the Bureau provide the formal protection afforded under section 130(f) of the Act. Except in unusual circumstances, interpretations will not be issued separately but will be incorporated in an official commentary to Regulation M (Supplement I of this part), which will be amended periodically. No official interpretations will be issued approving a lessor's forms, statements, or calculation tools or methods.
 Introduction
 1. Official status. The commentary in Supplement I is the vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation M (12 CFR part 1013). Good faith compliance with this commentary affords protection from liability under section 130(f) of the Truth in Lending Act (15 U.S.C. 1640(f)). Section 130(f) protects lessors from civil liability for any act done or omitted in good faith in conformity with any interpretation issued by the Bureau.
