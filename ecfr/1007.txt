@@ -1,7 +1,7 @@
 § 1007.101 Authority, purpose, and scope.
 (a) Authority. This part, known as Regulation G, is issued by the Bureau of Consumer Financial Protection pursuant to the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, title V of the Housing and Economic Recovery Act of 2008 (S.A.F.E. Act) (Pub. L. 110-289, 122 Stat. 2654, 12 U.S.C. 5101 et seq.,) 12 U.S.C. 5512, 5581, 15 U.S.C. 1604(a), 1639b.
 (b) Purpose. This part implements the S.A.F.E. Act's Federal registration requirement for mortgage loan originators. The S.A.F.E. Act provides that the objectives of this registration include aggregating and improving the flow of information to and between regulators; providing increased accountability and tracking of mortgage loan originators; enhancing consumer protections; supporting anti-fraud measures; and providing consumers with easily accessible information at no charge regarding the employment history of, and publicly adjudicated disciplinary and enforcement actions against, mortgage loan originators.
-(c) Scope -
+(c) Scope-
 (1) In general. This part applies to:
 (i) National banks, Federal branches and agencies of foreign banks, their operating subsidiaries (collectively referred to in this part as national banks), and their employees who act as mortgage loan originators;
 (ii) Member banks of the Federal Reserve System; their respective subsidiaries that are not functionally regulated within the meaning of section 5(c)(5) of the Bank Holding Company Act, as amended (12 U.S.C. 1844(c)(5)); branches and agencies of foreign banks; commercial lending companies owned or controlled by foreign banks (collectively referred to in this part as member banks); and their employees who act as mortgage loan originators;
@@ -42,13 +42,13 @@ Unique identifier means a number or other identifier that:
 (ii) Uniform identification of, and public access to, the employment history of and the publicly adjudicated disciplinary and enforcement actions against mortgage loan originators; and
 (3) Must not be used for purposes other than those set forth under the S.A.F.E. Act.
 § 1007.103 Registration of mortgage loan originators.
-(a) Registration requirement -
+(a) Registration requirement-
 (1) Employee registration. Each employee of a covered financial institution who acts as a mortgage loan originator must register with the Registry, obtain a unique identifier, and maintain this registration in accordance with the requirements of this part. Any such employee who is not in compliance with the registration and unique identifier requirements set forth in this part is in violation of the S.A.F.E. Act and this part.
-(2) Covered financial institution requirement -
+(2) Covered financial institution requirement-
 (i) In general. A covered financial institution that employs one or more individuals who act as a residential mortgage loan originator must require each such employee to register with the Registry, maintain this registration, and obtain a unique identifier in accordance with the requirements of this part.
 (ii) Prohibition. A covered financial institution must not permit an employee who is subject to the registration requirements of this part to act as a mortgage loan originator for the covered financial institution unless such employee is registered with the Registry pursuant to this part.
 (3) [Reserved]
-(4) Employees previously registered or licensed through the Registry -
+(4) Employees previously registered or licensed through the Registry-
 (i) In general. If an employee of a covered financial institution was registered or licensed through, and obtained a unique identifier from, the Registry and has maintained this registration or license before the employee becomes subject to this part at the current covered financial institution, then the registration requirements of the S.A.F.E. Act and this part are deemed to be met, provided that:
 (A) The employment information in paragraphs (d)(1)(i)(C) and (d)(1)(ii) of this section is updated and the requirements of paragraph (d)(2) of this section are met;
 (B) New fingerprints of the employee are submitted to the Registry for a background check, as required by paragraph (d)(1)(ix) of this section, unless the employee has fingerprints on file with the Registry that are less than 3 years old;
@@ -64,10 +64,10 @@ Unique identifier means a number or other identifier that:
 (C) The information required under paragraphs (d)(1)(iii) through (viii) of this section becomes inaccurate, incomplete, or out-of-date.
 (2) A registered mortgage loan originator must maintain his or her registration, unless the individual is no longer engaged in the activity of a mortgage loan originator.
 (3) The annual registration renewal requirement set forth in paragraph (b)(1) of this section does not apply to a registered mortgage loan originator who has completed his or her registration with the Registry pursuant to paragraph (a)(1) of this section less than 6 months prior to the end of the annual renewal period.
-(c) Effective dates -
+(c) Effective dates-
 (1) Registration. A registration pursuant to paragraph (a)(1) of this section is effective on the date the Registry transmits notification to the registrant that the registrant is registered.
 (2) Renewals or updates. A renewal or update pursuant to paragraph (b) of this section is effective on the date the Registry transmits notification to the registrant that the registration has been renewed or updated.
-(d) Required employee information -
+(d) Required employee information-
 (1) In general. For purposes of the registration required by this section, a covered financial institution must require each employee who is a mortgage loan originator to submit to the Registry, or must submit on behalf of the employee, the following categories of information, to the extent this information is collected by the Registry:
 (i) Identifying information, including the employee's:
 (A) Name and any other names used;

@@ -330,7 +330,7 @@ Insert and complete the format set forth in section XIII of the appendix to this
 (2) Type of deed. What type of deed will be used to convey title to lots in the subdivision?
 (3) Quitclaim deeds. If a quitclaim deed is to be given to lot purchasers insert the below warning, or a warning which is substantially the same, in the disclosure narrative below the caption “Quitclaim Deeds.” This particular warning may be deleted at the direction of the Director if an acceptable attorney's opinion is submitted with the Statement of Record which indicates that a quitclaim deed has a meaning in the jurisdiction where the subdivision is located which is substantially contrary to the effect of this warning. This warning shall be phrased substantially as follows: “The Quitclaim deed used to transfer title to lots in this subdivision gives you no assurance of ownership of your lot.”
 (4) Oil, gas, and mineral rights. If oil, gas or mineral rights have been reserved, insert the following statement or one substantially the same in the narrative answer under the caption “oil, gas, and mineral rights”: “The (indicate oil, gas, or mineral rights) to (state which lots) in this subdivision will not belong to the purchaser of those lots. The exercise of these rights could affect the use, enjoyment and value of your lot.”
-(c) Encumbrances, mortgages and liens -
+(c) Encumbrances, mortgages and liens-
 (1) In general. State whether any of the lots or common facilities which serve the subdivision, other than recreation facilities, are subject to a blanket encumbrance, mortgage or lien. If yes, identify the type of encumbrance (e.g., deed of trust, mortgage, mechanics liens), the holder of the lien, and the lots covered by the lien. If any blanket encumbrance, mortgage, or lien is not current in accordance with its terms, so indicate.
 (2) Release provisions.
 (i) Explain the effect of any release provisions of any blanket encumbrance, mortgage or lien and include the one of the following statements that pertains.
@@ -339,18 +339,18 @@ Insert and complete the format set forth in section XIII of the appendix to this
 (C)
 (1) If there are no provisions in the blanket encumbrance for release of an individual purchaser's lot from a blanket encumbrance, include the warning set forth in section XVI of the appendix to this part: Warning for Release Provisions or a warning substantially the same, in the disclosure narrative under the “Release Provisions” caption.
 (2) If the provisions for release of individual lots from the blanket encumbrance may be exercised only by the developer insert the following statement, or one substantially the same, in the disclosure narrative under the “Release Provisions” caption: “The release provisions in the (state the type of encumbrance) on (indicate all or particular lots) in this subdivision may be exercised only by us. Therefore, if we default on the (state type of encumbrance) before obtaining a release of your lot, you may lose your lot and any money you have paid for it.”
-(d) Recording the contract and deed -
+(d) Recording the contract and deed-
 (1) Method or purpose of recording.
 (i) State what protection, if any, recording of deeds and contracts gives a lot purchaser in your jurisdiction.
 (ii) If the sales contract or deed may be recorded, so state. Also state whose responsibility it is to record the contract or deed.
 (iii) If the developer or subdivision owner will not have the sales contract officially acknowledged or if the applicable jurisdiction will not record sales contracts, state that sales contracts will not be recorded and why they will not be recorded.
 (iv) If at, or immediately after, the signing of a contract, the contract or a deed transfer to the buyer is not recorded by the developer or owner or if title to the lot is not otherwise transferred of record to a trust, or if other sufficient notice of transfer or sale is not placed of record, then the developer shall include the warning set forth in section XVII of the appendix to this part: Method and Purpose of Recording Warning, or substantially the same warning in the disclosure narrative under the caption “Method and Purpose of Recording.” The reference to contracts shall be deleted from the above warning if the answer to paragraph (d)(1)(i) of this section indicates that recording of a contract in the subject jurisdiction does not protect the purchaser from claims of later purchasers or creditors of anyone having an interest in the land.
 (2) Title insurance. If the developer does not deliver a title insurance policy to the buyer, state that the purchaser should obtain an attorney's opinion of title or a title insurance policy which will describe the rights of ownership which are being acquired in the lot. Recommend that an appropriate professional should interpret the opinion or policy.
-(e) Payments -
+(e) Payments-
 (1) Escrow. If purchasers' deposits, down payments, or installment payments are to be placed in a third party controlled escrow or similar account, describe the arrangement including the name and address of the escrow holder or similar person. If there is no such arrangement, insert the statement set forth in section XVIII of the appendix to this part: Escrow Statement. The questions regarding an escrow agreement or similar protection may be answered affirmatively only if the money is under the control of an independent third party, allowing a purchaser to receive a return of all money paid in the event of the developer's failure to convey title or the developer's default on any obligation which would otherwise result in the purchaser's loss of that money.
 (2) Prepayments. Explain any prepayment penalties or privileges in everyday language.
 (3) Default. What are the developer's or subdivision owners' remedies against a defaulted purchaser?
-(f) Restrictions on the use of your lot -
+(f) Restrictions on the use of your lot-
 (1) Restrictive covenants.
 (i) Have any restrictive covenants been recorded against the land in the subdivision? If so, do they contain items which require the purchaser to secure permissions, approvals or take any other action prior to using or disposing of his lot (e.g., architectural control, developer's right of first refusal, building deadlines, etc.)? If any of these or similar items are included, explain their meaning and effect upon the purchaser.
 (ii) If any restrictive covenants are to be used and if they have not been recorded, how will they be imposed? Include a statement to the effect that the restrictive covenants have not been recorded; that there is no assurance they will be applied uniformly; that they may be changed and that they may be difficult to enforce. If no restrictive covenants will be imposed, include a statement to the effect that, since there are no restrictive covenants on the use of the lots, they may be used for purposes which could adversely affect the use and enjoyment of surrounding lots.
@@ -359,7 +359,7 @@ Insert and complete the format set forth in section XIII of the appendix to this
 (i) Are there easements which may have an effect on the purchaser's building or lot use plans (e.g., large drainage easements along lot lines, high voltage electric transmission lines, pipe lines or drainage easements which encroach upon the building area of the lot or inhibit its use)?
 (ii) Is the subdivision subject to any type of flood control or flowage easements?
 (iii) If the answer to either (2)(i) or (2)(ii) is in the affirmative, identify the affected lots and state the effect upon the use of the lots.
-(g) Plats, zoning, surveying, permits and environment -
+(g) Plats, zoning, surveying, permits and environment-
 (1) Plats.
 (i) Have the subdivision plans and plats of specific units been approved by the regulatory authorities? If the approvals have not been obtained, include a warning to the effect that regulatory authorities have not approved the proposed plats; that they may require significant alterations before they will approve them and they may not allow the land to be used for the purpose for which it is being sold.
 (ii) Have plats covering the lots in this Report been recorded? If so, where are they recorded? If they have not been recorded, is the description of the lots given in this Report legally adequate for the conveyance of land in the jurisdiction where the subdivision is located? If it is not, include a statement to the effect that the description of the lots is not legally adequate for the conveyance of the lots and that it will not be until the plat is recorded.
@@ -504,7 +504,7 @@ Insert and complete the format set forth in section XIII of the appendix to this
 (1) Are there any unusual safety factors which affect the subdivision (e.g., dilapidated buildings, abandoned mines or wells, air or vehicular traffic hazards, danger from fire or explosion or radiation hazards)? Is the developer aware of any proposed plans for construction which may create a nuisance or safety hazard or adversely affect the subdivision? If there are any existing hazards or if there is any proposed construction which will create a nuisance or hazard, describe the hazard or nuisance. If there are no existing or possible future hazards, state that there are none.
 (2) Is the area subject to natural hazards or has it been formally identified by any Federal, state or local agency as an area subject to the frequent occurrence of natural hazards (e.g., tornadoes, hurricanes, earthquakes, mudslides, forest fires, brush fires, avalanches, flash flooding)? If the jurisdiction in which the subdivision is located has a rating system for fire hazard, state the rating assigned to the land in the subdivision and explain its meaning.
 (h) Climate. What are the average temperature ranges, summer and winter, for the area in which the subdivision is located (i.e., high, low and mean)? What is the average annual rainfall and snowfall?
-(i) Occupancy. How many homes are occupied on a full- or part-time basis as of (date of submission)?
+(i) Occupancy. How many homes are occupied on a full-or part-time basis as of (date of submission)?
 § 1010.116 Additional information.
 (a) Property Owners' Association.
 (1) Will there be a property owners' association for the subdivision? Has it been formed? What is its name? Is it operating? If not yet formed, when will it be formed? Who is responsible for its formation?
@@ -630,7 +630,7 @@ The Additional Information and Documentation portion of the Statement of Record 
 (iii) The revocation provisions may not be limited or qualified in the contract or other document by requiring a specific type of notice or by requiring that notice be given at a specified place.
 (iv) If it is represented that the developer will provide or complete roads or facilities for waters, sewer, gas, electric service or recreational amenities, the contract must contain a provision that the developer is obligated to provide or complete such roads, facilities and amenities.
 (4) Submit copies of deeds and leases by which the developer will lease or convey title to the lots to purchasers or lessees.
-(g) Plat maps, environmental studies and restrictions -
+(g) Plat maps, environmental studies and restrictions-
 (1) Plat maps.
 (i) In those jurisdictions where it is unlawful to sell lots prior to final approval and recording of the plat, and in those cases where a plat has been recorded, submit a copy of the recorded plat. This plat should be an exact copy of the recorded document. It should reflect the signatures of the approving authorities and bear a stamp or notation by the recorder of deeds, or similarly constituted officer, as to the recording data.
 (ii) If the plat has not been approved by the local authorities nor recorded, and if it is not unlawful to sell lots prior to final approval and recording, submit a map which has been prepared to scale and which shows the proposed division of the land, the lot dimensions and their relation to proposed or existing streets and roads. The map shall contain sufficient engineering data to enable a surveyor to locate the lots.
@@ -757,7 +757,7 @@ The Additional Information and Documentation portion of the Statement of Record 
 (2) If it is indicated in § 1010.116(c) that the developer or any of the parties involved in the subdivision are, or have been, the subject of any bankruptcy proceedings, furnish a copy of the schedules of liabilities and assets (or a recap of those schedules); the petition number; the date of the filing of the petition; names and addresses of the petitioners, trustee and counsel; the name and location of the court where the proceedings took place and the status or disposition of the petition. Explain, briefly, the cause of the action.
 (3) Furnish a copy of any orders issued in connection with any violations listed in § 1010.116(c).
 (d) Resale or exchange program. (1) If it is stated in § 1010.116(d)(3) that there is an exchange program which provides sufficient lots to satisfy all requests for exchange, describe the method used to determine the number of lots required; state whether these lots have been reserved or set aside; whether additional lots will be provided if the lots available for exchange are exhausted and the source of any additional lots.
-(e) Unusual situations -(1) Foreign subdivisions. If the subdivision is located outside the several States, the District of Columbia, the Commonwealth of Puerto Rico or the territories or possession of the United States, the Statement of Record shall be submitted in the English language and all supporting documents, including copies of any laws which restrict the ownership of land by aliens, shall be submitted in their original language and shall be accompanied by a translation into English.
+(e) Unusual situations-(1) Foreign subdivisions. If the subdivision is located outside the several States, the District of Columbia, the Commonwealth of Puerto Rico or the territories or possession of the United States, the Statement of Record shall be submitted in the English language and all supporting documents, including copies of any laws which restrict the ownership of land by aliens, shall be submitted in their original language and shall be accompanied by a translation into English.
 § 1010.219 Affirmation.
 The affirmation set forth in section XXVIII of the appendix to this part: Affirmation of Senior Executive Officer shall be executed by the senior executive officer or a duly authorized agent:
 § 1010.310 Annual report of activity.
@@ -832,14 +832,14 @@ The affirmation set forth in section XXVIII of the appendix to this part: Affirm
 (d) The Director may refuse to accept any particular filing under this section when it is determined that acceptance is not in the public interest.
 (e) The Director may require such changes, additional information, documents or certification as the Director determines to be reasonably necessary or appropriate in the public interest.
 § 1010.556 Previously accepted state filings-amendments and consolidations.
-(a) Amendments -
+(a) Amendments-
 (1) General requirements. State accepted materials, filed with the Director pursuant to § 1010.552, shall be amended to reflect any amendment to such materials made effective by the state or any change of a material fact regarding the subdivision. All amendments to such materials, which reflect changes in material facts regarding the subdivision, shall be submitted to the state authorities within 15 days of the date on which the developer knows, or should have known, of such change and to the Director within 15 days after it becomes effective under the applicable State laws. However, such amendment shall not be effective as a Federal registration until the Director has determined that the amendment meets all applicable requirements of these regulations.
 (2) Amendments shall include or be accompanied by:
 (i) A letter from the developer giving a narrative statement fully explaining the purpose and significance of the amendment and referring to that section and page of the Statement of Record which is being amended, and;
 (ii) All amended pages of the state accepted materials filed with the Director. These pages shall be copied together with their amendments. Each such page shall have its date of preparation in the lower right hand corner, and;
 (iii) A signed state acceptance certification, and;
 (iv) The appropriate fees as indicated in § 1010.35.
-(b) Consolidations -
+(b) Consolidations-
 (1) When consolidations allowed. If lots are to be registered pursuant to § 1010.552 which are in the same common promotional plan with other lots already registered with the Director, then new consolidated state accepted materials including such lots may be filed with the Director as a Statement of Record following the format of the previously accepted filing.
 (2) Consolidated Statements of Record shall include or be accompanied by:
 (i) State accepted consolidation materials which are also acceptable to the Director as a Statement of Record (state property report inclusive). These state accepted consolidation materials shall cover all lots previously registered in the common promotional plan except those deleted pursuant to other provisions in these regulations. These materials shall also include information and items required for state accepted materials filed as an initial registration Statement of Record, except that, supporting documentation in materials previously made effective by the Director for other lots in the subject common promotional plan may be included incorporated by reference into the new consolidation materials submitted as a Statement of Record. However, such documentation may be incorporated by reference included only if it is applicable to the new consolidated lots as well as to the previously registered lots.
@@ -864,7 +864,7 @@ The affirmation set forth in section XXVIII of the appendix to this part: Affirm
 (2) If the purchaser is entitled to a longer revocation period by operation of State law or the Act, that period becomes the Federal revocation period and the contract or agreement must reflect the longer period, rather than the seven days. The language shall be consistent with that shown on the Cover Page (see § 1010.558).
 (b) The above revocation provisions may not be limited or qualified in the contract or other document by requiring a specific type of notice or by requiring that notice be given at a specified place.
 Appendix A to Part 1010-Standard and Model Forms and Clauses
-I. Forms for Developer's Affirmation for Land Sale -§ 1010.13(a)(9)
+I. Forms for Developer's Affirmation for Land Sale-§ 1010.13(a)(9)
 Developer's Name
 Developer's Address
 Purchaser's Name(s)
@@ -876,10 +876,10 @@ I also affirm that I submit to the jurisdiction of the Interstate Land Sales Ful
 (Date)
 (Signature of Developer or Authorized Agent)
 (Title)
-II. Language Notifying Buyer of Option to Cancel Contract -§ 1010.15(b)(5)(i)
+II. Language Notifying Buyer of Option to Cancel Contract-§ 1010.15(b)(5)(i)
 You have the option to cancel your contract or agreement of sale by notice to the seller until midnight of the seventh day following the date of signing of the contract or agreement.
 If you did not receive a Lot Information Statement prepared pursuant to the rules and regulations of the Bureau of Consumer Financial Protection in advance of your signing the contract or agreement, the contract or agreement of sale may be cancelled at your option for two years from the date of signing.
-III. Sample Lot Information Statement and Sample Receipt -§ 1010.15(b)(11)
+III. Sample Lot Information Statement and Sample Receipt-§ 1010.15(b)(11)
 Sample Format
 (Use of the following headings and first paragraph are mandatory.)
 Lot Information Statement
@@ -926,7 +926,7 @@ State:
 Zip:
 Name of salesperson (print or type):
 Signature of salesperson:
-IV. Request for Multiple Site Subdivision Exemption -§ 1010.15(c)(1)
+IV. Request for Multiple Site Subdivision Exemption-§ 1010.15(c)(1)
 Request for Multiple Site Subdivision Exemption
 Developer:
 Name:
@@ -944,7 +944,7 @@ Date:
 Signature:
 Title:
 WARNING: 18 U.S.C. 1001 provides, among other things, that whoever knowingly and willingly makes or uses a document or writing containing any false, fictitious, or fraudulent statement or entry, in any matter within the jurisdiction of any department or agency of the United States, shall be fined not more than $10,000 or imprisoned for not more than 5 years or both.
-V. Request for Regulatory Exemption Order -§ 1010.16(c)
+V. Request for Regulatory Exemption Order-§ 1010.16(c)
 REQUEST FOR EXEMPTION ORDER
 Subdivision
 Location (including county)
@@ -959,7 +959,7 @@ I affirm that I am the developer or owner of the property described above or wil
 (Signature of Developer, Owner or Authorized Agent)
 (Title)
 WARNING: Section 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”
-VI. Developer's Affirmation for Advisory Opinion -§ 1010.17(b)(3)
+VI. Developer's Affirmation for Advisory Opinion-§ 1010.17(b)(3)
 Developer's Affirmation
 Name of Subdivision
 Location (Including County and State)
@@ -974,7 +974,7 @@ I affirm that I am the developer or owner of the property described above or wil
 (Signature)
 (Title);
 WARNING: 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”
-VII. Initial and Consolidated Registration Fee Schedule -§ 1010.35(b)
+VII. Initial and Consolidated Registration Fee Schedule-§ 1010.35(b)
 Number of lots
 Fees
 200 or fewer lots
@@ -1064,7 +1064,7 @@ Additional Information
 Affirmation
 1010.219
 The Bureau's OMB control number for this information collection is: 3170-0012.
-IX. Sample Page for Statement of Record -1010.102(e)
+IX. Sample Page for Statement of Record-1010.102(e)
 SAMPLE PAGE
 ROADS
 Here we discuss the roads that lead to the subdivision, those within the subdivision and the location of nearby communities.
@@ -1103,7 +1103,7 @@ April 2011
 October 2011
 None
 Do.
-X. Language for Warning on Cover Page of Property Report -§ 1010.105(c)
+X. Language for Warning on Cover Page of Property Report-§ 1010.105(c)
 This Report is prepared and issued by the developer of this subdivision. It is not prepared or issued by the Federal Government.
 Federal law requires that you receive this Report prior to your signing a contract or agreement to buy or lease a lot in this subdivision. However, NO FEDERAL AGENCY HAS JUDGED THE MERITS OR VALUE, IF ANY, OF THIS PROPERTY.
 If you received this Report prior to signing a contract or agreement, you may cancel your contract or agreement by giving notice to the seller any time before midnight of the seventh day following the signing of the contract or agreement.
@@ -1111,7 +1111,7 @@ If you did not receive this Report before you signed a contract or agreement, yo
 Name of Subdivision
 Name of Developer
 Date of This Report
-XI. Sample Entry in Table of Contents for Statement of Record -§ 1010.106(a)
+XI. Sample Entry in Table of Contents for Statement of Record-§ 1010.106(a)
 Title and Land Use # Page #
 Method of Sale
 Encumbrances, Mortgages and Liens
@@ -1119,31 +1119,31 @@ Recording the Contract and Deed
 Payments
 Restrictions on the Use of Your Lot
 Plat Maps, Zoning, Surveying, Permits and Environment
-XII. Required Language for Risks of Buying Land -§ 1010.107(a)
+XII. Required Language for Risks of Buying Land-§ 1010.107(a)
 (1) The future value of any land is uncertain and dependent upon many factors. DO NOT expect all land to increase in value.
 (2) Any value which your lot may have will be affected if the roads, utilities and all proposed improvements are not completed. This paragraph may be omitted if all improvements have been completed or if no improvements are proposed.
 (3) Resale of your lot may be difficult or impossible, since you may face the competition of our own sales program and local real estate brokers may not be interested in listing your lot.
 (4) Any subdivision will have an impact on the surrounding environment. Whether or not the impact is adverse and the degree of impact, will depend on the location, size, planning and extent of development. Subdivisions which adversely affect the environment may cause governmental agencies to impose restrictions on the use of the land. Changes in plant and animal life, air and water quality and noise levels may affect your use and enjoyment of your lot and your ability to sell it.
 (5) In the purchase of real estate, many technical requirements must be met to assure that you receive proper title. Since this purchase involves a major expenditure of money, it is recommended that you seek professional advice before you obligate yourself.
-XIII. Format for General Information -§ 1010.108
+XIII. Format for General Information-§ 1010.108
 “This Report covers ____ lots located in ____________ County, (State ). See Page ____ for a listing of these lots. It is estimated that this subdivision will eventually contain ____ lots.”
 “The developer of this subdivision is:
 (Developer's Name)
 (Developer's Address)
 (Developer's telephone number)
 “Answers to questions and information about this subdivision may be obtained by telephoning the developer at the number listed above.”
-XIV. Paragraphs to be included in the General Report-Title to the Property and Land Use -§ 1010.109(a)(1)
+XIV. Paragraphs to be included in the General Report-Title to the Property and Land Use-§ 1010.109(a)(1)
 “A person with legal title to property generally has the right to own, use and enjoy the property. A contract to buy a lot may give you possession but doesn't give you legal title. You won't have legal title until you receive a valid deed. A restriction or an encumbrance on your lot, or on the subdivision, could adversely affect your title.”
 “Here we will discuss the sales contract you will sign and the deed you will receive. We will also provide you with information about any land use restrictions and encumbrances, mortgages, or liens affecting your lot and some important facts about payments, recording, and title insurance.”
-XV. Statement on Release Provisions -§ 1010.109(c)(2)(i)(A)
+XV. Statement on Release Provisions-§ 1010.109(c)(2)(i)(A)
 “The release provisions for the (indicate all or particular lots) have not been recorded. Therefore, they may not be honored by subsequent holders of the mortgage. If they are not honored, you may not be able to obtain clear title to a lot covered by this mortgage until we have paid the mortgage in full, even if you have paid the full purchase price of the lot. If we should default on the mortgage prior to obtaining a release of your lot, you may lose your lot and all monies paid.”
-XVI. Warning for Release Provisions -§ 1010.109(c)(2)(i)(C)(1)
+XVI. Warning for Release Provisions-§ 1010.109(c)(2)(i)(C)(1)
 “The (state type of encumbrance) on (indicate all or particular lots) in this subdivision does not contain any provisions for the release of an individual lot when the full purchase price of the lot has been paid. Therefore, if your lot is subject to this (state type of encumbrance), you may not be able to obtain clear title to your lot until we have paid the (state type of encumbrance) in full, even though you may have received a deed and paid the full purchase price of the lot. If we should default on the (state type of encumbrance) prior to obtaining a release, you may lose your lot and all monies paid.”
-XVII. Method and Purpose of Recording Warning -§ 1010.109(d)(1)(iv)
+XVII. Method and Purpose of Recording Warning-§ 1010.109(d)(1)(iv)
 “Unless your contract or deed is recorded you may lose your lot through the claims of subsequent purchasers or subsequent creditors of anyone having an interest in the land”.
 XVIII. Escrow Statement-Disclosure § 1010.109(e)(1)
 “You may lose your (indicate deposit, down payment and/or installment payments) on your lot if we fail to deliver legal title to you as called for in the contract, because (they are/it is) not held in an escrow account which fully protects you.”
-XIX. Road Chart -§ 1010.110(b)(3)
+XIX. Road Chart-§ 1010.110(b)(3)
 UUnit
 Estimated starting date
 (month/year)
@@ -1153,13 +1153,13 @@ Estimated completion date
 Present
 surface
 Final surface
-XX. Nearby Communities Chart -§ 1010.110(b)(6)
+XX. Nearby Communities Chart-§ 1010.110(b)(6)
 Nearby Communities
 Population
 Distance Over Paved Roads
 Distance Over Unpaved Roads
 Total
-XXI. Water Chart Form -§ 1010.111(a)(1)(ii)(B)
+XXI. Water Chart Form-§ 1010.111(a)(1)(ii)(B)
 Water
 UUnit
 Estimated starting date
@@ -1169,13 +1169,13 @@ construction now
 complete
 Estimated service availability date
 (month and year)
-XXII. Comfort Station Chart -§ 1010.111(b)(1)(ii)
+XXII. Comfort Station Chart-§ 1010.111(b)(1)(ii)
 Comfort Stations
 Unit
 Estimated Starting Date (month-year)
 Percentage of Construction now complete
 Estimated Service Availability Date (month and year)
-XXIII. Sewer Chart -§ 1010.111(b)(1)(iii)(B)
+XXIII. Sewer Chart-§ 1010.111(b)(1)(iii)(B)
 Sewer
 Unit Estimated Starting Date (month/year)
 Percentage of Construction now complete
@@ -1189,7 +1189,7 @@ Percentage of
 construction complete
 Estimated service availability date
 (month and year)
-XXV. Recreational Facility Chart -§ 1010.114(b)
+XXV. Recreational Facility Chart-§ 1010.114(b)
 Facility
 Percentage of
 construction now
@@ -1201,7 +1201,7 @@ available for use
 (month/year)
 Financial assurance of completion
 Buyer's annual cost or assessments
-XXVI. Cost Sheet Format -§ 1010.117(a)
+XXVI. Cost Sheet Format-§ 1010.117(a)
 Cost Sheet
 In addition to the purchase price of your lot, there are other expenditures which must be made.
 Listed below are the major costs. There may be other fees for use of the recreational facilities.
@@ -1232,7 +1232,7 @@ $
 $
 The information contained in this Property Report is an accurate description of our subdivision and development plans.
 Signature of Senior Executive Officer
-XXVII. Sample Receipt, Agent Certification and Cancellation Page -§ 1010.118(a)
+XXVII. Sample Receipt, Agent Certification and Cancellation Page-§ 1010.118(a)
 Receipt, Agent Certification and Cancellation Page purchaser receipt Important: Read Carefully
 Name of subdivision
 ILSRP number
@@ -1263,7 +1263,7 @@ Date of contract
 This will confirm that I/we wish to cancel our purchase contract.
 Purchaser(s) signature
 Date
-XXVIII. Affirmation of Senior Executive Officer -§ 1010.219
+XXVIII. Affirmation of Senior Executive Officer-§ 1010.219
 I hereby affirm that I am the Senior Executive Officer of the developer of the lots herein described or will be the Senior Executive Officer of the developer at the time lots are offered for sale or lease to the public, or that I am the agent authorized by the Senior Executive Officer of such developer to complete this statement (if agent, submit written authorization to act as agent); and,
 That the statements contained in this Statement of Record and any supplement hereto, together with any documents submitted herein, are full, true, complete, and correct; and,
 That the developer is bound to carry out the promises and obligations set forth in this Statement of Record and Property Report or I have clearly stated who is or will be responsible; and
@@ -1273,11 +1273,11 @@ That the fees accompanying this submission are in the amount required by the rul
 (Corporate seal if applicable)
 (Title)
 WARNING: 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”
-XXIX. Form for Certification for Disclosure Documents -§ 1010.504(a)(2)
+XXIX. Form for Certification for Disclosure Documents-§ 1010.504(a)(2)
 The (indicate the State Department of Real Estate or other appropriate entity) has reviewed the attached materials and finds they are true copies of (1) the (indicate Property Report or other similar state accepted document or amendment to such document) for (indicate the name of the subdivision), made effective by the state of ____________ on ____________ (give date) and still in effect; and (2) the supporting documentation upon which such (indicate the document or amendment) is based.
 Signature
-XXX. Language to be Included on Property Report Cover Page -§ 1010.558(a)(1)
+XXX. Language to be Included on Property Report Cover Page-§ 1010.558(a)(1)
 “If you received this Report prior to signing a contract or agreement, you may cancel your contract or agreement by giving notice to the seller anytime before midnight of the seventh day following the signing of the contract or agreement.
 “If you did not receive this Report before you signed a contract or agreement, you may cancel the contract or agreement anytime within two years from the date of signing.”
-XXXI. Notice of Revocation Rights -§ 1010.559(a)(1)
+XXXI. Notice of Revocation Rights-§ 1010.559(a)(1)
 You have the option to cancel your contract or agreement of sale by notice to the seller until midnight of the seventh day following the signing of the contract or agreement. If you did not receive a Property Report prepared pursuant to the rules and regulations of the Bureau of Consumer Financial Protection, in advance of your signing the contract or agreement, this contract or agreement may be revoked at your option for two years from the date of signing.

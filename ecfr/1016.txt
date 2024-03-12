@@ -27,7 +27,7 @@ As used in this part, unless the context requires otherwise:
 (ii) An affiliate of a federally-insured, state-chartered credit union is a company that is controlled by the credit union.
 (b)
 (1) Clear and conspicuous means that a notice is reasonably understandable and designed to call attention to the nature and significance of the information in the notice.
-(2) Examples -
+(2) Examples-
 (i) Reasonably understandable. You make your notice reasonably understandable if you:
 (A) Present the information in the notice in clear, concise sentences, paragraphs, and sections;
 (B) Use short explanatory sentences or bullet lists whenever possible;
@@ -179,7 +179,7 @@ As used in this part, unless the context requires otherwise:
 (i) A consumer provides to you to obtain a financial product or service from you;
 (ii) About a consumer resulting from any transaction involving a financial product or service between you and a consumer; or
 (iii) You otherwise obtain about a consumer in connection with providing a financial product or service to that consumer.
-(2) Examples -
+(2) Examples-
 (i) Information included. Personally identifiable financial information includes:
 (A) Information a consumer provides to you on an application to obtain a loan, a credit card, a credit union membership, or other financial product or service;
 (B) Account balance information, payment history, overdraft history, and credit or debit card purchase information;
@@ -199,7 +199,7 @@ As used in this part, unless the context requires otherwise:
 (2) Reasonable basis. You have a reasonable basis to believe that information is lawfully made available to the general public if you have taken steps to determine:
 (i) That the information is of the type that is available to the general public; and
 (ii) Whether an individual can direct that the information not be made available to the general public and, if so, that your consumer has not done so.
-(3) Examples -
+(3) Examples-
 (i) Government records. Publicly available information in government records includes information in government real estate records and security interest filings.
 (ii) Widely distributed media. Publicly available information from widely distributed media includes information from a telephone book, a television or radio program, a newspaper, or a Web site that is available to the general public on an unrestricted basis. A Web site is not restricted merely because an Internet service provider or a site operator requires a fee or a password, so long as access is available to the general public.
 (iii) Reasonable basis.
@@ -221,10 +221,10 @@ As used in this part, unless the context requires otherwise:
 (b) When initial notice to a consumer is not required. You are not required to provide an initial notice to a consumer under paragraph (a) of this section if:
 (1) You do not disclose any nonpublic personal information about the consumer to any nonaffiliated third party, other than as authorized by §§ 1016.14 and 1016.15; and
 (2) You do not have a customer relationship with the consumer.
-(c) When you establish a customer relationship -
+(c) When you establish a customer relationship-
 (1) General rule. You establish a customer relationship when you and the consumer enter into a continuing relationship.
 (2) Special rule for loans. You establish a customer relationship with a consumer when you originate or acquire the servicing rights to a loan to the consumer for personal, family, or household purposes. If you subsequently transfer the servicing rights to that loan to another financial institution, the customer relationship transfers with the servicing rights.
-(3) Examples -
+(3) Examples-
 (i) Examples of establishing customer relationship by financial institutions other than credit unions and covered entities subject to FTC enforcement jurisdiction. For purposes of this paragraph (c)(3)(i), “you” is limited to financial institutions other than credit unions and financial institutions described in § 1016.3(l)(3). You establish a customer relationship when the consumer:
 (A) Opens a credit card account with you;
 (B) Executes the contract to open a deposit account with you, obtains credit from you, or purchases insurance from you;
@@ -255,7 +255,7 @@ As used in this part, unless the context requires otherwise:
 (1) You may provide the initial notice required by paragraph (a)(1) of this section within a reasonable time after you establish a customer relationship if:
 (i) Establishing the customer relationship is not at the customer's election; or
 (ii) Providing notice not later than when you establish a customer relationship would substantially delay the customer's transaction and the customer agrees to receive the notice at a later time.
-(2) Examples of exceptions -
+(2) Examples of exceptions-
 (i) Not at customer's election.
 (A) In the case of financial institutions other than credit unions and financial institutions described in § 1016.3(l)(3), establishing a customer relationship is not at the customer's election if you acquire a customer's deposit liability or the servicing rights to a customer's loan from another financial institution and the customer does not have a choice about your acquisition.
 (B) In the case of financial institutions described in § 1016.3(l)(3), establishing a customer relationship is not at the customer's election if you acquire a customer's loan or the servicing rights from another financial institution and the customer does not have a choice about your acquisition.
@@ -292,7 +292,7 @@ As used in this part, unless the context requires otherwise:
 (v) The credit union has not communicated with the nonmember about the relationship for a period of 12 consecutive months, other than to provide annual privacy notices or promotional material.
 (c) Special rule for loans in the case of a financial institution other than a credit union. If a financial institution other than a credit union does not have a customer relationship with a consumer under the special rule for loans in § 1016.4(c)(2) of this part, then it need not provide an annual notice to that consumer under this section.
 (d) Delivery. When you are required to deliver an annual privacy notice by this section, you must deliver it according to § 1016.9 of this part.
-(e) Exception to annual privacy notice requirement -
+(e) Exception to annual privacy notice requirement-
 (1) When exception available. You are not required to deliver an annual privacy notice if you:
 (i) Provide nonpublic personal information to nonaffiliated third parties only in accordance with the provisions of § 1016.13, § 1016.14, or § 1016.15; and
 (ii) Have not changed your policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed to the customer under § 1016.6(a)(2) through (5) and (9) in the most recent privacy notice provided pursuant to this part.
@@ -316,7 +316,7 @@ As used in this part, unless the context requires otherwise:
 (b) Description of nonaffiliated third parties subject to exceptions. If you disclose nonpublic personal information to third parties as authorized under §§ 1016.14 and 1016.15, you are not required to list those exceptions in the initial or annual privacy notices required by §§ 1016.4 and 1016.5. When describing the categories with respect to those parties, it is sufficient to state that you make disclosures to other nonaffiliated companies:
 (1) For your everyday business purposes, such as [include all that apply] to process transactions, maintain account(s), respond to court orders and legal investigations, or report to credit bureaus; or
 (2) As permitted by law.
-(c) Examples -
+(c) Examples-
 (1) Categories of nonpublic personal information that you collect. You satisfy the requirement to categorize the nonpublic personal information that you collect if you list the following categories, as applicable:
 (i) Information from the consumer;
 (ii) Information about the consumer's transactions with you or your affiliates;
@@ -358,7 +358,7 @@ As used in this part, unless the context requires otherwise:
 (i) That you disclose or reserve the right to disclose nonpublic personal information about your consumer to a nonaffiliated third party;
 (ii) That the consumer has the right to opt out of that disclosure; and
 (iii) A reasonable means by which the consumer may exercise the opt out right.
-(2) Examples -
+(2) Examples-
 (i) Adequate opt out notice. You provide adequate notice that the consumer can opt out of the disclosure of nonpublic personal information to a nonaffiliated third party if you:
 (A) Identify all of the categories of nonpublic personal information that you disclose or reserve the right to disclose, and all of the categories of nonaffiliated third parties to which you disclose the information, as described in § 1016.6(a)(2) and (3) of this part, and state that the consumer can opt out of the disclosure of that information; and
 (B) Identify the financial products or services that the consumer obtains from you, either singly or jointly, to which the opt out direction would apply.
@@ -510,7 +510,7 @@ As used in this part, unless the context requires otherwise:
 (b) Exceptions. Paragraph (a) of this section does not apply if you disclose an account number or similar form of access number or access code:
 (1) To your agent or service provider solely in order to perform marketing for your own products or services, as long as the agent or service provider is not authorized to directly initiate charges to the account; or
 (2) To a participant in a private label credit card program or an affinity or similar program where the participants in the program are identified to the customer when the customer enters into the program.
-(c) Examples -
+(c) Examples-
 (1) Account number. An account number, or similar form of access number or access code, does not include a number or code in an encrypted form, as long as you do not provide the recipient with a means to decode the number or code.
 (2) Transaction account. A transaction account is an account other than a deposit account, a share account, or a credit card account. A transaction account does not include an account to which third parties cannot initiate charges.
 § 1016.13 Exception to opt out requirements for service providers and joint marketing.

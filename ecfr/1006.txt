@@ -50,7 +50,7 @@ For purposes of this part, the following definitions apply:
 (3) The consumer's legal guardian;
 (4) The executor or administrator of the consumer's estate, if the consumer is deceased; and
 (5) A confirmed successor in interest, as defined in Regulation X, 12 CFR 1024.31, or Regulation Z, 12 CFR 1026.2(a)(27)(ii).
-(b) Communications with a consumer -
+(b) Communications with a consumer-
 (1) Prohibitions regarding unusual or inconvenient times or places. Except as provided in paragraph (b)(4) of this section, a debt collector must not communicate or attempt to communicate with a consumer in connection with the collection of any debt:
 (i) At any unusual time, or at a time that the debt collector knows or should know is inconvenient to the consumer. In the absence of the debt collector's knowledge of circumstances to the contrary, a time before 8:00 a.m. and after 9:00 p.m. local time at the consumer's location is inconvenient; or
 (ii) At any unusual place, or at a place that the debt collector knows or should know is inconvenient to the consumer.
@@ -61,13 +61,13 @@ For purposes of this part, the following definitions apply:
 (4) Exceptions. The prohibitions in paragraphs (b)(1) through (3) of this section do not apply when a debt collector communicates or attempts to communicate with a consumer in connection with the collection of any debt with:
 (i) The prior consent of the consumer, given directly to the debt collector during a communication that does not violate paragraphs (b)(1) through (3) of this section; or
 (ii) The express permission of a court of competent jurisdiction.
-(c) Communications with a consumer-after refusal to pay or cease communication notice -
+(c) Communications with a consumer-after refusal to pay or cease communication notice-
 (1) Prohibition. Except as provided in paragraph (c)(2) of this section, if a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wants the debt collector to cease further communication with the consumer, the debt collector must not communicate or attempt to communicate further with the consumer with respect to such debt.
 (2) Exceptions. The prohibition in paragraph (c)(1) of this section does not apply when a debt collector communicates or attempts to communicate further with a consumer with respect to such debt:
 (i) To advise the consumer that the debt collector's further efforts are being terminated;
 (ii) To notify the consumer that the debt collector or creditor may invoke specified remedies that the debt collector or creditor ordinarily invokes; or
 (iii) Where applicable, to notify the consumer that the debt collector or creditor intends to invoke a specified remedy.
-(d) Communications with third parties -
+(d) Communications with third parties-
 (1) Prohibitions. Except as provided in paragraph (d)(2) of this section, a debt collector must not communicate, in connection with the collection of any debt, with any person other than:
 (i) The consumer;
 (ii) The consumer's attorney;
@@ -123,7 +123,7 @@ For purposes of this part, the following definitions apply:
 (c) Frequency of location communications. In addition to complying with § 1006.14(b)(1), a debt collector communicating with any person other than the consumer for the purpose of acquiring location information about the consumer must not communicate more than once with such person unless requested to do so by such person, or unless the debt collector reasonably believes that the earlier response of such person is erroneous or incomplete and that such person now has correct or complete location information.
 § 1006.14 Harassing, oppressive, or abusive conduct.
 (a) In general. A debt collector must not engage in any conduct the natural consequence of which is to harass, oppress, or abuse any person in connection with the collection of a debt, including, but not limited to, the conduct described in paragraphs (b) through (h) of this section.
-(b) Repeated or continuous telephone calls or telephone conversations -
+(b) Repeated or continuous telephone calls or telephone conversations-
 (1) In general. In connection with the collection of a debt, a debt collector must not place telephone calls or engage any person in telephone conversation repeatedly or continuously with intent to annoy, abuse, or harass any person at the called number.
 (2) Telephone call frequencies; presumptions of compliance and violation.
 (i) Subject to the exclusions in paragraph (b)(3) of this section, a debt collector is presumed to comply with paragraph (b)(1) of this section and FDCPA section 806(5) (15 U.S.C. 1692d(5)) if the debt collector places a telephone call to a particular person in connection with the collection of a particular debt neither:
@@ -140,7 +140,7 @@ For purposes of this part, the following definitions apply:
 (e) Debtor's list. In connection with the collection of a debt, a debt collector must not publish a list of consumers who allegedly refuse to pay debts, except to a consumer reporting agency or to persons meeting the requirements of sections 603(f) or 604(a)(3) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f) or 1681b(a)(3)).
 (f) Coercive advertisements. In connection with the collection of a debt, a debt collector must not advertise for sale any debt to coerce payment of the debt.
 (g) Meaningful disclosure of identity. In connection with the collection of a debt, a debt collector must not place telephone calls without meaningfully disclosing the caller's identity, except as provided in § 1006.10.
-(h) Prohibited communication media -
+(h) Prohibited communication media-
 (1) In general. In connection with the collection of any debt, a debt collector must not communicate or attempt to communicate with a person through a medium of communication if the person has requested that the debt collector not use that medium to communicate with the person.
 (2) Exceptions. Notwithstanding the prohibition in paragraph (h)(1) of this section:
 (i) If a person opts out of receiving electronic communications from a debt collector, a debt collector may send an electronic confirmation of the person's request to opt out, provided that the electronic confirmation contains no information other than a statement confirming the person's request and that the debt collector will honor it;
@@ -170,7 +170,7 @@ For purposes of this part, the following definitions apply:
 (3) Use or distribute any written communication that simulates or that the debt collector falsely represents to be a document authorized, issued, or approved by any court, official, or agency of the United States or any State, or that creates a false impression about its source, authorization, or approval.
 (4) Use any business, company, or organization name other than the true name of the debt collector's business, company, or organization.
 (d) False representations or deceptive means. A debt collector must not use any false representation or deceptive means to collect or attempt to collect any debt or to obtain information concerning a consumer.
-(e) Disclosures required -
+(e) Disclosures required-
 (1) Initial communications. A debt collector must disclose in its initial communication with a consumer that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose. If the debt collector's initial communication with the consumer is oral, the debt collector must make the disclosure required by this paragraph again in its initial written communication with the consumer.
 (2) Subsequent communications. In each communication with the consumer subsequent to the communications described in paragraph (e)(1) of this section, the debt collector must disclose that the communication is from a debt collector.
 (3) Exception. Disclosures under paragraphs (e)(1) and (2) of this section are not required in a formal pleading made in connection with a legal action.
@@ -200,14 +200,14 @@ For purposes of this part, the following definitions apply:
 (2) Time-barred debt means a debt for which the applicable statute of limitations has expired.
 (b) Legal actions and threats of legal actions prohibited. A debt collector must not bring or threaten to bring a legal action against a consumer to collect a time-barred debt. This paragraph (b) does not apply to proofs of claim filed in connection with a bankruptcy proceeding.
 § 1006.30 Other prohibited practices.
-(a) Required actions prior to furnishing information -
+(a) Required actions prior to furnishing information-
 (1) In general. Except as provided in paragraph (a)(2) of this section, a debt collector must not furnish to a consumer reporting agency, as defined in section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f)), information about a debt before the debt collector:
 (i) Speaks to the consumer about the debt in person or by telephone; or
 (ii) Places a letter in the mail or sends an electronic message to the consumer about the debt and waits a reasonable period of time to receive a notice of undeliverability. During the reasonable period, the debt collector must permit receipt of, and monitor for, notifications of undeliverability from communications providers. If the debt collector receives such a notification during the reasonable period, the debt collector must not furnish information about the debt to a consumer reporting agency until the debt collector otherwise satisfies this paragraph (a)(1).
 (2) Special rule-information furnished to certain specialty consumer reporting agencies. Paragraph (a)(1) of this section does not apply to a debt collector's furnishing of information about a debt to a nationwide specialty consumer reporting agency that compiles and maintains information on a consumer's check writing history, as described in section 603(x)(3) of the Fair Credit Reporting Act (15 U.S.C. 1681a(x)(3)).
-(b) Prohibition on the sale, transfer for consideration, or placement for collection of certain debts -
+(b) Prohibition on the sale, transfer for consideration, or placement for collection of certain debts-
 (1) In general. Except as provided in paragraph (b)(2) of this section, a debt collector must not sell, transfer for consideration, or place for collection a debt if the debt collector knows or should know that the debt has been paid or settled or discharged in bankruptcy.
-(2) Exceptions -
+(2) Exceptions-
 (i) In general. A debt collector may transfer for consideration a debt described in paragraph (b)(1) of this section if the debt collector:
 (A) Transfers the debt to the debt's owner;
 (B) Transfers the debt to a previous owner of the debt, if the transfer is authorized under the terms of the original contract between the debt collector and the previous owner; or
@@ -217,7 +217,7 @@ For purposes of this part, the following definitions apply:
 (c) Multiple debts. If a consumer makes any single payment to a debt collector with respect to multiple debts owed by the consumer to the debt collector, the debt collector:
 (1) Must not apply the payment to any debt that is disputed by the consumer; and
 (2) If applicable, must apply the payment in accordance with the consumer's directions.
-(d) Legal actions by debt collectors -
+(d) Legal actions by debt collectors-
 (1) Action to enforce interest in real property. A debt collector who brings a legal action against a consumer to enforce an interest in real property securing the consumer's debt must bring the action only in a judicial district or similar legal entity in which such real property is located.
 (2) Other legal actions. A debt collector who brings a legal action against a consumer other than to enforce an interest in real property securing the consumer's debt must bring such action only in the judicial district or similar legal entity in which the consumer:
 (i) Signed the contract sued upon; or
@@ -225,7 +225,7 @@ For purposes of this part, the following definitions apply:
 (3) Authorization of actions. Nothing in this part authorizes debt collectors to bring legal actions.
 (e) Furnishing certain deceptive forms. A debt collector must not design, compile, and furnish any form that the debt collector knows would be used to cause a consumer falsely to believe that a person other than the consumer's creditor is participating in collecting or attempting to collect a debt that the consumer allegedly owes to the creditor.
 § 1006.34 Notice for validation of debts.
-(a) Validation information required -
+(a) Validation information required-
 (1) In general. Except as provided in paragraph (a)(2) of this section, a debt collector must provide a consumer with the validation information required by paragraph (c) of this section either:
 (i) By sending the consumer a validation notice in the manner required by § 1006.42:
 (A) In the initial communication, as defined in paragraph (b)(2) of this section; or
@@ -275,9 +275,9 @@ For purposes of this part, the following definitions apply:
 (5) Special rule for certain residential mortgage debt. For residential mortgage debt, if a periodic statement is required under Regulation Z, 12 CFR 1026.41, at the time a debt collector provides the validation notice, a debt collector need not provide the validation information required by paragraphs (c)(2)(vi) through (viii) of this section if the debt collector:
 (i) Provides the consumer, in the same communication with the validation notice, a copy of the most recent periodic statement provided to the consumer under Regulation Z, 12 CFR 1026.41(b); and
 (ii) Includes on the validation notice, where the validation information required by paragraphs (c)(2)(vi) through (viii) of this section would have appeared, a statement referring to that periodic statement.
-(d) Form of validation information -
+(d) Form of validation information-
 (1) In general. The validation information required by paragraph (c) of this section must be clear and conspicuous.
-(2) Safe harbor -
+(2) Safe harbor-
 (i) In general. Model Form B-1 in appendix B to this part contains the validation information required by paragraph (c) of this section and certain optional disclosures permitted by paragraph (d)(3) of this section. A debt collector who uses Model Form B-1 complies with the information and form requirements of paragraphs (c) and (d)(1) of this section, including if the debt collector:
 (A) Omits any or all of the optional disclosures shown on Model Form B-1; or
 (B) Adds any or all of the optional disclosures described in paragraph (d)(3) of this section that are not shown on Model Form B-1, provided that any such optional disclosures are no more prominent than any of the validation information required by paragraph (c) of this section.
@@ -289,7 +289,7 @@ For purposes of this part, the following definitions apply:
 (iii) Payment disclosures. Either or both of the following phrases:
 (A) The statement, “Contact us about your payment options.”, using that phrase or a substantially similar phrase; and
 (B) Below the consumer-response information required by paragraphs (c)(4)(i) and (ii) of this section, the statement, “I enclosed this amount:”, using that phrase or a substantially similar phrase, payment instructions after that statement, and a prompt.
-(iv) Disclosures under applicable law -
+(iv) Disclosures under applicable law-
 (A) Disclosures on the reverse of the validation notice. On the reverse of the validation notice, any disclosures that are specifically required by, or that provide safe harbors under, applicable law and, if any such disclosures are included, a statement on the front of the validation notice referring to those disclosures. Any such disclosures must not appear directly on the reverse of the consumer-response information required by paragraph (c)(4) of this section.
 (B) Disclosures on the front of the validation notice. If a debt collector is collecting time-barred debt, on the front of the validation notice below the disclosure required by paragraph (c)(2)(ix) of this section, any time-barred debt disclosure that is specifically required by, or that provides a safe harbor under, applicable law, provided that applicable law specifies the content of the disclosure.
 (v) Information about electronic communications. The following information:
@@ -306,7 +306,7 @@ For purposes of this part, the following definitions apply:
 (A) Connect a consumer to the debt collector's website;
 (B) Connect a consumer to the Bureau's debt collection website as disclosed pursuant to paragraph (c)(3)(iv) of this section; or
 (C) Permit a consumer to respond to the dispute and original-creditor information prompts required by paragraphs (c)(4)(i) and (ii) of this section.
-(e) Translation into other languages -
+(e) Translation into other languages-
 (1) In general. A debt collector may send a consumer a validation notice completely and accurately translated into any language if the debt collector:
 (i) Sends the consumer an English-language validation notice in the same communication as the translated validation notice; or
 (ii) Previously provided the consumer an English-language validation notice, in which case the debt collector need not send the consumer an English-language validation notice in the same communication as the translated validation notice.
@@ -317,13 +317,13 @@ For purposes of this part, the following definitions apply:
 (i) Is substantially the same as a dispute previously submitted by the consumer in writing within the validation period for which the debt collector already has satisfied the requirements of paragraph (d)(2)(i) of this section; and
 (ii) Does not include new and material information to support the dispute.
 (2) Validation period has the same meaning given to it in § 1006.34(b)(5).
-(b) Overshadowing of rights to dispute or request original-creditor information -
+(b) Overshadowing of rights to dispute or request original-creditor information-
 (1) Prohibition. During the validation period, a debt collector must not engage in any collection activities or communications that overshadow or are inconsistent with the disclosure of the consumer's rights to dispute the debt and to request the name and address of the original creditor.
 (2) Safe harbor. A debt collector who uses Model Form B-1 in appendix B to this part in a manner described in § 1006.34(d)(2) has not thereby violated paragraph (b)(1) of this section.
 (c) Requests for original-creditor information. Upon receipt of a request for the name and address of the original creditor submitted by the consumer in writing within the validation period, a debt collector must cease collection of the debt until the debt collector:
 (1) In general. Sends the name and address of the original creditor to the consumer in writing or electronically in the manner required by § 1006.42; or
 (2) Special rule if the current creditor and the original creditor are the same. In lieu of taking the actions described in paragraph (c)(1) of this section, reasonably determines that the original creditor is the same as the current creditor, notifies the consumer of that fact in writing or electronically in the manner required by § 1006.42, and refers the consumer to the validation information previously provided pursuant to § 1006.34(a)(1).
-(d) Disputes -
+(d) Disputes-
 (1) Failure to dispute. The failure of a consumer to dispute the validity of a debt does not constitute a legal admission of liability by the consumer.
 (2) Response to disputes. Upon receipt of a dispute submitted by the consumer in writing within the validation period, a debt collector must cease collection of the debt, or any disputed portion of the debt, until the debt collector:
 (i) Sends a copy either of verification of the debt or of a judgment to the consumer in writing or electronically in the manner required by § 1006.42; or
@@ -331,7 +331,7 @@ For purposes of this part, the following definitions apply:
 (A) Notifies the consumer in writing or electronically in the manner required by § 1006.42(a)(1) that the dispute is duplicative, provides a brief statement of the reasons for the determination, and refers the consumer to the debt collector's response to the earlier dispute; or
 (B) Satisfies paragraph (d)(2)(i) of this section.
 § 1006.42 Sending required disclosures.
-(a) Sending required disclosures -
+(a) Sending required disclosures-
 (1) In general. A debt collector who sends disclosures required by the Act and this part in writing or electronically must do so in a manner that is reasonably expected to provide actual notice, and in a form that the consumer may keep and access later.
 (2) Exceptions. A debt collector need not comply with paragraph (a)(1) of this section when sending the disclosure required by § 1006.6(e) or § 1006.18(e) in writing or electronically, unless the disclosure is included on a notice required by § 1006.34(a)(1)(i) or § 1006.38(c) or (d)(2).
 (b) Requirements for certain disclosures sent electronically. To comply with paragraph (a) of this section, a debt collector who sends the notice required by § 1006.34(a)(1)(i)(B), or the disclosures described in § 1006.38(c) or (d)(2)(i), electronically must do so in accordance with section 101(c) of the Electronic Signatures in Global and National Commerce Act (E-SIGN Act) (15 U.S.C. 7001(c)).

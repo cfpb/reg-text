@@ -36,12 +36,12 @@ For purposes of this part, the following definitions apply:
 (c) Relation to Regulation E (12 CFR Part 1005). Disclosures required by and provided in accordance with the Electronic Fund Transfer Act (15 U.S.C. 1693 et seq.) and its implementing Regulation E (12 CFR Part 1005) that are also required by this part may be substituted for the disclosures required by this part.
 (d) Multiple consumers. If an account is held by more than one consumer, disclosures may be made to any one of the consumers.
 (e) Oral response to inquiries. In an oral response to a consumer's inquiry about interest rates payable on its accounts, the depository institution shall state the annual percentage yield. The interest rate may be stated in addition to the annual percentage yield. No other rate may be stated.
-(f) Rounding and accuracy rules for rates and yields -
+(f) Rounding and accuracy rules for rates and yields-
 (1) Rounding. The annual percentage yield, the annual percentage yield earned, and the interest rate shall be rounded to the nearest one-hundredth of one percentage point (.01%) and expressed to two decimal places. For account disclosures, the interest rate may be expressed to more than two decimal places.
 (2) Accuracy. The annual percentage yield (and the annual percentage yield earned) will be considered accurate if not more than one-twentieth of one percentage point (.05%) above or below the annual percentage yield (and the annual percentage yield earned) determined in accordance with the rules in appendix A of this part.
 § 1030.4 Account disclosures.
-(a) Delivery of account disclosures -
-(1) Account opening -
+(a) Delivery of account disclosures-
+(1) Account opening-
 (i) General. A depository institution shall provide account disclosures to a consumer before an account is opened or a service is provided, whichever is earlier. An institution is deemed to have provided a service when a fee required to be disclosed is assessed. Except as provided in paragraph (a)(1)(ii) of this section, if the consumer is not present at the institution when the account is opened or the service is provided and has not already received the disclosures, the institution shall mail or deliver the disclosures no later than 10 business days after the account is opened or the service is provided, whichever is earlier.
 (ii) Timing of electronic disclosures. If a consumer who is not present at the institution uses electronic means (for example, an Internet Web site) to open an account or request a service, the disclosures required under paragraph (a)(1) of this section must be provided before the account is opened or the service is provided.
 (2) Requests.
@@ -50,17 +50,17 @@ For purposes of this part, the following definitions apply:
 (A) Specify an interest rate and annual percentage yield that were offered within the most recent seven calendar days; state that the rate and yield are accurate as of an identified date; and provide a telephone number consumers may call to obtain current rate information.
 (B) State the maturity of a time account as a term rather than a date.
 (b) Content of account disclosures. Account disclosures shall include the following, as applicable:
-(1) Rate information -
+(1) Rate information-
 (i) Annual percentage yield and interest rate. The “annual percentage yield” and the “interest rate,” using those terms, and for fixed-rate accounts the period of time the interest rate will be in effect.
 (ii) Variable rates. For variable-rate accounts:
 (A) The fact that the interest rate and annual percentage yield may change;
 (B) How the interest rate is determined;
 (C) The frequency with which the interest rate may change; and
 (D) Any limitation on the amount the interest rate may change.
-(2) Compounding and crediting -
+(2) Compounding and crediting-
 (i) Frequency. The frequency with which interest is compounded and credited.
 (ii) Effect of closing an account. If consumers will forfeit interest if they close the account before accrued interest is credited, a statement that interest will not be paid in such cases.
-(3) Balance information -
+(3) Balance information-
 (i) Minimum balance requirements.
 (A) Any minimum balance required to:
 (1) Open the account;
@@ -77,11 +77,11 @@ For purposes of this part, the following definitions apply:
 (iii) Withdrawal of interest prior to maturity. If compounding occurs during the term and interest may be withdrawn prior to maturity, a statement that the annual percentage yield assumes interest remains on deposit until maturity and that a withdrawal will reduce earnings. For accounts with a stated maturity greater than one year that do not compound interest on an annual or more frequent basis, that require interest payouts at least annually, and that disclose an APY determined in accordance with section E of appendix A of this part, a statement that interest cannot remain on deposit and that payout of interest is mandatory.
 (iv) Renewal policies. A statement of whether or not the account will renew automatically at maturity. If it will, a statement of whether or not a grace period will be provided and, if so, the length of that period must be stated. If the account will not renew automatically, a statement of whether interest will be paid after maturity if the consumer does not renew the account must be stated.
 (7) Bonuses. The amount or type of any bonus, when the bonus will be provided, and any minimum balance and time requirements to obtain the bonus.
-(c) Notice to existing account holders -
+(c) Notice to existing account holders-
 (1) Notice of availability of disclosures. Depository institutions shall provide a notice to consumers who receive periodic statements and who hold existing accounts of the type offered by the institution on June 21, 1993. The notice shall be included on or with the first periodic statement sent on or after June 21, 1993 (or on or with the first periodic statement for a statement cycle beginning on or after that date). The notice shall state that consumers may request account disclosures containing terms, fees, and rate information for their account. In responding to such a request, institutions shall provide disclosures in accordance with paragraph (a)(2) of this section.
 (2) Alternative to notice. As an alternative to the notice described in paragraph (c)(1) of this section, institutions may provide account disclosures to consumers. The disclosures may be provided either with a periodic statement or separately, but must be sent no later than when the periodic statement described in paragraph (c)(1) is sent.
 § 1030.5 Subsequent disclosures.
-(a) Change in terms -
+(a) Change in terms-
 (1) Advance notice required. A depository institution shall give advance notice to affected consumers of any change in a term required to be disclosed under § 1030.4(b) of this part if the change may reduce the annual percentage yield or adversely affect the consumer. The notice shall include the effective date of the change. The notice shall be mailed or delivered at least 30 calendar days before the effective date of the change.
 (2) No notice required. No notice under this section is required for:
 (i) Variable-rate changes. Changes in the interest rate and corresponding changes in the annual percentage yield in variable-rate accounts.
@@ -105,7 +105,7 @@ For purposes of this part, the following definitions apply:
 (5) Aggregate fee disclosure. If applicable, the total overdraft and returned item fees required to be disclosed by § 1030.11(a).
 (b) Special rule for average daily balance method. In making the disclosures described in paragraph (a) of this section, institutions that use the average daily balance method and that calculate interest for a period other than the statement period shall calculate and disclose the annual percentage yield earned and amount of interest earned based on that period rather than the statement period. The information in paragraph (a)(4) of this section shall be stated for that period as well as for the statement period.
 § 1030.7 Payment of interest.
-(a) Permissible methods -
+(a) Permissible methods-
 (1) Balance on which interest is calculated. Institutions shall calculate interest on the full amount of principal in an account for each day by use of either the daily balance method or the average daily balance method. Institutions shall calculate interest by use of a daily rate of at least 1⁄365 of the interest rate. In a leap year a daily rate of 1⁄366 of the interest rate may be used.
 (2) Determination of minimum balance to earn interest. An institution shall use the same method to determine any minimum balance required to earn interest as it uses to determine the balance on which interest is calculated. An institution may use an additional method that is unequivocally beneficial to the consumer.
 (b) Compounding and crediting policies. This section does not require institutions to compound or credit interest at any particular frequency.
@@ -131,7 +131,7 @@ For purposes of this part, the following definitions apply:
 (3) The minimum balance required to obtain the bonus;
 (4) The minimum balance required to open the account, if it is greater than the minimum balance necessary to obtain the bonus; and
 (5) When the bonus will be provided.
-(e) Exemption for certain advertisements -
+(e) Exemption for certain advertisements-
 (1) Certain media. If an advertisement is made through one of the following media, it need not contain the information in paragraphs (c)(1), (c)(2), (c)(4), (c)(5), (c)(6)(ii), (d)(4), and (d)(5) of this section:
 (i) Broadcast or electronic media, such as television or radio;
 (ii) Outdoor media, such as billboards; or
@@ -148,13 +148,13 @@ For purposes of this part, the following definitions apply:
 (c) Record retention. A depository institution shall retain evidence of compliance with this part for a minimum of two years after the date disclosures are required to be made or action is required to be taken. The administrative agencies responsible for enforcing this part may require depository institutions under their jurisdiction to retain records for a longer period if necessary to carry out their enforcement responsibilities under section 270 of the act.
 § 1030.10 [Reserved]
 § 1030.11 Additional disclosure requirements for overdraft services.
-(a) Disclosure of total fees on periodic statements -
+(a) Disclosure of total fees on periodic statements-
 (1) General. A depository institution must separately disclose on each periodic statement, as applicable:
 (i) The total dollar amount for all fees or charges imposed on the account for paying checks or other items when there are insufficient or unavailable funds and the account becomes overdrawn, using the term “Total Overdraft Fees;” and
 (ii) The total dollar amount for all fees or charges imposed on the account for returning items unpaid.
 (2) Totals required. The disclosures required by paragraph (a)(1) of this section must be provided for the statement period and for the calendar year-to-date;
 (3) Format requirements. The aggregate fee disclosures required by paragraph (a) of this section must be disclosed in close proximity to fees identified under § 1030.6(a)(3), using a format substantially similar to Sample Form B-10 in appendix B to this part.
-(b) Advertising disclosures for overdraft services -
+(b) Advertising disclosures for overdraft services-
 (1) Disclosures. Except as provided in paragraphs (b)(2) through (4) of this section, any advertisement promoting the payment of overdrafts shall disclose in a clear and conspicuous manner:
 (i) The fee or fees for the payment of each overdraft;
 (ii) The categories of transactions for which a fee for paying an overdraft may be imposed;
