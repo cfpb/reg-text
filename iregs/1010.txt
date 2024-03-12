@@ -630,7 +630,7 @@ The Additional Information and Documentation portion of the Statement of Record 
 (iii) The revocation provisions may not be limited or qualified in the contract or other document by requiring a specific type of notice or by requiring that notice be given at a specified place.
 (iv) If it is represented that the developer will provide or complete roads or facilities for waters, sewer, gas, electric service or recreational amenities, the contract must contain a provision that the developer is obligated to provide or complete such roads, facilities and amenities.
 (4) Submit copies of deeds and leases by which the developer will lease or convey title to the lots to purchasers or lessees.
-(g) Plat maps, environmental studies and restrictions —
+(g) Plat maps, environmental studies and restrictions -
 (1) Plat maps.
 (i) In those jurisdictions where it is unlawful to sell lots prior to final approval and recording of the plat, and in those cases where a plat has been recorded, submit a copy of the recorded plat. This plat should be an exact copy of the recorded document. It should reflect the signatures of the approving authorities and bear a stamp or notation by the recorder of deeds, or similarly constituted officer, as to the recording data.
 (ii) If the plat has not been approved by the local authorities nor recorded, and if it is not unlawful to sell lots prior to final approval and recording, submit a map which has been prepared to scale and which shows the proposed division of the land, the lot dimensions and their relation to proposed or existing streets and roads. The map shall contain sufficient engineering data to enable a surveyor to locate the lots.
@@ -758,7 +758,7 @@ The Additional Information and Documentation portion of the Statement of Record 
 (3) Furnish a copy of any orders issued in connection with any violations listed in § 1010.116(c).
 (d) Resale or exchange program.
 (1) If it is stated in § 1010.116(d)(3) that there is an exchange program which provides sufficient lots to satisfy all requests for exchange, describe the method used to determine the number of lots required; state whether these lots have been reserved or set aside; whether additional lots will be provided if the lots available for exchange are exhausted and the source of any additional lots.
-(e) Unusual situations —
+(e) Unusual situations -
 (1) Foreign subdivisions. If the subdivision is located outside the several States, the District of Columbia, the Commonwealth of Puerto Rico or the territories or possession of the United States, the Statement of Record shall be submitted in the English language and all supporting documents, including copies of any laws which restrict the ownership of land by aliens, shall be submitted in their original language and shall be accompanied by a translation into English.
 § 1010.219 Affirmation.
 The affirmation set forth in section XXVIII of the appendix to this part: Affirmation of Senior Executive Officer shall be executed by the senior executive officer or a duly authorized agent:
@@ -834,14 +834,14 @@ The affirmation set forth in section XXVIII of the appendix to this part: Affirm
 (d) The Director may refuse to accept any particular filing under this section when it is determined that acceptance is not in the public interest.
 (e) The Director may require such changes, additional information, documents or certification as the Director determines to be reasonably necessary or appropriate in the public interest.
 § 1010.556 Previously accepted state filings-amendments and consolidations.
-(a) Amendments —
+(a) Amendments -
 (1) General requirements. State accepted materials, filed with the Director pursuant to § 1010.552, shall be amended to reflect any amendment to such materials made effective by the state or any change of a material fact regarding the subdivision. All amendments to such materials, which reflect changes in material facts regarding the subdivision, shall be submitted to the state authorities within 15 days of the date on which the developer knows, or should have known, of such change and to the Director within 15 days after it becomes effective under the applicable State laws. However, such amendment shall not be effective as a Federal registration until the Director has determined that the amendment meets all applicable requirements of these regulations.
 (2) Amendments shall include or be accompanied by:
 (i) A letter from the developer giving a narrative statement fully explaining the purpose and significance of the amendment and referring to that section and page of the Statement of Record which is being amended, and;
 (ii) All amended pages of the state accepted materials filed with the Director. These pages shall be copied together with their amendments. Each such page shall have its date of preparation in the lower right hand corner, and;
 (iii) A signed state acceptance certification, and;
 (iv) The appropriate fees as indicated in § 1010.35.
-(b) Consolidations —
+(b) Consolidations -
 (1) When consolidations allowed. If lots are to be registered pursuant to § 1010.552 which are in the same common promotional plan with other lots already registered with the Director, then new consolidated state accepted materials including such lots may be filed with the Director as a Statement of Record following the format of the previously accepted filing.
 (2) Consolidated Statements of Record shall include or be accompanied by:
 (i) State accepted consolidation materials which are also acceptable to the Director as a Statement of Record (state property report inclusive). These state accepted consolidation materials shall cover all lots previously registered in the common promotional plan except those deleted pursuant to other provisions in these regulations. These materials shall also include information and items required for state accepted materials filed as an initial registration Statement of Record, except that, supporting documentation in materials previously made effective by the Director for other lots in the subject common promotional plan may be included incorporated by reference into the new consolidation materials submitted as a Statement of Record. However, such documentation may be incorporated by reference included only if it is applicable to the new consolidated lots as well as to the previously registered lots.
@@ -865,7 +865,7 @@ The affirmation set forth in section XXVIII of the appendix to this part: Affirm
 (1) All contracts or agreements, including promissory notes used in sale of lots for filings made with the Director pursuant to § 1010.552, must contain the language set forth in section XXXI of the appendix to this part: Notice of Revocation Rights in boldface type (which must be distinguished from the type used for the rest of the contract) on the face or signature page above all signatures:
 (2) If the purchaser is entitled to a longer revocation period by operation of State law or the Act, that period becomes the Federal revocation period and the contract or agreement must reflect the longer period, rather than the seven days. The language shall be consistent with that shown on the Cover Page (see § 1010.558).
 (b) The above revocation provisions may not be limited or qualified in the contract or other document by requiring a specific type of notice or by requiring that notice be given at a specified place.
-Appendix A to Part 1010—Standard and Model Forms and Clauses
+Appendix A to Part 1010-Standard and Model Forms and Clauses
 I. Forms for Developer's Affirmation for Land Sale-§ 1010.13(a)(9)
 Developer's Name__
 Developer's Address__
