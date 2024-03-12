@@ -5,4 +5,4 @@ sed -E\
     -e 's/ / /g' `# nbsp to space` \
     -e 's/[—–]/-/g' `# em- and en-dash to hyphen` \
     -e "s/’/'/g" `# apostrophe to single quote` \
-    -e 's/[[:blank:]]-[[:blank:]]/\1/g' `# collapse whitespace around hyphen`
+    -e 's/[[:blank:]]-[[:blank:]]/-/g' `# collapse whitespace around hyphen`
