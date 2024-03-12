@@ -65,7 +65,7 @@ For any consumer lease subject to this part, the lessor shall disclose the follo
 (9) Base periodic payment. The total of the base periodic payments divided by the number of payment periods in the lease.
 (10) Itemization of other charges. An itemization of any other charges that are part of the periodic payment.
 (11) Total periodic payment. The sum of the base periodic payment and any other charges that are part of the periodic payment.
-(g) Early termination -
+(g) Early termination-
 (1) Conditions and disclosure of charges. A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the lease term; and the amount or a description of the method for determining the amount of any penalty or other charge for early termination, which must be reasonable.
 (2) Early termination notice. In a motor vehicle lease, a notice substantially similar to the following: “Early Termination. You may have to pay a substantial charge if you end this lease early. The charge may be up to several thousand dollars. The actual charge will depend on when the lease is terminated. The earlier you end the lease, the greater this charge is likely to be.”
 (h) Maintenance responsibilities. The following provisions are required:
@@ -119,8 +119,8 @@ For any consumer lease subject to this part, the lessor shall disclose the follo
 (iii) The number, amounts, and due dates or periods of scheduled payments under the lease;
 (iv) A statement of whether or not a security deposit is required; and
 (v) A statement that an extra charge may be imposed at the end of the lease term where the lessee's liability (if any) is based on the difference between the residual value of the leased property and its realized value at the end of the lease term.
-(e) Alternative disclosures - merchandise tags. A merchandise tag stating any item listed in paragraph (d)(1) of this section may comply with paragraph (d)(2) of this section by referring to a sign or display prominently posted in the lessor's place of business that contains a table or schedule of the required disclosures.
-(f) Alternative disclosures - television or radio advertisements —
+(e) Alternative disclosures-merchandise tags. A merchandise tag stating any item listed in paragraph (d)(1) of this section may comply with paragraph (d)(2) of this section by referring to a sign or display prominently posted in the lessor's place of business that contains a table or schedule of the required disclosures.
+(f) Alternative disclosures-television or radio advertisements —
 (1) Toll-free number or print advertisement. An advertisement made through television or radio stating any item listed in paragraph (d)(1) of this section complies with paragraph (d)(2) of this section if the advertisement states the items listed in paragraphs (d)(2)(i) through (iii) of this section, and:
 (i) Lists a toll-free telephone number along with a reference that such number may be used by consumers to obtain the information required by paragraph (d)(2) of this section; or
 (ii) Directs the consumer to a written advertisement in a publication of general circulation in the community served by the media station, including the name and the date of the publication, with a statement that information required by paragraph (d)(2) of this section is included in the advertisement. The written advertisement shall be published beginning at least three days before and ending at least ten days after the broadcast.
@@ -137,9 +137,9 @@ A lessor shall retain evidence of compliance with the requirements imposed by th
 (ii) There is adequate provision for state enforcement.
 (2) Enforcement and liability. After an exemption has been granted, the requirements of the applicable state law (except for additional requirements not imposed by Federal law) will constitute the requirements of the Act and this part. No exemption will extend to the civil liability provisions of sections 130, 131, and 185 of the Act.
 Appendix A to Part 1013—Model Forms
-A-1 - Model Open-End or Finance Vehicle Lease Disclosures
-A-2 - Model Closed-End or Net Vehicle Lease Disclosures
-A-3 - Model Furniture Lease Disclosures
+A-1-Model Open-End or Finance Vehicle Lease Disclosures
+A-2-Model Closed-End or Net Vehicle Lease Disclosures
+A-3-Model Furniture Lease Disclosures
 A-1—Model Open-End or Finance Vehicle Lease Disclosures
 A-2—Model Closed-End or Net Vehicle Lease Disclosures
 A-3—Model Furniture Lease Disclosures
@@ -151,9 +151,9 @@ Introduction
 2. Procedures for requesting interpretations. Under appendix C of Regulation M, anyone may request an official interpretation. Interpretations that are adopted will be incorporated in this commentary following publication in the Federal Register. No official interpretations are expected to be issued other than by means of this commentary.
 3. Comment designations. Each comment in the commentary is identified by a number and the regulatory section or paragraph that it interprets. The comments are designated with as much specificity as possible according to the particular regulatory provision addressed. For example, some of the comments to § 1013.4(f) are further divided by subparagraph, such as comment 4(f)(1)-1 and comment 4(f)(2)-1. In other cases, comments have more general application and are designated, for example, as comment 4(a)-1. This introduction may be cited as comments I-1 through I-4. An appendix may be cited as comment app. A-1.
 4. Illustrations. Lists that appear in the commentary may be exhaustive or illustrative; the appropriate construction should be clear from the context. Illustrative lists are introduced by phrases such as “including,” “such as,” “to illustrate,” and “for example.”
-Comment for 1013.1 - Authority, Scope, Purpose, and Enforcement
+Comment for 1013.1-Authority, Scope, Purpose, and Enforcement
 1. Foreign applicability. Regulation M applies to all persons (including branches of foreign banks or leasing companies located in the United States) that offer consumer leases to residents of any state (including foreign nationals) as defined in § 1013.2(p), except persons excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111-203, 124 Stat. 1376. The regulation does not apply to a foreign branch of a U.S. bank or to a leasing company leasing to a U.S. citizen residing or visiting abroad or to a foreign national abroad.
-Comment for 1013.2 - Definitions
+Comment for 1013.2-Definitions
 2(b) Advertisement
 1. Coverage. The term advertisement includes messages inviting, offering, or otherwise generally announcing to prospective customers the availability of consumer leases, whether in visual, oral, print or electronic media. Examples include:
 i. Messages in newspapers, magazines, leaflets, catalogs, and fliers.
@@ -232,7 +232,7 @@ ii. An entity that, without receiving a fee for the service, refers a customer t
 1. Disclosable interests. For purposes of disclosure, a security interest is an interest taken by the lessor to secure performance of the lessee's obligation. For example, if a bank that is not a lessor makes a loan to a leasing company and takes assignments of consumer leases generated by that company to secure the loan, the bank's security interest in the lessor's receivables is not a security interest for purposes of this part.
 2. General coverage. An interest the lessor may have in leased property must be disclosed only if it is considered a security interest under state or other applicable law. The term includes, but is not limited to, security interests under the Uniform Commercial Code; real property mortgages, deeds of trust, and other consensual or confessed liens whether or not recorded; mechanic's, materialman's, artisan's, and other similar liens; vendor's liens in both real and personal property; liens on property arising by operation of law; and any interest in a lease when used to secure payment or performance of an obligation.
 3. Insurance exception. The lessor's right to insurance proceeds or unearned insurance premiums is not a security interest for purposes of this part.
-Comment for 1013.3 - General Disclosure Requirements
+Comment for 1013.3-General Disclosure Requirements
 3(a) General Requirements
 1. Basis of disclosures. Disclosures must reflect the terms of the legal obligation between the parties. For example:
 i. In a three-year lease with no penalty for termination after a one-year minimum term, disclosures are based on the full three-year term of the lease. The one-year minimum term is only relevant to the early termination provisions of §§ 1013.4 (g)(1), (k) and (l).
@@ -274,7 +274,7 @@ iii. An increase in insurance premiums or coverage caused by a change in the law
 iv. Late delivery of an automobile caused by a strike.
 2. Redisclosure. When a disclosure becomes inaccurate because of a subsequent occurrence, the lessor need not make new disclosures unless new disclosures are required under § 1013.5.
 3. Lessee's failure to perform. The lessor does not violate the regulation if a previously given disclosure becomes inaccurate when a lessee fails to perform obligations under the contract and a lessor takes actions that are necessary and proper in such circumstances to protect its interest. For example, the addition of insurance or a security interest by the lessor because the lessee has not performed obligations contracted for in the lease is not a violation of the regulation.
-Comment for 1013.4 - Content of Disclosures
+Comment for 1013.4-Content of Disclosures
 4(a) Description of Property
 1. Placement of description. Although the description of leased property may not be included among the segregated disclosures, a lessor may choose to place the description directly above the segregated disclosures.
 4(b) Amount Due at Lease Signing or Delivery
@@ -308,7 +308,7 @@ i. The price of a mechanical breakdown protection (MBP) contract is sometimes di
 1. Agreed upon value of the vehicle. The agreed upon value of a motor vehicle includes the amount of capitalized items such as charges for vehicle accessories and options, and delivery or destination charges. The lessor may also include taxes and fees for title, licenses, and registration that are capitalized. Charges for service or maintenance contracts, insurance products, guaranteed automobile protection, or an outstanding balance on a prior lease or credit transaction are not included in the agreed upon value.
 2. Itemization of the gross capitalized cost. The lessor may choose to provide the itemization of the gross capitalized cost only on request or may provide the itemization as a matter of course. In the latter case, the lessor need not provide a statement of the lessee's option to receive an itemization. The gross capitalized cost must be itemized by type and amount. The lessor may include in the itemization an identification of the items and amounts of some or all of the items contained in the agreed upon value of the vehicle. The itemization must be provided at the same time as the other disclosures required by § 1013.4, but it may not be included among the segregated disclosures.
 4(f)(7) Total of Base Periodic Payments
-1. Accuracy of disclosure. If the periodic payment calculation under § 1013.4(f) has been calculated correctly, the amount disclosed under § 1013.4(f)(7) - the total of base periodic payments - is correct for disclosure purposes even if that amount differs from the base periodic payment disclosed under § 1013.4(f)(9) multiplied by the number of lease payments disclosed under § 1013.4(f)(8), when the difference is due to rounding.
+1. Accuracy of disclosure. If the periodic payment calculation under § 1013.4(f) has been calculated correctly, the amount disclosed under § 1013.4(f)(7)-the total of base periodic payments-is correct for disclosure purposes even if that amount differs from the base periodic payment disclosed under § 1013.4(f)(9) multiplied by the number of lease payments disclosed under § 1013.4(f)(8), when the difference is due to rounding.
 4(f)(8) Lease Payments
 1. Lease Term. The lease term may be disclosed among the segregated disclosures.
 4(g) Early Termination
@@ -372,7 +372,7 @@ iv. Taxes charged in connection with the exercise of a purchase option are discl
 1. Disclosable security interests. See § 1013.2(o) and accompanying commentary to determine what security interests must be disclosed.
 4(s) Limitations on Rate Information
 1. Segregated disclosures. A lease rate may not be included among the segregated disclosures referenced in § 1013.3(a)(2).
-Comment for 1013.5 - Renegotiations, Extensions, and Assumptions
+Comment for 1013.5-Renegotiations, Extensions, and Assumptions
 1. Coverage. Section 1013.5 applies only to existing leases that are covered by the regulation. It does not apply to the renegotiation or extension of leases with an initial term of four months or less, because such leases are not covered by the definition of consumer lease in § 1013.2(e). Whether and when a lease is satisfied and replaced by a new lease is determined by state or other applicable law.
 5(a) Renegotiation
 1. Basis of disclosures. Lessors have flexibility in making disclosures so long as they reflect the legal obligation under the renegotiated lease. For example, assume that a 24-month lease is replaced by a 36-month lease. The initial lease began on January 1, 1998, and was renegotiated and replaced on July 1, 1998, so that the new lease term ends on January 1, 2001.
@@ -383,7 +383,7 @@ ii. If the renegotiated lease covers only the remaining 30 months, from July 1, 
 2. Content of disclosures for month-to-month extensions. The disclosures for a lease extended on a month-to-month basis for more than six months should reflect the month-to-month nature of the transaction.
 3. Basis of disclosures. The disclosures should be based on the extension period, including any upfront costs paid in connection with the extension. For example, assume that initially a lease ends on March 1, 1999. In January 1999, agreement is reached to extend the lease until October 1, 1999. The disclosure would include any extension fee paid in January and the periodic payments for the seven-month extension period beginning in March.
 Comment for 1013.6 [Reserved]
-Comment for 1013.7 - Advertising
+Comment for 1013.7-Advertising
 7(a) General Rule
 1. Persons covered. All “persons” must comply with the advertising provisions in this section, not just those that meet the definition of a lessor in § 1013.2(h). Thus, automobile dealers (to the extent they are not excluded from the Bureau's rulemaking authority by section 1029 of the Dodd-Frank Act), merchants, and others who are not themselves lessors must comply with the advertising provisions of the regulation if they advertise consumer lease transactions. Pursuant to section 184(b) of the Act, however, owners and personnel of the media in which an advertisement appears or through which it is disseminated are not subject to civil liability for violations under section 185(b) of the Act.
 2. “Usually and customarily.” Section 1013.7(a) does not prohibit the advertising of a single item or the promotion of a new leasing program, but prohibits the advertising of terms that are not and will not be available. Thus, an advertisement may state terms that will be offered for only a limited period or terms that will become available at a future date.
@@ -399,7 +399,7 @@ iii. Assume that, in a single advertisement, a lessor states that certain terms 
 7(b)(2) Advertisement of a Lease Rate
 1. Location of statement. The notice required to accompany a percentage rate stated in an advertisement must be placed in close proximity to the rate without any other intervening language or symbols. For example, a lessor may not place an asterisk next to the rate and place the notice elsewhere in the advertisement. In addition, with the exception of the notice required by § 1013.4(s), the rate cannot be more prominent than any other § 1013.4 disclosure stated in the advertisement.
 7(c) Catalogs or Other Multi-Page Advertisements; Electronic Advertisements
-1. General rule. The multiple-page advertisements referred to in § 1013.7(c) are advertisements consisting of a series of numbered pages - for example, a supplement to a newspaper. A mailing comprising several separate flyers or pieces of promotional material in a single envelope is not a single multiple-page advertisement.
+1. General rule. The multiple-page advertisements referred to in § 1013.7(c) are advertisements consisting of a series of numbered pages-for example, a supplement to a newspaper. A mailing comprising several separate flyers or pieces of promotional material in a single envelope is not a single multiple-page advertisement.
 2. Cross references. A catalog or other multiple-page advertisement or an electronic advertisement (such as an advertisement appearing on an internet Web site) is a single advertisement (requiring only one set of lease disclosures) if it contains a table, chart, or schedule with the disclosures required under § 1013.7(d)(2)(i) through (v). If one of the triggering terms listed in § 1013.7(d)(1) appears in a catalog, or in a multiple-page or electronic advertisement, it must clearly direct the consumer to the page or location where the table, chart, or schedule begins. For example, in an electronic advertisement, a term triggering additional disclosures may be accompanied by a link that directly connects the consumer to the additional information.
 7(d)(1) Triggering Terms
 1. Typical example. When any triggering term appears in a lease advertisement, the additional terms enumerated in § 1013.7(d)(2)(i) through (v) must also appear. In a multi-lease advertisement, an example of one or more typical leases with a statement of all the terms applicable to each may be used. The examples must be labeled as such and must reflect representative lease terms that are made available by the lessor to consumers.
@@ -407,21 +407,21 @@ iii. Assume that, in a single advertisement, a lessor states that certain terms 
 1. Third-party fees that vary by state or locality. The disclosure of a periodic payment or total amount due at lease signing or delivery may:
 i. Exclude third-party fees, such as taxes, licenses, and registration fees and disclose that fact; or
 ii. Provide a periodic payment or total that includes third-party fees based on a particular state or locality as long as that fact and the fact that fees may vary by state or locality are disclosed.
-7(e) Alternative Disclosures - Merchandise Tags
+7(e) Alternative Disclosures-Merchandise Tags
 1. Multiple-item leases. Multiple-item leases that utilize merchandise tags requiring additional disclosures may use the alternate disclosure rule.
-7(f) Alternative Disclosures - Television or Radio Advertisements
+7(f) Alternative Disclosures-Television or Radio Advertisements
 7(f)(1) Toll-Free Number or Print Advertisement
 1. Publication in general circulation. A reference to a written advertisement appearing in a newspaper circulated nationally, for example, USA Today or the Wall Street Journal, may satisfy the general circulation requirement in § 1013.7(f)(1)(ii).
 2. Toll-free number, local or collect calls. In complying with the disclosure requirements of § 1013.7(f)(1)(i), a lessor must provide a toll-free number for nonlocal calls made from an area code other than the one used in the lessor's dialing area. Alternatively, a lessor may provide any telephone number that allows a consumer to reverse the phone charges when calling for information.
-3. Multi-purpose number. When an advertised toll-free number responds with a recording, lease disclosures must be provided early in the sequence to ensure that the consumer receives the required disclosures. For example, in providing several dialing options - such as providing directions to the lessor's place of business - the option allowing the consumer to request lease disclosures should be provided early in the telephone message to ensure that the option to request disclosures is not obscured by other information.
+3. Multi-purpose number. When an advertised toll-free number responds with a recording, lease disclosures must be provided early in the sequence to ensure that the consumer receives the required disclosures. For example, in providing several dialing options-such as providing directions to the lessor's place of business-the option allowing the consumer to request lease disclosures should be provided early in the telephone message to ensure that the option to request disclosures is not obscured by other information.
 4. Statement accompanying toll free number. Language must accompany a telephone and television number indicating that disclosures are available by calling the toll-free number, such as “call 1-(800) 000-0000 for details about costs and terms.”
-Comment for 1013.8 - Record Retention
+Comment for 1013.8-Record Retention
 1. Manner of retaining evidence. A lessor must retain evidence of having performed required actions and of having made required disclosures. Such records may be retained in paper form, on microfilm, microfiche, or computer, or by any other method designed to reproduce records accurately. The lessor need retain only enough information to reconstruct the required disclosures or other records.
-Comment for 1013.9 - Relation to State Laws
+Comment for 1013.9-Relation to State Laws
 1. Exemptions granted. The Bureau recognizes exemptions granted by the Board of Governors of the Federal Reserve System prior to July 21, 2011, until and unless the Bureau makes and publishes any contrary determination. Effective October 1, 1982, the Board of Governors of the Federal Reserve System granted the following exemptions from portions of the Consumer Leasing Act:
 i. Maine. Lease transactions subject to the Maine Consumer Credit Code and its implementing regulations are exempt from Chapters 2, 4, and 5 of the Federal act. (The exemption does not apply to transactions in which a federally chartered institution is a lessor.)
 ii. Oklahoma. Lease transactions subject to the Oklahoma Consumer Credit Code are exempt from Chapters 2 and 5 of the Federal act. (The exemption does not apply to sections 132 through 135 of the Federal act, nor does it apply to transactions in which a federally chartered institution is a lessor.)
-Comment for Appendix A - Model Forms
+Comment for Appendix A-Model Forms
 1. Permissible changes. Although use of the model forms is not required, lessors using them properly will be deemed to be in compliance with the regulation. Generally, lessors may make certain changes in the format or content of the forms and may delete any disclosures that are inapplicable to a transaction without losing the Act's protection from liability. For example, the model form based on monthly periodic payments may be modified for single-payment lease transactions or for quarterly or other regular or irregular periodic payments. The model form may also be modified to reflect that a transaction is an extension. The content, format, and headings for the segregated disclosures must be substantially similar to those contained in the model forms; therefore, any changes should be minimal. The changes to the model forms should not be so extensive as to affect the substance and the clarity of the disclosures.
 2. Examples of acceptable changes.
 i. Using the first person, instead of the second person, in referring to the lessee.
