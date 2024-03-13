@@ -398,7 +398,7 @@ For purposes of this subpart and appendix E of this part, the following definiti
 (2) Notice of determination. Upon making a determination that a dispute is frivolous or irrelevant, the furnisher must notify the consumer of the determination not later than five business days after making the determination, by mail or, if authorized by the consumer for that purpose, by any other means available to the furnisher.
 (3) Contents of notice of determination that a dispute is frivolous or irrelevant. A notice of determination that a dispute is frivolous or irrelevant must include the reasons for such determination and identify any information required to investigate the disputed information, which notice may consist of a standardized form describing the general nature of such information.
 §§ 1022.50-1022.53 [Reserved]
-§ 1022.54 Duties of users making written firm offers of credit or insurance based on information contained in consumer files
+§ 1022.54 Duties of users making written firm offers of credit or insurance based on information contained in consumer files.
 (a) Scope. This subpart applies to any person who uses a consumer report on any consumer in connection with any credit or insurance transaction that is not initiated by the consumer, and that is provided to that person under section 604(c)(1)(B) of the FCRA (15 U.S.C. 1681b(c)(1)(B)), except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) Definitions. For purposes of this section and appendix D of this part, the following definitions apply:
 (1) Simple and easy to understand means:
@@ -686,7 +686,7 @@ For purposes of this subpart, the following rules of construction apply:
 (1) Consumer file match. The identification information of the consumer including his or her full name (first, middle initial, last, suffix), any other or previously used names, current and/or recent full address (street number and name, apt. no., city, state, and zip code), full nine digits of Social Security number, and/or date of birth.
 (2) Additional proof of identity. Copies of government issued identification documents, utility bills, and/or other methods of authentication of a person's identity which may include, but would not be limited to, answering questions to which only the consumer might be expected to know the answer.
 §§ 1022.124-1022.129 [Reserved]
-§ 1022.130 Definitions
+§ 1022.130 Definitions.
 For purposes of this subpart, the following definitions apply:
 (a) Annual file disclosure means a file disclosure that is provided to a consumer, upon consumer request and without charge, once in any twelve month period, in compliance with section 612(a) of the FCRA, 15 U.S.C. 1681j(a).
 (b) Associated consumer reporting agency means a consumer reporting agency that owns or maintains consumer files housed within systems operated by one or more nationwide consumer reporting agencies.
@@ -811,7 +811,7 @@ For purposes of this subpart, the following definitions apply:
 (6) Telephone requests. When consumers call any telephone number, other than the number of the centralized source, appearing in an advertisement that represents free credit reports are available at the number, consumers must receive the following audio disclosure at the first mention of a free credit report: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the only authorized source under Federal law.”
 (7) Telemarketing solicitations. When telemarketing sales calls are made that include offers of free credit reports, the call must include at the first mention of a free credit report the following disclosure: “The following notice is required by law. You have the right to a free credit report from AnnualCreditReport.com or (877) 322-8228, the only authorized source under Federal law.”
 § 1022.139 [Reserved]
-§ 1022.140 Prohibition against circumventing or evading treatment as a consumer reporting agency
+§ 1022.140 Prohibition against circumventing or evading treatment as a consumer reporting agency.
 (a) A consumer reporting agency shall not circumvent or evade treatment as a “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis,” as defined under section 603(p) of the FCRA, 15 U.S.C. 1681a(p), by any means, including, but not limited to:
 (1) Corporate organization, reorganization, structure, or restructuring, including merger, acquisition, dissolution, divestiture, or asset sale of a consumer reporting agency; or
 (2) Maintaining or merging public record and credit account information in a manner that is substantially equivalent to that described in Paragraphs (1) and (2) of section 603(p) of the FCRA, 15 U.S.C. 1681a(p).

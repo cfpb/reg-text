@@ -989,9 +989,6 @@ Line 1603 is the total amount from line 1520.
 Line 1604 is the amount disbursed to the borrower. This is determined by adding together the amounts for lines 1600 and 1601, and then subtracting any amounts listed on lines 1602 and 1603.
 Page 2
 This section of the HUD-1A is similar to page 3 of the HUD-1. The instructions for page 3 of the HUD-1 should be followed insofar as possible. The HUD-1/1A Column should include any amounts shown on page 1 of the HUD-1A in the column as paid for by the borrower, plus any amounts that are shown as P.O.C. by the borrower. Inapplicable charges should be ignored.
-Editorial Note
-Editorial Note:
-At 78 FR 80105, Dec. 31, 2013, appendix A to part 1024 was amended; however, amendatory instructions E and F could not be incorporated due to inaccurate amendatory instructions.
 Appendix B to Part 1024-Illustrations of Requirements of RESPA
 The following illustrations provide additional guidance on the meaning and coverage of the provisions of RESPA. Other provisions of Federal or state law may also be applicable to the practices and payments discussed in the following illustrations.
 1. Facts: A, a provider of settlement services, provides settlement services at abnormally low rates or at no charge at all to B, a builder, in connection with a subdivision being developed by B. B agrees to refer purchasers of the completed homes in the subdivision to A for the purchase of settlement services in connection with the sale of individual lots by B.
