@@ -1,8 +1,8 @@
-§ 1011.1 General.
+§1011.1 General.
 The purpose of this subpart A is to elaborate on the revocation rights in 15 U.S.C. 1703, by enumerating certain conditions under which purchasers may exercise revocation rights. Generally, whenever revocation rights are available, they apply to promissory notes, as well as traditional agreements.
-§ 1011.2 Revocation regardless of registration.
-All purchasers have the option to revoke a contract or lease with regard to a lot not exempt under §§ 1010.5 through 1010.11 and 1010.14 until midnight of the seventh day after the day that the purchaser signs a contract or lease. If a purchaser is entitled to a longer revocation period under state law, that period is deemed the Federal revocation period rather than the 7 days, and all contracts and agreements (including promissory notes) shall so state.
-§ 1011.4 Contract requirements and revocation.
+§1011.2 Revocation regardless of registration.
+All purchasers have the option to revoke a contract or lease with regard to a lot not exempt under §§1010.5 through 1010.11 and 1010.14 until midnight of the seventh day after the day that the purchaser signs a contract or lease. If a purchaser is entitled to a longer revocation period under state law, that period is deemed the Federal revocation period rather than the 7 days, and all contracts and agreements (including promissory notes) shall so state.
+§1011.4 Contract requirements and revocation.
 (a) In accordance with 15 U.S.C. 1703(d)(3), the refund to the purchaser is calculated by subtracting from the amount described in 15 U.S.C. 1703(d)(3)(B), the greater of:
 (1) Fifteen percent of the purchase or lease price of the lot (excluding interest owed) at the time of the default or breach of contract or agreement; or
 (2) The amount of damages incurred by the seller or lessor due to the default or breach of contract.
@@ -10,16 +10,16 @@ All purchasers have the option to revoke a contract or lease with regard to a lo
 Damages incurred by the seller or lessor means actual damages resulting from the default or breach, as determined by the law of the jurisdiction governing the contract. However, no damages may be specified in the contract or agreement, except a liquidated damages clause not exceeding 15 percent of the purchase price of the lot, excluding any interest owed.
 Purchase price means the cash sales price of the lot shown on the contract.
 (c) The contractual requirements of 15 U.S.C. 1703(d) do not apply to the sale of a lot for which, within 180 days after the signing of the sales contract, the purchaser receives a warranty deed or, where warranty deeds are not commonly used, its equivalent under state law.
-§ 1011.5 Reimbursement.
+§1011.5 Reimbursement.
 If a purchaser exercises rights under 15 U.S.C. 1703(b), (c), or (d), but cannot reconvey the lot in substantially similar condition, the developer may subtract from the amount paid by the purchaser, and otherwise due to the purchaser under 15 U.S.C. 1703, any diminished value in the lot caused by the acts of the purchaser.
-§ 1011.10 General.
+§1011.10 General.
 Sales practices means any conduct or advertising by a developer or its agents to induce a person to buy or lease a lot. This subpart describes certain unlawful sales practices and provides standards to illustrate what other sales practices are considered misleading in light of certain circumstances in which they are made and within the context of the overall offer and sale or lease.
-§ 1011.15 Unlawful sales practices-statutory provisions.
+§1011.15 Unlawful sales practices-statutory provisions.
 The statutory prohibitions against fraudulent or misleading sales practices are set forth at 15 U.S.C. 1703(a). With respect to the prohibitions against representing that certain facilities will be provided or completed unless there is a contractual obligation to do so by the developer:
 (a) The contractual covenant to provide or complete the services or amenities may be conditioned only upon grounds that are legally sufficient to establish impossibility of performance in the jurisdiction where the services or amenities are being provided or completed;
 (b) Contingencies such as acts of God, strikes, or material shortages are recognized as permissible to defer completion of services or amenities; and
 (c) In creating these contractual obligations developers have the option of incorporating by reference the Property Report in effect at the time of the sale or lease. If a developer chooses to incorporate the Property Report by reference, the effective date of the Property Report being included by reference must be specified in the contract of sale or lease.
-§ 1011.20 Unlawful sales practices-regulatory provisions.
+§1011.20 Unlawful sales practices-regulatory provisions.
 In selling, leasing or offering to sell or lease any lot in a subdivision it is an unlawful sales practice for any developer or agent, directly or indirectly, to:
 (a) Give the Property Report to a purchaser along with other materials when done in such a manner so as to conceal the Property Report from the purchaser.
 (b) Give a contract to a purchaser or encourage him to sign anything before delivery of the Property Report.
@@ -27,7 +27,7 @@ In selling, leasing or offering to sell or lease any lot in a subdivision it is 
 (d) Use any misleading practice, device or representation which would deny a purchaser any cancellation or refund rights or privileges granted the purchaser by the terms of a contract or any other document used by the developer as a sales inducement.
 (e) Refuse to deliver a Property Report to any person who exhibits an interest in buying or leasing a lot in the subdivision and requests a copy of the Property Report.
 (f) Use a Property Report, note, contract, deed or other document prepared in a language other than that in which the sales campaign is conducted, unless an accurate translation is attached to the document.
-(g) Deliberately fail to maintain a sufficient supply of restrictive covenants and financial statements or to deliver a copy to a purchaser upon request as required by §§ 1010.109(f), 1010.112(d), 1010.209(g), and 1010.212(i).
+(g) Deliberately fail to maintain a sufficient supply of restrictive covenants and financial statements or to deliver a copy to a purchaser upon request as required by §§1010.109(f), 1010.112(d), 1010.209(g), and 1010.212(i).
 (h) Use, as a sales inducement, any representation that any lot has good investment potential or will increase in value unless it can be established, in writing, that:
 (1) Comparable lots or parcels in the subdivision have, in fact, been resold by their owners on the open market at a profit, or;
 (2) There is a factual basis for the represented future increase in value and the factual basis is certain, and;
@@ -37,7 +37,7 @@ In selling, leasing or offering to sell or lease any lot in a subdivision it is 
 (2) The lot is suitable for a septic tank operation or there is reasonable assurance that the lot can be served by a central sewage system;
 (3) The lot is legally accessible; and
 (4) The lot is free from periodic flooding.
-§ 1011.25 Misleading sales practices.
+§1011.25 Misleading sales practices.
 Generally, promotional statements or material will be judged on the basis of the affirmative representations contained therein and the reasonable inferences to be drawn therefrom, unless the contrary is affirmatively stated or appears in promotional material, or unless adequate safeguards have been provided by the seller to reasonably guarantee the occurrence of the thing inferred. For example, when a lot is represented as being sold by a warranty deed, the inference is that the seller can and will convey fee simple title free and clear of all liens, encumbrances, and defects except those which are disclosed in writing to the prospective purchaser prior to conveyance. The following advertising and promotional practices, while not all inclusive, are considered misleading, and are used to evaluate a developer's or agent's representations in determining possible violations of the Act or regulations. In this section “represent” carries its common meaning.
 (a) Proposed improvements. References to proposed improvements of any land unless it is clearly indicated that the improvements are only proposed or what the completion date is for the proposed improvement.
 (b) Off-premises representations. Representing scenes or proposed improvements other than those in the subdivision unless
@@ -62,14 +62,14 @@ Generally, promotional statements or material will be judged on the basis of the
 (p) Symbols for conditions. The use of asterisks or any other reference symbol or oral parenthetical expression as a means of contradicting or substantially changing any previously made statement or as a means of obscuring material facts.
 (q) Proposed public facilities. References to a proposed public facility unless money has been budgeted for construction of the facility and is available to the public authority having the responsibility of construction, or unless disclosure of the existing facts concerning the public facility is made.
 (r) Non-profit or institutional name use. The use of names or trade styles which imply that the developer is a nonprofit research organization, public bureau, group, etc., when such is not the case.
-§ 1011.27 Fair housing.
+§1011.27 Fair housing.
 Title VIII of the Civil Rights Act of 1968, 42 U.S.C. 3601, et seq., and its implementing regulations and guidelines apply to land sales transactions to the extent warranted by the facts of the transaction.
-§ 1011.30 Persons to whom subpart B is inapplicable.
+§1011.30 Persons to whom subpart B is inapplicable.
 Newspaper or periodical publishers, job printers, broadcasters, or telecasters, or any of the employees thereof, are not subject to this subpart unless the publishers, printers, broadcasters, or telecasters:
 (a) Have actual knowledge of the falsity of the advertisement or
 (b) Have any interest in the subdivision advertised or
 (c) Also serve directly or indirectly as the advertising agent or agency for the developer.
-§ 1011.50 Advertising disclaimers; subdivisions registered and effective with the Bureau.
+§1011.50 Advertising disclaimers; subdivisions registered and effective with the Bureau.
 (a) The following disclaimer statement shall be displayed below the text of all printed material and literature used in connection with the sale or lease of lots in a subdivision for which an effective Statement or Record is on file with the Director: “Obtain the Property Report required by Federal law and read it before signing anything. No Federal agency has judged the merits or value, if any, of this property.” If the material or literature consists of more than one page, it shall appear at the bottom of the front page. The disclaimer statement shall be set in type of at least ten point font.
 (b) If the advertising is of a classified type; is not more than five inches long and not more than one column in print wide, the disclaimer statement may be set in type of at least six point font.
 (c) This disclaimer statement need not appear on billboards, on normal size matchbook folders or business cards which are used in advertising nor in advertising of a classified type which is less than one column in print wide and is less than five inches long.
