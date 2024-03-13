@@ -5,5 +5,6 @@ sed -E\
     -e 's/ / /g' `# nbsp to space` \
     -e 's/[—–]/-/g' `# em- and en-dash to hyphen` \
     -e "s/’/'/g" `# apostrophe to single quote` \
-    -e 's/[[:blank:]]*-[[:blank:]]*/-/g' `# collapse whitespace around hyphen`
-    -e 's/§[[:blank:]]*/§/g' `# Remove space after section marker
+    -e 's/[[:blank:]]*-[[:blank:]]*/-/g' `# collapse whitespace around hyphen` \
+    -e 's/§[[:blank:]]*/§/g' `# Remove space after section marker` \
+    -e 's/⁄/\//g' `# Fraction slash to forward slash` \
