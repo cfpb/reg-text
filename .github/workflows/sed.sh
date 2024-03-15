@@ -8,3 +8,4 @@ sed -E\
     -e 's/[[:blank:]]*-[[:blank:]]*/-/g' `# collapse whitespace around hyphen` \
     -e 's/§[[:blank:]]*/§/g' `# Remove space after section marker` \
     -e 's/⁄/\//g' `# Fraction slash to forward slash` \
+    -e 's/Comment for/Section/' `# Supplement titling divergence` \
