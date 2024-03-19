@@ -3110,6 +3110,8 @@ The requirements of this section apply to open-end credit plans secured by the c
 (B) A cosigner, guarantor, or joint applicant who is at least 21 years old agrees in writing to assume liability for any debt incurred on the account, consistent with paragraph (b)(1)(ii) of this section.
 (ii) If a credit card account has been opened pursuant to paragraph (b)(1)(ii) of this section, no increase in the credit limit may be made on such account before the consumer attains the age of 21 unless the cosigner, guarantor, or joint accountholder who assumed liability at account opening agrees in writing to assume liability on the increase.
 §1026.52 Limitations on fees.
+Cross Reference
+Link to an amendment published at 89 FR 19202, Mar. 15, 2024.
 (a) Limitations during first year after account opening-
 (1) General rule. Except as provided in paragraph (a)(2) of this section, the total amount of fees a consumer is required to pay with respect to a credit card account under an open-end (not home-secured) consumer credit plan during the first year after account opening must not exceed 25 percent of the credit limit in effect when the account is opened. For purposes of this paragraph, an account is considered open no earlier than the date on which the account may first be used by the consumer to engage in transactions.
 (2) Fees not subject to limitations. Paragraph (a) of this section does not apply to:
@@ -3244,6 +3246,8 @@ The requirements of this section apply to open-end credit plans secured by the c
 (vi) The total number of credit card accounts opened pursuant to any such agreement that were open at the end of the period covered by the report.
 (3) Timing of reports. Except for the initial report described in this paragraph (d)(3), a card issuer must submit its annual report for each calendar year to the Bureau by the first business day on or after March 31 of the following calendar year.
 §1026.58 Internet posting of credit card agreements.
+Cross Reference
+Link to an amendment published at 89 FR 19202, Mar. 15, 2024.
 (a) Applicability. The requirements of this section apply to any card issuer that issues credit cards under a credit card account under an open-end (not home-secured) consumer credit plan.
 (b) Definitions-
 (1) Agreement. For purposes of this section, “agreement” or “credit card agreement” means the written document or documents evidencing the terms of the legal obligation, or the prospective legal obligation, between a card issuer and a consumer for a credit card account under an open-end (not home-secured) consumer credit plan. “Agreement” or “credit card agreement” also includes the pricing information, as defined in §1026.58(b)(7).
@@ -3597,6 +3601,8 @@ A specific transaction (check) of $100 occurs at the midpoint of the billing cyc
 6. Previous balance-none.
 A specific transaction of $100 occurs at the midpoint of the billing cycle. The average daily balance is $50. The specific transaction charge is 3% of the transaction amount or $3.00. The periodic rate is 11/2% per month applied to the average daily balance. The numerator is the amount of the finance charge, which is $3.75, including the $3.00 transaction charge and $.75 resulting from application of the periodic rate. The denominator is the full amount of the specific transaction ($100) plus the amount by which the balance subject to the periodic rate exceeds the amount of the transaction ($0). Where the specific transaction amount exceeds the balance subject to the periodic rate, the resulting number is considered to be zero rather than a negative number ($50 − $100 = −$50). The denominator, in this case, is $100. As explained in example 1, the annual percentage rate is 33/4% × 12 = 45%.
 Appendix G to Part 1026-Open-End Model Forms and Clauses
+Cross Reference
+Link to an amendment published at 89 FR 19203, Mar. 15, 2024.
 G-1 Balance Computation Methods Model Clauses (Home-equity Plans) (§§1026.6 and 1026.7)
 G-1(A) Balance Computation Methods Model Clauses (Plans other than Home-equity Plans) (§§1026.6 and 1026.7)
 G-2 Liability for Unauthorized Use Model Clause (Home-equity Plans) (§1026.12)
@@ -4761,6 +4767,8 @@ A creditor acts with reasonable diligence under §1026.35(c)(4)(vi)(A) if the cr
 10. A property abstract.
 Appendix P to Part 1026 [Reserved]
 Supplement I to Part 1026-Official Interpretations
+Cross Reference
+Link to an amendment published at 89 FR 19213, Mar. 15, 2024.
 Introduction
 1. Official status. This commentary is the vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation Z. Good faith compliance with this commentary affords protection from liability under section 130(f) of the Truth in Lending Act. Section 130(f) (15 U.S.C. 1640) protects creditors from civil liability for any act done or omitted in good faith in conformity with any interpretation issued by a duly authorized official or employee of the Bureau of Consumer Financial Protection.
 2. Procedure for requesting interpretations. Under appendix C of the regulation, anyone may request an official interpretation. Interpretations that are adopted will be incorporated in this commentary following publication in the Federal Register. No official interpretations are expected to be issued other than by means of this commentary.
