@@ -9,3 +9,4 @@ sed -E\
     -e 's/§[[:blank:]]*/§/g' `# Remove space after section marker` \
     -e 's/⁄/\//g' `# Fraction slash to forward slash` \
     -e 's/Comment for/Section/' `# Supplement titling divergence` \
+    -e 's/_+/_/g' `# Collapse underscores` \
