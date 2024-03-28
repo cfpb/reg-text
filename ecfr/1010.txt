@@ -455,7 +455,7 @@ Insert and complete the format set forth in section XIII of the appendix to this
 (ii) The sales contract provides for delivery of a deed within 180 days of the signing of the contract which conveys title free of any mortgage or lien, or the developer has filed an assurance of title agreement with ILSRP as outlined in §1010.212(e); and
 (iii) Any down payments or deposits are held in an escrow or trust account.
 (c) If the developer's financial statements have been audited, did the accountant qualify the opinion or decline to give an opinion? If so, why was the opinion qualified or declined?
-(d) The following statement shall appear: “A copy of our financial statements for the period ending __________________ is available from us upon request.”
+(d) The following statement shall appear: “A copy of our financial statements for the period ending _ is available from us upon request.”
 (e) The information furnished in §1010.212(b) may necessitate a warning as to costs and/or feasibility of the completion of the subdivision.
 §1010.113 Local services.
 (a) Fire protection. Describe the availability of fire protection and indicate whether it is available year round.
@@ -1126,7 +1126,7 @@ XII. Required Language for Risks of Buying Land-§1010.107(a)
 (4) Any subdivision will have an impact on the surrounding environment. Whether or not the impact is adverse and the degree of impact, will depend on the location, size, planning and extent of development. Subdivisions which adversely affect the environment may cause governmental agencies to impose restrictions on the use of the land. Changes in plant and animal life, air and water quality and noise levels may affect your use and enjoyment of your lot and your ability to sell it.
 (5) In the purchase of real estate, many technical requirements must be met to assure that you receive proper title. Since this purchase involves a major expenditure of money, it is recommended that you seek professional advice before you obligate yourself.
 XIII. Format for General Information-§1010.108
-“This Report covers ____ lots located in ____________ County, (State ). See Page ____ for a listing of these lots. It is estimated that this subdivision will eventually contain ____ lots.”
+“This Report covers _ lots located in _ County, (State ). See Page _ for a listing of these lots. It is estimated that this subdivision will eventually contain _ lots.”
 “The developer of this subdivision is:
 (Developer's Name)
 (Developer's Address)
@@ -1274,7 +1274,7 @@ That the fees accompanying this submission are in the amount required by the rul
 (Title)
 WARNING: 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”
 XXIX. Form for Certification for Disclosure Documents-§1010.504(a)(2)
-The (indicate the State Department of Real Estate or other appropriate entity) has reviewed the attached materials and finds they are true copies of (1) the (indicate Property Report or other similar state accepted document or amendment to such document) for (indicate the name of the subdivision), made effective by the state of ____________ on ____________ (give date) and still in effect; and (2) the supporting documentation upon which such (indicate the document or amendment) is based.
+The (indicate the State Department of Real Estate or other appropriate entity) has reviewed the attached materials and finds they are true copies of (1) the (indicate Property Report or other similar state accepted document or amendment to such document) for (indicate the name of the subdivision), made effective by the state of _ on _ (give date) and still in effect; and (2) the supporting documentation upon which such (indicate the document or amendment) is based.
 Signature
 XXX. Language to be Included on Property Report Cover Page-§1010.558(a)(1)
 “If you received this Report prior to signing a contract or agreement, you may cancel your contract or agreement by giving notice to the seller anytime before midnight of the seventh day following the signing of the contract or agreement.

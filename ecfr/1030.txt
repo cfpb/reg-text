@@ -316,44 +316,44 @@ B-10-Sample Form (Aggregate Overdraft and Returned Item Fees)
 B-1-Model Clauses for Account Disclosures
 (a) Rate Information
 (i) Fixed-Rate Accounts
-The interest rate on your account is ____% with an annual percentage yield of ____%. You will be paid this rate [for (time period)/until (date)/for at least 30 calendar days].
+The interest rate on your account is _% with an annual percentage yield of _%. You will be paid this rate [for (time period)/until (date)/for at least 30 calendar days].
 (ii) Variable-Rate Accounts
-The interest rate on your account is ____% with an annual percentage yield of ____%.
+The interest rate on your account is _% with an annual percentage yield of _%.
 Your interest rate and annual percentage yield may change.
 Determination of Rate
-The interest rate on your account is based on (name of index) [plus/minus a margin of ____]; or
+The interest rate on your account is based on (name of index) [plus/minus a margin of _]; or
 At our discretion, we may change the interest rate on your account.
 Frequency of Rate Changes
 We may change the interest rate on your account [every (time period)/at any time].
 Limitations on Rate Changes
-The interest rate for your account will never change by more than ____% each (time period).
-The interest rate will never be [less/more] than ____%; or
-The interest rate will never [exceed____% above/drop more than ____% below] the interest rate initially disclosed to you.
+The interest rate for your account will never change by more than _% each (time period).
+The interest rate will never be [less/more] than _%; or
+The interest rate will never [exceed_% above/drop more than _% below] the interest rate initially disclosed to you.
 (iii) Stepped-Rate Accounts
-The initial interest rate for your account is ____%. You will be paid this rate [for (time period)/until (date)]. After that time, the interest rate for your account will be ____%, and you will be paid this rate [for (time period)/until (date)]. The annual percentage yield for your account is ____%.
+The initial interest rate for your account is _%. You will be paid this rate [for (time period)/until (date)]. After that time, the interest rate for your account will be _%, and you will be paid this rate [for (time period)/until (date)]. The annual percentage yield for your account is _%.
 (iv) Tiered-Rate Accounts
 Tiering Method A
-• If your [daily balance/average daily balance] is $____ or more, the interest rate paid on the entire balance in your account will be ____% with an annual percentage yield of __%.
-• If your [daily balance/average daily balance] is more than $____, but less than $____, the interest rate paid on the entire balance in your account will be ____% with an annual percentage yield of ____%.
-• If your [daily balance/average daily balance] is $____ or less, the interest rate paid on the entire balance will be ____% with an annual percentage yield of ____%.
+• If your [daily balance/average daily balance] is $_ or more, the interest rate paid on the entire balance in your account will be _% with an annual percentage yield of _%.
+• If your [daily balance/average daily balance] is more than $_, but less than $_, the interest rate paid on the entire balance in your account will be _% with an annual percentage yield of _%.
+• If your [daily balance/average daily balance] is $_ or less, the interest rate paid on the entire balance will be _% with an annual percentage yield of _%.
 Tiering Method B
-• An interest rate of ____% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $____. The annual percentage yield for this tier will range from ____% to ____%, depending on the balance in the account.
-• An interest rate of ____% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $____. The annual percentage yield for this tier will range from ____% to ____%, depending on the balance in the account.
-• If your [daily balance/average daily balance] is $____ or less, the interest rate paid on the entire balance will be ____% with an annual percentage yield of ____%.
+• An interest rate of _% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $_. The annual percentage yield for this tier will range from _% to _%, depending on the balance in the account.
+• An interest rate of _% will be paid only for that portion of your [daily balance/average daily balance] that is greater than $_. The annual percentage yield for this tier will range from _% to _%, depending on the balance in the account.
+• If your [daily balance/average daily balance] is $_ or less, the interest rate paid on the entire balance will be _% with an annual percentage yield of _%.
 (b) Compounding and Crediting
 (i) Frequency
-Interest will be compounded [on a ____ basis/every (time period)]. Interest will be credited to your account [on a ____ basis/every (time period)].
+Interest will be compounded [on a _ basis/every (time period)]. Interest will be credited to your account [on a _ basis/every (time period)].
 (ii) Effect of Closing an Account
 If you close your account before interest is credited, you will not receive the accrued interest.
 (c) Minimum Balance Requirements
 (i) To Open the Account
-You must deposit $____ to open this account.
+You must deposit $_ to open this account.
 (ii) To Avoid Imposition of Fees
-A minimum balance fee of $____ will be imposed every (time period) if the balance in the account falls below $____ any day of the (time period).
-A minimum balance fee of $____ will be imposed every (time period) if the average daily balance for the (time period) falls below $____. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period.
+A minimum balance fee of $_ will be imposed every (time period) if the balance in the account falls below $_ any day of the (time period).
+A minimum balance fee of $_ will be imposed every (time period) if the average daily balance for the (time period) falls below $_. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period.
 (iii) To Obtain the Annual Percentage Yield Disclosed
-You must maintain a minimum balance of $____ in the account each day to obtain the disclosed annual percentage yield.
-You must maintain a minimum average daily balance of $____ to obtain the disclosed annual percentage yield. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period.
+You must maintain a minimum balance of $_ in the account each day to obtain the disclosed annual percentage yield.
+You must maintain a minimum average daily balance of $_ to obtain the disclosed annual percentage yield. The average daily balance is calculated by adding the principal in the account for each day of the period and dividing that figure by the number of days in the period.
 (d) Balance Computation Method
 (i) Daily Balance Method
 We use the daily balance method to calculate the interest on your account. This method applies a daily periodic rate to the principal in the account each day.
@@ -364,47 +364,47 @@ Interest begins to accrue no later than the business day we receive credit for t
 Interest begins to accrue on the business day you deposit noncash items (for example, checks).
 (f) Fees
 The following fees may be assessed against your account:
-____$____
-____$____
-____$____
-____(conditions for imposing fee) $____
-____% of ____.
+_$_
+_$_
+_$_
+_(conditions for imposing fee) $_
+_% of _.
 (g) Transaction Limitations
-The minimum amount you may [withdraw/write a check for] is $____.
-You may make ____ [deposits into/withdrawals from] your account each (time period).
+The minimum amount you may [withdraw/write a check for] is $_.
+You may make _ [deposits into/withdrawals from] your account each (time period).
 You may not make [deposits into/withdrawals from] your account until the maturity date.
 (h) Disclosures Relating to Time Accounts
 (i) Time Requirements
 Your account will mature on (date).
 Your account will mature in (time period).
 (ii) Early Withdrawal Penalties
-We [will/may] impose a penalty if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. The fee imposed will equal ____ days/week[s]/month[s] of interest; or
-We [will/may] impose a penalty of $____ if you withdraw [any/all] of the [deposited funds/principal] before the maturity date.
-If you withdraw some of your funds before maturity, the interest rate for the remaining funds in your account will be ____% with an annual percentage yield of ____%.
+We [will/may] impose a penalty if you withdraw [any/all] of the [deposited funds/principal] before the maturity date. The fee imposed will equal _ days/week[s]/month[s] of interest; or
+We [will/may] impose a penalty of $_ if you withdraw [any/all] of the [deposited funds/principal] before the maturity date.
+If you withdraw some of your funds before maturity, the interest rate for the remaining funds in your account will be _% with an annual percentage yield of _%.
 (iii) Withdrawal of Interest Prior to Maturity
 The annual percentage yield assumes interest will remain on deposit until maturity. A withdrawal will reduce earnings.
 (iv) Renewal Policies
 (1) Automatically Renewable Time Accounts
 This account will automatically renew at maturity.
-You will have [____ calendar/business] days after the maturity date to withdraw funds without penalty; or
+You will have [_ calendar/business] days after the maturity date to withdraw funds without penalty; or
 There is no grace period following the maturity of this account to withdraw funds without penalty.
 (2) Non-Automatically Renewable Time Accounts
 This account will not renew automatically at maturity. If you do not renew the account, your deposit will be placed in [an interest-bearing/a noninterest-bearing] account.
 (v) Required Interest Distribution
 This account requires the distribution of interest and does not allow interest to remain in the account.
 (i) Bonuses
-You will [be paid/receive] [$____/(description of item)] as a bonus [when you open the account/on (date) ____].
-You must maintain a minimum [daily balance/average daily balance] of $____ to obtain the bonus.
-To earn the bonus, [$____/your entire principal] must remain on deposit [for (time period)/until (date)____].
+You will [be paid/receive] [$_/(description of item)] as a bonus [when you open the account/on (date) _].
+You must maintain a minimum [daily balance/average daily balance] of $_ to obtain the bonus.
+To earn the bonus, [$_/your entire principal] must remain on deposit [for (time period)/until (date)_].
 B-2-Model Clauses for Change in Terms
-On (date), the cost of (type of fee) will increase to $____.
-On (date), the interest rate on your account will decrease to ____% with an annual percentage yield of ____%.
-On (date), the minimum [daily balance/average daily balance] required to avoid imposition of a fee will increase to $____.
+On (date), the cost of (type of fee) will increase to $_.
+On (date), the interest rate on your account will decrease to _% with an annual percentage yield of _%.
+On (date), the minimum [daily balance/average daily balance] required to avoid imposition of a fee will increase to $_.
 B-3-Model Clauses for Pre-Maturity Notices for Time Accounts
 (a) Automatically Renewable Time Accounts With Maturities of One Year or Less But Longer Than One Month
 Your account will mature on (date).
 If the account renews, the new maturity date will be (date).
-The interest rate for the renewed account will be ____% with an annual percentage yield of ____%; or
+The interest rate for the renewed account will be _% with an annual percentage yield of _%; or
 The interest rate and annual percentage yield have not yet been determined. They will be available on (date). Please call (phone number) to learn the interest rate and annual percentage yield for your new account.
 (b) Non-Automatically Renewable Time Accounts With Maturities Longer Than One Year
 Your account will mature on (date).
