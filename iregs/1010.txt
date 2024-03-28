@@ -455,7 +455,7 @@ Insert and complete the format set forth in section XIII of the appendix to this
 (ii) The sales contract provides for delivery of a deed within 180 days of the signing of the contract which conveys title free of any mortgage or lien, or the developer has filed an assurance of title agreement with ILSRP as outlined in §1010.212(e); and
 (iii) Any down payments or deposits are held in an escrow or trust account.
 (c) If the developer's financial statements have been audited, did the accountant qualify the opinion or decline to give an opinion? If so, why was the opinion qualified or declined?
-(d) The following statement shall appear: “A copy of our financial statements for the period ending _ is available from us upon request.”
+(d) The following statement shall appear: “A copy of our financial statements for the period ending is available from us upon request.”
 (e) The information furnished in §1010.212(b) may necessitate a warning as to costs and/or feasibility of the completion of the subdivision.
 §1010.113 Local services.
 (a) Fire protection. Describe the availability of fire protection and indicate whether it is available year round.
@@ -867,17 +867,17 @@ The affirmation set forth in section XXVIII of the appendix to this part: Affirm
 (b) The above revocation provisions may not be limited or qualified in the contract or other document by requiring a specific type of notice or by requiring that notice be given at a specified place.
 Appendix A to Part 1010-Standard and Model Forms and Clauses
 I. Forms for Developer's Affirmation for Land Sale-§1010.13(a)(9)
-Developer's Name_
-Developer's Address_
-Purchaser's Name(s)_
-Purchaser's Address(es) (including county)_
-Name of Subdivision_
-Legal Description of Lot(s) Purchased_
+Developer's Name
+Developer's Address
+Purchaser's Name(s)
+Purchaser's Address(es) (including county)
+Name of Subdivision
+Legal Description of Lot(s) Purchased
 I hereby affirm that all of the requirements of the MSA exemption as set forth in 15 U.S.C. 1702(b)(8) and 12 CFR 1010.13 have been met in the sale or lease of the lot(s) described above.
 I also affirm that I submit to the jurisdiction of the Interstate Land Sales Full Disclosure Act with regard to the sale or lease cited above.
-(Date)_
-(Signature of Developer or Authorized Agent)_
-(Title)_
+(Date)
+(Signature of Developer or Authorized Agent)
+(Title)
 II. Language Notifying Buyer of Option to Cancel Contract-§1010.15(b)(5)(i)
 You have the option to cancel your contract or agreement of sale by notice to the seller until midnight of the seventh day following the date of signing of the contract or agreement.
 If you did not receive a Lot Information Statement prepared pursuant to the rules and regulations of the Bureau of Consumer Financial Protection in advance of your signing the contract or agreement, the contract or agreement of sale may be cancelled at your option for two years from the date of signing.
@@ -900,12 +900,12 @@ If adequate provisions have not been made for maintenance of the roads or if the
 If the land is not served by a central sewage system and/or water system, you should contact the local authorities to determine whether a permit will be given for an on-site sewage disposal system and/or well and whether there is an adequate supply of water. You should also become familiar with the requirements for, and the cost of, obtaining electrical service to the lot.
 Developer Information
 (Under this heading the developer is to list the following information:)
-Developer's Name:_
-Address:_
-Telephone Number:_
+Developer's Name:
+Address:
+Telephone Number:
 Lot Information
 (Under this heading the developer is to list the following information:)
-Lot Location:_
+Lot Location:
 (Enter a statement disclosing all liens, reservations, taxes, assessments, easements and restrictions applicable to the lot. A copy of the restrictions may be attached in lieu of recitation.)
 Suppliers of Utilities and Issuers of Permits
 (Under this heading the developer is to list the name, address and phone number of the appropriate governmental agency or agencies, if any, that will provide information on permits or other requirements for water, sewer and electrical installations. The information will also contain the name, address and telephone number of the suppliers of such utilities which can provide information to the purchaser on costs and availability of such services. A chart similar to the one below may be used to supply this information).
@@ -918,69 +918,69 @@ Electricity
 If misrepresentations are made in the sale of this lot to you, you may have rights under the Interstate Land Sales Full Disclosure Act. If you have evidence of any scheme, artifice or device used to defraud you, you may wish to contact: Consumer Financial Protection Bureau, Interstate Land Sales Registration Program, 1700 G Street NW., Washington DC 20552.
 (The Receipt is to be in the following form:)
 Sample Receipt for Lot Information Statement
-Purchaser (print or type):_
-Date:_
-Signature of purchaser:_
-_
-Street Address:_
-City:_
-State:_
-Zip:_
-Name of salesperson (print or type):_
-Signature of salesperson:_
+Purchaser (print or type):
+Date:
+Signature of purchaser:
+
+Street Address:
+City:
+State:
+Zip:
+Name of salesperson (print or type):
+Signature of salesperson:
 IV. Request for Multiple Site Subdivision Exemption-§1010.15(c)(1)
 Request for Multiple Site Subdivision Exemption
 Developer:
-Name:_
-Address:_
-Telephone No.:_
+Name:
+Address:
+Telephone No.:
 Agent:
-Name:_
-Address:_
-Telephone No.:_
+Name:
+Address:
+Telephone No.:
 (Insert a general description of the developer's method of operation.)
 I affirm that I am, or will be, the developer of the property and/or method of operation described above.
 I affirm that the lots in said property will be sold in compliance with all of the requirements of 12 CFR 1010.15.
 I further affirm that the statements contained in all documents submitted with this request for an Exemption Order are true and complete.
-Date:_
-Signature:_
-Title:_
+Date:
+Signature:
+Title:
 WARNING: 18 U.S.C. 1001 provides, among other things, that whoever knowingly and willingly makes or uses a document or writing containing any false, fictitious, or fraudulent statement or entry, in any matter within the jurisdiction of any department or agency of the United States, shall be fined not more than $10,000 or imprisoned for not more than 5 years or both.
 V. Request for Regulatory Exemption Order-§1010.16(c)
 REQUEST FOR EXEMPTION ORDER
-Subdivision_
-Location (including county)_
-Developer_
-Address_
-Authorized Agent or President of Developer_
-_
-Address_
-Number of Lots Subject to Exemption Request_
-Description of Lots (list lot and block number or other identifying designation)_
-_
+Subdivision
+Location (including county)
+Developer
+Address
+Authorized Agent or President of Developer
+
+Address
+Number of Lots Subject to Exemption Request
+Description of Lots (list lot and block number or other identifying designation)
+
 I affirm that I am the developer or owner of the property described above or will be the developer or owner at the time the lots are offered for sale to the public, or that I am the agent authorized by the developer or owner to complete this statement. I further affirm that the statements contained in all documents submitted with the request for an exemption order are true and complete.
-_
-(Date)_
+
+(Date)
 (Signature of Developer, Owner or Authorized Agent)
-_
+
 (Title)
 WARNING: Section 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”
 VI. Developer's Affirmation for Advisory Opinion-§1010.17(b)(3)
 Developer's Affirmation
-Name of Subdivision_
-Location (Including County and State)_
-Name of Developer_
-Address of Developer_
-Name of Agent_
-Address of Agent_
-Number of Lots in Subdivision_
-Number of Acres in Subdivision_
+Name of Subdivision
+Location (Including County and State)
+Name of Developer
+Address of Developer
+Name of Agent
+Address of Agent
+Number of Lots in Subdivision
+Number of Acres in Subdivision
 I affirm that I am the developer or owner of the property described above or will be the developer or owner at the time the lots are offered for sale to the public, or that I am the agent authorized by the developer or owner to complete this statement.I further affirm that the statements contained in all documents submitted with the request for an Advisory Opinion are true and complete.
-_
+
 (Date)
-_
+
 (Signature)
-_
+
 (Title);
 WARNING: 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”
 VII. Initial and Consolidated Registration Fee Schedule-§1010.35(b)
@@ -1068,9 +1068,9 @@ This Report is prepared and issued by the developer of this subdivision. It is n
 Federal law requires that you receive this Report prior to your signing a contract or agreement to buy or lease a lot in this subdivision. However, NO FEDERAL AGENCY HAS JUDGED THE MERITS OR VALUE, IF ANY, OF THIS PROPERTY.
 If you received this Report prior to signing a contract or agreement, you may cancel your contract or agreement by giving notice to the seller any time before midnight of the seventh day following the signing of the contract or agreement.
 If you did not receive this Report before you signed a contract or agreement, you may cancel the contract or agreement any time within two years from the date of signing.
-Name of Subdivision_
-Name of Developer_
-Date of This Report_
+Name of Subdivision
+Name of Developer
+Date of This Report
 XI. Sample Entry in Table of Contents for Statement of Record-§1010.106(a)
 Title and Land Use # Page #
 Method of Sale
@@ -1086,13 +1086,13 @@ XII. Required Language for Risks of Buying Land-§1010.107(a)
 (4) Any subdivision will have an impact on the surrounding environment. Whether or not the impact is adverse and the degree of impact, will depend on the location, size, planning and extent of development. Subdivisions which adversely affect the environment may cause governmental agencies to impose restrictions on the use of the land. Changes in plant and animal life, air and water quality and noise levels may affect your use and enjoyment of your lot and your ability to sell it.
 (5) In the purchase of real estate, many technical requirements must be met to assure that you receive proper title. Since this purchase involves a major expenditure of money, it is recommended that you seek professional advice before you obligate yourself.
 XIII. Format for General Information-§1010.108
-“This Report covers _ lots located in _ County, (State). See Page _ for a listing of these lots. It is estimated that this subdivision will eventually contain _ lots.”
+“This Report covers lots located in County, (State). See Page for a listing of these lots. It is estimated that this subdivision will eventually contain lots.”
 “The developer of this subdivision is:
-_
+
 (Developer's Name)
-_
+
 (Developer's Address)
-_
+
 (Developer's telephone number)
 “Answers to questions and information about this subdivision may be obtained by telephoning the developer at the number listed above.”
 XIV. Paragraphs to be included in the General Report-Title to the Property and Land Use-§1010.109(a)(1)
@@ -1119,15 +1119,15 @@ Water
 UUnit Estimated starting date (month and year) Percentage of construction now complete Estimated service availability date (month and year)
 XXII. Comfort Station Chart-§1010.111(b)(1)(ii)
 Comfort Stations
-Unit_
-Estimated Starting Date (month-year)_
-Percentage of Construction now complete_
-Estimated Service Availability Date (month and year)_
+Unit
+Estimated Starting Date (month-year)
+Percentage of Construction now complete
+Estimated Service Availability Date (month and year)
 XXIII. Sewer Chart-§1010.111(b)(1)(iii)(B)
 Sewer
-Unit Estimated Starting Date (month/year)_
-Percentage of Construction now complete_
-Estimated Service Availability Date (month/year)_
+Unit Estimated Starting Date (month/year)
+Percentage of Construction now complete
+Estimated Service Availability Date (month/year)
 XXIV. Electric Service Chart-§1010.111(c)(2)
 Electric Service
 UUnit Estimated starting date (month and year) Percentage of construction complete Estimated service availability date (month and year)
@@ -1153,56 +1153,56 @@ Estimated monthly/annual charges, exclusive of utility use fees
 1. Taxes-Average unimproved lot after sale to purchaser $
 2. Dues and assessments $
 The information contained in this Property Report is an accurate description of our subdivision and development plans.
-_
+
 Signature of Senior Executive Officer
 XXVII. Sample Receipt, Agent Certification and Cancellation Page-§1010.118(a)
 Receipt, Agent Certification and Cancellation Page purchaser receipt Important: Read Carefully
-Name of subdivision_
-ILSRP number_
-Date of report_
+Name of subdivision
+ILSRP number
+Date of report
 We must give you a copy of this Property Report and give you an opportunity to read it before you sign any contract or agreement. By signing this receipt, you acknowledge that you have received a copy of our Property Report.
-Received by_
-Date_
-Street address_
-City_
-State_
-Zip_
+Received by
+Date
+Street address
+City
+State
+Zip
 If any representations are made to you which are contrary to those in this Report, please notify the:
 Bureau of Consumer Financial Protection
 1700 G Street NW
 Washington, DC 20552
 Agent Certification
 I certify that I have made no representations to the person(s) receiving this Property Report which are contrary to the information contained in this Property Report.
-Lot_
-Block_
-Section_
-Name of salesperson_
-Signature_
-Date_
+Lot
+Block
+Section
+Name of salesperson
+Signature
+Date
 Purchase Cancellation
 If you are entitled to cancel your purchase contract, and wish to do so, you may cancel by personal notice, or in writing. If you cancel in person or by telephone, it is recommended that you immediately confirm the cancellation by certified mail. You may use the form below.
-Name of subdivision_
-Date of contract_
+Name of subdivision
+Date of contract
 This will confirm that I/we wish to cancel our purchase contract.
-Purchaser(s) signature_
-Date_
+Purchaser(s) signature
+Date
 XXVIII. Affirmation of Senior Executive Officer-§1010.219
 I hereby affirm that I am the Senior Executive Officer of the developer of the lots herein described or will be the Senior Executive Officer of the developer at the time lots are offered for sale or lease to the public, or that I am the agent authorized by the Senior Executive Officer of such developer to complete this statement (if agent, submit written authorization to act as agent); and,
 That the statements contained in this Statement of Record and any supplement hereto, together with any documents submitted herein, are full, true, complete, and correct; and,
 That the developer is bound to carry out the promises and obligations set forth in this Statement of Record and Property Report or I have clearly stated who is or will be responsible; and
 That the fees accompanying this submission are in the amount required by the rules and regulations of the Bureau of Consumer Financial Protection.
-_
+
 (Date)
-_
+
 (Signature)
-_
+
 (Corporate seal if applicable)
-_
+
 (Title)
 WARNING: 15 U.S.C. 1717 provides: “Any person who willfully violates any of the provisions of this title or of the rules and regulations or any person who willfully, in a Statement of Record filed under, or in a Property Report issued pursuant to this title, makes any untrue statement of a material fact shall upon conviction be fined not more than $10,000.00 or imprisoned not more than 5 years, or both.”
 XXIX. Form for Certification for Disclosure Documents-§1010.504(a)(2)
-The (indicate the State Department of Real Estate or other appropriate entity) has reviewed the attached materials and finds they are true copies of (1) the (indicate Property Report or other similar state accepted document or amendment to such document) for (indicate the name of the subdivision), made effective by the state of _ on _ (give date) and still in effect; and (2) the supporting documentation upon which such (indicate the document or amendment) is based.
-_
+The (indicate the State Department of Real Estate or other appropriate entity) has reviewed the attached materials and finds they are true copies of (1) the (indicate Property Report or other similar state accepted document or amendment to such document) for (indicate the name of the subdivision), made effective by the state of on (give date) and still in effect; and (2) the supporting documentation upon which such (indicate the document or amendment) is based.
+
 Signature
 XXX. Language to be Included on Property Report Cover Page-§1010.558(a)(1)
 “If you received this Report prior to signing a contract or agreement, you may cancel your contract or agreement by giving notice to the seller anytime before midnight of the seventh day following the signing of the contract or agreement.

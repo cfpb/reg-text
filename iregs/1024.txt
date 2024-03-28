@@ -1075,29 +1075,29 @@ Page 3
 “Using the shopping chart.”-This chart is a shopping tool to be provided by the loan originator for the borrower to complete, in order to compare GFEs.
 “If your loan is sold in the future.”-This section requires no loan originator action.
 Appendix D to Part 1024-Affiliated Business Arrangement Disclosure Statement Format Notice
-To:_
-From:_
+To:
+From:
 (Entity Making Statement)
-Property:_
-Date:_
+Property:
+Date:
 This is to give you notice that [referring party] has a business relationship with [settlement services provider(s)]. [Describe the nature of the relationship between the referring party and the provider(s), including percentage of ownership interest, if applicable.] Because of this relationship, this referral may provide [referring party] a financial or other benefit.
 [A.] Set forth below is the estimated charge or range of charges for the settlement services listed. You are NOT required to use the listed provider(s) as a condition for [settlement of your loan on] [or] [purchase, sale, or refinance of] the subject property. THERE ARE FREQUENTLY OTHER SETTLEMENT SERVICE PROVIDERS AVAILABLE WITH SIMILAR SERVICES. YOU ARE FREE TO SHOP AROUND TO DETERMINE THAT YOU ARE RECEIVING THE BEST SERVICES AND THE BEST RATE FOR THESE SERVICES.
-[provider and settlement service]_
-_
-_
-[charge or range of charges]_
-_
-_
+[provider and settlement service]
+
+
+[charge or range of charges]
+
+
 [B.] Set forth below is the estimated charge or range of charges for the settlement services of an attorney, credit reporting agency, or real estate appraiser that we, as your lender, will require you to use, as a condition of your loan on this property, to represent our interests in the transaction.
-[provider and settlement service]_
-_
-_
-[charge or range of charges]_
-_
-_
+[provider and settlement service]
+
+
+[charge or range of charges]
+
+
 ACKNOWLEDGMENT
 I/we have read this disclosure form, and understand that referring party is referring me/us to purchase the above-described settlement service(s) and may receive a financial or other benefit as the result of this referral.
-_
+
 Signature
 [INSTRUCTIONS TO PREPARER:] [Use paragraph A for referrals other than those by a lender to an attorney, a credit reporting agency, or a real estate appraiser that a lender is requiring a borrower to use to represent the lender's interests in the transaction. Use paragraph B for those referrals to an attorney, credit reporting agency, or real estate appraiser that a lender is requiring a borrower to use to represent the lender's interests in the transaction. When applicable, use both paragraphs. Specific timing rules for delivery of the affiliated business disclosure statement are set forth in 12 CFR 1024.15(b)(1) of Regulation X). These INSTRUCTIONS TO PREPARER should not appear on the statement.]
 Appendix E to Part 1024-Arithmetic Steps
@@ -1248,18 +1248,18 @@ Current Servicer: New Servicer:
 [Telephone Number] [Telephone Number]
 [Address] [Address]
 [Use this paragraph if appropriate; otherwise omit.] Important note about insurance: If you have mortgage life or disability insurance or any other type of optional insurance, the transfer of servicing rights may affect your insurance in the following way:
-_
+
 You should do the following to maintain coverage:
-_
+
 Under Federal law, during the 60-day period following the effective date of the transfer of the loan servicing, a loan payment received by your old servicer on or before its due date may not be treated by the new servicer as late, and a late fee may not be imposed on you.
-_
+
 [NAME OF PRESENT SERVICER]
-_
+
 Date
 [and] [or]
-_
+
 [NAME OF NEW SERVICER]
-_
+
 Date
 Appendix MS-3 to Part 1024
 Model Force-Placed Insurance Notice Forms
