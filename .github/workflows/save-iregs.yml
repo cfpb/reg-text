@@ -28,15 +28,14 @@ jobs:
         run: |
           IFS="," read -a BASH_PARTS <<< "$PARTS"
           for PART in "${BASH_PARTS[@]}"; do
-            echo "Chunking part $PART"
             CHUNKS=($(curl -sSL "https://www.consumerfinance.gov/rules-policy/regulations/${PART}/" |
-              htmlq -t '.o-secondary-nav_link' -a href -b 'https://www.consumerfinance.gov'
+              htmlq -t '.o-secondary-nav__link' -a href -b 'https://www.consumerfinance.gov'
             ))
             SUBPARTS=($(for chunk in "${CHUNKS[@]}"; do echo "$chunk" | awk -F '/' '{print $(NF-1)}'; done))
             echo "${SUBPARTS[@]} found for part $PART at $(date '+%X')"
             curl -sSL "${CHUNKS[@]}" |
-              htmlq -r '.regulation-meta, .inline-interpretation, .block__sub, .o-regulations-wayfinder' |
-              htmlq -t '.u-layout-grid_main' |
+              htmlq -r '.regulation-meta, .inline-interpretation, .block--sub, .o-regulations-wayfinder' |
+              htmlq -t '.u-layout-grid__main' |
               ./.github/workflows/sed.sh |
               awk '{$1=$1};1' > "./iregs/${PART}.txt"
               sleep 1
