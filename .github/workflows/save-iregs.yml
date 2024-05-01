@@ -28,6 +28,7 @@ jobs:
         run: |
           IFS="," read -a BASH_PARTS <<< "$PARTS"
           for PART in "${BASH_PARTS[@]}"; do
+            echo "Chunking part $PART"
             CHUNKS=($(curl -sSL "https://www.consumerfinance.gov/rules-policy/regulations/${PART}/" |
               htmlq -t '.o-secondary-nav_link' -a href -b 'https://www.consumerfinance.gov'
             ))
