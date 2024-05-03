@@ -707,13 +707,9 @@ Appendix F to Part 1002-Tolerances for Bona Fide Errors in Data Reported Under S
 As set out in §1002.112(b) and in comment 112(b)-1, a financial institution is presumed to maintain procedures reasonably adapted to avoid errors with respect to a given data field if the number of errors found in a random sample of a financial institution's data submission for a given data field do not equal or exceed the threshold in column C of the following table (Table 1, Tolerance Thresholds for Bona Fide Errors):
 Table 1 to Appendix F-Tolerance Thresholds for Bona Fide Errors
 Small business lending application register count
-Random
-sample
-size986
-Threshold
-(#)
-Threshold
-(%)
+Random sample size986
+Threshold (#)
+Threshold (%)
 (A)
 (B)
 (C)

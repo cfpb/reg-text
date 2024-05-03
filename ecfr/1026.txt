@@ -3969,20 +3969,11 @@ Index(identification of index or formula).
 * This is a margin we have used recently, your margin may be different.
 ** This is the amount of a discount we have provided recently; your loan may be discounted by a different amount.]
 Year
-Index
-(%)
-Margin
-(percentage
-points)
-Interest
-rate
-(%)
-Monthly
-payment
-($)
-Remaining
-balance
-($)
+Index (%)
+Margin (percentage points)
+Interest rate (%)
+Monthly payment ($)
+Remaining balance ($)
 1982
 1983
 1984
@@ -4061,20 +4052,12 @@ Margin
 Caps 2 percentage points annual interest rate.
 5 percentage points lifetime interest rate.
 Index Weekly average yield on U.S. Treasury securities adjusted to a constant maturity of one year.
-Year
-(as of 1st week ending in July)
+Year (as of 1st week ending in July)
 Index
-Margin *
-(percentage points)
-Interest
-rate
-(%)
-Monthly
-payment
-($)
-Remaining
-balance
-($)
+Margin * (percentage points)
+Interest rate (%)
+Monthly payment ($)
+Remaining balance ($)
 1982
 14.41
 3
@@ -4372,8 +4355,7 @@ Other Charges:
 Mortgage insurance:
 Shared Appreciation:
 Repayment Limits
-Assumed annual appreciation
-(percent)
+Assumed annual appreciation (percent)
 Total annual loan cost rate
 2-year loan term
 [ ]-year loan term]
@@ -4410,17 +4392,12 @@ Mortgage insurance: None
 Shared Appreciation: None
 Repayment Limits
 Net proceeds estimated at 93% of projected home sale
-Assumed annual appreciation
-(percent)
+Assumed annual appreciation (percent)
 Total annual loan cost rate
-2-year loan term
-(percent)
-6-year loan term
-(percent)
-12-year loan term
-(percent)
-17-year loan term
-(percent)
+2-year loan term (percent)
+6-year loan term (percent)
+12-year loan term (percent)
+17-year loan term (percent)
 0
 39.00
 [14.94]
@@ -4448,16 +4425,11 @@ Appendix L to Part 1026-Assumed Loan Periods for Computations of Total Annual Lo
 (2) Loan Period 2 is the life expectancy in years of the youngest borrower to become obligated on the reverse mortgage loan, as shown in the U.S. Decennial Life Tables for 1979-1981 for females, rounded to the nearest whole year.
 (3) Loan Period 3 is the life expectancy figure in Loan Period 3, multiplied by 1.4 and rounded to the nearest full year (life expectancy figures at .5 have been rounded up to 1).
 (4) At the creditor's option, an additional period may be included, which is the life expectancy figure in Loan Period 2, multiplied by .5 and rounded to the nearest full year (life expectancy figures at .5 have been rounded up to 1).
-Age of youngest
-borrower
-Loan period 1
-(in years)
-[Optional loan period
-(in years)]
-Loan period 2
-(life expectancy) (in years)
-Loan period 3
-(in years)
+Age of youngest borrower
+Loan period 1 (in years)
+[Optional loan period (in years)]
+Loan period 2 (life expectancy) (in years)
+Loan period 3 (in years)
 62
 2
 [11]
