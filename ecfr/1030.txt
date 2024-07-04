@@ -218,7 +218,8 @@ APY=5.65%
 D. Tiered-Rate Accounts (Different Rates Apply to Specified Balance Levels)
 For accounts in which two or more interest rates paid on the account are applicable to specified balance levels, the institution must calculate the annual percentage yield in accordance with the method described below that it uses to calculate interest. In all cases, an annual percentage yield (or a range of annual percentage yields, if appropriate) must be disclosed for each balance tier.
 For purposes of the examples discussed below, assume the following:
-Interest rate (percent)
+Interest rate
+(percent)
 Deposit balance required to earn rate
 5.25
 Up to but not exceeding $2,500.
@@ -665,9 +666,15 @@ Section 1030.7-Payment of Interest
 i. Paying interest on the balance in the account at the end of the period (the “ending balance” method).
 ii. Paying interest for the period based on the lowest balance in the account for any day in that period (the “low balance” method).
 iii. Paying interest on a percentage of the balance, excluding the amount set aside for reserve requirements (the “investable balance” method).
-2. Use of 365-day basis. Institutions may apply a daily periodic rate greater than 1/365 of the interest rate-such as 1/360 of the interest rate-as long as it is applied 365 days a year.
-3. Periodic interest payments. An institution can pay interest each day on the account and still make uniform interest payments. For example, for a one-year certificate of deposit an institution could make monthly interest payments equal to 1/12 of the amount of interest that will be earned for a 365-day period (or 11 uniform monthly payments-each equal to roughly 1/12 of the total amount of interest-and one payment that accounts for the remainder of the total amount of interest earned for the period).
-4. Leap year. Institutions may apply a daily rate of 1/366 or 1/365 of the interest rate for 366 days in a leap year, if the account will earn interest for February 29.
+2. Use of 365-day basis. Institutions may apply a daily periodic rate greater than
+1/365 of the interest rate-such as
+1/360 of the interest rate-as long as it is applied 365 days a year.
+3. Periodic interest payments. An institution can pay interest each day on the account and still make uniform interest payments. For example, for a one-year certificate of deposit an institution could make monthly interest payments equal to
+1/12 of the amount of interest that will be earned for a 365-day period (or 11 uniform monthly payments-each equal to roughly
+1/12 of the total amount of interest-and one payment that accounts for the remainder of the total amount of interest earned for the period).
+4. Leap year. Institutions may apply a daily rate of
+1/366 or
+1/365 of the interest rate for 366 days in a leap year, if the account will earn interest for February 29.
 5. Maturity of time accounts. Institutions are not required to pay interest after time accounts mature. (See 12 CFR Part 217, Regulation Q of the Board of Governors of the Federal Reserve System, for limitations on duration of interest payments.) Examples include:
 i. During a grace period offered for an automatically renewable time account, if consumers decide during that period not to renew the account.
 ii. Following the maturity of nonrollover time accounts.
