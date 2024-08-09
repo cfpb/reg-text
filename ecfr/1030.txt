@@ -218,8 +218,7 @@ APY=5.65%
 D. Tiered-Rate Accounts (Different Rates Apply to Specified Balance Levels)
 For accounts in which two or more interest rates paid on the account are applicable to specified balance levels, the institution must calculate the annual percentage yield in accordance with the method described below that it uses to calculate interest. In all cases, an annual percentage yield (or a range of annual percentage yields, if appropriate) must be disclosed for each balance tier.
 For purposes of the examples discussed below, assume the following:
-Interest rate
-(percent)
+Interest rate(percent)
 Deposit balance required to earn rate
 5.25
 Up to but not exceeding $2,500.

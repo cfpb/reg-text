@@ -1,4 +1,6 @@
 §1026.1 Authority, purpose, coverage, organization, enforcement, and liability.
+Cross Reference
+Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 (a) Authority. This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601 et seq.). In addition, this part implements certain provisions of the Financial Institutions Reform, Recovery, and Enforcement Act, as amended (12 U.S.C. 3331 et seq.). The Bureau's information-collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 3170-0015 (Truth in Lending).
 (b) Purpose. The purpose of this part is to promote the informed use of consumer credit by requiring disclosures about its terms and cost, to ensure that consumers are provided with greater and more timely information on the nature and costs of the residential real estate settlement process, and to effect certain changes in the settlement process for residential real estate that will result in more effective advance disclosure to home buyers and sellers of settlement costs. The regulation also includes substantive protections. It gives consumers the right to cancel certain credit transactions that involve a lien on a consumer's principal dwelling, regulates certain credit card practices, and provides a means for fair and timely resolution of credit billing disputes. The regulation does not generally govern charges for consumer credit, except that several provisions in subpart G set forth special rules addressing certain charges applicable to credit card accounts under an open-end (not home-secured) consumer credit plan. The regulation requires a maximum interest rate to be stated in variable-rate contracts secured by the consumer's dwelling. It also imposes limitations on home-equity plans that are subject to the requirements of §1026.40 and mortgages that are subject to the requirements of §1026.32. The regulation prohibits certain acts or practices in connection with credit secured by a dwelling in §1026.36, and credit secured by a consumer's principal dwelling in §1026.35. The regulation also regulates certain practices of creditors who extend private education loans as defined in §1026.46(b)(5). In addition, it imposes certain limitations on increases in costs for mortgage transactions subject to §1026.19(e) and (f).
 (c) Coverage.
@@ -26,6 +28,8 @@
 (8) Several appendices contain information such as the procedures for determinations about state laws, state exemptions and issuance of official interpretations, special rules for certain kinds of credit plans, and the rules for computing annual percentage rates in closed-end credit transactions and total-annual-loan-cost rates for reverse mortgage transactions.
 (e) Enforcement and liability. Section 108 of the Truth in Lending Act contains the administrative enforcement provisions for that Act. Sections 112, 113, 130, 131, and 134 contain provisions relating to liability for failure to comply with the requirements of the Truth in Lending Act and the regulation. Section 1204(c) of title XII of the Competitive Equality Banking Act of 1987, Public Law 100-86, 101 Stat. 552, incorporates by reference administrative enforcement and civil liability provisions of sections 108 and 130 of the Truth in Lending Act. Section 19 of the Real Estate Settlement Procedures Act contains the administrative enforcement provisions for that Act.
 §1026.2 Definitions and rules of construction.
+Cross Reference
+Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 (a) Definitions. For purposes of this part, the following definitions apply:
 (1) Act means the Truth in Lending Act (15 U.S.C. 1601 et seq.).
 (2) Advertisement means a commercial message in any medium that promotes, directly or indirectly, a credit transaction.
@@ -87,6 +91,8 @@
 (3) Unless defined in this part, the words used have the meanings given to them by state law or contract.
 (4) Where the word amount is used in this part to describe disclosure requirements, it refers to a numerical amount.
 §1026.3 Exempt transactions.
+Cross Reference
+Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 The following transactions are not subject to this part or, if the exemption is limited to specified provisions of this part, are not subject to those provisions:
 (a) Business, commercial, agricultural, or organizational credit.
 (1) An extension of credit primarily for a business, commercial or agricultural purpose.
@@ -2573,6 +2579,8 @@ The requirements of this section apply to open-end credit plans secured by the c
 (5) Coupon books. A servicer that provides a coupon book instead of a periodic statement under paragraph (e)(3) of this section must include in the coupon book the disclosures set forth in paragraphs (f)(2) and (f)(3)(vi) of this section, as applicable. The servicer may include these disclosures anywhere in the coupon book provided to the consumer or on a separate page enclosed with the coupon book. The servicer must make available upon request to the consumer by telephone, in writing, in person, or electronically, if the consumer consents, the information listed in paragraph (f)(3)(v) of this section, as applicable. The modifications set forth in paragraphs (f)(1) and (f)(3)(i) through (iv) and (vi) of this section apply to a coupon book and other information a servicer provides to the consumer under paragraph (e)(3) of this section.
 (g) Successor in interest. If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, §1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, §1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.
 §1026.42 Valuation independence.
+Cross Reference
+Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 (a) Scope. This section applies to any consumer credit transaction secured by the consumer's principal dwelling.
 (b) Definitions. For purposes of this section:
 (1) “Covered person” means a creditor with respect to a covered transaction or a person that provides “settlement services,” as defined in 12 U.S.C. 2602(3) and implementing regulations, in connection with a covered transaction.
@@ -3970,20 +3978,11 @@ Index(identification of index or formula).
 * This is a margin we have used recently, your margin may be different.
 ** This is the amount of a discount we have provided recently; your loan may be discounted by a different amount.]
 Year
-Index
-(%)
-Margin
-(percentage
-points)
-Interest
-rate
-(%)
-Monthly
-payment
-($)
-Remaining
-balance
-($)
+Index(%)
+Margin(percentagepoints)
+Interestrate(%)
+Monthlypayment($)
+Remainingbalance($)
 1982
 1983
 1984
@@ -4062,20 +4061,12 @@ Margin
 Caps 2 percentage points annual interest rate.
 5 percentage points lifetime interest rate.
 Index Weekly average yield on U.S. Treasury securities adjusted to a constant maturity of one year.
-Year
-(as of 1st week ending in July)
+Year(as of 1st week ending in July)
 Index
-Margin *
-(percentage points)
-Interest
-rate
-(%)
-Monthly
-payment
-($)
-Remaining
-balance
-($)
+Margin *(percentage points)
+Interestrate(%)
+Monthlypayment($)
+Remainingbalance($)
 1982
 14.41
 3
@@ -4373,8 +4364,7 @@ Other Charges:
 Mortgage insurance:
 Shared Appreciation:
 Repayment Limits
-Assumed annual appreciation
-(percent)
+Assumed annual appreciation(percent)
 Total annual loan cost rate
 2-year loan term
 [ ]-year loan term]
@@ -4411,17 +4401,12 @@ Mortgage insurance: None
 Shared Appreciation: None
 Repayment Limits
 Net proceeds estimated at 93% of projected home sale
-Assumed annual appreciation
-(percent)
+Assumed annual appreciation(percent)
 Total annual loan cost rate
-2-year loan term
-(percent)
-6-year loan term
-(percent)
-12-year loan term
-(percent)
-17-year loan term
-(percent)
+2-year loan term(percent)
+6-year loan term(percent)
+12-year loan term(percent)
+17-year loan term(percent)
 0
 39.00
 [14.94]
@@ -4449,16 +4434,11 @@ Appendix L to Part 1026-Assumed Loan Periods for Computations of Total Annual Lo
 (2) Loan Period 2 is the life expectancy in years of the youngest borrower to become obligated on the reverse mortgage loan, as shown in the U.S. Decennial Life Tables for 1979-1981 for females, rounded to the nearest whole year.
 (3) Loan Period 3 is the life expectancy figure in Loan Period 3, multiplied by 1.4 and rounded to the nearest full year (life expectancy figures at .5 have been rounded up to 1).
 (4) At the creditor's option, an additional period may be included, which is the life expectancy figure in Loan Period 2, multiplied by .5 and rounded to the nearest full year (life expectancy figures at .5 have been rounded up to 1).
-Age of youngest
-borrower
-Loan period 1
-(in years)
-[Optional loan period
-(in years)]
-Loan period 2
-(life expectancy) (in years)
-Loan period 3
-(in years)
+Age of youngestborrower
+Loan period 1(in years)
+[Optional loan period(in years)]
+Loan period 2(life expectancy) (in years)
+Loan period 3(in years)
 62
 2
 [11]
@@ -4768,6 +4748,8 @@ A creditor acts with reasonable diligence under §1026.35(c)(4)(vi)(A) if the cr
 10. A property abstract.
 Appendix P to Part 1026 [Reserved]
 Supplement I to Part 1026-Official Interpretations
+Cross Reference
+Link to an amendment published at 89 FR 64578, Aug. 7, 2024.
 Introduction
 1. Official status. This commentary is the vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation Z. Good faith compliance with this commentary affords protection from liability under section 130(f) of the Truth in Lending Act. Section 130(f) (15 U.S.C. 1640) protects creditors from civil liability for any act done or omitted in good faith in conformity with any interpretation issued by a duly authorized official or employee of the Bureau of Consumer Financial Protection.
 2. Procedure for requesting interpretations. Under appendix C of the regulation, anyone may request an official interpretation. Interpretations that are adopted will be incorporated in this commentary following publication in the Federal Register. No official interpretations are expected to be issued other than by means of this commentary.

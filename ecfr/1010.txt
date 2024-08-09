@@ -1077,13 +1077,10 @@ We are responsible for constructing the interior roads. There will be no additio
 WE HAVE NOT SET ASIDE ANY FUNDS IN AN ESCROW OR TRUST ACCOUNT OR MADE ANY OTHER FINANCIAL ARRANGEMENTS TO ASSURE COMPLETION OF THE ROADS, SO THERE IS NO ASSURANCE WE WILL BE ABLE TO COMPLETE THE ROADS.
 At present, the roads are under construction and do not provide access to the lots in Units 2 and 3 during wet weather. The succeeding chart describes their present condition and estimated completion dates.
 UUnit
-Estimated starting date
-(month and year)
+Estimated starting date(month and year)
 Percentage of construction now complete
-Estimated completion date
-(month and year)
-Present
-surface
+Estimated completion date(month and year)
+Presentsurface
 Final surface
 1
 February 2010
@@ -1145,13 +1142,10 @@ XVIII. Escrow Statement-Disclosure §1010.109(e)(1)
 “You may lose your (indicate deposit, down payment and/or installment payments) on your lot if we fail to deliver legal title to you as called for in the contract, because (they are/it is) not held in an escrow account which fully protects you.”
 XIX. Road Chart-§1010.110(b)(3)
 UUnit
-Estimated starting date
-(month/year)
+Estimated starting date(month/year)
 Percentage of construction now complete
-Estimated completion date
-(month/year)
-Present
-surface
+Estimated completion date(month/year)
+Presentsurface
 Final surface
 XX. Nearby Communities Chart-§1010.110(b)(6)
 Nearby Communities
@@ -1162,13 +1156,9 @@ Total
 XXI. Water Chart Form-§1010.111(a)(1)(ii)(B)
 Water
 UUnit
-Estimated starting date
-(month and year)
-Percentage of
-construction now
-complete
-Estimated service availability date
-(month and year)
+Estimated starting date(month and year)
+Percentage ofconstruction nowcomplete
+Estimated service availability date(month and year)
 XXII. Comfort Station Chart-§1010.111(b)(1)(ii)
 Comfort Stations
 Unit
@@ -1183,22 +1173,14 @@ Estimated Service Availability Date (month/year)
 XXIV. Electric Service Chart-§1010.111(c)(2)
 Electric Service
 UUnit
-Estimated starting date
-(month and year)
-Percentage of
-construction complete
-Estimated service availability date
-(month and year)
+Estimated starting date(month and year)
+Percentage ofconstruction complete
+Estimated service availability date(month and year)
 XXV. Recreational Facility Chart-§1010.114(b)
 Facility
-Percentage of
-construction now
-complete
-Estimated date of start of construction
-(month/year)
-Estimated date
-available for use
-(month/year)
+Percentage ofconstruction nowcomplete
+Estimated date of start of construction(month/year)
+Estimated dateavailable for use(month/year)
 Financial assurance of completion
 Buyer's annual cost or assessments
 XXVI. Cost Sheet Format-§1010.117(a)
