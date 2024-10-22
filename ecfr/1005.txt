@@ -2024,8 +2024,8 @@ ii. A certificate or card is available to consumers to purchase five years and s
 1. Disclosures through third parties. Issuers may make the disclosures required by §1005.20(h)(2) through a third party, such as a retailer or merchant. For example, an issuer may have a merchant install in-store signage with the disclosures required by §1005.20(h)(2) on the issuer's behalf.
 2. General advertising disclosures. Section 1005.20(h)(2) does not impose an obligation on the issuer to advertise gift certificates, store gift cards, or general-use prepaid cards.
 Section 1005.30-Remittance Transfer Definitions
-1. Applicability of definitions in subpart
-A. Except as modified or limited by subpart B (which modifications or limitations apply only to subpart B), the definitions in §1005.2 apply to all of Regulation E, including subpart B.
+1. Applicability of definitions in subpart A. Except as modified or limited by subpart B (which modifications or limitations apply only to subpart B), the definitions in §1005.2 apply to all of Regulation E, including subpart
+B.
 30(b) Business Day
 1. General. A business day, as defined in §1005.30(b), includes the entire 24-hour period ending at midnight, and a notice given pursuant to any section of subpart B is effective even if given outside of normal business hours. A remittance transfer provider is not required under subpart B to make telephone lines available on a 24-hour basis.
 2. Substantially all business functions. “Substantially all business functions” include both the public and the back-office operations of the provider. For example, if the offices of a provider are open on Saturdays for customers to request remittance transfers, but not for performing internal functions (such as investigating errors), then Saturday is not a business day for that provider. In this case, Saturday does not count toward the business-day standard set by subpart B for resolving errors, processing refunds, etc.
