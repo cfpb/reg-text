@@ -292,6 +292,8 @@ Step 1: Starting with the leftmost character in the ULI, replace each alphabetic
 Step 2: Apply the mathematical function mod=(n,97) where n is the number obtained in step 1 above and 97 is the divisor.
 Step 3: The result is 1. The ULI does not contain transcription errors.
 Supplement I to Part 1003-Official Interpretations
+Cross Reference
+Link to an amendment published at 89 FR 105430, Dec. 27, 2024.
 Introduction
 1. Status. The commentary in this supplement is the vehicle by which the Bureau of Consumer Financial Protection issues formal interpretations of Regulation C (12 CFR part 1003).
 Section 1003.2-Definitions
