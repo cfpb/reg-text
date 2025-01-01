@@ -30,6 +30,8 @@ Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 §1026.2 Definitions and rules of construction.
 Cross Reference
 Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
+Cross Reference
+Link to an amendment published at 89 FR 106837, Dec. 30, 2024.
 (a) Definitions. For purposes of this part, the following definitions apply:
 (1) Act means the Truth in Lending Act (15 U.S.C. 1601 et seq.).
 (2) Advertisement means a commercial message in any medium that promotes, directly or indirectly, a credit transaction.
@@ -135,6 +137,8 @@ The following transactions are not subject to this part or, if the exemption is 
 (i) Disclosures described in §1026.18 that comply with this part; or
 (ii) Alternatively, disclosures described in §1026.19(e) and (f) that comply with this part.
 §1026.4 Finance charge.
+Cross Reference
+Link to an amendment published at 89 FR 106837, Dec. 30, 2024.
 (a) Definition. The finance charge is the cost of consumer credit as a dollar amount. It includes any charge payable directly or indirectly by the consumer and imposed directly or indirectly by the creditor as an incident to or a condition of the extension of credit. It does not include any charge of a type payable in a comparable cash transaction.
 (1) Charges by third parties. The finance charge includes fees and amounts charged by someone other than the creditor, unless otherwise excluded under this section, if the creditor:
 (i) Requires the use of a third party as a condition of or an incident to the extension of credit, even if the consumer can choose the third party; or
@@ -3369,6 +3373,8 @@ Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 (2) Charged off accounts. The requirements of this section do not apply to accounts that the card issuer has charged off in accordance with loan-loss provisions.
 (3) Transition from LIBOR. The requirements of this section do not apply to increases in an annual percentage rate that occur as a result of the transition from the use of a LIBOR index as the index in setting a variable rate to the use of a replacement index in setting a variable rate if the change from the use of the LIBOR index to a replacement index occurs in accordance with §1026.55(b)(7)(i) or (ii).
 §1026.60 Credit and charge card applications and solicitations.
+Cross Reference
+Link to an amendment published at 89 FR 106837, Dec. 30, 2024.
 (a) General rules. The card issuer shall provide the disclosures required under this section on or with a solicitation or an application to open a credit or charge card account.
 (1) Definition of solicitation. For purposes of this section, the term solicitation means an offer by the card issuer to open a credit or charge card account that does not require the consumer to complete an application. A “firm offer of credit” as defined in section 603(l) of the Fair Credit Reporting Act (15 U.S.C. 1681a(l)) for a credit or charge card is a solicitation for purposes of this section.
 (2) Form of disclosures; tabular format.
@@ -3510,6 +3516,9 @@ Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 (ii) Make a solicitation or provide an application to open a covered separate credit feature that could be accessible by the hybrid prepaid-credit card; or
 (iii) Allow an existing credit feature that was opened prior to the consumer obtaining the prepaid account to become a covered separate credit feature accessible by the hybrid prepaid-credit card.
 (2) For purposes of paragraph (c) of this section, the term solicitation has the meaning set forth in §1026.60(a)(1).
+§1026.62 xxx
+Cross Reference
+Link to an amendment published at 89 FR 106837, Dec. 30, 2024.
 Appendix A to Part 1026-Effect on State Laws
 Request for Determination
 A request for a determination that a state law is inconsistent or that a state law is substantially the same as the Act and regulation shall be in writing and addressed to the Executive Secretary, Bureau of Consumer Financial Protection, 1700 G Street NW., Washington, DC 20552. The request shall be made pursuant to the procedures herein.
@@ -4758,6 +4767,8 @@ Cross Reference
 Link to an amendment published at 89 FR 95083, Dec. 2, 2024.
 Cross Reference
 Link to an amendment published at 89 FR 104400, Dec. 23, 2024.
+Cross Reference
+Link to an amendment published at 89 FR 106838, Dec. 30, 2024.
 Introduction
 1. Official status. This commentary is the vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation Z. Good faith compliance with this commentary affords protection from liability under section 130(f) of the Truth in Lending Act. Section 130(f) (15 U.S.C. 1640) protects creditors from civil liability for any act done or omitted in good faith in conformity with any interpretation issued by a duly authorized official or employee of the Bureau of Consumer Financial Protection.
 2. Procedure for requesting interpretations. Under appendix C of the regulation, anyone may request an official interpretation. Interpretations that are adopted will be incorporated in this commentary following publication in the Federal Register. No official interpretations are expected to be issued other than by means of this commentary.

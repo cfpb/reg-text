@@ -167,6 +167,8 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (2) The financial institution treats an inquiry for clarification or documentation as a notice of error in accordance with §1005.11.
 (e) Exception for receipts in small-value transfers. A financial institution is not subject to the requirement to make available a receipt under paragraph (a) of this section if the amount of the transfer is $15 or less.
 §1005.10 Preauthorized transfers.
+Cross Reference
+Link to an amendment published at 89 FR 106836, Dec. 30, 2024.
 (a) Preauthorized transfers to consumer's account-
 (1) Notice by financial institution. When a person initiates preauthorized electronic fund transfers to a consumer's account at least once every 60 days, the account-holding financial institution shall provide notice to the consumer by:
 (i) Positive notice. Providing oral or written notice of the transfer within two business days after the transfer occurs; or
@@ -1044,6 +1046,8 @@ A request for an official interpretation shall be in writing and addressed to th
 Scope of Interpretations
 No interpretations will be issued approving financial institutions' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.
 Supplement I to Part 1005-Official Interpretations
+Cross Reference
+Link to an amendment published at 89 FR 106836, Dec. 30, 2024.
 Section 1005.2 Definitions
 2(a) Access Device
 1. Examples. The term “access device” includes debit cards, personal identification numbers (PINs), telephone transfer and telephone bill payment codes, and other means that may be used by a consumer to initiate an electronic fund transfer (EFT) to or from a consumer account. The term does not include magnetic tape or other devices used internally by a financial institution to initiate electronic transfers.
