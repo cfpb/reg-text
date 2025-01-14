@@ -1559,6 +1559,8 @@ A creditor shall include in any consumer credit contract secured by a dwelling a
 (10) Financing of points and fees. A creditor that extends credit under a high-cost mortgage may not finance charges that are required to be included in the calculation of points and fees, as that term is defined in §1026.32(b)(1) and (2). Credit insurance premiums or debt cancellation or suspension fees that are required to be included in points and fees under §1026.32(b)(1)(iv) or (2)(iv) shall not be considered financed by the creditor when they are calculated and paid in full on a monthly basis.
 (b) Prohibited acts or practices for dwelling-secured loans; structuring loans to evade high-cost mortgage requirements. A creditor shall not structure any transaction that is otherwise a high-cost mortgage in a form, for the purpose, and with the intent to evade the requirements of a high-cost mortgage subject to this subpart, including by dividing any loan transaction into separate parts.
 §1026.35 Requirements for higher-priced mortgage loans.
+Cross Reference
+Link to an amendment published at 90 FR 2501, Jan. 10, 2025.
 (a) Definitions. For purposes of this section:
 (1) “Higher-priced mortgage loan” means a closed-end consumer credit transaction secured by the consumer's principal dwelling with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set:
 (i) By 1.5 or more percentage points for loans secured by a first lien with a principal obligation at consummation that does not exceed the limit in effect as of the date the transaction's interest rate is set for the maximum principal obligation eligible for purchase by Freddie Mac;
@@ -1797,6 +1799,8 @@ A creditor shall include in any consumer credit contract secured by a dwelling a
 (ii) “Negative amortization” means a payment schedule with regular periodic payments that cause the principal balance to increase.
 (3) Steering prohibited. A creditor that extends credit to a first-time borrower in connection with a closed-end transaction secured by a dwelling, other than a reverse mortgage transaction subject to §1026.33 or a transaction secured by a consumer's interest in a timeshare plan described in 11 U.S.C. 101(53D), that may result in negative amortization shall not steer or otherwise direct a consumer to choose a particular counselor or counseling organization for the counseling required under this paragraph (k).
 §1026.37 Content of disclosures for certain mortgage transactions (Loan Estimate).
+Cross Reference
+Link to an amendment published at 90 FR 2502, Jan. 10, 2025.
 For each transaction subject to §1026.19(e), the creditor shall disclose the information in this section:
 (a) General information-
 (1) Form title. The title of the form, “Loan Estimate,” using that term.
@@ -2042,6 +2046,8 @@ For each transaction subject to §1026.19(e), the creditor shall disclose the in
 (iv) Business card. The creditor may physically attach a business card over the information required to be disclosed by paragraph (a)(3) of this section.
 (v) Administrative information. The creditor may insert at the bottom of each page under the disclosures required by this section as illustrated by form H-24 of appendix H to this part, any administrative information, text, or codes that assist in identification of the form or the information disclosed on the form, provided that the space provided on form H-24 of appendix H to this part for any of the information required by this section is not altered.
 §1026.38 Content of disclosures for certain mortgage transactions (Closing Disclosure).
+Cross Reference
+Link to an amendment published at 90 FR 2502, Jan. 10, 2025.
 For each transaction subject to §1026.19(f), the creditor shall disclose the information in this section:
 (a) General information-
 (1) Form title. The title of the form, “Closing Disclosure,” using that term.
@@ -2475,6 +2481,8 @@ The requirements of this section apply to open-end credit plans secured by the c
 (g) Refund of fees. A creditor shall refund all fees paid by the consumer to anyone in connection with an application if any term required to be disclosed under paragraph (d) of this section changes (other than a change due to fluctuations in the index in a variable-rate plan) before the plan is opened and, as a result, the consumer elects not to open the plan.
 (h) Imposition of nonrefundable fees. Neither a creditor nor any other person may impose a nonrefundable fee in connection with an application until three business days after the consumer receives the disclosures and brochure required under this section. If the disclosures and brochure are mailed to the consumer, the consumer is considered to have received them three business days after they are mailed.
 §1026.41 Periodic statements for residential mortgage loans.
+Cross Reference
+Link to an amendment published at 90 FR 2503, Jan. 10, 2025.
 (a) In general-
 (1) Scope. This section applies to a closed-end consumer credit transaction secured by a dwelling, unless an exemption in paragraph (e) of this section applies. A closed-end consumer credit transaction secured by a dwelling is referred to as a mortgage loan for purposes of this section.
 (2) Periodic statements. A servicer of a transaction subject to this section shall provide the consumer, for each billing cycle, a periodic statement meeting the requirements of paragraphs (b), (c), and (d) of this section. If a mortgage loan has a billing cycle shorter than a period of 31 days (for example, a bi-weekly billing cycle), a periodic statement covering an entire month may be used. For the purposes of this section, servicer includes the creditor, assignee, or servicer, as applicable. A creditor or assignee that does not currently own the mortgage loan or the mortgage servicing rights is not subject to the requirement in this section to provide a periodic statement.
@@ -2668,6 +2676,8 @@ Link to an amendment published at 89 FR 64577, Aug. 7, 2024.
 (3) Definition. For purposes of this paragraph (g), “state agency” means “state appraiser certifying and licensing agency” under 12 U.S.C. 3350(1) and any implementing regulations. The appropriate state agency to which a covered person must refer a matter under paragraph (g)(1) of this section is the agency for the state in which the consumer's principal dwelling is located.
 (h) The Bureau issued a joint rule to implement the appraisal management company minimum requirements in the Financial Institutions Reform, Recovery, and Enforcement Act, as amended by section 1473 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. See 12 CFR part 34.
 §1026.43 Minimum standards for transactions secured by a dwelling.
+Cross Reference
+Link to an amendment published at 90 FR 2503, Jan. 10, 2025.
 (a) Scope. This section applies to any consumer credit transaction that is secured by a dwelling, as defined in §1026.2(a)(19), including any real property attached to a dwelling, other than:
 (1) A home equity line of credit subject to §1026.40;
 (2) A mortgage transaction secured by a consumer's interest in a timeshare plan, as defined in 11 U.S.C. 101(53(D)); or
@@ -3868,6 +3878,8 @@ Printed Name:
 Date:
 [Account Number]:
 Appendix H to Part 1026-Closed-End Model Forms and Clauses
+Cross Reference
+Link to an amendment published at 90 FR 2503, Jan. 10, 2025.
 H-1 Credit Sale Model Form (§1026.18)
 H-2 Loan Model Form (§1026.18)
 H-3 Amount Financed Itemization Model Form (§1026.18(c))
@@ -4761,6 +4773,8 @@ Cross Reference
 Link to an amendment published at 89 FR 64578, Aug. 7, 2024.
 Cross Reference
 Link to an amendment published at 89 FR 106838, Dec. 30, 2024.
+Cross Reference
+Link to an amendment published at 90 FR 2545, Jan. 10, 2025.
 Introduction
 1. Official status. This commentary is the vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation Z. Good faith compliance with this commentary affords protection from liability under section 130(f) of the Truth in Lending Act. Section 130(f) (15 U.S.C. 1640) protects creditors from civil liability for any act done or omitted in good faith in conformity with any interpretation issued by a duly authorized official or employee of the Bureau of Consumer Financial Protection.
 2. Procedure for requesting interpretations. Under appendix C of the regulation, anyone may request an official interpretation. Interpretations that are adopted will be incorporated in this commentary following publication in the Federal Register. No official interpretations are expected to be issued other than by means of this commentary.
