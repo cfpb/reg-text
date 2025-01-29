@@ -13,6 +13,8 @@ The examples in this part are not exclusive. Compliance with an example, to the 
 §1022.3 Definitions.
 Cross Reference
 Link to an amendment published at 90 FR 3372, Jan. 14, 2025.
+Cross Reference
+Link to a correction published at 90 FR 8173, Jan. 27, 2025.
 For purposes of this part, unless explicitly stated otherwise:
 (a) Act means the FCRA (15 U.S.C. 1681 et seq.).
 (b) Affiliate means any company that is related by common ownership or common corporate control with another company. For example, an affiliate of a Federal credit union is a credit union service corporation, as provided in 12 CFR part 712, that is controlled by the Federal credit union.
@@ -263,6 +265,8 @@ For purposes of this part, unless explicitly stated otherwise:
 §1022.30 Obtaining or using medical information in connection with a determination of eligibility for credit.
 Cross Reference
 Link to an amendment published at 90 FR 3372, Jan. 14, 2025.
+Cross Reference
+Link to a correction published at 90 FR 8173, Jan. 27, 2025.
 (a) Scope. This section applies to any person that participates as a creditor in a transaction, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 137.
 (b) General prohibition on obtaining or using medical information-
 (1) In general. A creditor may not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit, except as provided in this section.
@@ -344,9 +348,12 @@ Link to an amendment published at 90 FR 3372, Jan. 14, 2025.
 (6) As otherwise permitted by order of the Bureau.
 §§1022.33-1022.37 [Reserved]
 Cross ReferenceLink to an amendment published at 90 FR 3373, Jan. 14, 2025.
+Cross ReferenceLink to a correction published at 90 FR 8173, Jan. 27, 2025.
 §1022.38 xxx
 Cross Reference
 Link to an amendment published at 90 FR 3373, Jan. 14, 2025.
+Cross Reference
+Link to a correction published at 90 FR 8173, Jan. 27, 2025.
 §1022.40 Scope.
 Subpart E of this part applies to any person that furnishes information to a consumer reporting agency, except for a person excluded from coverage of this part by section 1029 of the Consumer Financial Protection Act of 2010, title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Public Law 111-203, 124 Stat. 1376.
 §1022.41 Definitions.
