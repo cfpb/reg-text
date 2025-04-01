@@ -4204,8 +4204,7 @@ Description: This is a sample of a completed Loan Estimate for a transaction tha
 H-24(E) Mortgage Loan Transaction Loan Estimate-Balloon Payment Sample
 Description: This is a sample of the information required by §1026.37(a) through (c) for a transaction with a loan term of seven years that includes a final balloon payment.
 H-24(F) Mortgage Loan Transaction Loan Estimate-Negative Amortization Sample
-Description: This is a sample of the information required by §1026.37(a) and
-(b) for a transaction with negative amortization.
+Description: This is a sample of the information required by §1026.37(a) and (b) for a transaction with negative amortization.
 H-24(G) Mortgage Loan Transaction Loan Estimate-Modification to Loan Estimate for Transaction Not Involving Seller-Model Form
 Description: This is a blank model Loan Estimate that illustrates the application of the content requirements in §1026.37, with the optional alternative tables permitted by §1026.37(d)(2) and (h)(2) for transactions without a seller. This form provides one variation of page one, four variations of page two, and four variations of page three, reflecting the variable content requirements in §1026.37.
 H-25(A) Mortgage Loan Transaction Closing Disclosure-Model Form
@@ -4245,8 +4244,7 @@ Description: This is a sample of the Loan Estimate illustrated by form H-24(D) f
 H-28(D) Mortgage Loan Transaction Loan Estimate-Spanish Language Balloon Payment Sample
 Description: This is a sample of the information required by §1026.37(a) through (c) for a transaction with a loan term of seven years that includes a final balloon payment illustrated by form H-24(E), translated into the Spanish language as permitted by §1026.37(o)(5)(ii).
 H-28(E) Mortgage Loan Transaction Loan Estimate-Spanish Language Negative Amortization Sample
-Description: This is a sample of the information required by §1026.37(a) and
-(b) for a transaction with negative amortization illustrated by form H-24(F), translated into the Spanish language as permitted by §1026.37(o)(5)(ii).
+Description: This is a sample of the information required by §1026.37(a) and (b) for a transaction with negative amortization illustrated by form H-24(F), translated into the Spanish language as permitted by §1026.37(o)(5)(ii).
 H-28(F) Mortgage Loan Transaction Closing Disclosure-Spanish Language Model Form
 Description: This is a blank model Closing Disclosure that illustrates the content requirements in §1026.38, and is translated into the Spanish language as permitted by §1026.38(t)(5)(viii). This form provides three variations of page one, one page two, one page three, four variations of page four, four variations of page five, and two variations of page six reflecting the variable content requirements in §1026.38. This form does not reflect any other modifications permitted under §1026.38(t).
 H-28(G) Mortgage Loan Transaction Closing Disclosure-Spanish Language Purchase Sample

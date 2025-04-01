@@ -710,7 +710,7 @@ Table 1 to Appendix F-Tolerance Thresholds for Bona Fide Errors
 Small business lending application register count
 Random
 sample
-size986
+size 986
 Threshold
 (#)
 Threshold
