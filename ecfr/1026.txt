@@ -3844,11 +3844,17 @@ Please enroll me in the optional [insert name of program], and bill my account t
 G-16(B) Debt Suspension Sample
 Please enroll me in the optional [name of program], and bill my account the fee of $.83 per $100 of my month-end account balance. I understand that enrollment is not required to obtain credit. I also understand that depending on the event, the protection may only temporarily suspend my duty to make minimum payments, not reduce the balance I owe. I understand that my balance will actually grow during the suspension period as interest continues to accumulate.
 To Enroll, Initial Here. X
-G-18(B)-Late Payment Fee Sample
-Late Payment Warning: If we do not receive your minimum payment by the date listed above, you may have to pay a $35 late fee and your APRs may be increased up to the Penalty APR of 28.99%.
+G-17(B) ACCOUNT-OPENING SAMPLE
+G-17(C) ACCOUNT-OPENING SAMPLE
+G-18(A) PERIODIC STATEMEMT TRANSACTIONS; INTEREST CHARGES; FEES SAMPLE
+G-18(B) LATE PAYMENT FEE SAMPLE
+G-18(D) PERIODIC STATEMENT NEW BALANCE, DUE DATE, LATE PAYMENT AND MINIMUM PAYMENT SAMPLE (CREDIT CARDS)
 G-18(E) [Reserved]
+G-18(F) PERIODIC STATEMENT FORM
+G-18(G) PERIODIC STATEMENT FORM
 G-18(H)-Deferred Interest Periodic Statement Clause
 [You must pay your promotional balance in full by [date] to avoid paying accrued interest charges.]
+G-21 CHANGE-IN-TERMS SAMPLE (INCREASE IN FEES)
 G-24-Deferred Interest Offer Clauses
 (a) For Credit Card Accounts Under an Open-End (Not Home-Secured) Consumer Credit Plan
 [Interest will be charged to your account from the purchase date if the purchase balance is not paid in full within the/by [deferred interest period/date] or if you make a late payment.]
