@@ -4003,7 +4003,7 @@ Caps [periodic interest rate cap].
 [Interest rate discount].**
 Index(identification of index or formula).
 * This is a margin we have used recently, your margin may be different.
-** This is the amount of a discount we have provided recently; your loan may be discounted by a different amount.]
+** This is the amount of a discount we have provided recently; your loan may be discounted by a different amount.
 Year
 Index(%)
 Margin(percentagepoints)
