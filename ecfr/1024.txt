@@ -410,6 +410,8 @@ Trial running balance means the accounting process that derives the target balan
 (2) The procedures set forth in §§1024.39 through 1024.41 of this subpart only apply to a mortgage loan that is secured by a property that is a borrower's principal residence.
 (d) Successors in interest. A confirmed successor in interest shall be considered a borrower for purposes of §1024.17 and this subpart.
 §1024.31 Definitions.
+Cross Reference
+Link to an amendment published at 90 FR 20792, May 16, 2025.
 For purposes of this subpart:
 Confirmed successor in interest means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.
 Consumer reporting agency has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a.
@@ -698,6 +700,8 @@ Transferor servicer means a servicer, including a table-funding mortgage broker 
 (iv) To the extent applicable, a report of the data fields relating to the borrower's mortgage loan account created by the servicer's electronic systems in connection with servicing practices; and
 (v) Copies of any information or documents provided by the borrower to the servicer in accordance with the procedures set forth in §1024.35 or §1024.41.
 §1024.39 Early intervention requirements for certain borrowers.
+Cross Reference
+Link to an amendment published at 90 FR 20792, May 16, 2025.
 (a) Live contact. Except as otherwise provided in this section, a servicer shall establish or make good faith efforts to establish live contact with a delinquent borrower no later than the 36th day of a borrower's delinquency and again no later than 36 days after each payment due date so long as the borrower remains delinquent. Promptly after establishing live contact with a borrower, the servicer shall inform the borrower about the availability of loss mitigation options, if appropriate, and take the actions described in paragraph (e) of this section, if applicable.
 (b) Written notice-
 (1) Notice required. Except as otherwise provided in this section, a servicer shall provide to a delinquent borrower a written notice with the information set forth in paragraph (b)(2) of this section no later than the 45th day of the borrower's delinquency and again no later than 45 days after each payment due date so long as the borrower remains delinquent. A servicer is not required to provide the written notice, however, more than once during any 180-day period. If a borrower is 45 days or more delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 180 days after the provision of the prior written notice. If a borrower is less than 45 days delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 45 days after the payment due date for which the borrower remains delinquent.
@@ -757,6 +761,8 @@ Transferor servicer means a servicer, including a table-funding mortgage broker 
 (3) Provide the documents and information identified in paragraph (b)(2) of this section to other persons required to evaluate a borrower for loss mitigation options made available by the servicer, if applicable; and
 (4) Provide a delinquent borrower with information about the procedures for submitting a notice of error pursuant to §1024.35 or an information request pursuant to §1024.36.
 §1024.41 Loss mitigation procedures.
+Cross Reference
+Link to an amendment published at 90 FR 20792, May 16, 2025.
 (a) Enforcement and limitations. A borrower may enforce the provisions of this section pursuant to section 6(f) of RESPA (12 U.S.C. 2605(f)). Nothing in §1024.41 imposes a duty on a servicer to provide any borrower with any specific loss mitigation option. Nothing in §1024.41 should be construed to create a right for a borrower to enforce the terms of any agreement between a servicer and the owner or assignee of a mortgage loan, including with respect to the evaluation for, or offer of, any loss mitigation option or to eliminate any such right that may exist pursuant to applicable law.
 (b) Receipt of a loss mitigation application-
 (1) Complete loss mitigation application. A complete loss mitigation application means an application in connection with which a servicer has received all the information that the servicer requires from a borrower in evaluating applications for the loss mitigation options available to the borrower. A servicer shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application.
@@ -1714,6 +1720,8 @@ For help exploring your options, the Federal government provides contact informa
 MS-4(D)-Written Early Intervention Notice for Servicers Subject to FDCPA (§1024.39(d)(2)(iii))
 This is a legally required notice. We are sending this notice to you because you are behind on your mortgage payment. We want to notify you of possible ways to avoid losing your home. We have a right to invoke foreclosure based on the terms of your mortgage contract. Please read this letter carefully.
 Supplement I to Part 1024-Official Bureau Interpretations
+Cross Reference
+Link to an amendment published at 90 FR 20793, May 16, 2025.
 Introduction
 1. Official status. This commentary is the primary vehicle by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation X. Good faith compliance with this commentary affords protection from liability under section 19(b) of the Real Estate Settlement Procedures Act (RESPA), 12 U.S.C. 2617(b).
 2. Requests for official interpretations. A request for an official interpretation shall be in writing and addressed to the Assistant Director, Office of Regulations, Division of Research, Monitoring, and Regulations, Bureau of Consumer Financial Protection, 1700 G Street NW, Washington, DC 20552. A request shall contain a complete statement of all relevant facts concerning the issue, including copies of all pertinent documents. Except in unusual circumstances, such official interpretations will not be issued separately but will be incorporated in the official commentary to this part, which will be amended periodically. No official interpretations will be issued approving financial institutions' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.
