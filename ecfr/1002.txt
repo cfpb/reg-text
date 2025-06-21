@@ -486,6 +486,8 @@ In this subpart:
 §1002.113 Severability.
 If any provision of this subpart, or any application of a provision, is stayed or determined to be invalid, the remaining provisions or applications are severable and shall continue in effect.
 §1002.114 Effective date, compliance date, and special transitional rules.
+Cross Reference
+Link to an amendment published at 90 FR 25880, June 18, 2025.
 (a) Effective date. The effective date for this subpart is August 29, 2023.
 (b) Compliance date. The dates by which covered financial institutions are initially required to comply with the requirements of this subpart are as follows:
 (1) A covered financial institution that originated at least 2,500 covered credit transactions for small businesses in each of calendar years 2022 and 2023 shall comply with the requirements of this subpart beginning July 18, 2025.
@@ -748,6 +750,8 @@ Footnotes-
 Appendix F to Part 1002
 [986] For a financial institution with fewer than 30 entries in its small business lending application register, the full sample size is the financial institution's total number of entries. The threshold number for such financial institutions remains three. Accordingly, the threshold percentage will be higher for financial institutions with fewer than 30 entries in their registers
 Supplement I to Part 1002-Official Interpretations
+Cross Reference
+Link to an amendment published at 90 FR 25880, June 18, 2025.
 Following is an official interpretation of Regulation B (12 CFR part 1002) issued by the Bureau of Consumer Financial Protection. References are to sections of the regulation or the Equal Credit Opportunity Act (15 U.S.C. 1601 et seq.).
 Introduction
 1. Official status. Section 706(e) of the Equal Credit Opportunity Act protects a creditor from civil liability for any act done or omitted in good faith in conformity with an interpretation issued by a duly authorized official of the Bureau. This commentary is the means by which the Bureau of Consumer Financial Protection issues official interpretations of Regulation B. Good-faith compliance with this commentary affords a creditor protection under section 706(e) of the Act.
