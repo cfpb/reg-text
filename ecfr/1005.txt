@@ -167,8 +167,6 @@ Except as otherwise provided in subpart B, for purposes of this part, the follow
 (2) The financial institution treats an inquiry for clarification or documentation as a notice of error in accordance with §1005.11.
 (e) Exception for receipts in small-value transfers. A financial institution is not subject to the requirement to make available a receipt under paragraph (a) of this section if the amount of the transfer is $15 or less.
 §1005.10 Preauthorized transfers.
-Cross Reference
-Link to an amendment published at 89 FR 106836, Dec. 30, 2024.
 (a) Preauthorized transfers to consumer's account-
 (1) Notice by financial institution. When a person initiates preauthorized electronic fund transfers to a consumer's account at least once every 60 days, the account-holding financial institution shall provide notice to the consumer by:
 (i) Positive notice. Providing oral or written notice of the transfer within two business days after the transfer occurs; or
@@ -184,7 +182,7 @@ Link to an amendment published at 89 FR 106836, Dec. 30, 2024.
 (1) Notice. When a preauthorized electronic fund transfer from the consumer's account will vary in amount from the previous transfer under the same authorization or from the preauthorized amount, the designated payee or the financial institution shall send the consumer written notice of the amount and date of the transfer at least 10 days before the scheduled date of transfer.
 (2) Range. The designated payee or the institution shall inform the consumer of the right to receive notice of all varying transfers, but may give the consumer the option of receiving notice only when a transfer falls outside a specified range of amounts or only when a transfer differs from the most recent transfer by more than an agreed-upon amount.
 (e) Compulsory use-
-(1) Credit. No financial institution or other person may condition an extension of credit to a consumer on the consumer's repayment by preauthorized electronic fund transfers, except for credit extended under an overdraft credit plan or extended to maintain a specified minimum balance in the consumer's account. This exception does not apply to a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61.
+(1) Credit. No financial institution or other person may condition an extension of credit to a consumer on the consumer's repayment by preauthorized electronic fund transfers, except for credit extended under an overdraft credit plan or extended to maintain a specified minimum balance in the consumer's account. This exception does not apply to a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61. This exception also does not apply to covered overdraft credit extended by very large financial institutions as those terms are defined in Regulation Z, 12 CFR 1026.62.
 (2) Employment or government benefit. No financial institution or other person may require a consumer to establish an account for receipt of electronic fund transfers with a particular institution as a condition of employment or receipt of a government benefit.
 §1005.11 Procedures for resolving errors.
 (a) Definition of error-
@@ -1046,8 +1044,6 @@ A request for an official interpretation shall be in writing and addressed to th
 Scope of Interpretations
 No interpretations will be issued approving financial institutions' forms or statements. This restriction does not apply to forms or statements whose use is required or sanctioned by a government agency.
 Supplement I to Part 1005-Official Interpretations
-Cross Reference
-Link to an amendment published at 89 FR 106836, Dec. 30, 2024.
 Section 1005.2 Definitions
 2(a) Access Device
 1. Examples. The term “access device” includes debit cards, personal identification numbers (PINs), telephone transfer and telephone bill payment codes, and other means that may be used by a consumer to initiate an electronic fund transfer (EFT) to or from a consumer account. The term does not include magnetic tape or other devices used internally by a financial institution to initiate electronic transfers.
@@ -1381,8 +1377,8 @@ Section 1005.10 Preauthorized Transfers
 10(e) Compulsory Use
 10(e)(1) Credit
 1. General rule for loan payments. Creditors may not require repayment of loans by electronic means on a preauthorized, recurring basis.
-2. Overdraft credit plans not accessible by hybrid prepaid-credit cards.
-i. Section 1005.10(e)(1) provides an exception from the general rule for an overdraft credit plan other than for a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61. A financial institution may therefore require the automatic repayment of an overdraft credit plan, other than a covered separate credit feature accessible by a hybrid prepaid-credit card, even if the overdraft extension is charged to an open-end account that may be accessed by the consumer in ways other than by overdrafts.
+2. Overdraft credit plans not accessible by hybrid prepaid-credit cards and covered overdraft credit extended by very large financial institutions.
+i. Section 1005.10(e)(1) provides an exception from the general rule for an overdraft credit plan other than for a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61 and for covered overdraft credit extended by very large financial institutions as those terms are defined in Regulation Z, 12 CFR 1026.62. A financial institution may therefore require the automatic repayment of an overdraft credit plan, other than a covered separate credit feature accessible by a hybrid prepaid-credit card or covered overdraft credit extended by very large financial institutions, even if the overdraft extension is charged to an open-end account that may be accessed by the consumer in ways other than by overdrafts.
 ii. Credit extended through a negative balance on the asset feature of a prepaid account that meets the conditions of Regulation Z, 12 CFR 1026.61(a)(4), is considered credit extended pursuant to an overdraft credit plan for purposes of §1005.10(e)(1). Thus, the exception for overdraft credit plans in §1005.10(e)(1) applies to this credit.
 3. Applicability to covered separate credit features accessible by hybrid prepaid-credit cards.
 i. Under §1005.10(e)(1), creditors may not require by electronic means on a preauthorized, recurring basis repayment of credit extended under a covered separate credit feature accessible by a hybrid prepaid-credit card as defined in Regulation Z, 12 CFR 1026.61. The prohibition in §1005.10(e)(1) applies to any credit extended under such a credit feature, including preauthorized checks. See Regulation Z, 12 CFR 1026.61, and comment 61(a)(1)-3.
@@ -1506,6 +1502,7 @@ i. A government agency informs a consumer that she can receive distribution of b
 Section 1005.17 Requirements for Overdraft Services
 17(a) Definition
 1. Exempt securities-and commodities-related lines of credit. The definition of “overdraft service” does not include the payment of transactions in a securities or commodities account pursuant to which credit is extended by a broker-dealer registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission.
+2. Covered overdraft credit. Under §1005.17(a)(1), a line of credit subject to Regulation Z (12 CFR 1026) is not an overdraft service. Covered overdraft credit as that term is defined in 12 CFR 1026.62, is a line of credit subject to Regulation Z and is therefore not an overdraft service. Covered overdraft credit includes above breakeven overdraft credit extended by a very large financial institution as those terms are defined in 12 CFR 1026.62. Above breakeven overdraft credit extended by a very large financial institution is therefore not an overdraft service under §1005.17(a).
 17(b) Opt-In Requirement
 1. Scope. i. Account-holding institutions. Section 1005.17(b) applies to ATM and one-time debit card transactions made with a debit card issued by or on behalf of the account-holding institution. Section 1005.17(b) does not apply to ATM and one-time debit card transactions made with a debit card issued by or through a third party unless the debit card is issued on behalf of the account-holding institution.
 ii. Coding of transactions. A financial institution complies with the rule if it adapts its systems to identify debit card transactions as either one-time or recurring. If it does so, the financial institution may rely on the transaction's coding by merchants, other institutions, and other third parties as a one-time or a preauthorized or recurring debit card transaction.
