@@ -825,3 +825,248 @@ For purposes of this subpart, the following definitions apply:
 (c) Limitation on applicability. Any person who is otherwise in violation of paragraph (a) of this section shall be deemed to be in compliance with this part if such person is in compliance with all obligations imposed upon consumer reporting agencies that compile and maintain files on consumers on a nationwide basis under the FCRA, 15 U.S.C. 1681 et seq.
 §1022.141 Reasonable charges for certain disclosures.
 Pursuant to section 612(f) of the FCRA, 15 U.S.C. 1681j(f), the charge imposed by a consumer reporting agency for a disclosure to the consumer pursuant to section 609 of the FCRA, 15 U.S.C. 1681g, shall not exceed the maximum allowable charge set by the Bureau.
+§1022.142 Prohibition on inclusion of adverse information in consumer reporting in cases of human trafficking.
+(a) Scope. This section applies to any consumer reporting agency as defined in section 603(f) of the FCRA, 15 U.S.C. 1681a(f).
+(b) Definitions. For purposes of this section:
+(1) Appropriate proof of identity means proof of identity that meets the requirements in §1022.123, for purposes of section 605C of the FCRA.
+(2) Consumer report has the meaning provided in section 603(d) of the FCRA, 15 U.S.C. 1681a(d).
+(3) Consumer reporting agency has the meaning provided in section 603(f) of the FCRA, 15 U.S.C. 1681a(f).
+(4) Severe forms of trafficking in persons has the meaning provided in section 103 of the Trafficking Victims Protection Act of 2000, 22 U.S.C. 7102(11).
+(5) Sex trafficking has the meaning provided in section 103 of the Trafficking Victims Protection Act of 2000, as amended by section 108 of the Justice for Victims of Trafficking Act of 2015, 22 U.S.C. 7102(12).
+(6) Trafficking documentation means one or more documents that satisfy paragraphs (b)(6)(i) and (ii) of this section:
+(i) Victim determination. Documentation that:
+(A) Is of a determination that a consumer is a victim of trafficking made by a:
+(1) Federal, State, or Tribal governmental entity; or
+(2) Non-governmental organization or members of a human trafficking task force, including victim service providers affiliated with the organization or task force, authorized by a Federal, State, or Tribal governmental entity to make such a determination;
+(B) Is of a determination that a consumer is a victim of trafficking made by a court of competent jurisdiction or determination consisting of documents filed in a court of competent jurisdiction where a central issue in the case is whether the consumer is a victim of trafficking and the court has, at a minimum, affirmed the consumer's claim either by accepting certain pieces of evidence which are assumed to be true or finding that the there is no genuine dispute as to any material fact supporting a judgment in favor of the victim as a matter of law; or
+(C) Is of a signed statement by the consumer attesting that the consumer is a victim of trafficking if such statement or an accompanying document is signed or certified by a representative of an entity described in paragraph (b)(6)(i)(A) or (B) of this section.
+(ii) Identified adverse items of information. Documentation, which may consist of a statement prepared by the consumer or by any designated representative on behalf of a consumer (except for a credit repair organization as defined in section 403(3) of the Credit Repair Organizations Act, 15 U.S.C. 1679a(3), or an entity that would be a credit repair organization, but for section 403(3)(B)(i) of the Credit Repair Organizations Act, 15 U.S.C. 1679a(3)(B)(i)), that:
+(A) Identifies any items of adverse information that should not be furnished by a consumer reporting agency because the items resulted from a severe form of trafficking in persons or sex trafficking of which the consumer is a victim; and
+(B) Must contain a preferred method for a consumer reporting agency to contact the consumer electronically or in writing such as an email address or physical address where mail can be received. A consumer reporting agency shall use only the consumer's preferred method of contact for communications under paragraphs (d), (e), and (f) of this section about the consumer's submission and shall not use the consumer's preferred contact information for any other purpose.
+(7) Victim of trafficking means a person who is a victim of a severe form of trafficking in persons or sex trafficking.
+(c) Prohibition on inclusion of adverse information of trafficking victims. A consumer reporting agency may not furnish a consumer report containing any adverse item of information about a consumer that resulted from a severe form of trafficking in persons or sex trafficking if the consumer has provided trafficking documentation as defined under paragraph (b)(6) of this section to the consumer reporting agency.
+(d) Method of submission to consumer reporting agencies-
+(1) Mailing and website address. A consumer reporting agency must provide two mailing addresses for a consumer or consumer representative, as described in paragraph (b)(6)(ii) of this section, to send a submission consisting of an appropriate proof of identification under paragraph (b)(1) of this section and trafficking documentation under paragraph (b)(6) of this section. A consumer reporting agency may also establish a secure online website portal for a consumer to upload a submission. A consumer reporting agency must accept a submission sent to the mailing and, if applicable, website address used for disputes under section 611 of the FCRA, and must accept a submission sent to a mailing and, if applicable, website address dedicated to blocking adverse items of information resulting from a severe form of trafficking in persons or sex trafficking under this section.
+(2) Disclosing methods for submission. A consumer reporting agency must add information on its publicly available website stating how submissions for the blocking of adverse items of information resulting from a severe form of trafficking in persons or sex trafficking should be provided to a consumer reporting agency.
+(3) Toll-free telephone number. A consumer reporting agency that compiles and maintains files on consumers on a nationwide basis, as defined in section 603(p) of the FCRA, 15 U.S.C. 1681a(p), must:
+(i) Allocate a reasonable amount of personnel to respond to consumer inquiries about the process for and status of a consumer's submission at the toll-free telephone number used for disputes under section 611 of the FCRA; and
+(ii) Establish a toll-free telephone number dedicated to addressing submissions from consumers seeking to block adverse items of information resulting from a severe form of trafficking in persons or sex trafficking under this section.
+(e) Block of adverse information resulting from trafficking-
+(1) Block upon receipt of the submission. Except as otherwise provided in this section, within four business days of receipt of the consumer's submission under paragraph (d)(1) of this section, a consumer reporting agency must block the reporting of any adverse item of information identified by the consumer (or their representative) as resulting from a severe form of trafficking in persons or sex trafficking.
+(2) Requirement to notify the consumer and attempt to resolve deficiencies-
+(i) In general. Within five business days of receipt of the consumer's submission under paragraph (d) of this section, a consumer reporting agency must notify a consumer if additional information is necessary for the purpose of completing the submission and attempt to resolve any deficiency in the consumer's submission. A consumer reporting agency may only request additional information where the consumer reporting agency cannot reasonably confirm the appropriate proof of identity under paragraph (b)(1) of this section for the consumer or, if applicable, the consumer's representative, the consumer did not provide victim determination documentation under paragraph (b)(6)(i) of this section, or the consumer reporting agency cannot properly identify the adverse items of information under paragraph (b)(6)(ii) of this section. A consumer reporting agency may not, however, ask for information on the validity of the facts or circumstances detailed in the contents of the submitted trafficking documentation establishing the consumer is a victim of trafficking or whether the identified adverse information resulted from a severe form of trafficking in persons or sex trafficking under paragraph (b)(6) of this section.
+(ii) Timing of final determination. A consumer reporting agency must make a final determination on the consumer's submission no later than 25 business days after receiving the submission provided in paragraph (d)(1) of this section.
+(3) Final determination of the block. Upon confirming completion of the submission from the consumer under paragraph (d)(1) of this section and in accordance with the requirements under paragraph (e)(2) of this section, the consumer reporting agency must initiate or maintain the action described in paragraph (e)(1) of this section by blocking the reporting of the items of adverse information on the consumer.
+(4) Authority to decline or rescind a block. A consumer reporting agency may decline to block, or may rescind any block of, adverse items of information resulting from a severe form of trafficking in persons or sex trafficking, in accordance with the timing requirements under paragraph (e)(2)(ii) of this section, only where the consumer reporting agency cannot reasonably confirm the appropriate proof of identity under paragraph (b)(1) of this section for the consumer, and, if applicable, the consumer's representative, the consumer cannot provide documentation consisting of a victim determination under paragraph (b)(6)(i) of this section, or the consumer reporting agency cannot properly identify the adverse items of information under paragraph (b)(6)(ii) of this section. A consumer reporting agency may not, however, decline to block or rescind any block of adverse information identified by the consumer or if applicable, the consumer's representative, based on the validity of the facts or circumstances detailed in the contents of the submitted trafficking documentation as defined in paragraph (b)(6) of this section. A consumer reporting agency may decline or rescind a block only after notifying the consumer using the method of contact specified by the consumer in paragraph (b)(6)(ii)(B) of this section and attempting to resolve any deficiency in the consumer's submission as required in paragraph (e)(2) of this section.
+(f) Notification to consumer of actions taken in response to the consumer's submission-
+(1) In general. A consumer reporting agency must provide written or electronic notice to a consumer of actions performed in response to a consumer's submission no later than five business days after a final determination on a consumer's submission under paragraph (e)(3) of this section (or, if rescinding a previously applied block, five business days after rescinding under paragraph (e)(4) of this section). The consumer reporting agency must use the method of contact specified by the consumer in paragraph (b)(6)(ii)(B) of this section.
+(2) Contents. The notice must include the following:
+(i) A statement that the review of the submission is completed;
+(ii) A statement of the outcome of the submission, including the reason(s) if the consumer reporting agency declined to block the adverse information identified by the consumer, or rescinded such a block, under paragraph (e)(4) of this section;
+(iii) A consumer report, provided at no cost to the consumer, that is based upon the consumer's revised file (if applicable) as a result of the consumer's submission;
+(iv) A description of the procedure used to determine the outcome;
+(v) A method for contacting the consumer reporting agency to appeal the determination or revise the submission to cure any of the noted reasons for declining to block the adverse information identified by the consumer; and
+(vi) The web page consumers can use to submit complaints to the Consumer Financial Protection Bureau.
+(g) Record retention. For a period of seven years after the consumer's submission is received at the mailing or website address made available under paragraph (d)(1) of this section, a consumer reporting agency must retain evidence of all such submissions and compliance with this section, including the actions taken by the consumer reporting agency under paragraphs (e)(1) through (e)(3), and (f) of this section and the reasons provided under paragraph (e)(4) of this section for declining to block or rescinding any block of items of adverse information identified by the consumer.
+(h) Policies and procedures to ensure and maintain compliance. A consumer reporting agency must establish and maintain written policies and procedures reasonably designed to ensure and monitor the compliance of the consumer reporting agency and its employees with the requirements of the paragraphs in this section. These written policies and procedures must be appropriate to the nature, size, complexity, and scope of the activities of the consumer reporting agency and its employees.
+Appendix A to Part 1022 [Reserved]
+Appendix B to Part 1022-Model Notices of Furnishing Negative Information
+a. Although use of the model notices is not required, a financial institution that is subject to section 623(a)(7) of the FCRA shall be deemed to be in compliance with the notice requirement in section 623(a)(7) of the FCRA if the institution properly uses the model notices in this appendix (as applicable).
+b. A financial institution may use Model Notice B-1 if the institution provides the notice prior to furnishing negative information to a nationwide consumer reporting agency.
+c. A financial institution may use Model Notice B-2 if the institution provides the notice after furnishing negative information to a nationwide consumer reporting agency.
+d. Financial institutions may make certain changes to the language or format of the model notices without losing the safe harbor from liability provided by the model notices. The changes to the model notices may not be so extensive as to affect the substance, clarity, or meaningful sequence of the language in the model notices. Financial institutions making such extensive revisions will lose the safe harbor from liability that this appendix provides. Acceptable changes include, for example,
+1. Rearranging the order of the references to “late payment(s),” or “missed payment(s).”
+2. Pluralizing the terms “credit bureau,” “credit report,” and “account.”
+3. Specifying the particular type of account on which information may be furnished, such as “credit card account.”
+4. Rearranging in Model Notice B-1 the phrases “information about your account” and “to credit bureaus” such that it would read “We may report to credit bureaus information about your account.”
+Model Notice B-1
+We may report information about your account to credit bureaus. Late payments, missed payments, or other defaults on your account may be reflected in your credit report.
+Model Notice B-2
+We have told a credit bureau about a late payment, missed payment or other default on your account. This information may be reflected in your credit report.
+Appendix C to Part 1022-Model Forms for Opt-Out Notices
+a. Although use of the model forms is not required, use of the model forms in this appendix (as applicable) complies with the requirement in section 624 of the Act for clear, conspicuous, and concise notices.
+b. Certain changes may be made to the language or format of the model forms without losing the protection from liability afforded by use of the model forms. These changes may not be so extensive as to affect the substance, clarity, or meaningful sequence of the language in the model forms. Persons making such extensive revisions will lose the safe harbor that this appendix provides. Acceptable changes include, for example:
+1. Rearranging the order of the references to “your income,” “your account history,” and “your credit score.”
+2. Substituting other types of information for “income,” “account history,” or “credit score” for accuracy, such as “payment history,” “credit history,” “payoff status,” or “claims history.”
+3. Substituting a clearer and more accurate description of the affiliates providing or covered by the notice for phrases such as “the [ABC] group of companies,” including without limitation a statement that the entity providing the notice recently purchased the consumer's account.
+4. Substituting other types of affiliates covered by the notice for “credit card,” “insurance,” or “securities” affiliates.
+5. Omitting items that are not accurate or applicable. For example, if a person does not limit the duration of the opt-out period, the notice may omit information about the renewal notice.
+6. Adding a statement informing consumers how much time they have to opt out before shared eligibility information may be used to make solicitations to them.
+7. Adding a statement that the consumer may exercise the right to opt out at any time.
+8. Adding the following statement, if accurate: “If you previously opted out, you do not need to do so again.”
+9. Providing a place on the form for the consumer to fill in identifying information, such as his or her name and address.
+10. Adding disclosures regarding the treatment of opt-outs by joint consumers to comply with §1022.23(a)(2) of this part.
+C-1 Model Form for Initial Opt-out Notice (Single-Affiliate Notice)
+C-2 Model Form for Initial Opt-out Notice (Joint Notice)
+C-3 Model Form for Renewal Notice (Single-Affiliate Notice)
+C-4 Model Form for Renewal Notice (Joint Notice)
+C-5 Model Form for Voluntary “No Marketing” Notice
+C-1-Model Form for Initial Opt-Out Notice (Single-Affiliate Notice)-[Your Choice To Limit Marketing]/[Marketing Opt-Out]
+• [Name of Affiliate] is providing this notice.
+• [Optional: Federal law gives you the right to limit some but not all marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates.]
+• You may limit our affiliates in the [ABC] group of companies, such as our [credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that we collect and share with them. This information includes your [income], your [account history with us], and your [credit score].
+• Your choice to limit marketing offers from our affiliates will apply [until you tell us to change your choice]/[for x years from when you tell us your choice]/[for at least 5 years from when you tell us your choice]. [Include if the opt-out period expires.] Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from our affiliates for [another x years]/[at least another 5 years].
+• [Include, if applicable, in a subsequent notice, including an annual notice, for consumers who may have previously opted out.] If you have already made a choice to limit marketing offers from our affiliates, you do not need to act again until you receive the renewal notice.
+To limit marketing offers, contact us [include all that apply]:
+• By telephone: 1-(877) ###-####
+• On the Web: www.-.com
+• By mail: Check the box and complete the form below, and send the form to:
+[Company name]
+[Company address]
+-Do not allow your affiliates to use my personal information to market to me.
+C-2-Model Form for Initial Opt-Out Notice (Joint Notice)-[Your Choice To Limit Marketing]/[Marketing Opt-Out]
+• The [ABC group of companies] is providing this notice.
+• [Optional: Federal law gives you the right to limit some but not all marketing from the [ABC] companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the [ABC] companies.]
+• You may limit the [ABC] companies, such as the [ABC credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that they receive from other [ABC] companies. This information includes your [income], your [account history], and your [credit score].
+• Your choice to limit marketing offers from the [ABC] companies will apply [until you tell us to change your choice]/[for x years from when you tell us your choice]/[for at least 5 years from when you tell us your choice]. [Include if the opt-out period expires.] Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from the [ABC] companies for [another x years]/[at least another 5 years].
+• [Include, if applicable, in a subsequent notice, including an annual notice, for consumers who may have previously opted out.] If you have already made a choice to limit marketing offers from the [ABC] companies, you do not need to act again until you receive the renewal notice.
+To limit marketing offers, contact us [include all that apply]:
+• By telephone: 1-(877) ###-####
+• On the Web: www.-.com
+• By mail: Check the box and complete the form below, and send the form to:
+[Company name]
+[Company address]
+-Do not allow any company [in the ABC group of companies] to use my personal information to market to me.
+C-3-Model Form for Renewal Notice (Single-Affiliate Notice)-[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]
+• [Name of Affiliate] is providing this notice.
+• [Optional: Federal law gives you the right to limit some but not all marketing from our affiliates. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from our affiliates.]
+• You previously chose to limit our affiliates in the [ABC] group of companies, such as our [credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that we share with them. This information includes your [income], your [account history with us], and your [credit score].
+• Your choice has expired or is about to expire.
+To renew your choice to limit marketing for [x] more years, contact us [include all that apply]:
+• By telephone: 1-(877) ###-####
+• On the Web: www.-.com
+• By mail: Check the box and complete the form below, and send the form to:
+[Company name]
+[Company address]
+-Renew my choice to limit marketing for [x] more years.
+C-4-Model Form for Renewal Notice (Joint Notice)-[Renewing Your Choice To Limit Marketing]/[Renewing Your Marketing Opt-Out]
+• The [ABC group of companies] is providing this notice.
+• [Optional: Federal law gives you the right to limit some but not all marketing from the [ABC] companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the [ABC] companies.]
+• You previously chose to limit the [ABC] companies, such as the [ABC credit card, insurance, and securities] affiliates, from marketing their products or services to you based on your personal information that they receive from other ABC companies. This information includes your [income], your [account history], and your [credit score].
+• Your choice has expired or is about to expire.
+To renew your choice to limit marketing for [x] more years, contact us [include all that apply]:
+• By telephone: 1-(877) ###-####
+• On the Web: www.-.com
+• By mail: Check the box and complete the form below, and send the form to:
+[Company name]
+[Company address]
+-Renew my choice to limit marketing for [x] more years.
+C-5-Model Form for Voluntary “No Marketing” Notice-[Your Choice To Stop Marketing]
+• [Name of Affiliate] is providing this notice.
+• You may choose to stop all marketing from us and our affiliates.
+• [Your choice to stop marketing from us and our affiliates will apply until you tell us to change your choice.]
+To stop all marketing, contact us [include all that apply]:
+• By telephone: 1 (877) ###-####
+• On the Web: www.-.com
+• By mail: Check the box and complete the form below, and send the form to:
+[Company name]
+[Company address]
+-Do not market to me.
+Appendix D to Part 1022-Model Forms for Firm Offers of Credit or Insurance
+In order to comply with §1022.54, the following model notices may be used:
+(a) English language model notice-
+(1) Short notice.
+(2) Long notice.
+(b) Spanish language model notice-
+(1) Short notice.
+(2) Long notice.
+Appendix E to Part 1022-Interagency Guidelines Concerning the Accuracy and Integrity of Information Furnished to Consumer Reporting Agencies
+The Bureau encourages voluntary furnishing of information to consumer reporting agencies. Section 1022.42 of this part requires each furnisher to establish and implement reasonable written policies and procedures concerning the accuracy and integrity of the information it furnishes to consumer reporting agencies. Under §1022.42(b) of this part, a furnisher must consider the guidelines set forth below in developing its policies and procedures. In establishing these policies and procedures, a furnisher may include any of its existing policies and procedures that are relevant and appropriate. Section 1022.42(c) requires each furnisher to review its policies and procedures periodically and update them as necessary to ensure their continued effectiveness.
+I. Nature, Scope, and Objectives of Policies and Procedures
+(a) Nature and Scope. Section 1022.42(a) of this part requires that a furnisher's policies and procedures be appropriate to the nature, size, complexity, and scope of the furnisher's activities. In developing its policies and procedures, a furnisher should consider, for example:
+(1) The types of business activities in which the furnisher engages;
+(2) The nature and frequency of the information the furnisher provides to consumer reporting agencies; and
+(3) The technology used by the furnisher to furnish information to consumer reporting agencies.
+(b) Objectives. A furnisher's policies and procedures should be reasonably designed to promote the following objectives:
+(1) To furnish information about accounts or other relationships with a consumer that is accurate, such that the furnished information:
+(i) Identifies the appropriate consumer;
+(ii) Reflects the terms of and liability for those accounts or other relationships; and
+(iii) Reflects the consumer's performance and other conduct with respect to the account or other relationship;
+(2) To furnish information about accounts or other relationships with a consumer that has integrity, such that the furnished information:
+(i) Is substantiated by the furnisher's records at the time it is furnished;
+(ii) Is furnished in a form and manner that is designed to minimize the likelihood that the information may be incorrectly reflected in a consumer report; thus, the furnished information should:
+(A) Include appropriate identifying information about the consumer to whom it pertains; and
+(B) Be furnished in a standardized and clearly understandable form and manner and with a date specifying the time period to which the information pertains; and
+(iii) Includes the credit limit, if applicable and in the furnisher's possession;
+(3) To conduct reasonable investigations of consumer disputes and take appropriate actions based on the outcome of such investigations; and
+(4) To update the information it furnishes as necessary to reflect the current status of the consumer's account or other relationship, including, for example:
+(i) Any transfer of an account (e.g., by sale or assignment for collection) to a third party; and
+(ii) Any cure of the consumer's failure to abide by the terms of the account or other relationship.
+II. Establishing and Implementing Policies and Procedures
+In establishing and implementing its policies and procedures, a furnisher should:
+(a) Identify practices or activities of the furnisher that can compromise the accuracy or integrity of information furnished to consumer reporting agencies, such as by:
+(1) Reviewing its existing practices and activities, including the technological means and other methods it uses to furnish information to consumer reporting agencies and the frequency and timing of its furnishing of information;
+(2) Reviewing its historical records relating to accuracy or integrity or to disputes; reviewing other information relating to the accuracy or integrity of information provided by the furnisher to consumer reporting agencies; and considering the types of errors, omissions, or other problems that may have affected the accuracy or integrity of information it has furnished about consumers to consumer reporting agencies;
+(3) Considering any feedback received from consumer reporting agencies, consumers, or other appropriate parties;
+(4) Obtaining feedback from the furnisher's staff; and
+(5) Considering the potential impact of the furnisher's policies and procedures on consumers.
+(b) Evaluate the effectiveness of existing policies and procedures of the furnisher regarding the accuracy and integrity of information furnished to consumer reporting agencies; consider whether new, additional, or different policies and procedures are necessary; and consider whether implementation of existing policies and procedures should be modified to enhance the accuracy and integrity of information about consumers furnished to consumer reporting agencies.
+(c) Evaluate the effectiveness of specific methods (including technological means) the furnisher uses to provide information to consumer reporting agencies; how those methods may affect the accuracy and integrity of the information it provides to consumer reporting agencies; and whether new, additional, or different methods (including technological means) should be used to provide information to consumer reporting agencies to enhance the accuracy and integrity of that information.
+III. Specific Components of Policies and Procedures
+In developing its policies and procedures, a furnisher should address the following, as appropriate:
+(a) Establishing and implementing a system for furnishing information about consumers to consumer reporting agencies that is appropriate to the nature, size, complexity, and scope of the furnisher's business operations.
+(b) Using standard data reporting formats and standard procedures for compiling and furnishing data, where feasible, such as the electronic transmission of information about consumers to consumer reporting agencies.
+(c) Maintaining records for a reasonable period of time, not less than any applicable recordkeeping requirement, in order to substantiate the accuracy of any information about consumers it furnishes that is subject to a direct dispute.
+(d) Establishing and implementing appropriate internal controls regarding the accuracy and integrity of information about consumers furnished to consumer reporting agencies, such as by implementing standard procedures and verifying random samples of information provided to consumer reporting agencies.
+(e) Training staff that participates in activities related to the furnishing of information about consumers to consumer reporting agencies to implement the policies and procedures.
+(f) Providing for appropriate and effective oversight of relevant service providers whose activities may affect the accuracy or integrity of information about consumers furnished to consumer reporting agencies to ensure compliance with the policies and procedures.
+(g) Furnishing information about consumers to consumer reporting agencies following mergers, portfolio acquisitions or sales, or other acquisitions or transfers of accounts or other obligations in a manner that prevents re-aging of information, duplicative reporting, or other problems that may similarly affect the accuracy or integrity of the information furnished.
+(h) Deleting, updating, and correcting information in the furnisher's records, as appropriate, to avoid furnishing inaccurate information.
+(i) Conducting reasonable investigations of disputes.
+(j) Designing technological and other means of communication with consumer reporting agencies to prevent duplicative reporting of accounts, erroneous association of information with the wrong consumer(s), and other occurrences that may compromise the accuracy or integrity of information provided to consumer reporting agencies.
+(k) Providing consumer reporting agencies with sufficient identifying information in the furnisher's possession about each consumer about whom information is furnished to enable the consumer reporting agency properly to identify the consumer.
+(l) Conducting a periodic evaluation of its own practices, consumer reporting agency practices of which the furnisher is aware, investigations of disputed information, corrections of inaccurate information, means of communication, and other factors that may affect the accuracy or integrity of information furnished to consumer reporting agencies.
+(m) Complying with applicable requirements under the FCRA and its implementing regulations.
+Appendixes F-G to Part 1022 [Reserved]
+Appendix H to Part 1022-Model Forms for Risk-Based Pricing and Credit Score Disclosure Exception Notices
+1. This appendix contains four model forms for risk-based pricing notices and three model forms for use in connection with the credit score disclosure exceptions. Each of the model forms is designated for use in a particular set of circumstances as indicated by the title of that model form.
+2. Model form H-1 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is not used in setting the material terms of credit. Model form H-2 is for risk-based pricing notices given in connection with account review if a credit score is not used in increasing the annual percentage rate. Model form H-3 is for use in connection with the credit score disclosure exception for loans secured by residential real property. Model form H-4 is for use in connection with the credit score disclosure exception for loans that are not secured by residential real property. Model form H-5 is for use in connection with the credit score disclosure exception when no credit score is available for a consumer. Model form H-6 is for use in complying with the general risk-based pricing notice requirements in Sec. 1022.72 if a credit score is used in setting the material terms of credit. Model form H-7 is for risk-based pricing notices given in connection with account review if a credit score is used in increasing the annual percentage rate. All forms contained in this appendix are models; their use is optional.
+3. A person may change the forms by rearranging the format or by making technical modifications to the language of the forms, in each case without modifying the substance of the disclosures. Any such rearrangement or modification of the language of the model forms may not be so extensive as to materially affect the substance, clarity, comprehensibility, or meaningful sequence of the forms. Persons making revisions with that effect will lose the benefit of the safe harbor for appropriate use of appendix H model forms. A person is not required to conduct consumer testing when rearranging the format of the model forms.
+a. Acceptable changes include, for example:
+i. Corrections or updates to telephone numbers, mailing addresses, or Web site addresses that may change over time.
+ii. The addition of graphics or icons, such as the person's corporate logo.
+iii. Alteration of the shading or color contained in the model forms.
+iv. Use of a different form of graphical presentation to depict the distribution of credit scores.
+v. Substitution of the words “credit” and “creditor” or “finance” and “finance company” for the terms “loan” and “lender.”
+vi. Including pre-printed lists of the sources of consumer reports or consumer reporting agencies in a “check-the-box” format.
+vii. Including the name of the consumer, transaction identification numbers, a date, and other information that will assist in identifying the transaction to which the form pertains.
+viii. Including the name of an agent, such as an auto dealer or other party, when providing the “Name of the Entity Providing the Notice.”
+ix. Until January 1, 2013, substituting “For more information about credit reports and your rights under Federal law, visit the Federal Reserve Board's Web site at www.federalreserve.gov, or the Federal Trade Commission's Web site at www.ftc.gov.” for “For more information about credit reports and your rights under Federal law, visit the Consumer Financial Protection Bureau's Web site at www.consumerfinance.gov/learnmore.”
+b. Unacceptable changes include, for example:
+i. Providing model forms on register receipts or interspersed with other disclosures.
+ii. Eliminating empty lines and extra spaces between sentences within the same section.
+4. If a person uses an appropriate appendix H model form, or modifies a form in accordance with the above instructions, that person shall be deemed to be acting in compliance with the provisions of §1022.73 or §1022.74, as applicable, of this part. It is intended that appropriate use of Model Form H-3 also will comply with the disclosure that may be required under section 609(g) of the FCRA. Optional language in model forms H-6 and H-7 may be used to direct the consumer to the entity (which may be a consumer reporting agency or the creditor itself, for a proprietary score that meets the definition of a credit score) that provided the credit score for any questions about the credit score, along with the entity's contact information. Creditors may use or not use the additional language without losing the safe harbor, since the language is optional.
+H-1 Model form for risk-based pricing notice.
+H-2 Model form for account review risk-based pricing notice.
+H-3 Model form for credit score disclosure exception for credit secured by one to four units of residential real property.
+H-4 Model form for credit score disclosure exception for loans not secured by residential real property.
+H-5 Model form for credit score disclosure exception for loans where credit score is not available.
+H-6 Model form for risk-based pricing notice with credit score information.
+H-7 Model form for account review risk-based pricing notice with credit score information.
+Appendix I to Part 1022-Summary of Consumer Identity Theft Rights
+The prescribed form for this summary is a disclosure that is substantially similar to the Bureau's model summary with all information clearly and prominently displayed. A summary should accurately reflect changes to those items that may change over time (such as telephone numbers) to remain in compliance. Translations of this summary will be in compliance with the Bureau's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.
+Appendix J to Part 1022 [Reserved]
+Appendix K to Part 1022-Summary of Consumer Rights
+The prescribed form for this summary is a disclosure that is substantially similar to the Bureau's model summary with all information clearly and prominently displayed. The list of Federal regulators that is included in the Bureau's prescribed summary may be provided separately so long as this is done in a clear and conspicuous way. A summary should accurately reflect changes to those items that may change over time (e.g., dollar amounts, or telephone numbers and addresses of Federal agencies) to remain in compliance. Translations of this summary will be in compliance with the Bureau's prescribed model, provided that the translation is accurate and that it is provided in a language used by the recipient consumer.
+Appendix L to Part 1022-Standardized Form for Requesting Annual File Disclosures
+Appendix M to Part 1022-Notice of Furnisher Responsibilities
+The prescribed form for this disclosure is a separate document that is substantially similar to the Bureau's model notice with all information clearly and prominently displayed. Consumer reporting agencies may limit the disclosure to only those items that they know are relevant to the furnisher that will receive the notice.
+Appendix N to Part 1022-Notice of User Responsibilities
+The prescribed form for this disclosure is a separate document that is substantially similar to the Bureau's notice with all information clearly and prominently displayed. Consumer reporting agencies may limit the disclosure to only those items that they know are relevant to the user that will receive the notice.
+Appendix O to Part 1022-Reasonable Charges for Certain Disclosures
+Section 612(f) of the FCRA, 15 U.S.C. 1681j(f), directs the Bureau to increase the maximum allowable charge a consumer reporting agency may impose for making a disclosure to the consumer pursuant to section 609 of the FCRA, 15 U.S.C. 1681g, on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents. The Bureau will publish notice of the maximum allowable charge each year by amending this appendix. For calendar year 2026, the maximum allowable charge is $16.00. For historical purposes:
+1. For calendar year 2012, the maximum allowable disclosure charge was $11.50.
+2. For calendar year 2013, the maximum allowable disclosure charge was $11.50.
+3. For calendar year 2014, the maximum allowable disclosure charge was $11.50.
+4. For calendar year 2015, the maximum allowable disclosure charge was $12.00.
+5. For calendar year 2016, the maximum allowable disclosure charge was $12.00.
+6. For calendar year 2017, the maximum allowable disclosure charge was $12.00.
+7. For calendar year 2018, the maximum allowable disclosure charge was $12.00.
+8. For calendar year 2019, the maximum allowable disclosure charge was $12.50.
+9. For calendar year 2020, the maximum allowable disclosure charge was $12.50.
+10. For calendar year 2021, the maximum allowable disclosure charge was $13.00.
+11. For calendar year 2022, the maximum allowable disclosure charge was $13.50.
+12. For calendar year 2023, the maximum allowable disclosure charge was $14.50.
+13. For calendar year 2024, the maximum allowable disclosure charge was $15.50.
+14. For calendar year 2025, the maximum allowable disclosure charge was $15.50.
+15. For calendar year 2026, the maximum allowable disclosure charge is $16.00.
